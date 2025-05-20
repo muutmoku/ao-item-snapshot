@@ -20,8 +20,8 @@ https://muutmoku.github.io/ao-item-snapshot/
 
 ```bash
 npm install
-node scripts/fetchItems.js
-node generateIndexes.js
+npm run fetch
+npm run build
 ```
 
 ## 📁 Output structure
