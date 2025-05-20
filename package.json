@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "fetch": "node scripts/fetchItems.js"
+    "fetch": "node scripts/fetchItems.js",
+    "build": "node scripts/generateIndexes.js"
   },
   "repository": {
     "type": "git",
@@ -18,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/muutmoku/ao-item-snapshot/issues"
   },
-  "homepage": "https://github.com/muutmoku/ao-item-snapshot#readme"
+  "homepage": "https://github.com/muutmoku/ao-item-snapshot#readme",
+  "devDependencies": {
+    "directory-index-html": "^2.1.0"
+  }
 }

@@ -24,6 +24,9 @@ jobs:
       - name: Run scraping script
         run: npm run fetch
 
+      - name: Build pages
+        run: npm run build
+
       - name: Commit and push updates
         run: |
           git config user.name github-actions
