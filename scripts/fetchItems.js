@@ -11,8 +11,14 @@ const fetchJSON = (url) => new Promise((resolve, reject) => {
   https.get(url, (res) => {
     let data = '';
     res.on('data', chunk => data += chunk);
-    res.on('end', () => resolve(JSON.parse(data)));
-  }).on('error', reject);
+    res.on('end', () => {
+      console.log(`Fetched URL: ${url} [${res.statusCode}]`);
+      resolve(JSON.parse(data));
+    });
+  }).on('error', (err) => {
+    console.error(`Failed to fetch URL: ${url}`, err);
+    reject(err);
+  });
 });
 
 const fetchAllItemsForSlot = async (slot) => {
@@ -22,6 +28,7 @@ const fetchAllItemsForSlot = async (slot) => {
 
   while (true) {
     const url = `https://gameinfo.albiononline.com/api/gameinfo/items/search?slot=${slot}&limit=${limit}&offset=${offset}`;
+    console.log(`Fetching slot: ${slot} | offset: ${offset}`);
     const data = await fetchJSON(url);
     if (!data.length) break;
     allItems = allItems.concat(data);
@@ -39,19 +46,21 @@ const saveJSON = (dir, slot, data) => {
 
 const run = async () => {
   const today = new Date();
-  const year = today.getFullYear();
-  const week = Math.ceil((((today - new Date(year, 0, 1)) / 86400000) + today.getDay() + 1) / 7);
-  const datedDir = path.join(__dirname, '../public/items', `${year}-${week.toString().padStart(2, '0')}`);
-  const latestDir = path.join(__dirname, '../public/items', 'latest');
+  const yyyy = today.getFullYear();
+  const mm = String(today.getMonth() + 1).padStart(2, '0');
+  const dd = String(today.getDate()).padStart(2, '0');
+  const datedDir = path.join(__dirname, '../public/data', yyyy.toString(), mm, dd);
+  const latestDir = path.join(__dirname, '../public/data', 'latest');
 
   for (const slot of slots) {
     try {
+      console.log(`\n=== Processing slot: ${slot} ===`);
       const data = await fetchAllItemsForSlot(slot);
       saveJSON(datedDir, slot, data);
       saveJSON(latestDir, slot, data);
-      console.log(`Saved: ${slot}`);
+      console.log(`Saved ${data.length} items for slot: ${slot}`);
     } catch (e) {
-      console.error(`Error fetching ${slot}:`, e);
+      console.error(`Error processing slot ${slot}:`, e);
     }
   }
 };
