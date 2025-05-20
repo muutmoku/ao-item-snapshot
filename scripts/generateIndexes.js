@@ -22,9 +22,11 @@ function generateIndex(dirPath, relativePath) {
     });
 
   const url = BASE_URL + (relativePath ? relativePath.replace(/\\/g, '/') + '/' : '');
-  const html = toHTML(url, entries, {
-    showParentLink: !isRoot
-  });
+  const htmlRaw = toHTML(url, entries);
+
+  const html = isRoot
+    ? htmlRaw.replace('<a href="../">../</a>\n', '')
+    : htmlRaw;
 
   fs.writeFileSync(path.join(dirPath, 'index.html'), html);
 }
