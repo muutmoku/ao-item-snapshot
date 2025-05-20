@@ -3,12 +3,12 @@ const path = require('path');
 const toHTML = require('directory-index-html');
 
 const BASE_URL = 'https://muutmoku.github.io/ao-item-snapshot/';
-
 const ROOT_DIR = path.join(__dirname, '..', 'docs');
-
 const HIDDEN_FILES = ['index.html'];
 
-function generateIndex(dirPath, relativePath, showParent) {
+function generateIndex(dirPath, relativePath) {
+  const isRoot = path.resolve(dirPath) === path.resolve(ROOT_DIR);
+
   let entries = fs.readdirSync(dirPath)
     .filter(name => !HIDDEN_FILES.includes(name))
     .map(name => {
@@ -23,16 +23,14 @@ function generateIndex(dirPath, relativePath, showParent) {
 
   const url = BASE_URL + (relativePath ? relativePath.replace(/\\/g, '/') + '/' : '');
   const html = toHTML(url, entries, {
-    showParentLink: showParent,
+    showParentLink: !isRoot
   });
 
   fs.writeFileSync(path.join(dirPath, 'index.html'), html);
 }
 
 function walkAndGenerate(currentPath, relativePath = '') {
-  const isRoot = path.resolve(currentPath) === path.resolve(ROOT_DIR);
-  generateIndex(currentPath, relativePath, !isRoot);
-
+  generateIndex(currentPath, relativePath);
   fs.readdirSync(currentPath).forEach(name => {
     const fullPath = path.join(currentPath, name);
     if (fs.statSync(fullPath).isDirectory()) {
