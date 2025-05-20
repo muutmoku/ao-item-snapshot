@@ -1,0 +1,22 @@
+{
+  "name": "ao-item-snapshot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "fetch": "node scripts/fetchItems.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muutmoku/ao-item-snapshot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/muutmoku/ao-item-snapshot/issues"
+  },
+  "homepage": "https://github.com/muutmoku/ao-item-snapshot#readme"
+}
