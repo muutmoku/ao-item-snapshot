@@ -2,7 +2,9 @@ const fs = require('fs');
 const path = require('path');
 const toHTML = require('directory-index-html');
 
-function generateIndex(dirPath) {
+const BASE_URL = 'https://muutmoku.github.io/ao-item-snapshot/';
+
+function generateIndex(dirPath, relativePath) {
   const entries = fs.readdirSync(dirPath).map(name => {
     const fullPath = path.join(dirPath, name);
     const stats = fs.statSync(fullPath);
@@ -13,18 +15,19 @@ function generateIndex(dirPath) {
     };
   });
 
-  const html = toHTML(dirPath, entries);
+  const fullURL = BASE_URL + relativePath.replace(/\\/g, '/');
+  const html = toHTML(fullURL, entries);
   fs.writeFileSync(path.join(dirPath, 'index.html'), html);
 }
 
-function walkDir(currentPath) {
-  generateIndex(currentPath);
+function walkAndGenerate(currentPath, relativePath = '') {
+  generateIndex(currentPath, relativePath);
   fs.readdirSync(currentPath).forEach(name => {
     const fullPath = path.join(currentPath, name);
     if (fs.statSync(fullPath).isDirectory()) {
-      walkDir(fullPath);
+      walkAndGenerate(fullPath, path.join(relativePath, name));
     }
   });
 }
 
-walkDir(path.join(__dirname, '..', 'docs'));
+walkAndGenerate(path.join(__dirname, '..', 'docs'));
