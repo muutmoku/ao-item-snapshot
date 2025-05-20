@@ -22,7 +22,7 @@ jobs:
         run: npm install
 
       - name: Run scraping script
-        run: node scripts/fetchItems.js
+        run: npm run fetch
 
       - name: Commit and push updates
         run: |
