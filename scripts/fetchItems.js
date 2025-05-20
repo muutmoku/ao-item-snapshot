@@ -49,8 +49,8 @@ const run = async () => {
   const yyyy = today.getFullYear();
   const mm = String(today.getMonth() + 1).padStart(2, '0');
   const dd = String(today.getDate()).padStart(2, '0');
-  const datedDir = path.join(__dirname, '../public/data', yyyy.toString(), mm, dd);
-  const latestDir = path.join(__dirname, '../public/data', 'latest');
+  const datedDir = path.join(__dirname, '../docs/data', yyyy.toString(), mm, dd);
+  const latestDir = path.join(__dirname, '../docs/data', 'latest');
 
   for (const slot of slots) {
     try {
