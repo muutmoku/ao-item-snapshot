@@ -27,4 +27,4 @@ function walkDir(currentPath) {
   });
 }
 
-walkDir(path.join(__dirname, '..', 'docs', 'data'));
+walkDir(path.join(__dirname, '..', 'docs'));
