@@ -1636,7 +1636,7 @@
             "DE-DE": "Trank des Riesenwuchses",
             "AR-SA": "جرعة تضخيم",
             "KO-KR": "거대화 포션",
-            "PT-BR": "Poção de Crescimento",
+            "PT-BR": "Poç��o de Crescimento",
             "ZH-TW": "巨大化藥水",
             "ES-ES": "Poción de gigantismo",
             "ZH-CN": "巨化药水"
@@ -2136,7 +2136,7 @@
             "PT-BR": "Tornado Engarrafado",
             "ZH-TW": "瓶中龍捲",
             "ES-ES": "Tornado en botella",
-            "ZH-CN": "瓶中龙��"
+            "ZH-CN": "瓶中��卷"
           },
           "localizedDescriptions": {
             "IT-IT": "Lanci la pozione sulla posizione bersaglio, rilasciando un tornado con un [other]raggio di (A)[/other] che dura [other](B)[/other].\n[cc]Respinge[/cc] tutti i nemici che lo toccano di [cc](C)[/cc] (ignora la Resistenza agli effetti di Controllo sulla Folla).",
@@ -5058,7 +5058,7 @@
       "EN-US": "Tornado in a Bottle",
       "DE-DE": "Tornado in der Flasche",
       "AR-SA": "زجاجة إعصار",
-      "KO-KR": "병 속의 폭풍",
+      "KO-KR": "��� 속의 폭풍",
       "PT-BR": "Tornado Engarrafado",
       "ZH-TW": "瓶中龍捲",
       "ES-ES": "Tornado en botella",
@@ -5568,7 +5568,7 @@
             "TR-TR": "Hedef konuma iksir atıp [other](A)[/other] boyunca aktif kalan [other](B) yarıçaplı[/other] bir Cehennem Ateşi gölü oluşturur.\nHer [dmg](C)[/dmg] [dmg](D) gerçek hasar[/dmg] (oyunculara karşı) / [dmg](E) gerçek hasar[/dmg] (diğer düşmanlara karşı) verir.\n\nİksiri attığında gölün etrafındaki [other](F) yarıçaplı[/other] alanda bulunan [other]tüm müttefik gölleri[/other] yok olur.",
             "ID-ID": "Lemparkan ramuan ke posisi yang ditarget, menciptakan genangan Api Neraka dengan [other](A) radius[/other] berlangsung selama [other](B)[/other].\nMemberikan [dmg](C) damage murni[/dmg] (vs. pemain) / [dmg](D) damage murni[/dmg] (vs. mob) setiap [dmg](E)[/dmg].\n\nMelempar ramuan akan menghilangkan [other]semua genangan sekutu[/other] dalam [other](F) radius[/other] di sekitar genanganmu.",
             "FR-FR": "Lancez la potion sur l'emplacement ciblé pour créer une flaque de feu infernal d'un [other]rayon de (A)[/other] qui dure [other](B)[/other].\nInflige [dmg](C) dégâts bruts[/dmg] (contre les joueurs) / [dmg](D) dégâts bruts[/dmg] (contre les monstres) toutes les [dmg](E)[/dmg].\n\nLancer la potion va dissoudre [other]toutes les flaques des alliées[/other] dans un [other]rayon de (F)[/other] autour de votre flaque.",
-            "JA-JP": "狙った位置にポーションを���げつけ、[other](A)[/other]持続する[other](B)半径[/other]の獄炎の水たまりを作り出す。\n[dmg](C)[/dmg]毎に[dmg](D)真のダメージ[/dmg](対プレイヤー)/[dmg](E)真のダメージ[/dmg](対モブ)を与える。\n\nポーションを投げると、自分の水たまりを中心とした[other](F)半径[/other]内の[other]すべての味方の水たまり[/other]を溶かす。",
+            "JA-JP": "狙った位置にポーションを投げつけ、[other](A)[/other]持続する[other](B)半径[/other]の獄炎の水たまりを作り出す。\n[dmg](C)[/dmg]毎に[dmg](D)真のダメージ[/dmg](対プレイヤー)/[dmg](E)真のダメージ[/dmg](対モブ)を与える。\n\nポーションを投げると、自分の水たまりを中心とした[other](F)半径[/other]内の[other]すべての味方の水たまり[/other]を溶かす。",
             "EN-US": "Throw the potion at the targeted position, creating a puddle of Hellfire with a [other](A) radius[/other] lasting [other](B)[/other].\nDeals [dmg](C) true damage[/dmg] (vs. players) / [dmg](D) true damage[/dmg] (vs. mobs) every [dmg](E)[/dmg].\n\nThrowing the potion will dissolve [other]all ally puddles[/other] in a [other](F) radius[/other] around your puddle.",
             "DE-DE": "Wirf den Trank auf den anvisierten Punkt, dies erzeugt dort für [other](A)[/other]eine Pfütze aus Höllenfeuer mit [other](B) Radius[/other].\nVerursacht alle [dmg](C)[/dmg] [dmg](D) echten Schaden[/dmg] (bei Spielern) / [dmg](E) echten Schaden[/dmg] (bei Mobs).\n\nDas Werfen dieser Flasche löst [other]alle anderen Pfützen von Alliierten[/other] in [other](F) Radius[/other] um deine Pfütze auf.",
             "AR-SA": "إلقاء الجرعة في الموقع المستهدف ينشئ بركة من نار الجحيم في [other]محيط (A)[/other] وتستمر لمدة [other](B)[/other].\nتلحق [dmg](C) من الضرر الفعلي[/dmg] (ضد اللاعبين) / [dmg](D) من الضرر الفعلي[/dmg] (ضد الغرماء) كل [dmg](E)[/dmg].\n\nسيؤدي إلقاء الجرعة إلى تلاشي [other]كل برك الحلفاء[/other] في [other]محيط (F)[/other] حول بركتك.",

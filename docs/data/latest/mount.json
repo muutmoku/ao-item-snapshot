@@ -622,7 +622,7 @@
     "passiveSlots": {},
     "localizedNames": {
       "IT-IT": "Cinghiale feroce spettrale",
-      "RU-RU": "Призрачный лютокабан",
+      "RU-RU": "Призрачный лют��кабан",
       "PL-PL": "Widmowy Dzik Straszny",
       "TR-TR": "Tayf Azılı Yaban Domuzu",
       "ID-ID": "Direboar Momok",
@@ -648,7 +648,7 @@
       "EN-US": "Adventurer's Challenge Reward - Neither burden nor death can stop this beast, which walks in two worlds at once.",
       "DE-DE": "Belohnung der Abenteurerherausforderung - Weder Last noch Tod können dieses Biest stoppen, denn es bewegt sich in zwei Welten zugleich.",
       "AR-SA": "مكافأة تحدي المغامرين - لا الأحمال ولا الموت يمكنهما أن يوقفا هذا الوحش الذي يسير في عالمين في آن واحد.",
-      "KO-KR": "모험가 챌린지 보상 - 고통이나 죽음도 두 세계에 존재하는 이 괴물을 막을 순 없습니다.",
+      "KO-KR": "모험가 챌린지 보상 - 고통���나 죽음도 두 세계에 존재하는 이 괴물을 막을 순 없습니다.",
       "PT-BR": "Recompensa de Desafio do Aventureiro - Nem o fardo nem a morte podem parar essa besta, que anda sobre dois mundos ao mesmo tempo.",
       "ZH-TW": "冒險者挑戰獎勵 - 重物與死亡都無法阻止這頭遊走於陰陽兩界的野獸。",
       "ES-ES": "Recompensa del Desafío de aventurero - Ni la carga ni la muerte pueden parar esta bestia, que anda sobre dos mundos al mismo tiempo.",
@@ -3601,7 +3601,7 @@
       "JA-JP": "秘密の儀式により、古の騎士の騎獣の魂が、生贄にされた馬の冷たい死骸に命を吹き込みました。忠実かつ従順ではありますが、その容貌は敵を恐怖に陥れます。",
       "EN-US": "Secret rituals allow the spirit of an ancient knight's mount to animate the cooling corpse of a sacrificial horse. Loyal and obedient, its appearance nevertheless strikes fear into its foes.",
       "DE-DE": "Durch geheime Rituale kann der Geist des Reittiers eines uralten Ritters dem erkaltenden Körper eines Opferpferdes Leben einhauchen. Dem Reiter treu und ergeben, erfüllt die Erscheinung des Pferdes die Herzen seiner Feinde mit Furcht.",
-      "AR-SA": "الطقوس السرية تحرر روح حصان يعود لفارس قديم لتحل في جثة مت��مدة لحصان قربان. ورغم أنه مخلص ومطيع، فإن ظهوره يدب الخوف في أعدائه.",
+      "AR-SA": "الطقوس السرية تحرر روح حصان يعود لفارس قديم لتحل في جثة متجمدة لحصان قربان. ورغم أنه مخلص ومطيع، فإن ظهوره يدب الخوف في أعدائه.",
       "KO-KR": "숨겨진 의식을 통해 고대의 기사가 타던 말의 영혼을 제물로 바쳐진 말의 사체에 빙의시켜 만듭니다. 충성스럽고 순종적이지만, 그 외모를 본 적들은 공포에 떨게 됩니다.",
       "PT-BR": "Rituais secretos revivem o espírito de uma antiga montaria de cavaleiros no cadáver gelado de um cavalo sacrificado. Leal e obediente, a aparição desse cavalo sempre incute medo aos inimigos.",
       "ZH-TW": "透過祕密儀式召喚的古代騎士坐騎靈魂，附身於獻祭馬匹逐漸冰冷的遺體，藉此重獲新生。忠心且順從，不過牠的外觀依然能令敵人心生恐懼。",
@@ -6228,7 +6228,7 @@
     },
     "localizedDescriptions": {
       "IT-IT": "I buoi di Albion sono tenaci e resistenti abbastanza da trasportare grandi quantità di merci, tuttavia non sono veloci quanto i cavalli del continente.",
-      "RU-RU": "Быки спосо��ны перевозить большое количество товаров, однако движутся медленнее лошадей.",
+      "RU-RU": "Быки способны перевозить большое количество товаров, однако движутся медленнее лошадей.",
       "PL-PL": "Woły są często używane do przewożenia większych ilości przedmiotów w Albionie. Są powolne, ale niełatwo je zatrzymać.",
       "TR-TR": "Albion öküzleri oldukça çok miktarda yük taşıyabilecek kadar dayanıklıdır ancak hız konusunda kıtanın atlarına yetişemezler.",
       "ID-ID": "Lembu Albion sangat tangguh, dan cukup kuat untuk membawa barang dalam jumlah besar, tapi tak bisa menandingi kecepatan kuda benua.",
@@ -6560,7 +6560,7 @@
       "PT-BR": "Montaria de Batalha - Aliado confiável que espalha cura e dá suporte aos lançadores de um exército. Não gosta de ser instigado.",
       "ZH-TW": "戰爭坐騎 - 可靠的盟友，能進行治療並協助軍隊中的施法者。但不喜歡被叫醒。",
       "ES-ES": "Montura de batalla - Aliado confiable que extiende la curación y apoya a los atacantes del ejército. No le gusta que lo despierten.",
-      "ZH-CN": "战斗坐骑 - 可靠的同伴，可进行治疗，以及��军队的技能施放玩家提供支援，但它不喜欢被叫醒。"
+      "ZH-CN": "战斗坐骑 - 可靠的同伴，可进行治疗，以��为军队的技能施放玩家提供支援，但它不喜欢被叫醒。"
     },
     "slotType": "mount",
     "unlockedToEquip": null,
