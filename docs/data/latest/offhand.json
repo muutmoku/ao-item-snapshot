@@ -1908,7 +1908,7 @@
     "passiveSlots": {},
     "localizedNames": {
       "IT-IT": "Lume della cripta del sapiente",
-      "RU-RU": "Могильная свеча (знаток)",
+      "RU-RU": "Могильн��я свеча (знаток)",
       "PL-PL": "Świeca Grobowa Adepta",
       "TR-TR": "Ehil Kabir Mumu",
       "ID-ID": "Lilin Rubanah Mahir",
@@ -6696,7 +6696,7 @@
       "EN-US": "Equipment Item",
       "DE-DE": "Ausrüstungsgegenstand",
       "AR-SA": "عنصر معدات",
-      "KO-KR": "장비 아이템",
+      "KO-KR": "장비 아���템",
       "PT-BR": "Item de Equipamento",
       "ZH-TW": "裝備物品",
       "ES-ES": "Objeto de equipo",
@@ -7649,9 +7649,9 @@
       "AR-SA": "عنصر معدات",
       "KO-KR": "장비 아이템",
       "PT-BR": "Item de Equipamento",
-      "ZH-TW": "裝���物品",
+      "ZH-TW": "裝備物品",
       "ES-ES": "Objeto de equipo",
-      "ZH-CN": "装备物品"
+      "ZH-CN": "���备物品"
     },
     "slotType": "offhand",
     "physicalAttackDamageBonus": 0,

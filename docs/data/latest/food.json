@@ -1965,7 +1965,7 @@
             "AR-SA": "تزيد من [buff]سرعة التصنيع[/buff] بمقدار [buff](A)[/buff] و[buff]جودة التصنيع[/buff] بمقدار [buff](B)[/buff] لمدة [buff](C)[/buff].\nيمكن الحصول على [other](D) من نقاط خبرة الصيد[/other].",
             "KO-KR": "[buff](A)[/buff] 동안 [buff]제작 속도[/buff]를 [buff](B)[/buff]만큼, [buff]제작 품질[/buff]을 [buff](C)[/buff]만큼 증가시킵니다.\n[other](D)의 낚시 명성[/other]을 얻습니다.",
             "PT-BR": "Aumenta sua [buff]Velocidade de Fabricação[/buff] e [buff]Qualidade de Fabricação[/buff] em [buff](A)[/buff] por [buff](B)[/buff].\nGanha [other](C) de Fama de Pesca[/other].",
-            "ZH-TW": "使自身[buff]製作速度[/buff]增加[buff](A)[/buff]、[buff]製作品質[/buff]增加[buff](B)[/buff]，持續[buff](C)[/buff]。\n獲得[other](D)點釣魚聲望[/other]。",
+            "ZH-TW": "使自身[buff]製作速度[/buff]增加[buff](A)[/buff]、[buff]製作品��[/buff]增加[buff](B)[/buff]，持續[buff](C)[/buff]。\n獲得[other](D)點釣魚聲望[/other]。",
             "ES-ES": "Incrementa tu [buff]velocidad de fabricación[/buff] en [buff](A)[/buff] y la [buff]calidad de fabricación[/buff] en [buff](B)[/buff] por [buff](C)[/buff].\nGana [other](D) de fama de pescador[/other].",
             "ZH-CN": "你的[buff]制造速度[/buff]提高[buff](A)[/buff]，[buff]制造品质[/buff]提高[buff](B)[/buff]，持续[buff](C)[/buff]。\n获得[other](D)钓鱼声望[/other]。"
           },
@@ -5065,7 +5065,7 @@
             "EN-US": "Increases your [buff]Max Health[/buff] by [buff](A)[/buff].\nWhenever you [other]deal damage[/other], [heal]steal (B)[/heal] of the [heal]Health[/heal] the enemy has [heal]lost[/heal] for the next [other](C)[/other].",
             "DE-DE": "Steigert dein [buff]maximales Leben[/buff] um [buff](A)[/buff].\nImmer, wenn du [other]Schaden verursachst[/other], werden für die nächsten [other](B)[/other] [heal](C)[/heal] des vom Gegner [heal]verlorenen Lebens gestohlen[/heal].",
             "AR-SA": "تزيد من [buff]الصحة القصوى[/buff] بمقدار [buff](A)[/buff].\nعندما [other]تلحق ضررًا[/other] [heal]يمكنك سرقة (B)[/heal] من [heal]الصحة[/heal] التي [heal]فقدها[/heal] العدو لمدة [other](C)[/other] التالية.",
-            "KO-KR": "[other](A)[/other] 동안 [buff]최대 체력[/buff]을 [buff](B)[/buff] 만큼 증가시키며,\n[other]대미지를 가할[/other] 때마다 ��이 [heal]잃은[/heal] [heal]체력[/heal]의 [heal](C)를 훔칩니다[/heal].",
+            "KO-KR": "[other](A)[/other] 동안 [buff]최대 체력[/buff]을 [buff](B)[/buff] 만큼 증가시키며,\n[other]대미지를 가할[/other] 때마다 적이 [heal]잃은[/heal] [heal]체력[/heal]의 [heal](C)를 훔칩니다[/heal].",
             "PT-BR": "Aumenta sua [buff]Vida Máxima[/buff] em [buff](A)[/buff].\nSempre que você [other]causa dano[/other], [heal]rouba (B)[/heal] da [heal]Vida[/heal] que o inimigo[heal]perdeu[/heal] pelos próximos [other](C)[/other].",
             "ZH-TW": "使自身[buff]生命值上限[/buff]增加[buff](A)[/buff]。\n每當您[other]造成傷害[/other]時，在接下來[other](B)[/other]內，[heal]竊取(C)[/heal]敵人[heal]損失[/heal]的[heal]生命值[/heal]。",
             "ES-ES": "Incrementa tu [buff]salud máxima[/buff] en [buff](A)[/buff].\nCuando [other]inflijas daño[/other], [heal]robarás (B)[/heal] de la [heal]salud[/heal] que el enemigo [heal]pierda[/heal] durante los próximos [other](C)[/other].",
@@ -6632,7 +6632,7 @@
             "JA-JP": "フラットショア・プレイス",
             "EN-US": "Flatshore Plaice",
             "DE-DE": "Küstenscholle",
-            "AR-SA": "سمك الرسّ��ف",
+            "AR-SA": "سمك الرسّاف",
             "KO-KR": "평바닥 넙치",
             "PT-BR": "Solha Chata",
             "ZH-TW": "平岸鰈魚",
@@ -9647,7 +9647,7 @@
           },
           "localizedDescriptions": {
             "IT-IT": "Ogni volta che infliggi [other]danni[/other], [heal]rubi il (A)[/heal] della [heal]salute[/heal] che il nemico ha [heal]perso[/heal] per i prossimi [other](B)[/other].",
-            "RU-RU": "Каждый раз, когда вы [other]наносит�� урон[/other], вы [heal]крадете (A)[/heal] от [heal]здоровья[/heal], [heal]потерянного[/heal] врагом. Эффект длится [other](B)[/other].",
+            "RU-RU": "Каждый раз, когда вы [other]наносите урон[/other], вы [heal]крадете (A)[/heal] от [heal]здоровья[/heal], [heal]потерянного[/heal] врагом. Эффект длится [other](B)[/other].",
             "PL-PL": "Za każdym razem gdy [other]zadajesz Obrażenia[/other], [heal]kradniesz (A)[/heal] [heal]Zdrowia[/heal] [heal]utraconego[/heal] przez wroga przez następne [other](B)[/other].",
             "TR-TR": "Sonraki [other](A)[/other] boyunca her [other]hasar verdiğinde[/other] düşmanın [heal]kaybettiği sağlığın[/heal] [heal](B)[/heal] kadarını [heal]çalarsın[/heal].",
             "ID-ID": "Setiap [other]memberikan damage[/other] [heal]mencuri (A)[/heal] dari [heal]HP[/heal] musuh yang [heal]hilang[/heal] untuk [other](B)[/other] berikutnya.",
@@ -10261,7 +10261,7 @@
           },
           "localizedDescriptions": {
             "IT-IT": "Aumenta la tua [buff]rigenerazione della salute[/buff] del [buff](A)[/buff] per [buff](B)[/buff].\nOttieni [other](C) fama di pesca[/other].",
-            "RU-RU": "Увеличивает ваше [buff]восстановление здоровья[/buff] на [buff](A)[/buff] в течение [buff](B)[/buff].\nДобавляет [other](C) рыболовной славы[/other].",
+            "RU-RU": "Увеличивает ваше [buff]восстановление здоровья[/buff] на [buff](A)[/buff] в течен��е [buff](B)[/buff].\nДобавляет [other](C) рыболовной славы[/other].",
             "PL-PL": "Zwiększa twoją [buff]Regenerację Zdrowia[/buff] o [buff](A)[/buff] na [buff](B)[/buff].\nZdobywasz [other](C) Sławy Wędkarskiej[/other].",
             "TR-TR": "[buff]Sağlık Yenileme'ni[/buff] [buff](A)[/buff] boyunca [buff](B)[/buff] artırır.\n[other](C) Balıkçılık Namı[/other] kazanırsın.",
             "ID-ID": "Menambah [buff]Regenerasi HP[/buff] hingga [buff](A)[/buff] selama [buff](B)[/buff].\nDapatkan [other](C) Ketenaran Memancing[/other].",
@@ -14348,7 +14348,7 @@
             "AR-SA": "تزيد من [buff]إنتاجية الجمع[/buff] بمقدار [buff](A)[/buff] ومن [buff]الحمولة القصوى[/buff] بمقدار [buff](B)[/buff] ومن [buff]مقاومة التحكم في الحشود[/buff] بمقدار [buff](C)[/buff] لمدة [buff](D)[/buff].",
             "KO-KR": "[buff](A)[/buff] 동안 [buff]채집량[/buff]이 [buff](B)[/buff] 만큼, [buff]최대 적재량[/buff]이 [buff](C)[/buff]만큼, 그리고 [buff]군중 제어 저항[/buff]이 [buff](D)[/buff]만큼 증가합니다.",
             "PT-BR": "Aumenta seu [buff]Retorno de Coleta[/buff] em [buff](A)[/buff], sua [buff]Carga Máxima[/buff] em [buff](B)[/buff], e sua [buff]Resistência a Controle de Grupo[/buff] em [buff](C)[/buff] por [buff](D)[/buff].",
-            "ZH-TW": "���自身[buff]採集收穫[/buff]增加[buff](A)[/buff]、[buff]負重上限[/buff]增加[buff](B)[/buff]、[buff]群體控制抗性[/buff]增加[buff](C)[/buff]，持續[buff](D)[/buff]。",
+            "ZH-TW": "使自身[buff]採集收穫[/buff]增加[buff](A)[/buff]、[buff]負重上限[/buff]增加[buff](B)[/buff]、[buff]群體控制抗性[/buff]增加[buff](C)[/buff]，持續[buff](D)[/buff]。",
             "ES-ES": "Incrementa tu [buff]rendimiento de recolección[/buff] en [buff](A)[/buff], tu [buff]carga máxima[/buff] en [buff](B)[/buff], y tu [buff]resistencia al control de multitudes[/buff] en [buff](C)[/buff] por [buff](D)[/buff].",
             "ZH-CN": "你的[buff]采集产出[/buff]提高[buff](A)[/buff]，[buff]最大负重量[/buff]提高[buff](B)[/buff]，[buff]群体控制抗性[/buff]提高[buff](C)[/buff]，持续[buff](D)[/buff]。"
           },

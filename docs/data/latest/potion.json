@@ -2136,7 +2136,7 @@
             "PT-BR": "Tornado Engarrafado",
             "ZH-TW": "瓶中龍捲",
             "ES-ES": "Tornado en botella",
-            "ZH-CN": "瓶中龙��"
+            "ZH-CN": "瓶中龙卷"
           },
           "localizedDescriptions": {
             "IT-IT": "Lanci la pozione sulla posizione bersaglio, rilasciando un tornado con un [other]raggio di (A)[/other] che dura [other](B)[/other].\n[cc]Respinge[/cc] tutti i nemici che lo toccano di [cc](C)[/cc] (ignora la Resistenza agli effetti di Controllo sulla Folla).",
@@ -5565,10 +5565,10 @@
             "IT-IT": "Lanci la pozione sulla posizione bersaglio, creando una pozza di fuoco infernale con un [other]raggio di (A)[/other] che dura [other](B)[/other].\nInfligge [dmg](C) danni puri[/dmg] (contro i giocatori) / [dmg](D) danni puri[/dmg] (contro i mob) ogni [dmg](E)[/dmg].\n\nLanciare la pozione dissolverà [other]tutte le pozze degli alleati[/other] in un [other]raggio di (F)[/other] attorno alla tua pozza.",
             "RU-RU": "Бросьте зелье в указанное место, создав лужу адского пламени [other]радиусом(A)[/other] на [other](B)[/other].\nНаносит [dmg](C) чистого урона[/dmg] (по игрокам) / [dmg](D) чистого урона[/dmg] (по монстрам) каждые [dmg](E)[/dmg].\n\nЕсли бросить зелье, оно растворит [other]все лужи союзников[/other] в [other]радиусе (F)[/other] от вашей лужи.",
             "PL-PL": "Rzucasz miksturę w wybrane miejsce, tworząc kałużę Piekielnego Ognia o promieniu [other](A)[/other], utrzymującą się przez [other](B)[/other].\nZadaje [dmg](C) obrażeń rzeczywistych[/dmg] (przeciwko graczom) / [dmg](D) obrażeń rzeczywistych[/dmg] (przeciwko mobom) co [dmg](E)[/dmg].\n\nRzucenie mikstury dezaktywuje [other]wszystkie kałuże sojuszników[/other] w promieniu [other](F)[/other] od twojej kałuży.",
-            "TR-TR": "Hedef konuma iksir atıp [other](A)[/other] boyunca aktif kalan [other](B) yarıçaplı[/other] bir Cehennem Ateşi gölü oluşturur.\nHer [dmg](C)[/dmg] [dmg](D) gerçek hasar[/dmg] (oyunculara karşı) / [dmg](E) gerçek hasar[/dmg] (diğer düşmanlara karşı) verir.\n\nİksiri attığında gölün etrafındaki [other](F) yarıçaplı[/other] alanda bulunan [other]tüm müttefik gölleri[/other] yok olur.",
+            "TR-TR": "Hedef konuma iksir atıp [other](A)[/other] boyunca aktif kalan [other](B) yarıçaplı[/other] bir Cehennem Ateşi gölü oluşturur.\nHer [dmg](C)[/dmg] [dmg](D) gerçek hasar[/dmg] (oyunculara karşı) / [dmg](E) gerçek hasar[/dmg] (diğer düşmanlara karşı) verir.\n\nİksiri attığında gölün etraf��ndaki [other](F) yarıçaplı[/other] alanda bulunan [other]tüm müttefik gölleri[/other] yok olur.",
             "ID-ID": "Lemparkan ramuan ke posisi yang ditarget, menciptakan genangan Api Neraka dengan [other](A) radius[/other] berlangsung selama [other](B)[/other].\nMemberikan [dmg](C) damage murni[/dmg] (vs. pemain) / [dmg](D) damage murni[/dmg] (vs. mob) setiap [dmg](E)[/dmg].\n\nMelempar ramuan akan menghilangkan [other]semua genangan sekutu[/other] dalam [other](F) radius[/other] di sekitar genanganmu.",
             "FR-FR": "Lancez la potion sur l'emplacement ciblé pour créer une flaque de feu infernal d'un [other]rayon de (A)[/other] qui dure [other](B)[/other].\nInflige [dmg](C) dégâts bruts[/dmg] (contre les joueurs) / [dmg](D) dégâts bruts[/dmg] (contre les monstres) toutes les [dmg](E)[/dmg].\n\nLancer la potion va dissoudre [other]toutes les flaques des alliées[/other] dans un [other]rayon de (F)[/other] autour de votre flaque.",
-            "JA-JP": "狙った位置にポーションを���げつけ、[other](A)[/other]持続する[other](B)半径[/other]の獄炎の水たまりを作り出す。\n[dmg](C)[/dmg]毎に[dmg](D)真のダメージ[/dmg](対プレイヤー)/[dmg](E)真のダメージ[/dmg](対モブ)を与える。\n\nポーションを投げると、自分の水たまりを中心とした[other](F)半径[/other]内の[other]すべての味方の水たまり[/other]を溶かす。",
+            "JA-JP": "狙った位置にポーションを投げつけ、[other](A)[/other]持続する[other](B)半径[/other]の獄炎の水たまりを作り出す。\n[dmg](C)[/dmg]毎に[dmg](D)真のダメージ[/dmg](対プレイヤー)/[dmg](E)真のダメージ[/dmg](対モブ)を与える。\n\nポーションを投げると、自分の水たまりを中心とした[other](F)半径[/other]内の[other]すべての味方の水たまり[/other]を溶かす。",
             "EN-US": "Throw the potion at the targeted position, creating a puddle of Hellfire with a [other](A) radius[/other] lasting [other](B)[/other].\nDeals [dmg](C) true damage[/dmg] (vs. players) / [dmg](D) true damage[/dmg] (vs. mobs) every [dmg](E)[/dmg].\n\nThrowing the potion will dissolve [other]all ally puddles[/other] in a [other](F) radius[/other] around your puddle.",
             "DE-DE": "Wirf den Trank auf den anvisierten Punkt, dies erzeugt dort für [other](A)[/other]eine Pfütze aus Höllenfeuer mit [other](B) Radius[/other].\nVerursacht alle [dmg](C)[/dmg] [dmg](D) echten Schaden[/dmg] (bei Spielern) / [dmg](E) echten Schaden[/dmg] (bei Mobs).\n\nDas Werfen dieser Flasche löst [other]alle anderen Pfützen von Alliierten[/other] in [other](F) Radius[/other] um deine Pfütze auf.",
             "AR-SA": "إلقاء الجرعة في الموقع المستهدف ينشئ بركة من نار الجحيم في [other]محيط (A)[/other] وتستمر لمدة [other](B)[/other].\nتلحق [dmg](C) من الضرر الفعلي[/dmg] (ضد اللاعبين) / [dmg](D) من الضرر الفعلي[/dmg] (ضد الغرماء) كل [dmg](E)[/dmg].\n\nسيؤدي إلقاء الجرعة إلى تلاشي [other]كل برك الحلفاء[/other] في [other]محيط (F)[/other] حول بركتك.",
@@ -10405,7 +10405,7 @@
             "EN-US": "Invisibility Potion",
             "DE-DE": "Unsichtbarkeitstrank",
             "AR-SA": "جرعة الاختفاء",
-            "KO-KR": "투명 포션",
+            "KO-KR": "투��� 포션",
             "PT-BR": "Poção de Invisibilidade",
             "ZH-TW": "隱形藥水",
             "ES-ES": "Poción de invisibilidad",
@@ -10485,7 +10485,7 @@
     "passiveSlots": {},
     "localizedNames": {
       "IT-IT": "Pozione dell'invisibilità",
-      "RU-RU": "Эликсир невидим��сти",
+      "RU-RU": "Эликсир невидимости",
       "PL-PL": "Mikstura Niewidzialności",
       "TR-TR": "Görünmezlik İksiri",
       "ID-ID": "Ramuan Limunan",
