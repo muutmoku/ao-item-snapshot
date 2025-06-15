@@ -838,7 +838,7 @@
       "JA-JP": "霧の呼び手（名人）",
       "EN-US": "Adept's Mistcaller",
       "DE-DE": "Nebelrufer des Adepten",
-      "AR-SA": "مستدعي الضباب للبارع",
+      "AR-SA": "مستدعي الضباب لل��ارع",
       "KO-KR": "숙련자의 미스트콜러",
       "PT-BR": "Brumário do Adepto",
       "ZH-TW": "老手級喚霧者",
@@ -1385,7 +1385,7 @@
       "EN-US": "Equipment Item",
       "DE-DE": "Ausrüstungsgegenstand",
       "AR-SA": "عنصر معدات",
-      "KO-KR": "장비 ���이템",
+      "KO-KR": "���비 아이템",
       "PT-BR": "Item de Equipamento",
       "ZH-TW": "裝備物品",
       "ES-ES": "Objeto de equipo",
@@ -2813,7 +2813,7 @@
       "PT-BR": "Item de Equipamento",
       "ZH-TW": "裝備物品",
       "ES-ES": "Objeto de equipo",
-      "ZH-CN": "装备物品"
+      "ZH-CN": "装备物���"
     },
     "slotType": "offhand",
     "physicalAttackDamageBonus": 0,
@@ -6698,7 +6698,7 @@
       "AR-SA": "عنصر معدات",
       "KO-KR": "장비 아이템",
       "PT-BR": "Item de Equipamento",
-      "ZH-TW": "裝���物品",
+      "ZH-TW": "裝備物品",
       "ES-ES": "Objeto de equipo",
       "ZH-CN": "装备物品"
     },
@@ -7207,7 +7207,7 @@
       "AR-SA": "عنصر معدات",
       "KO-KR": "장비 아이템",
       "PT-BR": "Item de Equipamento",
-      "ZH-TW": "裝備物品",
+      "ZH-TW": "裝備物���",
       "ES-ES": "Objeto de equipo",
       "ZH-CN": "装备物品"
     },
@@ -7634,7 +7634,7 @@
       "PT-BR": "Brumário do Perito",
       "ZH-TW": "專家級喚霧者",
       "ES-ES": "Invocanieblas del experto",
-      "ZH-CN": "专���级唤雾号角"
+      "ZH-CN": "专家级唤雾号角"
     },
     "localizedDescriptions": {
       "IT-IT": "Oggetto d'equipaggiamento",
@@ -8620,7 +8620,7 @@
     "passiveSlots": {},
     "localizedNames": {
       "IT-IT": "Scudo del principiante",
-      "RU-RU": "Щит (неопытный)",
+      "RU-RU": "Щит (неопытн��й)",
       "PL-PL": "Tarcza Początkującego",
       "TR-TR": "Tecrübesiz Kalkanı",
       "ID-ID": "Perisai Pemula",
