@@ -107,7 +107,7 @@
             "TR-TR": "Toplayıcılık İksiri",
             "ID-ID": "Ramuan Pengumpul",
             "FR-FR": "Potion de récolte",
-            "JA-JP": "採集ポーション",
+            "JA-JP": "���集ポーション",
             "EN-US": "Gathering Potion",
             "DE-DE": "Sammlertrank",
             "AR-SA": "جرعة جمع",
@@ -383,7 +383,7 @@
           },
           "localizedDescriptions": {
             "IT-IT": "[other]Purifica[/other] tutti gli [other]effetti di danno nel tempo[/other], [other]gli effetti di Controllo sulla Folla[/other] e i [other]debuff[/other] (si può usare da storditi o silenziati). \nRende [buff]immuni[/buff] a tutti gli [buff]effetti di Controllo sulla Folla[/buff] per [buff](A)[/buff].",
-            "RU-RU": "Вы [other]снимаете[/other] все [other]эффекты с периодическим уроном[/other], [other]эффекты контроля[/other] и [other]дебафы[/other] (можно использовать при оглушении или безмолвии).\nНаделяет [buff]невосприимчивостью[/buff] ко всем [buff]��ффектам контроля[/buff] на [buff](A)[/buff].",
+            "RU-RU": "Вы [other]снимаете[/other] все [other]эффекты с периодическим уроном[/other], [other]эффекты контроля[/other] и [other]дебафы[/other] (можно использовать при оглушении или безмолвии).\nНаделяет [buff]невосприимчивостью[/buff] ко всем [buff]эффектам контроля[/buff] на [buff](A)[/buff].",
             "PL-PL": "[other]Oczyszczasz[/other] wszystkie [other]efekty obrażeń czasowych[/other], [other]efekty kontroli tłumu[/other] i [other]debuffy[/other] (można użyć, będąc ogłuszonym lub wyciszonym). \nZapewnia [buff]odporność[/buff] na wszystkie [buff]efekty kontroli tłumu[/buff] przez [buff](A)[/buff].",
             "TR-TR": "Tüm [other]zamanla hasar etkilerini[/other], [other]kitle kontrol etkilerini[/other] ve [other]zayıflatmaları[/other] [other]arındırır[/other] (sersemletilmiş veya susturulmuşken de kullanılabilir). \n[buff](A)[/buff] boyunca tüm [buff]kitle kontrol etkilerine[/buff] karşı [buff]bağışıklık[/buff] sağlar.",
             "ID-ID": "[other]Membersihkan[/other] semua [other]efek damage seiring waktu[/other], [other]efek Kontrol Kerumunan[/other] dan [other]debuff[/other] (dapat digunakan ketika terkena stun atau terbungkam). \nMemberikan [buff]kekebalan[/buff] dari semua [buff]efek Kontrol Kerumunan[/buff] selama [buff](A)[/buff].",
@@ -392,11 +392,11 @@
             "EN-US": "[other]Cleanse[/other] all [other]damage over time effects[/other], [other]Crowd Control effects[/other] and [other]debuffs[/other] (can be used while stunned or silenced). \nGrants [buff]immunity[/buff] to all [buff]Crowd Control effects[/buff] for [buff](A)[/buff].",
             "DE-DE": "[other]Reinigt[/other] alle [other]CC-Effekte[/other] und [other]Debuffs[/other] (außer Schaden-auf-Zeit Effekte; kann auch bei Stille oder Betäubung genutzt werden).\nGewährt für [buff](A)[/buff] [buff]Immunität[/buff] gegen alle [other]CC-Effekte[/other].",
             "AR-SA": "يمكن [other]تطهير[/other] كل [other]تأثيرات الضرر بمرور الوقت[/other] و[other]تأثيرات التحكم في الحشود[/other] و[other]التثبيطات[/other] (يمكن الاستخدام في أثناء الإصابة بالصعق أو الإيقاف). \nتمنح [buff]حصانة[/buff] من [buff]كل تأثيرات التحكم في الحشود[/buff] لمدة [buff](A)[/buff].",
-            "KO-KR": "모든 [other]지속 대미지 효과[/other]와 [other]���중 제어 효과[/other], [other]디버프[/other]를 [other]정화[/other]합니다 (기절이나 침묵 상태 중 사용 가능).\n[buff](A)[/buff] 동안 모든 [buff]군중 제어 효과[/buff]에 대한 [buff]면역[/buff]을 부여합니다.",
+            "KO-KR": "모든 [other]지속 대미지 효과[/other]와 [other]군중 제어 효과[/other], [other]디버프[/other]를 [other]정화[/other]합니다 (기절이나 침묵 상태 중 사용 가능).\n[buff](A)[/buff] 동안 모든 [buff]군중 제어 효과[/buff]에 대한 [buff]면역[/buff]을 부여합니다.",
             "PT-BR": "[other]Purifica[/other] todos os [other]efeitos de dano ao longo do tempo[/other], [other]efeitos de Controle de Multidão[/other] e [other]desvantagens[/other] (pode ser usado enquanto atordoado ou silenciado). \nConcede [buff]imunidade[/buff] a todos os [buff]efeitos de Controle de Multidão[/buff] por [buff](A)[/buff].",
             "ZH-TW": "[other]淨化[/other]所有[other]持續性傷害效果[/other]、[other]群體控制效果[/other]和[other]減益效果[/other](暈眩或沉默時可使用)。\n使您[buff]免疫[/buff]所有[buff]群體控制效果[/buff]，持續[buff](A)[/buff]。",
             "ES-ES": "[other]Limpia[/other] todos los [other]efectos de daño a largo plazo[/other], los [other]efectos de control de multitudes[/other] y los [other]debuffs[/other] (puede usarse estando aturdido o silenciado). \nOtorga [buff]inmunidad[/buff] contra todos los [buff]efectos de control de multitudes[/buff] durante [buff](A)[/buff].",
-            "ZH-CN": "[other]净化[/other]所有[other]持续性伤害效果[/other]、[other]群体控制效果[/other]和[other]减益效果[/other]（可以在被击晕或沉默时使用）���\n使你[buff]免疫[/buff]所有[buff]群体控制效果[/buff]，持续[buff](A)[/buff]。"
+            "ZH-CN": "[other]净化[/other]所有[other]持续性伤害效果[/other]、[other]群体控制效果[/other]和[other]减益效果[/other]（可以在被击晕或沉默时使用��。\n使你[buff]免疫[/buff]所有[buff]群体控制效果[/buff]，持续[buff](A)[/buff]。"
           },
           "target": "self",
           "castingTime": 0,
@@ -931,7 +931,7 @@
             "TR-TR": "[buff](A)[/buff] boyunca [buff]savunmanı[/buff] [buff](B)[/buff] ve [buff]kitle kontrol direncini[/buff] [buff](C)[/buff] artırır.",
             "ID-ID": "Menambah [buff]Pertahanan[/buff] sebesar [buff](A)[/buff] dan [buff]Resistansi Kontrol Kerumunan[/buff] sebesar [buff](B)[/buff] selama [buff](C)[/buff].",
             "FR-FR": "Buvez pour augmenter votre [buff]défense[/buff] de [buff](A)[/buff] et votre [buff]résistance aux contrôles de foule[/buff] de [buff](B)[/buff] pendant [buff](C)[/buff].",
-            "JA-JP": "[buff](A)[/buff]の間、[buff]防御力[/buff]が[buff](B)[/buff]、[buff]クラウドコ���トロール耐性[/buff]が[buff](C)[/buff]上昇します。",
+            "JA-JP": "[buff](A)[/buff]の間、[buff]防御力[/buff]が[buff](B)[/buff]、[buff]クラウド��ントロール耐性[/buff]が[buff](C)[/buff]上昇します。",
             "EN-US": "Increases your [buff]Defense[/buff] by [buff](A)[/buff] and your [buff]Crowd Control Resistance[/buff] by [buff](B)[/buff] for [buff](C)[/buff].",
             "DE-DE": "Steigert deine [buff]Verteidigung[/buff] um [buff](A)[/buff] und deine [buff]Crowd Control Resistenz[/buff] für [buff](B)[/buff] um [buff](C)[/buff].",
             "AR-SA": "تزيد [buff]دفاعك[/buff] بمقدار [buff](A)[/buff] [buff]ومقاومة التحكم في الحشود[/buff] لديك بمقدار [buff](B)[/buff] لمدة [buff](C)[/buff].",
@@ -1174,7 +1174,7 @@
             "JA-JP": "[other]すべての[other]CC効果[/other]と[other]debuff[/other]（時間経過ダメージを除く）。\n全ての[buff]CC効果[/buff]に対して[buff](A)[/buff]の間[buff]免疫[/buff]を付与する。",
             "EN-US": "[other]Cleanse[/other] all [other]Crowd Control effects[/other] and [other]debuffs[/other] (except damage over time effects; can be used while stunned or silenced).\nGrants [buff]immunity[/buff] to all [buff]Crowd Control effects[/buff] for [buff](A)[/buff].",
             "DE-DE": "[other]Reinigt[/other] alle [other]CC-Effekte[/other] und [other]Debuffs[/other] (außer Schaden-auf-Zeit Effekte; kann auch bei Verstummung oder Betäubung genutzt werden).\nVerleiht für [buff](A)[/buff] [buff]Immunität[/buff] gegen alle [buff]CC-Effekte[/buff].",
-            "AR-SA": "يمكن [other]تطهير[/other] كل [other]تأثيرا�� التحكم في الحشود[/other] و[other]التثبيطات[/other] (باستثناء تأثيرات الضرر بمرور الوقت؛ يمكن الاستخدام في أثناء الإصابة بالصعق أو الإيقاف).\nتمنح [buff]حصانة[/buff] من كل [buff]تأثيرات التحكم في الحشود[/buff] لمدة [buff](A)[/buff].",
+            "AR-SA": "يمكن [other]تطهير[/other] كل [other]تأثير��ت التحكم في الحشود[/other] و[other]التثبيطات[/other] (باستثناء تأثيرات الضرر بمرور الوقت؛ يمكن الاستخدام في أثناء الإصابة بالصعق أو الإيقاف).\nتمنح [buff]حصانة[/buff] من كل [buff]تأثيرات التحكم في الحشود[/buff] لمدة [buff](A)[/buff].",
             "KO-KR": "모든 [other]군중 제어 효과[/other]와 [other]디버프[/other]를 [other]정화[/other]합니다 (지속 대미지 효과 제외, 기절과 침묵 상태에서 사용 가능).\n[buff](A)[/buff] 동안 모든 [buff]군중 제어 효과[/buff]에 대한 [buff]면역[/buff]을 부여합니다.",
             "PT-BR": "[other]Purifica[/other] todos os [other]efeitos de Controle de Multidão[/other] e [other]desvantagens[/other] (exceto efeitos de dano ao longo do tempo; pode ser usada enquanto atordoado ou silenciado).\nConcede [buff]imunidade[/buff] a todos os [buff]efeitos de Controle de Multidão[/buff] por [buff](A)[/buff].",
             "ZH-TW": "[other]淨化[/other]所有[other]群體控制效果[/other]和[other]減益效果[/other](不包含持續性傷害效果，且暈眩或沉默時可使用)。\n對所有[buff]群體控制效果[/buff]免疫，持續[buff](A)[/buff]。",
@@ -1409,7 +1409,7 @@
             "JA-JP": "[buff](A)[/buff]の間、自身の[buff]ダメージ[/buff]を[buff](B)[/buff]増加させる。\n\n自分の[other]防御力[/other]を[other](C)[/other]減少させる。",
             "EN-US": "Increase your [buff]damage[/buff] by [buff](A)[/buff] for [buff](B)[/buff].\n\nDecreases your [other]Defense[/other] by [other](C)[/other].",
             "DE-DE": "Steigert deinen [buff]Schaden[/buff] für [buff](A)[/buff] um [buff](B)[/buff].\n\nReduziert deine [other]Verteidigung[/other] um [other](C)[/other].",
-            "AR-SA": "يمكنك زيادة [buff]ضررك[/buff] بمقدار [buff](A)[/buff] ل��دة [buff](B)[/buff].\n\nتقلل [other]دفاعك[/other] بمقدار [other](C)[/other].",
+            "AR-SA": "يمكنك زيادة [buff]ضررك[/buff] بمقدار [buff](A)[/buff] ��مدة [buff](B)[/buff].\n\nتقلل [other]دفاعك[/other] بمقدار [other](C)[/other].",
             "KO-KR": "[buff](A)[/buff] 동안 [buff]대미지[/buff]를 [buff](B)[/buff]만큼 증가시킵니다.\n\n[other]방어력[/other]이 [other](C)[/other]만큼 감소합니다.",
             "PT-BR": "Aumenta o seu [buff]dano[/buff] em [buff](A)[/buff] por [buff](B)[/buff].\n\nReduz a sua [other]Defesa[/other] em [other](C)[/other].",
             "ZH-TW": "使您的[buff]傷害[/buff]增加[buff](A)[/buff]，持續[buff](B)[/buff]。\n\n使您的[other]防禦[/other]降低[other](C)[/other]。",
@@ -1656,7 +1656,7 @@
             "PT-BR": "Aumenta a sua [buff]Carga Máxima[/buff] em [buff](A)[/buff] e a sua [buff]Vida Máxima[/buff] em [buff](B) [/buff] por [buff](C)[/buff]. Torna você [buff]imune[/buff] a [buff]efeitos de movimento forçado[/buff].",
             "ZH-TW": "使自身[buff]負重上限[/buff]增加[buff](A)[/buff]、[buff]生命值上限[/buff]增加[buff](B)[/buff]，持續[buff](C)[/buff]。\n使自身對[buff]強制位移效果[/buff][buff]免疫[/buff]。",
             "ES-ES": "Incrementa tu [buff]carga máxima[/buff] en [buff](A)[/buff] y tu [buff]salud máxima[/buff] en [buff](B)[/buff] por [buff](C)[/buff].\nTe hace [buff]inmune[/buff] a [buff]efectos de movimiento forzado[/buff].",
-            "ZH-CN": "你的[buff]最大负重量[/buff]提高[buff](A)[/buff]，[buff]最大生命值[/buff]提高[buff](B)[/buff]，持续[buff](C)[/buff]。\n��你[buff]免疫强制位移效果[/buff]。"
+            "ZH-CN": "你的[buff]最大负重量[/buff]提高[buff](A)[/buff]，[buff]最大生命值[/buff]提高[buff](B)[/buff]，持续[buff](C)[/buff]。\n使你[buff]免疫强制位移效果[/buff]。"
           },
           "target": "self",
           "castingTime": 0,
@@ -2482,7 +2482,7 @@
           },
           "localizedDescriptions": {
             "IT-IT": "Uno scoppio illumina il cielo di un [b][c][6ACC04]luccichio verde[/b][/c][-].",
-            "RU-RU": "Раскрасьте не��о сияющими зелеными всполохами.",
+            "RU-RU": "Раскрасьте ��ебо сияющими зелеными всполохами.",
             "PL-PL": "Rozświetla niebo błyszczącą zieloną eksplozją.",
             "TR-TR": "[b][c][6ACC04]Parlak yeşil bir patlamayla[/b][/c][-] gökyüzünü aydınlat.",
             "ID-ID": "Menerangi langit dengan [b][c][6ACC04]ledakan hijau berkilauan[/b][/c][-].",
@@ -3068,7 +3068,7 @@
             "EN-US": "Throw the potion at the targeted enemy, poisoning the target and dealing [dmg](A) true damage[/dmg] (vs. players) / [dmg](B) true damage[/dmg] (vs. mobs) over [dmg](C)[/dmg].\n\nWhenever the poisoned enemy [other]takes direct damage[/other], they will be [cc]slowed[/cc] by [cc](D)[/cc] for [cc](E)[/cc].\n\nDoes [other]not trigger[/other] effects normally [other]triggered by damage[/other].",
             "DE-DE": "Wirf den trank auf den anvisierten Gegner, dies vergiftet das Ziel und verursacht über [dmg](A)[/dmg] [dmg](B) echten Schaden[/dmg] (an Spielern) / [dmg](C) echten Schaden[/dmg] (an Mobs).\n\nImmer, wenn der vergiftete Gegner [other]direkten Schaden erleidet[/other], wird er für [cc](D)[/cc] um [cc](E)[/cc] [cc]verlangsamt[/cc].\n\n[other]Löst keine Effekte aus[/other], die normalerweise [other]durch Schaden ausgelöst werden[/other].",
             "AR-SA": "تُلقى الجرعة على العدو المستهدف، فتسمم الهدف وتلحق [dmg](A) من الضرر الفعلي[/dmg] (ضد اللاعبين) / [dmg](B) من الضرر الفعلي[/dmg] (ضد الغرماء) خلال [dmg](C)[/dmg].\n\nعندما يتلقى الأعداء المسمومون [other]ضررًا مباشرًا[/other]، [cc]ستبطأ حركتهم[/cc] بمقدار [cc](D)[/cc] لمدة [cc](E)[/cc].\n\nعادة، [other]لا تفعّل[/other] تأثيرات [other]ناجمة عن الضرر[/other].",
-            "KO-KR": "목표 적에게 포션을 던져, 대상을 중독시켜 [dmg](A)[/dmg]에 걸쳐 [dmg](B)의 고�� 대미지[/dmg] (vs. 플레이어) / [dmg](C)의 고정 대미지[/dmg] (vs. 몹)를 입힙니다.\n\n중독 상태인 적이 [other]직접 대미지를 입을 때마다[/other], [cc](D)[/cc] 동안 [cc](E)[/cc]만큼 [cc]느려[/cc]집니다.\n\n일반적인 [other]대미지로 인해 발동되는[/other] 효과를 [other]발동시키지 않습니다[/other].",
+            "KO-KR": "목표 적에게 포션을 던져, 대상을 중독시켜 [dmg](A)[/dmg]에 걸쳐 [dmg](B)의 ���정 대미지[/dmg] (vs. 플레이어) / [dmg](C)의 고정 대미지[/dmg] (vs. 몹)를 입힙니다.\n\n중독 상태인 적이 [other]직접 대미지를 입을 때마다[/other], [cc](D)[/cc] 동안 [cc](E)[/cc]만큼 [cc]느려[/cc]집니다.\n\n일반적인 [other]대미지로 인해 발동되는[/other] 효과를 [other]발동시키지 않습니다[/other].",
             "PT-BR": "Joga a poção no inimigo alvo, o envenenando e causando [dmg](A) de dano verdadeiro[/dmg] (contra jogadores) / [dmg](B) de dano verdadeiro[/dmg] (contra monstros) ao longo de [dmg](C)[/dmg].\n\nSempre que o inimigo envenenado [other]receber dano direto[/other], ele será [cc]desacelerado[/cc] em [cc](D)[/cc] por [cc](E)[/cc].\n\nNão [other]aciona[/other] outros efeitos normalmente [other]acionados por dano[/other].",
             "ZH-TW": "朝目標敵人投擲藥水，使目標中毒，並在[dmg](A)[/dmg]內造成[dmg](B)點真實傷害[/dmg](對玩家)/[dmg](C)點真實傷害[/dmg](對怪物)。\n中毒的敵人[other]受到直接傷害[/other]時，他們會被[cc]緩速(D)[/cc]，持續[cc](E)[/cc]。\n\n[other]不會觸發[/other]一般由[other]傷害觸發[/other]的效果。",
             "ES-ES": "Lanza la poción al enemigo señalado, envenénalo e inflígele [dmg](A) de daño verdadero[/dmg] (contra jugadores) / [dmg](B) de daño verdadero[/dmg] (contra monstruos) durante [dmg](C)[/dmg].\n\nCada vez que el enemigo envenenado [other]recibe daño directo[/other], será [cc]ralentizado[/cc] en [cc](D)[/cc] por [cc](E)[/cc].\n\nNo [other]activa[/other] efectos que normalmente [other]se activan con daño[/other].",
@@ -3486,7 +3486,7 @@
           "descriptionLocaTag": "@SPELLS_POTION_ENERGY_TEST_DESC",
           "localizedNames": {
             "IT-IT": "Pozione energetica",
-            "RU-RU": "Эликсир энергии",
+            "RU-RU": "Эликсир э��ергии",
             "PL-PL": "Mikstura Energii",
             "TR-TR": "Enerji İksiri",
             "ID-ID": "Ramuan Energi",
@@ -3516,7 +3516,7 @@
             "PT-BR": "Restaura [other](A)[/other] da sua [other]Energia Máxima[/other].\nRestaura [other](B)[/other] da sua [other]Energia Máxima[/other] ao longo de [other](C)[/other].\nAumenta a sua [buff]Taxa de Recarga[/buff] em [buff](D)[/buff]",
             "ZH-TW": "回復您自身[other]能量上限[/other]的[other](A)[/other]。\n在[other](B)[/other]內回復您自身[other]能量上限[/other]的[other](C)[/other]。\n[buff]冷卻速率[/buff]增加[buff](D)[/buff]。",
             "ES-ES": "Restaura [other](A)[/other] de tu [other]energía máxima[/other].\nRestaura [other](B)[/other] de tu [other]energía máxima[/other] durante [other](C)[/other].\nIncrementa tu [buff]ritmo de tiempo de espera[/buff] en [buff](D)[/buff]",
-            "ZH-CN": "回复你[other]最大能量值[/other]的[other](A)[/other]。\n在[other](B)[/other]内���复你[other]最大能量值[/other]的[other](C)[/other]。\n[buff]冷却速率[/buff]提高[buff](D)[/buff]。"
+            "ZH-CN": "回复你[other]最大能量值[/other]的[other](A)[/other]。\n在[other](B)[/other]内回复你[other]最大能量值[/other]的[other](C)[/other]。\n[buff]冷却速率[/buff]提高[buff](D)[/buff]。"
           },
           "target": "self",
           "castingTime": 0,
@@ -5839,7 +5839,7 @@
     "passiveSlots": {},
     "localizedNames": {
       "IT-IT": "Pozione ingrandente maggiore",
-      "RU-RU": "Большое зелье гига��та",
+      "RU-RU": "Большое зелье гиганта",
       "PL-PL": "Większa Mikstura Powiększenia",
       "TR-TR": "Güçlü Devleştirme İksiri",
       "ID-ID": "Ramuan Pembesar Mayor",
@@ -6136,7 +6136,7 @@
             "PT-BR": "Joga a poção na posição alvo, criando uma poça oleosa com um [other]raio de (A)[/other] que dura [other](B)[/other].\n[cc]Desacelera[/cc] todos os inimigos na poça por [cc](C)[/cc] e reduz todo o [debuff]dano[/debuff] que eles causam em [debuff](D)[/debuff].\nA [debuff]redução de dano[/debuff] dura por [debuff](E)[/debuff] após eles saírem da poça (isso também acontece após a poça desaparecer).\n\nInimigos invisíveis que entrarem na área serão [other]revelados[/other].\n\nJogar a poção dissolverá [other]todas as Poções Pegajosas aliadas[/other] em um [other]raio de (F)[/other] ao redor da sua poça.",
             "ZH-TW": "朝目標位置投擲藥水，在[other](A)半徑範圍[/other]內產生一灘焦油，持續[other](B)[/other]。\n使範圍內所有敵人[cc]緩速[/cc][cc](C)[/cc]，並使敵人造成的所有[debuff]傷害[/debuff]降低[debuff](D)[/debuff]。\n對方離開焦油灘後，效果持續[debuff](E)[/debuff](焦油灘消失後也會生效)。\n\n隱形狀態的敵人進入該範圍將會[other]現身[/other]。\n\n投擲此藥水會使您的焦油灘周圍[other](F)半徑範圍[/other]內[other]所有友方的黏性藥水效果[/other]提早結束。",
             "ES-ES": "Lanza la poción al lugar señalado y crea un charco de alquitrán de un [other]radio de (A)[/other] que dura [other](B)[/other].\nEl charco [cc]ralentiza[/cc] a todos los enemigos en [cc](C)[/cc] y reduce todo el [debuff]daño[/debuff] que infligen en [debuff](D)[/debuff].\nLa [debuff]reducción de daño[/debuff] dura [debuff](E)[/debuff] después de que hayan salido del charco (o después de que el charco haya desaparecido).\n\nLos enemigos invisibles que entren en el área serán [other]revelados[/other].\n\nUsar la poción disolverá [other]todas las pociones pegajosas de aliados[/other] en un [other]radio de (F)[/other] alrededor de tu charco.",
-            "ZH-CN": "朝目标位置投掷药瓶，在其周围[other](A)半径[/other]范围的区域制造焦油地面，持续[other](B)[/other]。\n所有被击中的敌人[cc]减速(C)[/cc]，他们造成的[debuff]伤害[/debuff]降低[debuff](D)[/debuff]。\n此效果在他们离开焦油地面后持续[debuff](E)[/debuff]（焦油地面消失也视为离开）。\n\n焦油地面上���隐形敌人将被[other]揭露[/other]。\n\n投掷此药水会使你的焦油地面周围[other](F)半径范围[/other]内[other]所有友方的黏性药水[/other]提早失效。"
+            "ZH-CN": "朝目标位置投掷药瓶，在其周围[other](A)半径[/other]范围的区域制造焦油地面，持续[other](B)[/other]。\n所有被击中的敌人[cc]减速(C)[/cc]，他们造成的[debuff]伤害[/debuff]降低[debuff](D)[/debuff]。\n此效果在他们离开焦油地面后持续[debuff](E)[/debuff]（焦油地面消失也视为离开）。\n\n焦油地面上的隐形敌人将被[other]揭露[/other]。\n\n投掷此药水会使你的焦油地面周围[other](F)半径范围[/other]内[other]所有友方的黏性药水[/other]提早失效。"
           },
           "target": "ground",
           "castingTime": 0,
@@ -6242,7 +6242,7 @@
           },
           "localizedDescriptions": {
             "IT-IT": "Uno scoppio illumina il cielo di un [b][c][FF2E2E]luccichio rosso[/b][/c][-].",
-            "RU-RU": "Раскрасьте небо сияющими красными всполохами.",
+            "RU-RU": "Рас��расьте небо сияющими красными всполохами.",
             "PL-PL": "Rozświetla niebo błyszczącą czerwoną eksplozją.",
             "TR-TR": "[b][c][FF2E2E]Parlak kırmızı bir patlamayla[/b][/c][-] gökyüzünü aydınlat.",
             "ID-ID": "Menerangi langit dengan [b][c][FF2E2E]ledakan merah berkilauan[/b][/c][-].",
@@ -7967,7 +7967,7 @@
             "TR-TR": "[other]Azami enerjinin[/other] [other](A)[/other] kadarını yeniler.\n[other](B)[/other] boyunca [other]azami enerjinin[/other] [other](C)[/other] kadarını yeniler.\n[buff]Bekleme dolma hızını [/buff] [buff](D)[/buff] artırır.",
             "ID-ID": "Memulihkan [other](A)[/other] dari [other]Energi Maks[/other] kamu.\nMemulihkan [other](B)[/other] dari [other]Energi Maks[/other] kamu dalam waktu [other](C)[/other].\nMeningkatkan [buff]Laju Cooldown[/buff] kamu sebesar [buff](D)[/buff]",
             "FR-FR": "Restaure [other](A)[/other] de votre [other]énergie maximale[/other].\nRestaure [other](B)[/other] de votre [other]énergie maximale[/other] pendant [other](C)[/other].\nAugmente votre [buff]vitesse de recharge[/buff] de [buff](D)[/buff]",
-            "JA-JP": "自分の[other]��大エネルギー[/other]の[other](A)[/other]を回復する。\n[other](B)[/other]の間、[other]最大エネルギー[/other]の[other](C)[/other]を回復する。\n自分の[buff]クールダウン率[/buff]を[buff](D)[/buff]増加させる。",
+            "JA-JP": "自分の[other]最大エネルギー[/other]の[other](A)[/other]を回復する。\n[other](B)[/other]の間、[other]最大エネルギー[/other]の[other](C)[/other]を回復する。\n自分の[buff]クールダウン率[/buff]を[buff](D)[/buff]増加させる。",
             "EN-US": "Restores [other](A)[/other] of your [other]Max Energy[/other].\nRestores [other](B)[/other] of your [other]Max Energy[/other] over [other](C)[/other].\nIncreases your [buff]Cooldown Rate[/buff] by [buff](D)[/buff]",
             "DE-DE": "Stellt [other](A)[/other] deiner [other]max. Energie[/other] wieder her.\nStellt über [other](B)[/other] [other](C)[/other] deiner [other]max. Energie[/other] wieder her .\nSteigert deine [buff]Abklingzeitrate[/buff] um [buff](D)[/buff]",
             "AR-SA": "تستعيد [other](A)[/other] من [other]الحد الأقصى لطاقتك[/other].\nتستعيد [other](B)[/other] من [other]الحد الأقصى لطاقتك[/other]. في غضون [other](C)[/other].\nتزيد [buff]معدل فترات الانتظار[/buff] بمقدار [buff](D)[/buff]",
@@ -9694,7 +9694,7 @@
             "PT-BR": "Joga a poção na posição alvo, criando uma poça oleosa com um [other]raio de (A)[/other] que dura [other](B)[/other].\n[cc]Desacelera[/cc] todos os inimigos na poça por [cc](C)[/cc] e reduz todo o [debuff]dano[/debuff] que eles causam em [debuff](D)[/debuff].\nA [debuff]redução de dano[/debuff] dura por [debuff](E)[/debuff] após eles saírem da poça (isso também acontece após a poça desaparecer).\n\nInimigos invisíveis que entrarem na área serão [other]revelados[/other].\n\nJogar a poção dissolverá [other]todas as Poções Pegajosas aliadas[/other] em um [other]raio de (F)[/other] ao redor da sua poça.",
             "ZH-TW": "朝目標位置投擲藥水，在[other](A)半徑範圍[/other]內產生一灘焦油，持續[other](B)[/other]。\n使範圍內所有敵人[cc]緩速[/cc][cc](C)[/cc]，並使敵人造成的所有[debuff]傷害[/debuff]降低[debuff](D)[/debuff]。\n對方離開焦油灘後，效果持續[debuff](E)[/debuff](焦油灘消失後也會生效)。\n\n隱形狀態的敵人進入該範圍將會[other]現身[/other]。\n\n投擲此藥水會使您的焦油灘周圍[other](F)半徑範圍[/other]內[other]所有友方的黏性藥水效果[/other]提早結束。",
             "ES-ES": "Lanza la poción al lugar señalado y crea un charco de alquitrán de un [other]radio de (A)[/other] que dura [other](B)[/other].\nEl charco [cc]ralentiza[/cc] a todos los enemigos en [cc](C)[/cc] y reduce todo el [debuff]daño[/debuff] que infligen en [debuff](D)[/debuff].\nLa [debuff]reducción de daño[/debuff] dura [debuff](E)[/debuff] después de que hayan salido del charco (o después de que el charco haya desaparecido).\n\nLos enemigos invisibles que entren en el área serán [other]revelados[/other].\n\nUsar la poción disolverá [other]todas las pociones pegajosas de aliados[/other] en un [other]radio de (F)[/other] alrededor de tu charco.",
-            "ZH-CN": "朝目标位置投掷药瓶，在其周围[other](A)半径[/other]范围的区域制造焦油地面，持续[other](B)[/other]。\n所有被击中的敌人[cc]减速(C)[/cc]，他们造成的[debuff]伤害[/debuff]降低[debuff](D)[/debuff]。\n此效果在他们离开焦油地面后持续[debuff](E)[/debuff]（焦油地面消失也视为离开）。\n\n焦油地面上的��形敌人将被[other]揭露[/other]。\n\n投掷此药水会使你的焦油地面周围[other](F)半径范围[/other]内[other]所有友方的黏性药水[/other]提早失效。"
+            "ZH-CN": "朝目标位置投掷药瓶，在其周围[other](A)半径[/other]范围的区域制造焦油地面，持续[other](B)[/other]。\n所有被击中的敌人[cc]减速(C)[/cc]，他们造成的[debuff]伤害[/debuff]降低[debuff](D)[/debuff]。\n此效果在他们离开焦油地面后持续[debuff](E)[/debuff]（焦油地面消失也视为离开）。\n\n焦油地面上的隐形敌人将被[other]揭露[/other]。\n\n投掷此药水会使你的焦油地面周围[other](F)半径范围[/other]内[other]所有友方的黏性药水[/other]提早失效。"
           },
           "target": "ground",
           "castingTime": 0,
