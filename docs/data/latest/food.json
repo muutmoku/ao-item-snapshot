@@ -13,7 +13,7 @@
     "enchantmentLevel": 0,
     "categoryId": "fish",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": null,
     "activeSlots": {
       "1": [
@@ -22,7 +22,7 @@
           "uniqueName": "FOOD_FISH_BUFF_LIFESTEAL_3_RAW",
           "uiAtlas": null,
           "uiSprite": "FOOD_FISH_BUFF",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": null,
           "descriptionLocaTag": "@SPELLS_FOOD_FISH_BUFF_LIFESTEAL_RAW_DESC",
           "localizedNames": {
@@ -133,7 +133,7 @@
     "enchantmentLevel": 0,
     "categoryId": "fish",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": null,
     "activeSlots": {
       "1": [
@@ -142,7 +142,7 @@
           "uniqueName": "FOOD_FISH_BUFF_CASTSPEED_CDR_2_RAW",
           "uiAtlas": null,
           "uiSprite": "FOOD_FISH_BUFF",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": null,
           "descriptionLocaTag": "@SPELLS_FOOD_FISH_BUFF_CASTSPEED_CDR_RAW_DESC",
           "localizedNames": {
@@ -253,7 +253,7 @@
     "enchantmentLevel": 0,
     "categoryId": "fish",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": null,
     "activeSlots": {
       "1": [
@@ -262,7 +262,7 @@
           "uniqueName": "FOOD_FISH_CRAFTING_3_RAW",
           "uiAtlas": null,
           "uiSprite": "FOOD_FISH_BUFF",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": null,
           "descriptionLocaTag": "@SPELLS_FOOD_FISH_CRAFTING_RAW_DESC",
           "localizedNames": {
@@ -285,7 +285,7 @@
           "localizedDescriptions": {
             "IT-IT": "Aumenta la tua [buff]velocità di creazione[/buff] del [buff](A)[/buff] e migliora la [buff]qualità di creazione[/buff] del [buff](B)[/buff] per [buff](C)[/buff].\nOttieni [other](D) fama di pesca[/other].",
             "RU-RU": "Повышает вашу [buff]скорость ремесла[/buff] на [buff](A)[/buff] и [buff]качество создаваемых предметов[/buff] на [buff](B)[/buff] for [buff](C)[/buff].\nДобавляет [other](D) рыболовной славы[/other].",
-            "PL-PL": "Zwiększa twoją [buff]Szybkość Wytwarzania[/buff] o [buff](A)[/buff] oraz [buff]Jakość Wytwarzania[/buff] o [buff](B)[/buff] na [buff](C)[/buff].\nGain [other](D) Fishing Fame[/other].",
+            "PL-PL": "Zwiększa twoją [buff]Szybkość Wytwarzania[/buff] o [buff](A)[/buff] oraz [buff]Jakość Wytwarzania[/buff] o [buff](B)[/buff] na [buff](C)[/buff].\nZdobywasz [other](D) Sławy Wędkarskiej[/other].",
             "TR-TR": "[buff](A)[/buff] boyunca [buff]Zanaat Hızı'nı[/buff] [buff](B)[/buff] ve [buff]Zanaat Kalitesi'ni[/buff] [buff](C)[/buff] artırır.\n[other](D) Balıkçılık Namı[/other] kazanırsın.",
             "ID-ID": "Menambah [buff]Kualitas Crafting[/buff] hingga [buff](A)[/buff] dan [buff]Kualitas Crafting[/buff] hingga [buff](B)[/buff] selama [buff](C)[/buff].\nDapatkan [other](D) Ketenaran Memancing[/other].",
             "FR-FR": "Augmente votre [buff]vitesse de fabrication[/buff] de [buff](A)[/buff] et [buff]qualité de fabrication[/buff] de [buff](B)[/buff] pendant [buff](C)[/buff].\nObtenez [other](D) renommée de pêche[/other].",
@@ -380,7 +380,7 @@
     "enchantmentLevel": 0,
     "categoryId": "cooked",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -488,7 +488,7 @@
           "uniqueName": "FOOD_BUFF_DMG_AVALON_P1",
           "uiAtlas": null,
           "uiSprite": "SPELL_STEW",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_FOOD_BUFF_DMG_AVALON",
           "descriptionLocaTag": "@SPELLS_FOOD_BUFF_DMG_AVALON_DESC",
           "localizedNames": {
@@ -509,21 +509,21 @@
             "ZH-CN": "阿瓦隆炖肉"
           },
           "localizedDescriptions": {
-            "IT-IT": "Aumenta tutti i [buff]danni[/buff] che infliggi del [buff](A)[/buff] e la tua [buff]rigenerazione della salute[/buff] del [buff](B)[/buff] per [buff](C)[/buff].",
-            "RU-RU": "Увеличивает весь наносимый вами [buff]урон[/buff] на [buff](A)[/buff], а также ваше [buff]восстановление здоровья[/buff] на [buff](B)[/buff] в течение [buff](C)[/buff].",
-            "PL-PL": "Zwiększa wszystkie zadawane przez ciebie [buff]obrażenia[/buff] o [buff](A)[/buff] i twoją [buff]regenerację Zdrowia[/buff] o [buff](B)[/buff], przez [buff](C)[/buff].",
-            "TR-TR": "[buff](A)[/buff] boyunca verdiğin tüm [buff]hasarı[/buff] [buff](B)[/buff] ve [buff]Sağlık Yenileme'ni[/buff] [buff](C)[/buff] artırır.",
-            "ID-ID": "Menambah semua [buff]damage[/buff] yang kamu hasilkan hingga [buff](A)[/buff], dan [buff]Regenerasi HP[/buff] hingga [buff](B)[/buff], selama [buff](C)[/buff].",
-            "FR-FR": "Augmente tous vos [buff]dégâts[/buff] infligés de [buff](A)[/buff], ainsi que votre [buff]régénération de santé[/buff] de [buff](B)[/buff], pendant [buff](C)[/buff].",
-            "JA-JP": "[buff](A)[/buff]の間、あなたの全ての[buff]ダメージ[/buff]を[buff](B)[/buff]上昇させ、[buff]体力再生[/buff]を[buff](C)[/buff]上昇させます。",
-            "EN-US": "Increases all [buff]damage[/buff] you deal by [buff](A)[/buff], and your [buff]Health Regeneration[/buff] by [buff](B)[/buff], for [buff](C)[/buff].",
-            "DE-DE": "Steigert für [buff](A)[/buff] allen von dir angerichteten [buff]Schaden[/buff] um [buff](B)[/buff] und deine [buff]Lebensregeneration[/buff] um [buff](C)[/buff].",
-            "AR-SA": "تزيد من كل [buff]الأضرار[/buff] المُلحقة من جانبك بمقدار [buff](A)[/buff] ومن [buff]تجديد الصحة[/buff] بمقدار [buff](B)[/buff] لمدة [buff](C)[/buff].",
-            "KO-KR": "[buff](A)[/buff] 동안 자신이 가하는 [buff]대미지[/buff]를 [buff](B)[/buff] 만큼, 그리고 [buff]체력 회복[/buff]을 [buff](C)[/buff] 만큼 증가시킵니다.",
-            "PT-BR": "Aumenta todo o [buff]dano[/buff] que você causa em [buff](A)[/buff], e sua [buff]Regeneração de Vida[/buff] em [buff](B)[/buff], por [buff](C)[/buff].",
-            "ZH-TW": "使自身造成的所有[buff]傷害[/buff]增加[buff](A)[/buff]、[buff]生命值回復速度[/buff]增加[buff](B)[/buff]，持續[buff](C)[/buff]。",
-            "ES-ES": "Incrementa todo tu [buff]daño[/buff] en [buff](A)[/buff] y tu [buff]regeneración de salud[/buff] en [buff](B)[/buff] por [buff](C)[/buff].",
-            "ZH-CN": "你的[buff]伤害[/buff]输出提高[buff](A)[/buff]，[buff]生命恢复速度[/buff]提高[buff](B)[/buff]，持续[buff](C)[/buff]。"
+            "IT-IT": "Aumenta tutti i [buff]danni[/buff] che infliggi del [buff](A)[/buff] e la tua [buff]Rigenerazione della Salute[/buff] fuori dal combattimento del [buff](B)[/buff] per [buff](C)[/buff].",
+            "RU-RU": "Увеличивает весь наносимый вами [buff]урон[/buff] на [buff](A)[/buff] и ваше [buff]восстановление здоровья[/buff] вне боя на [buff](B)[/buff] в течение [buff](C)[/buff].",
+            "PL-PL": "Zwiększa zadawane [buff]obrażenia[/buff] o [buff](A)[/buff] oraz [buff]Regenerację Zdrowia[/buff] poza walką o [buff](B)[/buff] na [buff](C)[/buff].",
+            "TR-TR": "[buff](A)[/buff] boyunca verdiğin tüm [buff]hasarı[/buff] [buff](B)[/buff] ve savaş dışındaki [buff]Sağlık Yenilemeni[/buff] [buff](C)[/buff] artırır.",
+            "ID-ID": "Menambah semua [buff]damage[/buff] yang kamu hasilkan sebesar [buff](A)[/buff], dan [buff]Regenerasi HP[/buff] kamu di luar pertempuran sebesar [buff](B)[/buff], selama [buff](C)[/buff].",
+            "FR-FR": "Augmente tous les [buff]dégâts[/buff] que vous infligez de [buff](A)[/buff], ainsi que votre [buff]Régénération de Santé[/buff] en dehors des combats de [buff](B)[/buff] pendant [buff](C)[/buff].",
+            "JA-JP": "自分が与えるすべての[buff]ダメージ[/buff]を[buff](A)[/buff]増加させ、戦闘外の時、[buff](B)[/buff]間、[buff]体力再生[/buff]が[buff](C)[/buff]増加する。",
+            "EN-US": "Increases all [buff]damage[/buff] you deal by [buff](A)[/buff], and your [buff]Health Regeneration[/buff] outside of combat by [buff](B)[/buff], for [buff](C)[/buff].",
+            "DE-DE": "Steigert sämtlichen [buff]Schaden[/buff], den du zufügst, um [buff](A)[/buff] und deine [buff]Lebensregeneration[/buff] außerhalb von Kämpfen um [buff](B)[/buff] für [buff](C)[/buff].",
+            "AR-SA": "يزيد كل [buff]الضرر[/buff] الذي تتعامل معه بمقدار [buff](A)[/buff]، و[buff]تجديد صحتك[/buff] خارج القتال بمقدار [buff](B)[/buff]، مقابل [buff](C)[/buff].",
+            "KO-KR": "[buff](A)[/buff] 동안 자신이 가하는 모든 [buff]대미지[/buff]를 [buff](B)[/buff]만큼, 그리고 전투 이외 상황에서 [buff]체력 재생[/buff]을 [buff](C)[/buff]만큼 증가시킵니다.",
+            "PT-BR": "Aumenta todo o [buff]dano[/buff] que você causa em [buff](A)[/buff], e sua [buff]Regeneração de Vida[/buff] fora de combate em [buff](B)[/buff], por [buff](C)[/buff].",
+            "ZH-TW": "使您造成的所有[buff]傷害[/buff]增加[buff](A)[/buff]，不在戰鬥狀態時[buff]生命值恢復[/buff]增加[buff](B)[/buff]，持續[buff](C)[/buff]。",
+            "ES-ES": "Incrementa todo el [buff]daño[/buff] que infliges en [buff](A)[/buff] y tu [buff]Regeneración de Salud[/buff] fuera de combate en [buff](B)[/buff] durante [buff](C)[/buff].",
+            "ZH-CN": "使你造成的所有[buff]伤害[/buff]提高[buff](A)[/buff]，不在战斗状态时[buff]生命恢复速度[/buff]提高[buff](B)[/buff]，持续[buff](C)[/buff]。"
           },
           "target": "self",
           "castingTime": 0.8,
@@ -597,7 +597,7 @@
       "JA-JP": "アバロニア人のヤギシチュー",
       "EN-US": "Avalonian Goat Stew",
       "DE-DE": "Avalonischer Ziegeneintopf",
-      "AR-SA": "يخنة الماعز الأ��الونية",
+      "AR-SA": "يخنة الماعز الأفالونية",
       "KO-KR": "아발로니안 염소 스튜",
       "PT-BR": "Guisado de Cabra Avaloniano",
       "ZH-TW": "阿瓦隆燉山羊肉",
@@ -627,7 +627,7 @@
     "enchantmentLevel": 0,
     "categoryId": "fish",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": null,
     "activeSlots": {
       "1": [
@@ -636,7 +636,7 @@
           "uniqueName": "FOOD_FISH_FRESHWATER_8_RAW",
           "uiAtlas": null,
           "uiSprite": "FOOD_FISH_BUFF",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": null,
           "descriptionLocaTag": "@SPELLS_FOOD_FISH_COMMON_RAW_T8_DESC",
           "localizedNames": {
@@ -658,12 +658,12 @@
           },
           "localizedDescriptions": {
             "IT-IT": "Aumenta la [buff]durata[/buff] dei tuoi [buff]effetti di controllo[/buff] del [buff](A)[/buff] per [buff](B)[/buff].\nOttieni [other](C) fama di pesca[/other].",
-            "RU-RU": "Увеличивает [buff]продолжительность[/buff] ваших [buff]эффектов контроля[/buff] на [buff](A)[/buff] for [buff](B)[/buff].\nДобавляет [other](C) рыболовной славы[/other].",
+            "RU-RU": "Увеличивает [buff]продолжительность[/buff] ваш��х [buff]эффектов контроля[/buff] на [buff](A)[/buff] for [buff](B)[/buff].\nДобавляет [other](C) рыболовной славы[/other].",
             "PL-PL": "Zwiększa [buff]czas trwania[/buff] twoich [buff]efektów kontroli tłumu[/buff] o [buff](A)[/buff] przez [buff](B)[/buff].\nZyskujesz [other](C) Sławy Rybackiej[/other].",
             "TR-TR": "Uyguladığın [buff]Kitle Kontrol etkilerinin[/buff] [buff]süresini[/buff] [buff](A)[/buff] boyunca [buff](B)[/buff] artırır.\n[other](C) Balıkçılık Namı[/other] kazanırsın.",
             "ID-ID": "Menambah [buff]durasi[/buff] [buff]efek Kontrol Kerumunan[/buff] hingga [buff](A)[/buff] selama [buff](B)[/buff].\nDapatkan [other](C) Ketenaran Memancing[/other].",
             "FR-FR": "Augmente la [buff]durée[/buff] de vos [buff]effets de Contrôle de foule[/buff] de [buff](A)[/buff] pendant [buff](B)[/buff].\nObtenez [other](C) renommée de Pêche[/other].",
-            "JA-JP": "[buff](A)[/buff]の間、[buff]クラウドコントロール効果[/buff]の[buff]持続時間[/buff]が[buff](B)[/buff]上昇します。\n[other](C)の釣り名声[/other]��獲得します。",
+            "JA-JP": "[buff](A)[/buff]の間、[buff]クラウドコントロール効果[/buff]の[buff]持続時間[/buff]が[buff](B)[/buff]上昇します。\n[other](C)の釣り名声[/other]を獲得します。",
             "EN-US": "Increases the [buff]duration[/buff] of your [buff]Crowd Control effects[/buff] by [buff](A)[/buff] for [buff](B)[/buff].\nGain [other](C) Fishing Fame[/other].",
             "DE-DE": "Steigert die [buff]Dauer[/buff] deiner [buff]CC-Effekte[/buff] für [buff](A)[/buff] um [buff](B)[/buff].\nDu erhältst [other](C) Angel-Ruhm[/other].",
             "AR-SA": "تزيد من [buff]مدة[/buff] [buff]تأثيرات التحكم في الحشود[/buff] بمقدار [buff](A)[/buff] لمدة [buff](B)[/buff].\nيمكن الحصول على [other](C) من نقاط خبرة الصيد[/other].",
@@ -671,7 +671,7 @@
             "PT-BR": "Aumenta a [buff]duração[/buff] dos seus [buff]efeitos de Controle de Grupo[/buff] em [buff](A)[/buff] por [buff](B)[/buff].\nGanha [other](C) de Fama de Pesca[/other].",
             "ZH-TW": "使自身[buff]群體控制效果[/buff]的[buff]持續時間[/buff]增加[buff](A)[/buff]，持續[buff](B)[/buff]。\n獲得[other](C)點釣魚聲望[/other]。",
             "ES-ES": "Incrementa la [buff]duración[/buff] de tus [buff]efectos de control de multitudes[/buff] en [buff](A)[/buff] por [buff](B)[/buff].\nGana [other](C) de fama de pescador[/other].",
-            "ZH-CN": "��[buff]群体控制效果[/buff]的[buff]持续时间[/buff]提高[buff](A)[/buff]，持续[buff](B)[/buff]。\n获得[other](C)钓鱼声望[/other]。"
+            "ZH-CN": "你[buff]群体控制效果[/buff]的[buff]持续时间[/buff]提高[buff](A)[/buff]，持续[buff](B)[/buff]。\n获得[other](C)钓鱼声望[/other]。"
           },
           "target": "self",
           "castingTime": 0.8,
@@ -754,7 +754,7 @@
     "enchantmentLevel": 0,
     "categoryId": "fish",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": null,
     "activeSlots": {
       "1": [
@@ -763,7 +763,7 @@
           "uniqueName": "FOOD_FISH_HEALTH_REG_2_RAW",
           "uiAtlas": null,
           "uiSprite": "FOOD_FISH_BUFF",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": null,
           "descriptionLocaTag": "@SPELLS_FOOD_FISH_HEALTH_REG_RAW_DESC",
           "localizedNames": {
@@ -836,7 +836,7 @@
     "passiveSlots": {},
     "localizedNames": {
       "IT-IT": "Vongola d'acquitrino",
-      "RU-RU": "Грязевой моллю��к",
+      "RU-RU": "Грязевой моллюск",
       "PL-PL": "Małż Mętnowodny",
       "TR-TR": "Loşsu Midyesi",
       "ID-ID": "Kerang Air Keruh",
@@ -874,7 +874,7 @@
     "enchantmentLevel": 0,
     "categoryId": "fish",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": null,
     "activeSlots": {
       "1": [
@@ -883,7 +883,7 @@
           "uniqueName": "FOOD_FISH_SALTWATER_7_RAW",
           "uiAtlas": null,
           "uiSprite": "FOOD_FISH_BUFF",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": null,
           "descriptionLocaTag": "@SPELLS_FOOD_FISH_COMMON_RAW_DESC",
           "localizedNames": {
@@ -904,21 +904,21 @@
             "ZH-CN": "蓝鳍金枪鱼"
           },
           "localizedDescriptions": {
-            "IT-IT": "Aumenta la tua [buff]rigenerazione della salute[/buff] del [buff](A)[/buff] per [buff](B)[/buff].\nOttieni [other](C) fama di pesca[/other].",
-            "RU-RU": "Увеличивает ваше [buff]восстановление здоровья[/buff] на [buff](A)[/buff] в течение [buff](B)[/buff].\nДобавляет [other](C) рыболовной славы[/other].",
-            "PL-PL": "Zwiększa twoją [buff]Regenerację Zdrowia[/buff] o [buff](A)[/buff] na [buff](B)[/buff].\nZdobywasz [other](C) Sławy Wędkarskiej[/other].",
-            "TR-TR": "[buff]Sağlık Yenileme'ni[/buff] [buff](A)[/buff] boyunca [buff](B)[/buff] artırır.\n[other](C) Balıkçılık Namı[/other] kazanırsın.",
-            "ID-ID": "Menambah [buff]Regenerasi HP[/buff] hingga [buff](A)[/buff] selama [buff](B)[/buff].\nDapatkan [other](C) Ketenaran Memancing[/other].",
-            "FR-FR": "Augmente votre [buff]régénération de santé[/buff] de [buff](A)[/buff] pendant [buff](B)[/buff].\nObtenez [other](C) renomm��e de pêche[/other].",
-            "JA-JP": "[buff](A)[/buff]の間、[buff]体力再生[/buff]を[buff](B)[/buff]上昇させます。\n[other](C)の釣り名声[/other]を獲得します。",
-            "EN-US": "Increases your [buff]Health Regeneration[/buff] by [buff](A)[/buff] for [buff](B)[/buff].\nGain [other](C) Fishing Fame[/other].",
-            "DE-DE": "Steigert deine [buff]Lebensregeneration[/buff] für [buff](A)[/buff] um [buff](B)[/buff].\nErhalte [other](C) Angel-Ruhm[/other].",
-            "AR-SA": "تزيد من [buff]تجديد الصحة[/buff] بمقدار [buff](A)[/buff] لمدة [buff](B)[/buff].\nيمكن الحصول على [other](C) من نقاط خبرة الصيد[/other].",
-            "KO-KR": "[buff](A)[/buff] 동안 [buff]체력 재생량[/buff]을 [buff](B)[/buff] 만큼 증가시킵니다.\n[other](C)의 낚시 명성[/other]을 얻습니다.",
-            "PT-BR": "Aumenta sua [buff]Regeneração de Vida[/buff] em [buff](A)[/buff] por [buff](B)[/buff].\nGanha [other](C) de Fama de Pesca[/other].",
-            "ZH-TW": "使自身[buff]生命值回復速度[/buff]增加[buff](A)[/buff]，持續[buff](B)[/buff]。\n獲得[other](C)點釣魚聲望[/other]。",
-            "ES-ES": "Incrementa tu [buff]regeneración de salud[/buff] en [buff](A)[/buff] por [buff](B)[/buff].\nGana [other](C) de fama de pescador[/other].",
-            "ZH-CN": "你的[buff]生命回复速度[/buff]提高[buff](A)[/buff]，持续[buff](B)[/buff]。\n获得[other](C)钓鱼声望[/other]。"
+            "IT-IT": "Aumenta la tua [buff]Rigenerazione della Salute[/buff] fuori dal combattimento del [buff](A)[/buff] per [buff](B)[/buff].\nOttieni [other](C) Fama da Pesca[/other].",
+            "RU-RU": "Увеличивает ваше [buff]восстановление здоровья[/buff] вне боя на [buff](A)[/buff] в течение [buff](B)[/buff].\nДобавляет [other](C) рыболовной славы[/other].",
+            "PL-PL": "Zwiększa twoją [buff]Regenerację Zdrowia[/buff] poza walką o [buff](A)[/buff] na [buff](B)[/buff].\nZyskujesz [other](C) Sławy Rybackiej[/other].",
+            "TR-TR": "Savaş dışındaki [buff]Sağlık Yenilemeni[/buff] [buff](A)[/buff] boyunca [buff](B)[/buff] artırır.\n[other](C) Balıkçılık Namı[/other] kazanırsın.",
+            "ID-ID": "Meningkatkan [buff]Regenerasi HP[/buff] kamu di luar pertempuran sebesar [buff](A)[/buff], selama [buff](B)[/buff].\nDapatkan [other](C) Ketenaran Memancing[/other].",
+            "FR-FR": "Augmente votre [buff]Régénération de Santé[/buff] en dehors des combats de [buff](A)[/buff] pendant [buff](B)[/buff].\nObtenez [other](C) Renommée de Pêche[/other].",
+            "JA-JP": "戦闘外の時、[buff](A)[/buff]間、[buff]体力再生[/buff]が[buff](B)[/buff]増加する。\n[other](C)の釣り名声[/other]を獲得する。",
+            "EN-US": "Increases your [buff]Health Regeneration[/buff] outside of combat by [buff](A)[/buff] for [buff](B)[/buff].\nGain [other](C) Fishing Fame[/other].",
+            "DE-DE": "Steigert deine [buff]Lebensregeneration[/buff] außerhalb von Kämpfen um [buff](A)[/buff] für [buff](B)[/buff].\nErhalte [other](C) Angel-Ruhm[/other].",
+            "AR-SA": "تزيد من [buff]تجديد صحتك[/buff] خارج القتال بمقدار [buff](A)[/buff] لمدة [buff](B)[/buff].\nيمكن الحصول على [other](C) من نقاط خبرة اصطياد السمك[/other].",
+            "KO-KR": "[buff](A)[/buff] 동안 전투 이외 상황에서 [buff]체력 재생[/buff]을 [buff](B)[/buff]만큼 증가시킵니다.\n[other](C)의 낚시 명성[/other]을 얻습니다.",
+            "PT-BR": "Aumenta sua [buff]Regeneração de Vida[/buff] fora de combate em [buff](A)[/buff] por [buff](B)[/buff].\nGanha [other](C) de Fama de Pesca[/other].",
+            "ZH-TW": "使您不在戰鬥狀態時[buff]生命值恢復[/buff]增加[buff](A)[/buff]，持續[buff](B)[/buff]。\n獲得[other](C)點釣魚聲望[/other]。",
+            "ES-ES": "Incrementa tu [buff]Regeneración de Salud[/buff] fuera de combate en [buff](A)[/buff] durante [buff](B)[/buff].\nGana [other](C) de Fama de Pescador[/other].",
+            "ZH-CN": "使你不在战斗状态时[buff]生命恢复速度[/buff]提高[buff](A)[/buff]，持续[buff](B)[/buff]。\n获得[other](C)钓鱼声望[/other]。"
           },
           "target": "self",
           "castingTime": 0.8,
@@ -994,7 +994,7 @@
     "enchantmentLevel": 0,
     "categoryId": "fish",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": null,
     "activeSlots": {
       "1": [
@@ -1003,7 +1003,7 @@
           "uniqueName": "FOOD_FISH_FRESHWATER_5_RAW",
           "uiAtlas": null,
           "uiSprite": "FOOD_FISH_BUFF",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": null,
           "descriptionLocaTag": "@SPELLS_FOOD_FISH_COMMON_RAW_DESC",
           "localizedNames": {
@@ -1024,21 +1024,21 @@
             "ZH-CN": "斑点鳟鱼"
           },
           "localizedDescriptions": {
-            "IT-IT": "Aumenta la tua [buff]rigenerazione della salute[/buff] del [buff](A)[/buff] per [buff](B)[/buff].\nOttieni [other](C) fama di pesca[/other].",
-            "RU-RU": "Увеличивает ваше [buff]восстановление здоровья[/buff] на [buff](A)[/buff] в течение [buff](B)[/buff].\nДобавляет [other](C) рыболовной славы[/other].",
-            "PL-PL": "Zwiększa twoją [buff]Regenerację Zdrowia[/buff] o [buff](A)[/buff] na [buff](B)[/buff].\nZdobywasz [other](C) Sławy Wędkarskiej[/other].",
-            "TR-TR": "[buff]Sağlık Yenileme'ni[/buff] [buff](A)[/buff] boyunca [buff](B)[/buff] artırır.\n[other](C) Balıkçılık Namı[/other] kazanırsın.",
-            "ID-ID": "Menambah [buff]Regenerasi HP[/buff] hingga [buff](A)[/buff] selama [buff](B)[/buff].\nDapatkan [other](C) Ketenaran Memancing[/other].",
-            "FR-FR": "Augmente votre [buff]régénération de santé[/buff] de [buff](A)[/buff] pendant [buff](B)[/buff].\nObtenez [other](C) renommée de pêche[/other].",
-            "JA-JP": "[buff](A)[/buff]の間、[buff]体力再生[/buff]を[buff](B)[/buff]上昇させます。\n[other](C)の釣り名声[/other]を獲得します。",
-            "EN-US": "Increases your [buff]Health Regeneration[/buff] by [buff](A)[/buff] for [buff](B)[/buff].\nGain [other](C) Fishing Fame[/other].",
-            "DE-DE": "Steigert deine [buff]Lebensregeneration[/buff] für [buff](A)[/buff] um [buff](B)[/buff].\nErhalte [other](C) Angel-Ruhm[/other].",
-            "AR-SA": "تزيد من [buff]تجديد الصحة[/buff] بمقدار [buff](A)[/buff] لمدة [buff](B)[/buff].\nيمكن الحصول على [other](C) من نقاط خبرة الصيد[/other].",
-            "KO-KR": "[buff](A)[/buff] 동안 [buff]체력 재생량[/buff]을 [buff](B)[/buff] 만큼 증가시킵니다.\n[other](C)의 낚시 명성[/other]을 얻습니다.",
-            "PT-BR": "Aumenta sua [buff]Regeneração de Vida[/buff] em [buff](A)[/buff] por [buff](B)[/buff].\nGanha [other](C) de Fama de Pesca[/other].",
-            "ZH-TW": "使自身[buff]生命值回復速度[/buff]增加[buff](A)[/buff]，持續[buff](B)[/buff]。\n獲得[other](C)點釣魚聲望[/other]。",
-            "ES-ES": "Incrementa tu [buff]regeneración de salud[/buff] en [buff](A)[/buff] por [buff](B)[/buff].\nGana [other](C) de fama de pescador[/other].",
-            "ZH-CN": "你的[buff]生命回复速度[/buff]提高[buff](A)[/buff]，持续[buff](B)[/buff]。\n获得[other](C)钓鱼声望[/other]。"
+            "IT-IT": "Aumenta la tua [buff]Rigenerazione della Salute[/buff] fuori dal combattimento del [buff](A)[/buff] per [buff](B)[/buff].\nOttieni [other](C) Fama da Pesca[/other].",
+            "RU-RU": "Увеличивает ваше [buff]восстановление здоровья[/buff] вне боя на [buff](A)[/buff] в течение [buff](B)[/buff].\nДобавляет [other](C) рыболовной славы[/other].",
+            "PL-PL": "Zwiększa twoją [buff]Regenerację Zdrowia[/buff] poza walką o [buff](A)[/buff] na [buff](B)[/buff].\nZyskujesz [other](C) Sławy Rybackiej[/other].",
+            "TR-TR": "Savaş dışındaki [buff]Sağlık Yenilemeni[/buff] [buff](A)[/buff] boyunca [buff](B)[/buff] artırır.\n[other](C) Balıkçılık Namı[/other] kazanırsın.",
+            "ID-ID": "Meningkatkan [buff]Regenerasi HP[/buff] kamu di luar pertempuran sebesar [buff](A)[/buff], selama [buff](B)[/buff].\nDapatkan [other](C) Ketenaran Memancing[/other].",
+            "FR-FR": "Augmente votre [buff]Régénération de Santé[/buff] en dehors des combats de [buff](A)[/buff] pendant [buff](B)[/buff].\nObtenez [other](C) Renommée de Pêche[/other].",
+            "JA-JP": "戦闘外の時、[buff](A)[/buff]間、[buff]体力再生[/buff]が[buff](B)[/buff]増加する。\n[other](C)の釣り名声[/other]を獲得する。",
+            "EN-US": "Increases your [buff]Health Regeneration[/buff] outside of combat by [buff](A)[/buff] for [buff](B)[/buff].\nGain [other](C) Fishing Fame[/other].",
+            "DE-DE": "Steigert deine [buff]Lebensregeneration[/buff] außerhalb von Kämpfen um [buff](A)[/buff] für [buff](B)[/buff].\nErhalte [other](C) Angel-Ruhm[/other].",
+            "AR-SA": "تزيد من [buff]تجديد صحتك[/buff] خارج القتال بمقدار [buff](A)[/buff] لمدة [buff](B)[/buff].\nيمكن الحصول على [other](C) من نقاط خبرة اصطياد السمك[/other].",
+            "KO-KR": "[buff](A)[/buff] 동안 전투 이외 상황에서 [buff]체력 재생[/buff]을 [buff](B)[/buff]만큼 증가시킵니다.\n[other](C)의 낚시 명성[/other]을 얻습니다.",
+            "PT-BR": "Aumenta sua [buff]Regeneração de Vida[/buff] fora de combate em [buff](A)[/buff] por [buff](B)[/buff].\nGanha [other](C) de Fama de Pesca[/other].",
+            "ZH-TW": "使您不在戰鬥狀態時[buff]生命值恢復[/buff]增加[buff](A)[/buff]，持續[buff](B)[/buff]。\n獲得[other](C)點釣魚聲望[/other]。",
+            "ES-ES": "Incrementa tu [buff]Regeneración de Salud[/buff] fuera de combate en [buff](A)[/buff] durante [buff](B)[/buff].\nGana [other](C) de Fama de Pescador[/other].",
+            "ZH-CN": "使你不在战斗状态时[buff]生命恢复速度[/buff]提高[buff](A)[/buff]，持续[buff](B)[/buff]。\n获得[other](C)钓鱼声望[/other]。"
           },
           "target": "self",
           "castingTime": 0.8,
@@ -1081,11 +1081,11 @@
       "TR-TR": "Benekli Alabalık",
       "ID-ID": "Ikan Trout Berbintik",
       "FR-FR": "Truite mouchetée",
-      "JA-JP": "スポッテドトラウト",
+      "JA-JP": "スポッテドトラ���ト",
       "EN-US": "Spotted Trout",
       "DE-DE": "Gepunktete Forelle",
       "AR-SA": "سمك سلمون مرقط",
-      "KO-KR": "점박이 송��",
+      "KO-KR": "점박이 송어",
       "PT-BR": "Truta Pintada",
       "ZH-TW": "點紋鱒魚",
       "ES-ES": "Trucha pintada",
@@ -1114,7 +1114,7 @@
     "enchantmentLevel": 0,
     "categoryId": "cooked",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -1222,7 +1222,7 @@
           "uniqueName": "FOOD_FISH_HEALTH_REG_P3",
           "uiAtlas": null,
           "uiSprite": "SPELL_SOUP_FISH",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_FOOD_FISH_HEALTH_REG",
           "descriptionLocaTag": "@SPELLS_FOOD_FISH_HEALTH_REG_DESC",
           "localizedNames": {
@@ -1243,21 +1243,21 @@
             "ZH-CN": "蛤蜊汤"
           },
           "localizedDescriptions": {
-            "IT-IT": "Aumenta la tua [buff]rigenerazione della salute[/buff] del [buff](A)[/buff] e la [buff]rigenerazione dell'energia[/buff] del [buff](B)[/buff] per [buff](C)[/buff].",
-            "RU-RU": "Увеличивает ваше [buff]восстановление здоровья[/buff] на [buff](A)[/buff], а также ваше [buff]восстановлен��е энергии[/buff] на [buff](B)[/buff] в течение [buff](C)[/buff].",
-            "PL-PL": "Zwiększa twoją [buff]regenerację Zdrowia[/buff] o [buff](A)[/buff] i twoją [buff]regenerację Energii[/buff] o [buff](B)[/buff] przez [buff](C)[/buff].",
-            "TR-TR": "[buff](A)[/buff] boyunca [buff]Sağlık Yenileme'ni[/buff] [buff](B)[/buff] ve [buff]Enerji Yenileme'ni[/buff] [buff](C)[/buff] artırır.",
-            "ID-ID": "Menambah [buff]Regenerasi HP[/buff] hingga [buff](A)[/buff] dan [buff]Regenerasi Energi[/buff] hingga [buff](B)[/buff] selama [buff](C)[/buff].",
-            "FR-FR": "Augmente votre [buff]régénération de santé[/buff] de [buff](A)[/buff] et votre [buff]régénération d'énergie[/buff] de [buff](B)[/buff] pendant [buff](C)[/buff].",
-            "JA-JP": "[buff](A)[/buff]の間、[buff]体力再生[/buff]が[buff](B)[/buff]上昇し、[buff]エネルギー再生[/buff]が[buff](C)[/buff]上昇します。",
-            "EN-US": "Increases your [buff]Health Regeneration[/buff] by [buff](A)[/buff] and your [buff]Energy Regeneration[/buff] by [buff](B)[/buff] for [buff](C)[/buff].",
-            "DE-DE": "Steigert für [buff](A)[/buff] deine [buff]Lebensregeneration[/buff] um [buff](B)[/buff] und deine [buff]Energieregeneration[/buff] um [buff](C)[/buff].",
-            "AR-SA": "تزيد من [buff]تجديد الصحة[/buff] بمقدار [buff](A)[/buff] ومن [buff]تجديد الطاقة[/buff] بمقدار [buff](B)[/buff] لمدة [buff](C)[/buff].",
-            "KO-KR": "[buff](A)[/buff] 동안 [buff]체력 회복[/buff]을 [buff](B)[/buff] 만큼, 그리고 [buff]에너지 회복[/buff]을 [buff](C)[/buff] 만큼 증가시킵니다.",
-            "PT-BR": "Aumenta sua [buff]Regeneração de Vida[/buff] em [buff](A)[/buff] e sua [buff]Regeneração de Energia[/buff] em [buff](B)[/buff] por [buff](C)[/buff].",
-            "ZH-TW": "使自身[buff]生命值回復速度[/buff]增加[buff](A)[/buff]、[buff]能量回復速度[/buff]增加[buff](B)[/buff]，持續[buff](C)[/buff]。",
-            "ES-ES": "Incrementa tu [buff]regeneración de salud[/buff] en [buff](A)[/buff] y tu [buff]regeneración de energía[/buff] en [buff](B)[/buff] por [buff](C)[/buff].",
-            "ZH-CN": "你的[buff]生命恢复速度[/buff]提高[buff](A)[/buff]，[buff]能量恢复速度[/buff]提高[buff](B)[/buff]，持续[buff](C)[/buff] 。"
+            "IT-IT": "Aumenta la tua [buff]Rigenerazione della Salute[/buff] fuori dal combattimento del [buff](A)[/buff] e la [buff]Rigenerazione dell'Energia[/buff] del [buff](B)[/buff] per [buff](C)[/buff].",
+            "RU-RU": "Увеличивает ваше [buff]восстановление здоровья[/buff] вне боя на [buff](A)[/buff] и ваше [buff]восстановление энергии[/buff] на [buff](B)[/buff] в течение [buff](C)[/buff].",
+            "PL-PL": "Zwiększa twoją [buff]Regenerację Zdrowia[/buff] poza walką o [buff](A)[/buff] i twoją [buff]Regenerację Energii[/buff] o [buff](B)[/buff] na [buff](C)[/buff].",
+            "TR-TR": "[buff](A)[/buff] boyunca savaş dışındaki [buff]Sağlık Yenilemeni[/buff] [buff](B)[/buff] ve [buff]Enerji Yenilemeni[/buff] [buff](C)[/buff] artırır.",
+            "ID-ID": "Meningkatkan [buff]Regenerasi HP[/buff] kamu di luar pertempuran sebesar [buff](A)[/buff] dan [buff]Regenerasi Energi[/buff] kamu sebesar [buff](B)[/buff] selama [buff](C)[/buff].",
+            "FR-FR": "Augmente votre [buff]Régénération de Santé[/buff] en dehors des combats de [buff](A)[/buff] et votre [buff]Régénération d'Énergie[/buff] de [buff](B)[/buff] pendant [buff](C)[/buff].",
+            "JA-JP": "戦闘外の時、[buff](A)[/buff]間、[buff]体力再生[/buff]が[buff](B)[/buff]、[buff]エネルギー再生[/buff]が[buff](C)[/buff]増加する。",
+            "EN-US": "Increases your [buff]Health Regeneration[/buff] outside of combat by [buff](A)[/buff] and your [buff]Energy Regeneration[/buff] by [buff](B)[/buff] for [buff](C)[/buff].",
+            "DE-DE": "Steigert deine [buff]Lebensregeneration[/buff] außerhalb von Kämpfen um [buff](A)[/buff] und deine [buff]Energieregeneration[/buff] um [buff](B)[/buff]für [buff](C)[/buff].",
+            "AR-SA": "يزيد من [buff]تجديد صحتك[/buff] خارج القتال بمقدار [buff](A)[/buff] و [buff]تجديد طاقتك[/buff] بمقدار [buff](B)[/buff] لمدة [buff](C)[/buff].",
+            "KO-KR": "[buff](A)[/buff] 동안 전투 이외 상황에서 [buff]체력 재생[/buff]을 [buff](B)[/buff]만큼, 그리고 [buff]에너지 재생[/buff]을 [buff](C)[/buff]만큼 증가시킵니다.",
+            "PT-BR": "Aumenta sua [buff]Regeneração de Vida[/buff] fora de combate em [buff](A)[/buff] e sua [buff]Regeneração de Energia[/buff] em [buff](B)[/buff] por [buff](C)[/buff].",
+            "ZH-TW": "使您不在戰鬥狀態時[buff]生命值恢復[/buff]增加[buff](A)[/buff]，[buff]能量回復[/buff]增加[buff](B)[/buff]，持續[buff](C)[/buff]。",
+            "ES-ES": "Incrementa tu [buff]Regeneración de Salud[/buff] fuera de combate en [buff](A)[/buff] y tu [buff]Regeneración de Energía[/buff] en [buff](B)[/buff] durante [buff](C)[/buff].",
+            "ZH-CN": "使你不在战斗状态时[buff]生命恢复速度[/buff]提高[buff](A)[/buff]，[buff]能量回复速度[/buff]提高[buff](B)[/buff]，持续[buff](C)[/buff]。"
           },
           "target": "self",
           "castingTime": 0.8,
@@ -1340,7 +1340,7 @@
     "enchantmentLevel": 0,
     "categoryId": "cooked",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -1436,7 +1436,7 @@
           "uniqueName": "FOOD_BUFF_DMG_P1",
           "uiAtlas": null,
           "uiSprite": "SPELL_STEW",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_FOOD_BUFF_DMG",
           "descriptionLocaTag": "@SPELLS_FOOD_BUFF_DMG_DESC",
           "localizedNames": {
@@ -1534,7 +1534,7 @@
       "PL-PL": "Gulasz z Koziny",
       "TR-TR": "Keçi Yahnisi",
       "ID-ID": "Gulai Kambing",
-      "FR-FR": "Ragoût de ch��vre",
+      "FR-FR": "Ragoût de chèvre",
       "JA-JP": "ヤギシチュー",
       "EN-US": "Goat Stew",
       "DE-DE": "Ziegeneintopf",
@@ -1568,7 +1568,7 @@
     "enchantmentLevel": 0,
     "categoryId": "cooked",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -1664,7 +1664,7 @@
           "uniqueName": "FOOD_BUFF_DMG_P3",
           "uiAtlas": null,
           "uiSprite": "SPELL_STEW",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_FOOD_BUFF_DMG",
           "descriptionLocaTag": "@SPELLS_FOOD_BUFF_DMG_DESC",
           "localizedNames": {
@@ -1796,7 +1796,7 @@
     "enchantmentLevel": 0,
     "categoryId": "fish",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": null,
     "activeSlots": {
       "1": [
@@ -1805,7 +1805,7 @@
           "uniqueName": "FOOD_FISH_LOAD_GATHER_3_RAW",
           "uiAtlas": null,
           "uiSprite": "FOOD_FISH_BUFF",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": null,
           "descriptionLocaTag": "@SPELLS_FOOD_FISH_LOAD_GATHER_RAW_DESC",
           "localizedNames": {
@@ -1923,7 +1923,7 @@
     "enchantmentLevel": 0,
     "categoryId": "fish",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": null,
     "activeSlots": {
       "1": [
@@ -1932,7 +1932,7 @@
           "uniqueName": "FOOD_FISH_CRAFTING_1_RAW",
           "uiAtlas": null,
           "uiSprite": "FOOD_FISH_BUFF",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": null,
           "descriptionLocaTag": "@SPELLS_FOOD_FISH_CRAFTING_RAW_DESC",
           "localizedNames": {
@@ -1955,7 +1955,7 @@
           "localizedDescriptions": {
             "IT-IT": "Aumenta la tua [buff]velocità di creazione[/buff] del [buff](A)[/buff] e migliora la [buff]qualità di creazione[/buff] del [buff](B)[/buff] per [buff](C)[/buff].\nOttieni [other](D) fama di pesca[/other].",
             "RU-RU": "Повышает вашу [buff]скорость ремесла[/buff] на [buff](A)[/buff] и [buff]качество создаваемых предметов[/buff] на [buff](B)[/buff] for [buff](C)[/buff].\nДобавляет [other](D) рыболовной славы[/other].",
-            "PL-PL": "Zwiększa twoją [buff]Szybkość Wytwarzania[/buff] o [buff](A)[/buff] oraz [buff]Jakość Wytwarzania[/buff] o [buff](B)[/buff] na [buff](C)[/buff].\nGain [other](D) Fishing Fame[/other].",
+            "PL-PL": "Zwiększa twoją [buff]Szybkość Wytwarzania[/buff] o [buff](A)[/buff] oraz [buff]Jakość Wytwarzania[/buff] o [buff](B)[/buff] na [buff](C)[/buff].\nZdobywasz [other](D) Sławy Wędkarskiej[/other].",
             "TR-TR": "[buff](A)[/buff] boyunca [buff]Zanaat Hızı'nı[/buff] [buff](B)[/buff] ve [buff]Zanaat Kalitesi'ni[/buff] [buff](C)[/buff] artırır.\n[other](D) Balıkçılık Namı[/other] kazanırsın.",
             "ID-ID": "Menambah [buff]Kualitas Crafting[/buff] hingga [buff](A)[/buff] dan [buff]Kualitas Crafting[/buff] hingga [buff](B)[/buff] selama [buff](C)[/buff].\nDapatkan [other](D) Ketenaran Memancing[/other].",
             "FR-FR": "Augmente votre [buff]vitesse de fabrication[/buff] de [buff](A)[/buff] et [buff]qualité de fabrication[/buff] de [buff](B)[/buff] pendant [buff](C)[/buff].\nObtenez [other](D) renommée de pêche[/other].",
@@ -2050,7 +2050,7 @@
     "enchantmentLevel": 0,
     "categoryId": "cooked",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -2158,7 +2158,7 @@
           "uniqueName": "FOOD_FISH_LOAD_GATHER_P3",
           "uiAtlas": null,
           "uiSprite": "SPELL_PIE_FISH",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_FOOD_FISH_LOAD_GATHER",
           "descriptionLocaTag": "@SPELLS_FOOD_FISH_LOAD_GATHER_DESC",
           "localizedNames": {
@@ -2297,7 +2297,7 @@
     "enchantmentLevel": 0,
     "categoryId": "cooked",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -2405,7 +2405,7 @@
           "uniqueName": "FOOD_BUFF_DMG_AVALON_P3",
           "uiAtlas": null,
           "uiSprite": "SPELL_STEW",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_FOOD_BUFF_DMG_AVALON",
           "descriptionLocaTag": "@SPELLS_FOOD_BUFF_DMG_AVALON_DESC",
           "localizedNames": {
@@ -2426,21 +2426,21 @@
             "ZH-CN": "阿瓦隆炖肉"
           },
           "localizedDescriptions": {
-            "IT-IT": "Aumenta tutti i [buff]danni[/buff] che infliggi del [buff](A)[/buff] e la tua [buff]rigenerazione della salute[/buff] del [buff](B)[/buff] per [buff](C)[/buff].",
-            "RU-RU": "Увеличивает весь наносимый вами [buff]урон[/buff] на [buff](A)[/buff], а также ваше [buff]восстановление здоровья[/buff] на [buff](B)[/buff] в течение [buff](C)[/buff].",
-            "PL-PL": "Zwiększa wszystkie zadawane przez ciebie [buff]obrażenia[/buff] o [buff](A)[/buff] i twoją [buff]regenerację Zdrowia[/buff] o [buff](B)[/buff], przez [buff](C)[/buff].",
-            "TR-TR": "[buff](A)[/buff] boyunca verdiğin tüm [buff]hasarı[/buff] [buff](B)[/buff] ve [buff]Sağlık Yenileme'ni[/buff] [buff](C)[/buff] artırır.",
-            "ID-ID": "Menambah semua [buff]damage[/buff] yang kamu hasilkan hingga [buff](A)[/buff], dan [buff]Regenerasi HP[/buff] hingga [buff](B)[/buff], selama [buff](C)[/buff].",
-            "FR-FR": "Augmente tous vos [buff]dégâts[/buff] infligés de [buff](A)[/buff], ainsi que votre [buff]régénération de santé[/buff] de [buff](B)[/buff], pendant [buff](C)[/buff].",
-            "JA-JP": "[buff](A)[/buff]の間、あなたの全ての[buff]ダメージ[/buff]を[buff](B)[/buff]上昇させ、[buff]体力再生[/buff]を[buff](C)[/buff]上昇させます。",
-            "EN-US": "Increases all [buff]damage[/buff] you deal by [buff](A)[/buff], and your [buff]Health Regeneration[/buff] by [buff](B)[/buff], for [buff](C)[/buff].",
-            "DE-DE": "Steigert für [buff](A)[/buff] allen von dir angerichteten [buff]Schaden[/buff] um [buff](B)[/buff] und deine [buff]Lebensregeneration[/buff] um [buff](C)[/buff].",
-            "AR-SA": "تزيد من كل [buff]الأضرار[/buff] المُلحقة من جانبك بمقدار [buff](A)[/buff] ومن [buff]تجديد الصحة[/buff] بمقدار [buff](B)[/buff] لمدة [buff](C)[/buff].",
-            "KO-KR": "[buff](A)[/buff] 동안 자신이 가하는 [buff]대미지[/buff]를 [buff](B)[/buff] 만큼, 그리고 [buff]체력 회복[/buff]을 [buff](C)[/buff] 만큼 증가시킵니다.",
-            "PT-BR": "Aumenta todo o [buff]dano[/buff] que você causa em [buff](A)[/buff], e sua [buff]Regeneração de Vida[/buff] em [buff](B)[/buff], por [buff](C)[/buff].",
-            "ZH-TW": "使自身造成的所有[buff]傷害[/buff]增加[buff](A)[/buff]、[buff]生命值回復速度[/buff]增加[buff](B)[/buff]，持續[buff](C)[/buff]。",
-            "ES-ES": "Incrementa todo tu [buff]daño[/buff] en [buff](A)[/buff] y tu [buff]regeneración de salud[/buff] en [buff](B)[/buff] por [buff](C)[/buff].",
-            "ZH-CN": "你的[buff]伤害[/buff]输出提高[buff](A)[/buff]，[buff]生命恢复速度[/buff]提高[buff](B)[/buff]，持续[buff](C)[/buff]。"
+            "IT-IT": "Aumenta tutti i [buff]danni[/buff] che infliggi del [buff](A)[/buff] e la tua [buff]Rigenerazione della Salute[/buff] fuori dal combattimento del [buff](B)[/buff] per [buff](C)[/buff].",
+            "RU-RU": "Увеличивает весь наносимый вами [buff]урон[/buff] на [buff](A)[/buff] и ваше [buff]восстановление здоровья[/buff] вне боя на [buff](B)[/buff] в течение [buff](C)[/buff].",
+            "PL-PL": "Zwiększa zadawane [buff]obrażenia[/buff] o [buff](A)[/buff] oraz [buff]Regenerację Zdrowia[/buff] poza walką o [buff](B)[/buff] na [buff](C)[/buff].",
+            "TR-TR": "[buff](A)[/buff] boyunca verdiğin tüm [buff]hasarı[/buff] [buff](B)[/buff] ve savaş dışındaki [buff]Sağlık Yenilemeni[/buff] [buff](C)[/buff] artırır.",
+            "ID-ID": "Menambah semua [buff]damage[/buff] yang kamu hasilkan sebesar [buff](A)[/buff], dan [buff]Regenerasi HP[/buff] kamu di luar pertempuran sebesar [buff](B)[/buff], selama [buff](C)[/buff].",
+            "FR-FR": "Augmente tous les [buff]dégâts[/buff] que vous infligez de [buff](A)[/buff], ainsi que votre [buff]Régénération de Santé[/buff] en dehors des combats de [buff](B)[/buff] pendant [buff](C)[/buff].",
+            "JA-JP": "自分が与えるすべての[buff]ダメージ[/buff]を[buff](A)[/buff]増加させ、戦闘外の時、[buff](B)[/buff]間、[buff]体力再生[/buff]が[buff](C)[/buff]増加する。",
+            "EN-US": "Increases all [buff]damage[/buff] you deal by [buff](A)[/buff], and your [buff]Health Regeneration[/buff] outside of combat by [buff](B)[/buff], for [buff](C)[/buff].",
+            "DE-DE": "Steigert sämtlichen [buff]Schaden[/buff], den du zufügst, um [buff](A)[/buff] und deine [buff]Lebensregeneration[/buff] außerhalb von Kämpfen um [buff](B)[/buff] für [buff](C)[/buff].",
+            "AR-SA": "يزيد كل [buff]الضرر[/buff] الذي تتعامل معه بمقدار [buff](A)[/buff]، و[buff]تجديد صحتك[/buff] خارج القتال بمقدار [buff](B)[/buff]، مقابل [buff](C)[/buff].",
+            "KO-KR": "[buff](A)[/buff] 동안 자신이 가하는 모든 [buff]대미지[/buff]를 [buff](B)[/buff]만큼, 그리고 전투 이외 상황에서 [buff]체력 재생[/buff]을 [buff](C)[/buff]만큼 증가시킵니다.",
+            "PT-BR": "Aumenta todo o [buff]dano[/buff] que você causa em [buff](A)[/buff], e sua [buff]Regeneração de Vida[/buff] fora de combate em [buff](B)[/buff], por [buff](C)[/buff].",
+            "ZH-TW": "使您造成的所有[buff]傷害[/buff]增加[buff](A)[/buff]，不在戰鬥狀態時[buff]生命值恢復[/buff]增加[buff](B)[/buff]，持續[buff](C)[/buff]。",
+            "ES-ES": "Incrementa todo el [buff]daño[/buff] que infliges en [buff](A)[/buff] y tu [buff]Regeneración de Salud[/buff] fuera de combate en [buff](B)[/buff] durante [buff](C)[/buff].",
+            "ZH-CN": "使你造成的所有[buff]伤害[/buff]提高[buff](A)[/buff]，不在战斗状态时[buff]生命恢复速度[/buff]提高[buff](B)[/buff]，持续[buff](C)[/buff]。"
           },
           "target": "self",
           "castingTime": 0.8,
@@ -2544,7 +2544,7 @@
     "enchantmentLevel": 0,
     "categoryId": "cooked",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -2652,7 +2652,7 @@
           "uniqueName": "FOOD_BUFF_CASTSPEED_CDR_AVALON_P1",
           "uiAtlas": null,
           "uiSprite": "SPELL_OMELETT",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_FOOD_BUFF_CASTSPEED_CDR_AVALON",
           "descriptionLocaTag": "@SPELLS_FOOD_BUFF_CASTSPEED_CDR_AVALON_V2_DESC",
           "localizedNames": {
@@ -2784,7 +2784,7 @@
     "enchantmentLevel": 0,
     "categoryId": "cooked",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -2892,7 +2892,7 @@
           "uniqueName": "FOOD_FISH_BUFF_CASTSPEED_CDR_P3",
           "uiAtlas": null,
           "uiSprite": "SPELL_OMELETTE_FISH",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_FOOD_FISH_BUFF_CASTSPEED_CDR",
           "descriptionLocaTag": "@SPELLS_FOOD_FISH_BUFF_CASTSPEED_CDR_V2_DESC",
           "localizedNames": {
@@ -2908,7 +2908,7 @@
             "AR-SA": "عجة السلطعون",
             "KO-KR": "게 오믈렛",
             "PT-BR": "Omelete de Caranguejo",
-            "ZH-TW": "螃蟹���姆蛋",
+            "ZH-TW": "螃蟹歐姆蛋",
             "ES-ES": "Tortilla de cangrejo",
             "ZH-CN": "螃蟹蛋饼"
           },
@@ -3017,7 +3017,7 @@
     "enchantmentLevel": 0,
     "categoryId": "cooked",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -3125,7 +3125,7 @@
           "uniqueName": "FOOD_FISH_BUFF_DMG_P5",
           "uiAtlas": null,
           "uiSprite": "SPELL_STEW_FISH",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_FOOD_FISH_BUFF_DMG",
           "descriptionLocaTag": "@SPELLS_FOOD_FISH_BUFF_DMG_V2_DESC",
           "localizedNames": {
@@ -3152,7 +3152,7 @@
             "TR-TR": "[buff](A)[/buff] boyunca verdiğin tüm [buff]hasarı[/buff] [buff](B)[/buff] ve [buff]Bekleme Dolma Hızı'nı[/buff] [buff](C)[/buff] artırır.",
             "ID-ID": "Meningkatkan semua [buff]damage[/buff] yang kamu berikan sebesar [buff](A)[/buff] dan [buff]Laju Cooldown[/buff] kamu sebesar [buff](B)[/buff] selama [buff](C)[/buff].",
             "FR-FR": "Augmente tous les [buff]dégâts[/buff] que vous infligez de [buff](A)[/buff] et votre [buff]vitesse de recharge[/buff] de [buff](B)[/buff] pendant [buff](C)[/buff].",
-            "JA-JP": "[buff](A)[/buff]の自分が与えるすべての[buff]ダメージ[/buff]を[buff](B)[/buff]増加させ、自分の[buff]クールダウン率[/buff]を[buff](C)[/buff]増加させる。",
+            "JA-JP": "[buff](A)[/buff]の自分が与えるすべての[buff]ダメージ[/buff]を[buff](B)[/buff]増加させ、自分の[buff]クールダウン率[/buff]を[buff](C)[/buff]���加させる。",
             "EN-US": "Increases all [buff]damage[/buff] you deal by [buff](A)[/buff] and your [buff]Cooldown Rate[/buff] by [buff](B)[/buff] for [buff](C)[/buff].",
             "DE-DE": "Steigert für [buff](A)[/buff] allen von dir angerichteten [buff]Schaden[/buff] um [buff](B)[/buff] und deine [buff]Abklingrate[/buff] um [buff](C)[/buff].",
             "AR-SA": "تزيد من كل [buff]الأضرار[/buff] المُلحقة من جانبك بمقدار [buff](A)[/buff] ومن [buff]معدل فترات الانتظار[/buff] بمقدار [buff](B)[/buff] لمدة [buff](C)[/buff].",
@@ -3264,7 +3264,7 @@
     "enchantmentLevel": 0,
     "categoryId": "cooked",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -3360,7 +3360,7 @@
           "uniqueName": "FOOD_BUFF_MAXHP_P1",
           "uiAtlas": null,
           "uiSprite": "SPELL_SANDWICH",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_FOOD_BUFF_MAXHP",
           "descriptionLocaTag": "@SPELLS_FOOD_BUFF_MAXHP_DESC",
           "localizedNames": {
@@ -3471,7 +3471,7 @@
     "enchantmentLevel": 0,
     "categoryId": "fish",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": null,
     "activeSlots": {
       "1": [
@@ -3480,7 +3480,7 @@
           "uniqueName": "FOOD_FISH_SALTWATER_8_RAW",
           "uiAtlas": null,
           "uiSprite": "FOOD_FISH_BUFF",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": null,
           "descriptionLocaTag": "@SPELLS_FOOD_FISH_COMMON_RAW_T8_DESC",
           "localizedNames": {
@@ -3490,7 +3490,7 @@
             "TR-TR": "Çelikpullu Kılıç Balığı",
             "ID-ID": "Todak Sisik Besi",
             "FR-FR": "Espadon aciécailles",
-            "JA-JP": "スチールスケールソードフィッシュ",
+            "JA-JP": "スチールスケ���ルソードフィッシュ",
             "EN-US": "Steelscale Swordfish",
             "DE-DE": "Stahlschuppenschwertfisch",
             "AR-SA": "سمكة أبو سيف فولاذية",
@@ -3598,7 +3598,7 @@
     "enchantmentLevel": 0,
     "categoryId": "cooked",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -3706,7 +3706,7 @@
           "uniqueName": "FOOD_FISH_BUFF_MAXHP_P3",
           "uiAtlas": null,
           "uiSprite": "SPELL_SANDWICH_FISH",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_FOOD_FISH_BUFF_MAXHP",
           "descriptionLocaTag": "@SPELLS_FOOD_FISH_BUFF_MAXHP_V2_DESC",
           "localizedNames": {
@@ -3730,7 +3730,7 @@
             "IT-IT": "Aumenta la tua [buff]Salute massima[/buff] del [buff](A)[/buff] e le [buff]cure ricevute[/buff] del [buff](B)[/buff] per [buff](C)[/buff].",
             "RU-RU": "Увеличивает ваше [buff]максимальное здоровье[/buff] на [buff](A)[/buff] и [buff]получаемое вами исцеление[/buff] на [buff](B)[/buff] в течение [buff](C)[/buff].",
             "PL-PL": "Zwiększa twoje [buff]Maksymalne Zdrowie[/buff] o [buff](A)[/buff] i twoje [buff]Otrzymywane Leczenie[/buff] o [buff](B)[/buff] na [buff](C)[/buff].",
-            "TR-TR": "[buff](A)[/buff] boyunca [buff]azami sağlığını[/buff] [buff](B)[/buff] ve [buff]alınan iyileştirmeni[/buff] [buff](C)[/buff] artırır.",
+            "TR-TR": "[buff](A)[/buff] boyunca [buff]azami sağlığını[/buff] [buff](B)[/buff] ve [buff]al��nan iyileştirmeni[/buff] [buff](C)[/buff] artırır.",
             "ID-ID": "Meningkatkan [buff]HP Maks[/buff] kamu sebesar [buff](A)[/buff] dan [buff]Penyembuhan Diterima[/buff] kamu sebesar [buff](B)[/buff] selama [buff](C)[/buff].",
             "FR-FR": "Augmente votre [buff]santé maximale[/buff] de [buff](A)[/buff] et vos [buff]soins reçus[/buff] de [buff](B)[/buff] pendant [buff](C)[/buff].",
             "JA-JP": "[buff](A)[/buff]の間、自分の[buff]最大HP[/buff]を[buff](B)[/buff]増加させ、自分の[buff]受けた回復[/buff]を[buff](C)[/buff]増加させる。",
@@ -3824,7 +3824,7 @@
     "enchantmentLevel": 0,
     "categoryId": "cooked",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -3932,7 +3932,7 @@
           "uniqueName": "FOOD_FISH_BUFF_DMG_P3",
           "uiAtlas": null,
           "uiSprite": "SPELL_STEW_FISH",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_FOOD_FISH_BUFF_DMG",
           "descriptionLocaTag": "@SPELLS_FOOD_FISH_BUFF_DMG_V2_DESC",
           "localizedNames": {
@@ -4071,7 +4071,7 @@
     "enchantmentLevel": 0,
     "categoryId": "cooked",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -4167,7 +4167,7 @@
           "uniqueName": "FOOD_BUFF_MAXHP_P5",
           "uiAtlas": null,
           "uiSprite": "SPELL_SANDWICH",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_FOOD_BUFF_MAXHP",
           "descriptionLocaTag": "@SPELLS_FOOD_BUFF_MAXHP_DESC",
           "localizedNames": {
@@ -4278,7 +4278,7 @@
     "enchantmentLevel": 0,
     "categoryId": "cooked",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -4374,7 +4374,7 @@
           "uniqueName": "FOOD_LOAD_GATHER_P1",
           "uiAtlas": null,
           "uiSprite": "SPELL_PIE",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_FOOD_LOAD_GATHER",
           "descriptionLocaTag": "@SPELLS_FOOD_LOAD_GATHER_DESC",
           "localizedNames": {
@@ -4499,7 +4499,7 @@
     "enchantmentLevel": 0,
     "categoryId": "cooked",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -4595,7 +4595,7 @@
           "uniqueName": "FOOD_BUFF_LIFESTEAL_P5",
           "uiAtlas": null,
           "uiSprite": "SPELL_ROAST",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_FOOD_BUFF_LIFESTEAL",
           "descriptionLocaTag": "@SPELLS_FOOD_BUFF_LIFESTEAL_DESC",
           "localizedNames": {
@@ -4698,7 +4698,7 @@
     "enchantmentLevel": 0,
     "categoryId": "cooked",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -4794,7 +4794,7 @@
           "uniqueName": "FOOD_BUFF_DMG_P5",
           "uiAtlas": null,
           "uiSprite": "SPELL_STEW",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_FOOD_BUFF_DMG",
           "descriptionLocaTag": "@SPELLS_FOOD_BUFF_DMG_DESC",
           "localizedNames": {
@@ -4926,7 +4926,7 @@
     "enchantmentLevel": 0,
     "categoryId": "cooked",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -5034,7 +5034,7 @@
           "uniqueName": "FOOD_FISH_BUFF_LIFESTEAL_P5",
           "uiAtlas": null,
           "uiSprite": "SPELL_ROAST_FISH",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_FOOD_FISH_BUFF_LIFESTEAL",
           "descriptionLocaTag": "@SPELLS_FOOD_FISH_BUFF_LIFESTEAL_DESC",
           "localizedNames": {
@@ -5116,7 +5116,7 @@
       "EN-US": "Roasted Puremist Snapper",
       "DE-DE": "Gebratener Reinnebel Schnapper",
       "AR-SA": "سمك نهاش مشوي",
-      "KO-KR": "로스트 퓨어미스트 스내퍼",
+      "KO-KR": "로스트 퓨��미스트 스내퍼",
       "PT-BR": "Pargo Neblina-pura Assado",
       "ZH-TW": "烤純霧鯛魚",
       "ES-ES": "Pargo de niebla pura asado",
@@ -5145,7 +5145,7 @@
     "enchantmentLevel": 0,
     "categoryId": "cooked",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -5241,7 +5241,7 @@
           "uniqueName": "FOOD_FISH_BUFF_CASTSPEED_CDR_P1",
           "uiAtlas": null,
           "uiSprite": "SPELL_OMELETTE_FISH",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_FOOD_FISH_BUFF_CASTSPEED_CDR",
           "descriptionLocaTag": "@SPELLS_FOOD_FISH_BUFF_CASTSPEED_CDR_V2_DESC",
           "localizedNames": {
@@ -5366,7 +5366,7 @@
     "enchantmentLevel": 0,
     "categoryId": "fish",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": null,
     "activeSlots": {
       "1": [
@@ -5375,7 +5375,7 @@
           "uniqueName": "FOOD_FISH_HEALTH_REG_3_RAW",
           "uiAtlas": null,
           "uiSprite": "FOOD_FISH_BUFF",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": null,
           "descriptionLocaTag": "@SPELLS_FOOD_FISH_HEALTH_REG_RAW_DESC",
           "localizedNames": {
@@ -5391,7 +5391,7 @@
             "AR-SA": "محار بلاك بوغ",
             "KO-KR": "블랙보그 조개",
             "PT-BR": "Mexilhão do Brejo",
-            "ZH-TW": "黑沼蛤蜊",
+            "ZH-TW": "黑沼��蜊",
             "ES-ES": "Almeja de pantano negro",
             "ZH-CN": "黑沼蛤蜊"
           },
@@ -5486,7 +5486,7 @@
     "enchantmentLevel": 0,
     "categoryId": "cooked",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -5558,7 +5558,7 @@
           "uniqueName": "FOOD_HEALTH_REG_P1",
           "uiAtlas": null,
           "uiSprite": "SPELL_SOUP",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_FOOD_HEALTH_REG",
           "descriptionLocaTag": "@SPELLS_FOOD_HEALTH_REG_DESC",
           "localizedNames": {
@@ -5579,21 +5579,21 @@
             "ZH-CN": "蔬菜汤"
           },
           "localizedDescriptions": {
-            "IT-IT": "Aumenta la tua [buff]rigenerazione della salute[/buff] del [buff](A)[/buff] per [buff](B)[/buff].",
-            "RU-RU": "Увеличивает ваше [buff]восстановление здоровья[/buff] на [buff](A)[/buff] в течение [buff](B)[/buff].",
-            "PL-PL": "Zwiększa twoją [buff]regenerację Zdrowia[/buff] o [buff](A)[/buff] przez [buff](B)[/buff].",
-            "TR-TR": "[buff]Sağlık Yenileme'ni[/buff] [buff](A)[/buff] boyunca [buff](B)[/buff] artırır.",
-            "ID-ID": "Menambah [buff]Regenerasi HP[/buff] hingga [buff](A)[/buff] selama [buff](B)[/buff].",
-            "FR-FR": "Augmente votre [buff]régénération de santé[/buff] de [buff](A)[/buff] pendant [buff](B)[/buff].",
-            "JA-JP": "[buff](A)[/buff]の間、[buff]体力再生[/buff]を[buff](B)[/buff]上昇させます。",
-            "EN-US": "Increases your [buff]Health Regeneration[/buff] by [buff](A)[/buff] for [buff](B)[/buff].",
-            "DE-DE": "Steigert deine [buff]Lebensregeneration[/buff] für [buff](A)[/buff] um [buff](B)[/buff].",
-            "AR-SA": "تزيد من [buff]تجديد الصحة[/buff] بمقدار [buff](A)[/buff] لمدة [buff](B)[/buff].",
-            "KO-KR": "[buff](A)[/buff] 동안 [buff]체력 회복[/buff]을 [buff](B)[/buff] 만큼 증가시킵니다.",
-            "PT-BR": "Aumenta sua [buff]Regeneração de Vida[/buff] em [buff](A)[/buff] por [buff](B)[/buff].",
-            "ZH-TW": "使自身[buff]生命值回復速度[/buff]增加[buff](A)[/buff]，持續[buff](B)[/buff]。",
-            "ES-ES": "Incrementa tu [buff]regeneración de salud[/buff] en [buff](A)[/buff] por [buff](B)[/buff].",
-            "ZH-CN": "你的[buff]生命恢复速度[/buff]提高[buff](A)[/buff]，持续[buff](B)[/buff]。"
+            "IT-IT": "Aumenta la tua [buff]Rigenerazione della Salute[/buff] fuori dal combattimento del [buff](A)[/buff] per [buff](B)[/buff].",
+            "RU-RU": "Увеличивает ваше [buff]восстановление здоровья[/buff] вне боя на [buff](A)[/buff] в течение [buff](B)[/buff].",
+            "PL-PL": "Zwiększa twoją [buff]Regenerację Zdrowia[/buff] poza walką o [buff](A)[/buff] na [buff](B)[/buff].",
+            "TR-TR": "Savaş dışındaki [buff]Sağlık Yenilemeni[/buff] [buff](A)[/buff] boyunca [buff](B)[/buff] artırır.",
+            "ID-ID": "Meningkatkan [buff]Regenerasi HP[/buff] kamu di luar pertempuran sebesar [buff](A)[/buff], selama [buff](B)[/buff].",
+            "FR-FR": "Augmente votre [buff]Régénération de Santé[/buff] en dehors des combats de [buff](A)[/buff] pendant [buff](B)[/buff].",
+            "JA-JP": "戦闘外の時、[buff](A)[/buff]間、[buff]体力再生[/buff]が[buff](B)[/buff]増加する。",
+            "EN-US": "Increases your [buff]Health Regeneration[/buff] outside of combat by [buff](A)[/buff] for [buff](B)[/buff].",
+            "DE-DE": "Steigert deine [buff]Lebensregeneration[/buff] außerhalb von Kämpfen um [buff](A)[/buff] für [buff](B)[/buff].",
+            "AR-SA": "تزيد من [buff]تجديد صحتك[/buff] خارج القتال بمقدار [buff](A)[/buff] لمدة [buff](B)[/buff].",
+            "KO-KR": "[buff](A)[/buff] 동안 전투 이외 상황에서 [buff]체력 재생[/buff]을 [buff](B)[/buff]만큼 증가시킵니다.",
+            "PT-BR": "Aumenta sua [buff]Regeneração de Vida[/buff] fora de combate em [buff](A)[/buff] por [buff](B)[/buff].",
+            "ZH-TW": "使您不在戰鬥狀態時[buff]生命值恢復[/buff]增加[buff](A)[/buff]，持續[buff](B)[/buff]。",
+            "ES-ES": "Incrementa tu [buff]Regeneración de Salud[/buff] fuera de combate en [buff](A)[/buff] durante [buff](B)[/buff].",
+            "ZH-CN": "使你不在战斗状态时[buff]生命恢复速度[/buff]提高[buff](A)[/buff]，持续[buff](B)[/buff]。"
           },
           "target": "self",
           "castingTime": 0.8,
@@ -5669,7 +5669,7 @@
     "enchantmentLevel": 0,
     "categoryId": "cooked",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -5777,7 +5777,7 @@
           "uniqueName": "FOOD_FISH_LOAD_GATHER_P5",
           "uiAtlas": null,
           "uiSprite": "SPELL_PIE_FISH",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_FOOD_FISH_LOAD_GATHER",
           "descriptionLocaTag": "@SPELLS_FOOD_FISH_LOAD_GATHER_DESC",
           "localizedNames": {
@@ -5916,7 +5916,7 @@
     "enchantmentLevel": 0,
     "categoryId": "fish",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": null,
     "activeSlots": {
       "1": [
@@ -5925,7 +5925,7 @@
           "uniqueName": "FOOD_FISH_FRESHWATER_6_RAW",
           "uiAtlas": null,
           "uiSprite": "FOOD_FISH_BUFF",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": null,
           "descriptionLocaTag": "@SPELLS_FOOD_FISH_COMMON_RAW_DESC",
           "localizedNames": {
@@ -5946,21 +5946,21 @@
             "ZH-CN": "亮鳞梭鲈"
           },
           "localizedDescriptions": {
-            "IT-IT": "Aumenta la tua [buff]rigenerazione della salute[/buff] del [buff](A)[/buff] per [buff](B)[/buff].\nOttieni [other](C) fama di pesca[/other].",
-            "RU-RU": "Увеличивает ваше [buff]восстановление здоровья[/buff] на [buff](A)[/buff] в течение [buff](B)[/buff].\nДобавляет [other](C) рыболовной славы[/other].",
-            "PL-PL": "Zwiększa twoją [buff]Regenerację Zdrowia[/buff] o [buff](A)[/buff] na [buff](B)[/buff].\nZdobywasz [other](C) Sławy Wędkarskiej[/other].",
-            "TR-TR": "[buff]Sağlık Yenileme'ni[/buff] [buff](A)[/buff] boyunca [buff](B)[/buff] artırır.\n[other](C) Balıkçılık Namı[/other] kazanırsın.",
-            "ID-ID": "Menambah [buff]Regenerasi HP[/buff] hingga [buff](A)[/buff] selama [buff](B)[/buff].\nDapatkan [other](C) Ketenaran Memancing[/other].",
-            "FR-FR": "Augmente votre [buff]régénération de santé[/buff] de [buff](A)[/buff] pendant [buff](B)[/buff].\nObtenez [other](C) renommée de pêche[/other].",
-            "JA-JP": "[buff](A)[/buff]の間、[buff]体力再生[/buff]を[buff](B)[/buff]上昇させます。\n[other](C)の釣り名声[/other]を獲得します。",
-            "EN-US": "Increases your [buff]Health Regeneration[/buff] by [buff](A)[/buff] for [buff](B)[/buff].\nGain [other](C) Fishing Fame[/other].",
-            "DE-DE": "Steigert deine [buff]Lebensregeneration[/buff] für [buff](A)[/buff] um [buff](B)[/buff].\nErhalte [other](C) Angel-Ruhm[/other].",
-            "AR-SA": "تزيد من [buff]تجديد الصحة[/buff] بمقدار [buff](A)[/buff] لمدة [buff](B)[/buff].\nيمكن الحصول على [other](C) من نقاط خبرة الصيد[/other].",
-            "KO-KR": "[buff](A)[/buff] 동안 [buff]체력 재생량[/buff]을 [buff](B)[/buff] 만큼 증가시킵니다.\n[other](C)의 낚시 명성[/other]을 얻습니다.",
-            "PT-BR": "Aumenta sua [buff]Regeneração de Vida[/buff] em [buff](A)[/buff] por [buff](B)[/buff].\nGanha [other](C) de Fama de Pesca[/other].",
-            "ZH-TW": "使自身[buff]生命值回復速度[/buff]增加[buff](A)[/buff]，持續[buff](B)[/buff]。\n獲得[other](C)點釣魚聲望[/other]。",
-            "ES-ES": "Incrementa tu [buff]regeneración de salud[/buff] en [buff](A)[/buff] por [buff](B)[/buff].\nGana [other](C) de fama de pescador[/other].",
-            "ZH-CN": "你的[buff]生命回复速度[/buff]提高[buff](A)[/buff]，持续[buff](B)[/buff]。\n获得[other](C)钓鱼声望[/other]。"
+            "IT-IT": "Aumenta la tua [buff]Rigenerazione della Salute[/buff] fuori dal combattimento del [buff](A)[/buff] per [buff](B)[/buff].\nOttieni [other](C) Fama da Pesca[/other].",
+            "RU-RU": "��величивает ваше [buff]восстановление здоровья[/buff] вне боя на [buff](A)[/buff] в течение [buff](B)[/buff].\nДобавляет [other](C) рыболовной славы[/other].",
+            "PL-PL": "Zwiększa twoją [buff]Regenerację Zdrowia[/buff] poza walką o [buff](A)[/buff] na [buff](B)[/buff].\nZyskujesz [other](C) Sławy Rybackiej[/other].",
+            "TR-TR": "Savaş dışındaki [buff]Sağlık Yenilemeni[/buff] [buff](A)[/buff] boyunca [buff](B)[/buff] artırır.\n[other](C) Balıkçılık Namı[/other] kazanırsın.",
+            "ID-ID": "Meningkatkan [buff]Regenerasi HP[/buff] kamu di luar pertempuran sebesar [buff](A)[/buff], selama [buff](B)[/buff].\nDapatkan [other](C) Ketenaran Memancing[/other].",
+            "FR-FR": "Augmente votre [buff]Régénération de Santé[/buff] en dehors des combats de [buff](A)[/buff] pendant [buff](B)[/buff].\nObtenez [other](C) Renommée de Pêche[/other].",
+            "JA-JP": "戦闘外の時、[buff](A)[/buff]間、[buff]体力再生[/buff]が[buff](B)[/buff]増加する。\n[other](C)の釣り名声[/other]を獲得する。",
+            "EN-US": "Increases your [buff]Health Regeneration[/buff] outside of combat by [buff](A)[/buff] for [buff](B)[/buff].\nGain [other](C) Fishing Fame[/other].",
+            "DE-DE": "Steigert deine [buff]Lebensregeneration[/buff] außerhalb von Kämpfen um [buff](A)[/buff] für [buff](B)[/buff].\nErhalte [other](C) Angel-Ruhm[/other].",
+            "AR-SA": "تزيد من [buff]تجديد صحتك[/buff] خارج القتال بمقدار [buff](A)[/buff] لمدة [buff](B)[/buff].\nيمكن الحصول على [other](C) من نقاط خبرة اصطياد السمك[/other].",
+            "KO-KR": "[buff](A)[/buff] 동안 전투 이외 상황에서 [buff]체력 재생[/buff]을 [buff](B)[/buff]만큼 증가시킵니다.\n[other](C)의 낚시 명성[/other]을 얻습니다.",
+            "PT-BR": "Aumenta sua [buff]Regeneração de Vida[/buff] fora de combate em [buff](A)[/buff] por [buff](B)[/buff].\nGanha [other](C) de Fama de Pesca[/other].",
+            "ZH-TW": "使您不在戰鬥狀態時[buff]生命值恢復[/buff]增加[buff](A)[/buff]，持續[buff](B)[/buff]。\n獲得[other](C)點釣魚聲望[/other]。",
+            "ES-ES": "Incrementa tu [buff]Regeneración de Salud[/buff] fuera de combate en [buff](A)[/buff] durante [buff](B)[/buff].\nGana [other](C) de Fama de Pescador[/other].",
+            "ZH-CN": "使你不在战斗状态时[buff]生命恢复速度[/buff]提高[buff](A)[/buff]，持续[buff](B)[/buff]。\n获得[other](C)钓鱼声望[/other]。"
           },
           "target": "self",
           "castingTime": 0.8,
@@ -6036,7 +6036,7 @@
     "enchantmentLevel": 0,
     "categoryId": "cooked",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -6144,7 +6144,7 @@
           "uniqueName": "FOOD_BUFF_MAXHP_AVALON_P1",
           "uiAtlas": null,
           "uiSprite": "SPELL_SANDWICH",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_FOOD_BUFF_MAXHP_AVALON",
           "descriptionLocaTag": "@SPELLS_FOOD_BUFF_MAXHP_AVALON_DESC",
           "localizedNames": {
@@ -6232,7 +6232,7 @@
     "localizedNames": {
       "IT-IT": "Panino con capra avaloniano",
       "RU-RU": "Авалонский сэндвич с козлятиной",
-      "PL-PL": "Awalońska Kanapka z Wołowiną",
+      "PL-PL": "Awalońska Kanapka z Koziną",
       "TR-TR": "Avalon Keçi Sandviçi",
       "ID-ID": "Roti Lapis Kambing Avalonian",
       "FR-FR": "Sandwich à la chèvre avalonien",
@@ -6269,7 +6269,7 @@
     "enchantmentLevel": 0,
     "categoryId": "fish",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": null,
     "activeSlots": {
       "1": [
@@ -6278,7 +6278,7 @@
           "uniqueName": "FOOD_FISH_LOAD_GATHER_2_RAW",
           "uiAtlas": null,
           "uiSprite": "FOOD_FISH_BUFF",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": null,
           "descriptionLocaTag": "@SPELLS_FOOD_FISH_LOAD_GATHER_RAW_DESC",
           "localizedNames": {
@@ -6396,7 +6396,7 @@
     "enchantmentLevel": 0,
     "categoryId": "cooked",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -6492,7 +6492,7 @@
           "uniqueName": "FOOD_FISH_BUFF_MAXHP_P1",
           "uiAtlas": null,
           "uiSprite": "SPELL_SANDWICH_FISH",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_FOOD_FISH_BUFF_MAXHP",
           "descriptionLocaTag": "@SPELLS_FOOD_FISH_BUFF_MAXHP_V2_DESC",
           "localizedNames": {
@@ -6577,7 +6577,7 @@
       "TR-TR": "Taşpınar Balığı Sandviçi",
       "ID-ID": "Roti Lapis Pengintai Aliran Berbatu",
       "FR-FR": "Sandwich à la loche pétrée",
-      "JA-JP": "ストーンストリーム・ラ��チャー・サンドイッチ",
+      "JA-JP": "ストーンストリーム・ラーチャー・サンドイッチ",
       "EN-US": "Stonestream Lurcher Sandwich",
       "DE-DE": "Steinbettlurch-Sandwich",
       "AR-SA": "شطيرة مترصد Stonestream",
@@ -6610,7 +6610,7 @@
     "enchantmentLevel": 0,
     "categoryId": "fish",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": null,
     "activeSlots": {
       "1": [
@@ -6619,7 +6619,7 @@
           "uniqueName": "FOOD_FISH_SALTWATER_3_RAW",
           "uiAtlas": null,
           "uiSprite": "FOOD_FISH_BUFF",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": null,
           "descriptionLocaTag": "@SPELLS_FOOD_FISH_COMMON_RAW_DESC",
           "localizedNames": {
@@ -6640,21 +6640,21 @@
             "ZH-CN": "平岸鲽鱼"
           },
           "localizedDescriptions": {
-            "IT-IT": "Aumenta la tua [buff]rigenerazione della salute[/buff] del [buff](A)[/buff] per [buff](B)[/buff].\nOttieni [other](C) fama di pesca[/other].",
-            "RU-RU": "Увеличивает ваше [buff]восстановление здоровья[/buff] на [buff](A)[/buff] в течение [buff](B)[/buff].\nДобавляет [other](C) рыболовной славы[/other].",
-            "PL-PL": "Zwiększa twoją [buff]Regenerację Zdrowia[/buff] o [buff](A)[/buff] na [buff](B)[/buff].\nZdobywasz [other](C) Sławy Wędkarskiej[/other].",
-            "TR-TR": "[buff]Sağlık Yenileme'ni[/buff] [buff](A)[/buff] boyunca [buff](B)[/buff] artırır.\n[other](C) Balıkçılık Namı[/other] kazanırsın.",
-            "ID-ID": "Menambah [buff]Regenerasi HP[/buff] hingga [buff](A)[/buff] selama [buff](B)[/buff].\nDapatkan [other](C) Ketenaran Memancing[/other].",
-            "FR-FR": "Augmente votre [buff]régénération de santé[/buff] de [buff](A)[/buff] pendant [buff](B)[/buff].\nObtenez [other](C) renommée de pêche[/other].",
-            "JA-JP": "[buff](A)[/buff]の間、[buff]体力再生[/buff]を[buff](B)[/buff]上昇させます。\n[other](C)の釣り名声[/other]を獲得します。",
-            "EN-US": "Increases your [buff]Health Regeneration[/buff] by [buff](A)[/buff] for [buff](B)[/buff].\nGain [other](C) Fishing Fame[/other].",
-            "DE-DE": "Steigert deine [buff]Lebensregeneration[/buff] für [buff](A)[/buff] um [buff](B)[/buff].\nErhalte [other](C) Angel-Ruhm[/other].",
-            "AR-SA": "تزيد من [buff]تجديد الصحة[/buff] بمقدار [buff](A)[/buff] لمدة [buff](B)[/buff].\nيمكن الحصول على [other](C) من نقاط خبرة الصيد[/other].",
-            "KO-KR": "[buff](A)[/buff] 동안 [buff]체력 재생량[/buff]을 [buff](B)[/buff] 만큼 증가시킵니다.\n[other](C)의 낚시 명성[/other]을 얻습니다.",
-            "PT-BR": "Aumenta sua [buff]Regeneração de Vida[/buff] em [buff](A)[/buff] por [buff](B)[/buff].\nGanha [other](C) de Fama de Pesca[/other].",
-            "ZH-TW": "使自身[buff]生命值回復速度[/buff]增加[buff](A)[/buff]，持續[buff](B)[/buff]。\n獲得[other](C)點釣魚聲望[/other]。",
-            "ES-ES": "Incrementa tu [buff]regeneración de salud[/buff] en [buff](A)[/buff] por [buff](B)[/buff].\nGana [other](C) de fama de pescador[/other].",
-            "ZH-CN": "你的[buff]生命回复速度[/buff]提高[buff](A)[/buff]，持续[buff](B)[/buff]。\n获得[other](C)钓鱼声望[/other]。"
+            "IT-IT": "Aumenta la tua [buff]Rigenerazione della Salute[/buff] fuori dal combattimento del [buff](A)[/buff] per [buff](B)[/buff].\nOttieni [other](C) Fama da Pesca[/other].",
+            "RU-RU": "Увеличивает ваше [buff]восстановление здоровья[/buff] вне боя на [buff](A)[/buff] в течение [buff](B)[/buff].\nДобавляет [other](C) рыболовной славы[/other].",
+            "PL-PL": "Zwiększa twoją [buff]Regenerację Zdrowia[/buff] poza walką o [buff](A)[/buff] na [buff](B)[/buff].\nZyskujesz [other](C) Sławy Rybackiej[/other].",
+            "TR-TR": "Savaş dışındaki [buff]Sağlık Yenilemeni[/buff] [buff](A)[/buff] boyunca [buff](B)[/buff] artırır.\n[other](C) Balıkçılık Namı[/other] kazanırsın.",
+            "ID-ID": "Meningkatkan [buff]Regenerasi HP[/buff] kamu di luar pertempuran sebesar [buff](A)[/buff], selama [buff](B)[/buff].\nDapatkan [other](C) Ketenaran Memancing[/other].",
+            "FR-FR": "Augmente votre [buff]Régénération de Santé[/buff] en dehors des combats de [buff](A)[/buff] pendant [buff](B)[/buff].\nObtenez [other](C) Renommée de Pêche[/other].",
+            "JA-JP": "戦闘外の時、[buff](A)[/buff]間、[buff]体力再生[/buff]が[buff](B)[/buff]増加する。\n[other](C)の釣り名声[/other]を獲得する。",
+            "EN-US": "Increases your [buff]Health Regeneration[/buff] outside of combat by [buff](A)[/buff] for [buff](B)[/buff].\nGain [other](C) Fishing Fame[/other].",
+            "DE-DE": "Steigert deine [buff]Lebensregeneration[/buff] außerhalb von Kämpfen um [buff](A)[/buff] für [buff](B)[/buff].\nErhalte [other](C) Angel-Ruhm[/other].",
+            "AR-SA": "تزيد من [buff]تجديد صحتك[/buff] خارج القتال بمقدار [buff](A)[/buff] لمدة [buff](B)[/buff].\nيمكن الحصول على [other](C) من نقاط خب��ة اصطياد السمك[/other].",
+            "KO-KR": "[buff](A)[/buff] 동안 전투 이외 상황에서 [buff]체력 재생[/buff]을 [buff](B)[/buff]만큼 증가시킵니다.\n[other](C)의 낚시 명성[/other]을 얻습니다.",
+            "PT-BR": "Aumenta sua [buff]Regeneração de Vida[/buff] fora de combate em [buff](A)[/buff] por [buff](B)[/buff].\nGanha [other](C) de Fama de Pesca[/other].",
+            "ZH-TW": "使您不在戰鬥狀態時[buff]生命值恢復[/buff]增加[buff](A)[/buff]，持續[buff](B)[/buff]。\n獲得[other](C)點釣魚聲望[/other]。",
+            "ES-ES": "Incrementa tu [buff]Regeneración de Salud[/buff] fuera de combate en [buff](A)[/buff] durante [buff](B)[/buff].\nGana [other](C) de Fama de Pescador[/other].",
+            "ZH-CN": "使你不在战斗状态时[buff]生命恢复速度[/buff]提高[buff](A)[/buff]，持续[buff](B)[/buff]。\n获得[other](C)钓鱼声望[/other]。"
           },
           "target": "self",
           "castingTime": 0.8,
@@ -6730,7 +6730,7 @@
     "enchantmentLevel": 0,
     "categoryId": "fish",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": null,
     "activeSlots": {
       "1": [
@@ -6739,7 +6739,7 @@
           "uniqueName": "FOOD_FISH_FRESHWATER_2_RAW",
           "uiAtlas": null,
           "uiSprite": "FOOD_FISH_BUFF",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": null,
           "descriptionLocaTag": "@SPELLS_FOOD_FISH_COMMON_RAW_DESC",
           "localizedNames": {
@@ -6760,21 +6760,21 @@
             "ZH-CN": "条纹鲤鱼"
           },
           "localizedDescriptions": {
-            "IT-IT": "Aumenta la tua [buff]rigenerazione della salute[/buff] del [buff](A)[/buff] per [buff](B)[/buff].\nOttieni [other](C) fama di pesca[/other].",
-            "RU-RU": "Увеличивает ваше [buff]восстановление здоровья[/buff] на [buff](A)[/buff] в течение [buff](B)[/buff].\nДобавляет [other](C) рыболовной славы[/other].",
-            "PL-PL": "Zwiększa twoją [buff]Regenerację Zdrowia[/buff] o [buff](A)[/buff] na [buff](B)[/buff].\nZdobywasz [other](C) Sławy Wędkarskiej[/other].",
-            "TR-TR": "[buff]Sağlık Yenileme'ni[/buff] [buff](A)[/buff] boyunca [buff](B)[/buff] artırır.\n[other](C) Balıkçılık Namı[/other] kazanırsın.",
-            "ID-ID": "Menambah [buff]Regenerasi HP[/buff] hingga [buff](A)[/buff] selama [buff](B)[/buff].\nDapatkan [other](C) Ketenaran Memancing[/other].",
-            "FR-FR": "Augmente votre [buff]régénération de santé[/buff] de [buff](A)[/buff] pendant [buff](B)[/buff].\nObtenez [other](C) renommée de pêche[/other].",
-            "JA-JP": "[buff](A)[/buff]の間、[buff]体力再生[/buff]を[buff](B)[/buff]上昇させます。\n[other](C)の釣り名声[/other]を獲得します。",
-            "EN-US": "Increases your [buff]Health Regeneration[/buff] by [buff](A)[/buff] for [buff](B)[/buff].\nGain [other](C) Fishing Fame[/other].",
-            "DE-DE": "Steigert deine [buff]Lebensregeneration[/buff] für [buff](A)[/buff] um [buff](B)[/buff].\nErhalte [other](C) Angel-Ruhm[/other].",
-            "AR-SA": "تزيد من [buff]تجديد الصحة[/buff] بمقدار [buff](A)[/buff] لمدة [buff](B)[/buff].\nيمكن الحصول على [other](C) من نقاط خبرة الصيد[/other].",
-            "KO-KR": "[buff](A)[/buff] 동안 [buff]체력 재생량[/buff]을 [buff](B)[/buff] 만큼 증가시킵니다.\n[other](C)의 낚시 명성[/other]을 얻습니다.",
-            "PT-BR": "Aumenta sua [buff]Regeneração de Vida[/buff] em [buff](A)[/buff] por [buff](B)[/buff].\nGanha [other](C) de Fama de Pesca[/other].",
-            "ZH-TW": "使自身[buff]生命值回復速度[/buff]增加[buff](A)[/buff]，持續[buff](B)[/buff]。\n獲得[other](C)點釣魚聲望[/other]。",
-            "ES-ES": "Incrementa tu [buff]regeneración de salud[/buff] en [buff](A)[/buff] por [buff](B)[/buff].\nGana [other](C) de fama de pescador[/other].",
-            "ZH-CN": "你的[buff]生命回复速度[/buff]提高[buff](A)[/buff]，持续[buff](B)[/buff]。\n获得[other](C)钓鱼声望[/other]。"
+            "IT-IT": "Aumenta la tua [buff]Rigenerazione della Salute[/buff] fuori dal combattimento del [buff](A)[/buff] per [buff](B)[/buff].\nOttieni [other](C) Fama da Pesca[/other].",
+            "RU-RU": "Увеличивает ваше [buff]восстановление здоровья[/buff] вне боя на [buff](A)[/buff] в течение [buff](B)[/buff].\nДобавляет [other](C) рыболовной славы[/other].",
+            "PL-PL": "Zwiększa twoją [buff]Regenerację Zdrowia[/buff] poza walką o [buff](A)[/buff] na [buff](B)[/buff].\nZyskujesz [other](C) Sławy Rybackiej[/other].",
+            "TR-TR": "Savaş dışındaki [buff]Sağlık Yenilemeni[/buff] [buff](A)[/buff] boyunca [buff](B)[/buff] artırır.\n[other](C) Balıkçılık Namı[/other] kazanırsın.",
+            "ID-ID": "Meningkatkan [buff]Regenerasi HP[/buff] kamu di luar pertempuran sebesar [buff](A)[/buff], selama [buff](B)[/buff].\nDapatkan [other](C) Ketenaran Memancing[/other].",
+            "FR-FR": "Augmente votre [buff]Régénération de Santé[/buff] en dehors des combats de [buff](A)[/buff] pendant [buff](B)[/buff].\nObtenez [other](C) Renommée de Pêche[/other].",
+            "JA-JP": "戦闘外の時、[buff](A)[/buff]間、[buff]体力再生[/buff]が[buff](B)[/buff]増加する。\n[other](C)の釣り名声[/other]を獲得する。",
+            "EN-US": "Increases your [buff]Health Regeneration[/buff] outside of combat by [buff](A)[/buff] for [buff](B)[/buff].\nGain [other](C) Fishing Fame[/other].",
+            "DE-DE": "Steigert deine [buff]Lebensregeneration[/buff] außerhalb von Kämpfen um [buff](A)[/buff] für [buff](B)[/buff].\nErhalte [other](C) Angel-Ruhm[/other].",
+            "AR-SA": "تزيد من [buff]تجديد صحتك[/buff] خارج القتال بمقدار [buff](A)[/buff] لمدة [buff](B)[/buff].\nيمكن الحصول على [other](C) من نقاط خبرة اصطياد السمك[/other].",
+            "KO-KR": "[buff](A)[/buff] 동안 전투 이외 상황에서 [buff]체력 재생[/buff]을 [buff](B)[/buff]만큼 증가시킵니다.\n[other](C)의 낚시 명성[/other]을 얻습니다.",
+            "PT-BR": "Aumenta sua [buff]Regeneração de Vida[/buff] fora de combate em [buff](A)[/buff] por [buff](B)[/buff].\nGanha [other](C) de Fama de Pesca[/other].",
+            "ZH-TW": "使您不在戰鬥狀態時[buff]生命值恢復[/buff]增加[buff](A)[/buff]，持續[buff](B)[/buff]。\n獲得[other](C)點釣魚聲望[/other]。",
+            "ES-ES": "Incrementa tu [buff]Regeneración de Salud[/buff] fuera de combate en [buff](A)[/buff] durante [buff](B)[/buff].\nGana [other](C) de Fama de Pescador[/other].",
+            "ZH-CN": "使你不在战斗状态时[buff]生命恢复速度[/buff]提高[buff](A)[/buff]，持续[buff](B)[/buff]。\n获得[other](C)钓鱼声望[/other]。"
           },
           "target": "self",
           "castingTime": 0.8,
@@ -6850,7 +6850,7 @@
     "enchantmentLevel": 0,
     "categoryId": "cooked",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -6934,7 +6934,7 @@
           "uniqueName": "FOOD_FISH_HEALTH_REG_P1",
           "uiAtlas": null,
           "uiSprite": "SPELL_SOUP_FISH",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_FOOD_FISH_HEALTH_REG",
           "descriptionLocaTag": "@SPELLS_FOOD_FISH_HEALTH_REG_DESC",
           "localizedNames": {
@@ -6955,21 +6955,21 @@
             "ZH-CN": "蛤蜊汤"
           },
           "localizedDescriptions": {
-            "IT-IT": "Aumenta la tua [buff]rigenerazione della salute[/buff] del [buff](A)[/buff] e la [buff]rigenerazione dell'energia[/buff] del [buff](B)[/buff] per [buff](C)[/buff].",
-            "RU-RU": "Увеличивает ваше [buff]восстановление здоровья[/buff] на [buff](A)[/buff], а также ваше [buff]восстановление энергии[/buff] на [buff](B)[/buff] в течение [buff](C)[/buff].",
-            "PL-PL": "Zwiększa twoją [buff]regenerację Zdrowia[/buff] o [buff](A)[/buff] i twoją [buff]regenerację Energii[/buff] o [buff](B)[/buff] przez [buff](C)[/buff].",
-            "TR-TR": "[buff](A)[/buff] boyunca [buff]Sağlık Yenileme'ni[/buff] [buff](B)[/buff] ve [buff]Enerji Yenileme'ni[/buff] [buff](C)[/buff] artırır.",
-            "ID-ID": "Menambah [buff]Regenerasi HP[/buff] hingga [buff](A)[/buff] dan [buff]Regenerasi Energi[/buff] hingga [buff](B)[/buff] selama [buff](C)[/buff].",
-            "FR-FR": "Augmente votre [buff]régénération de santé[/buff] de [buff](A)[/buff] et votre [buff]régénération d'énergie[/buff] de [buff](B)[/buff] pendant [buff](C)[/buff].",
-            "JA-JP": "[buff](A)[/buff]の間、[buff]体力再生[/buff]が[buff](B)[/buff]上昇し、[buff]エネルギー再生[/buff]が[buff](C)[/buff]上昇します。",
-            "EN-US": "Increases your [buff]Health Regeneration[/buff] by [buff](A)[/buff] and your [buff]Energy Regeneration[/buff] by [buff](B)[/buff] for [buff](C)[/buff].",
-            "DE-DE": "Steigert für [buff](A)[/buff] deine [buff]Lebensregeneration[/buff] um [buff](B)[/buff] und deine [buff]Energieregeneration[/buff] um [buff](C)[/buff].",
-            "AR-SA": "تزيد من [buff]تجديد الصحة[/buff] بمقدار [buff](A)[/buff] ومن [buff]تجديد الطاقة[/buff] بمقدار [buff](B)[/buff] لمدة [buff](C)[/buff].",
-            "KO-KR": "[buff](A)[/buff] 동안 [buff]체력 회복[/buff]을 [buff](B)[/buff] 만큼, 그리고 [buff]에너지 회복[/buff]을 [buff](C)[/buff] 만큼 증가시킵니다.",
-            "PT-BR": "Aumenta sua [buff]Regeneração de Vida[/buff] em [buff](A)[/buff] e sua [buff]Regeneração de Energia[/buff] em [buff](B)[/buff] por [buff](C)[/buff].",
-            "ZH-TW": "使自身[buff]生命值回復速度[/buff]增加[buff](A)[/buff]、[buff]能量回復速度[/buff]增加[buff](B)[/buff]，持續[buff](C)[/buff]。",
-            "ES-ES": "Incrementa tu [buff]regeneración de salud[/buff] en [buff](A)[/buff] y tu [buff]regeneración de energía[/buff] en [buff](B)[/buff] por [buff](C)[/buff].",
-            "ZH-CN": "你的[buff]生命恢复速度[/buff]提高[buff](A)[/buff]，[buff]能量恢复速度[/buff]提高[buff](B)[/buff]，持续[buff](C)[/buff] 。"
+            "IT-IT": "Aumenta la tua [buff]Rigenerazione della Salute[/buff] fuori dal combattimento del [buff](A)[/buff] e la [buff]Rigenerazione dell'Energia[/buff] del [buff](B)[/buff] per [buff](C)[/buff].",
+            "RU-RU": "Увеличивает ваше [buff]восстановление здоровья[/buff] вне боя на [buff](A)[/buff] и ваше [buff]восстановление энергии[/buff] на [buff](B)[/buff] в течение [buff](C)[/buff].",
+            "PL-PL": "Zwiększa twoją [buff]Regenerację Zdrowia[/buff] poza walką o [buff](A)[/buff] i twoją [buff]Regenerację Energii[/buff] o [buff](B)[/buff] na [buff](C)[/buff].",
+            "TR-TR": "[buff](A)[/buff] boyunca savaş dışındaki [buff]Sağlık Yenilemeni[/buff] [buff](B)[/buff] ve [buff]Enerji Yenilemeni[/buff] [buff](C)[/buff] artırır.",
+            "ID-ID": "Meningkatkan [buff]Regenerasi HP[/buff] kamu di luar pertempuran sebesar [buff](A)[/buff] dan [buff]Regenerasi Energi[/buff] kamu sebesar [buff](B)[/buff] selama [buff](C)[/buff].",
+            "FR-FR": "Augmente votre [buff]Régénération de Santé[/buff] en dehors des combats de [buff](A)[/buff] et votre [buff]Régénération d'Énergie[/buff] de [buff](B)[/buff] pendant [buff](C)[/buff].",
+            "JA-JP": "戦闘外の時、[buff](A)[/buff]間、[buff]体力再生[/buff]が[buff](B)[/buff]、[buff]エネルギー再生[/buff]が[buff](C)[/buff]増加する。",
+            "EN-US": "Increases your [buff]Health Regeneration[/buff] outside of combat by [buff](A)[/buff] and your [buff]Energy Regeneration[/buff] by [buff](B)[/buff] for [buff](C)[/buff].",
+            "DE-DE": "Steigert deine [buff]Lebensregeneration[/buff] außerhalb von Kämpfen um [buff](A)[/buff] und deine [buff]Energieregeneration[/buff] um [buff](B)[/buff]für [buff](C)[/buff].",
+            "AR-SA": "يزيد من [buff]تجديد صحتك[/buff] خارج القتال بمقدار [buff](A)[/buff] و [buff]تجديد طاقتك[/buff] بمقدار [buff](B)[/buff] لمدة [buff](C)[/buff].",
+            "KO-KR": "[buff](A)[/buff] 동안 전투 이외 상황에서 [buff]체력 재생[/buff]을 [buff](B)[/buff]만큼, 그리고 [buff]에너지 재생[/buff]을 [buff](C)[/buff]만큼 증가시킵니다.",
+            "PT-BR": "Aumenta sua [buff]Regeneração de Vida[/buff] fora de combate em [buff](A)[/buff] e sua [buff]Regeneração de Energia[/buff] em [buff](B)[/buff] por [buff](C)[/buff].",
+            "ZH-TW": "使您不在戰鬥狀態時[buff]生命值恢復[/buff]增加[buff](A)[/buff]，[buff]能量回復[/buff]增加[buff](B)[/buff]，持續[buff](C)[/buff]。",
+            "ES-ES": "Incrementa tu [buff]Regeneración de Salud[/buff] fuera de combate en [buff](A)[/buff] y tu [buff]Regeneración de Energía[/buff] en [buff](B)[/buff] durante [buff](C)[/buff].",
+            "ZH-CN": "使你不在战斗状态时[buff]生命恢复速度[/buff]提高[buff](A)[/buff]，[buff]能量回复速度[/buff]提高[buff](B)[/buff]，持续[buff](C)[/buff]。"
           },
           "target": "self",
           "castingTime": 0.8,
@@ -7052,7 +7052,7 @@
     "enchantmentLevel": 0,
     "categoryId": "fish",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": null,
     "activeSlots": {
       "1": [
@@ -7061,7 +7061,7 @@
           "uniqueName": "FOOD_FISH_BUFF_MAXHP_1_RAW",
           "uiAtlas": null,
           "uiSprite": "FOOD_FISH_BUFF",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": null,
           "descriptionLocaTag": "@SPELLS_FOOD_FISH_BUFF_MAXHP_RAW_DESC",
           "localizedNames": {
@@ -7092,7 +7092,7 @@
             "EN-US": "Increases your [buff]Healing Received[/buff] by [buff](A)[/buff] for [buff](B)[/buff].\nGain [other](C) Fishing Fame[/other].",
             "DE-DE": "Steigert deine [buff]empfangene Heilung[/buff] für [buff](A)[/buff] um [buff](B)[/buff].\nDu erhältst [other](C) Angel-Ruhm[/other].",
             "AR-SA": "تزيد من [buff]العلاج المُتلقى[/buff] بمقدار [buff](A)[/buff] لمدة [buff](B)[/buff].\nيمكن الحصول على [other](C) من نقاط خبرة الصيد[/other].",
-            "KO-KR": "[buff](A)[/buff] 동안 [buff]받는 회복량[/buff]이 [buff](B)[/buff] 만큼 증가합니다.\n[other](C)의 낚시 명성[/other]을 획득합니다.",
+            "KO-KR": "[buff](A)[/buff] 동안 [buff]받는 회복량[/buff]이 [buff](B)[/buff] 만큼 증���합니다.\n[other](C)의 낚시 명성[/other]을 획득합니다.",
             "PT-BR": "Aumenta sua [buff]Cura Recebida[/buff] em [buff](A)[/buff] por [buff](B)[/buff].\nGanha [other](C) de Fama de Pesca[/other].",
             "ZH-TW": "使您[buff]受到的治療[/buff]增加[buff](A)[/buff]，持續[buff](B)[/buff]。\n獲得[other](C)點釣魚聲望[/other]。",
             "ES-ES": "Incrementa la [buff]cura recibida[/buff] en [buff](A)[/buff] por [buff](B)[/buff].\nGana [other](C) de fama de pescador[/other].",
@@ -7172,7 +7172,7 @@
     "enchantmentLevel": 0,
     "categoryId": "fish",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": null,
     "activeSlots": {
       "1": [
@@ -7181,7 +7181,7 @@
           "uniqueName": "FOOD_FISH_FRESHWATER_7_RAW",
           "uiAtlas": null,
           "uiSprite": "FOOD_FISH_BUFF",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": null,
           "descriptionLocaTag": "@SPELLS_FOOD_FISH_COMMON_RAW_DESC",
           "localizedNames": {
@@ -7202,21 +7202,21 @@
             "ZH-CN": "垂嘴鲶鱼"
           },
           "localizedDescriptions": {
-            "IT-IT": "Aumenta la tua [buff]rigenerazione della salute[/buff] del [buff](A)[/buff] per [buff](B)[/buff].\nOttieni [other](C) fama di pesca[/other].",
-            "RU-RU": "Увеличивает ваше [buff]восстановление здоровья[/buff] на [buff](A)[/buff] в течение [buff](B)[/buff].\nДобавляет [other](C) рыболовной славы[/other].",
-            "PL-PL": "Zwiększa twoją [buff]Regenerację Zdrowia[/buff] o [buff](A)[/buff] na [buff](B)[/buff].\nZdobywasz [other](C) Sławy Wędkarskiej[/other].",
-            "TR-TR": "[buff]Sağlık Yenileme'ni[/buff] [buff](A)[/buff] boyunca [buff](B)[/buff] artırır.\n[other](C) Balıkçılık Namı[/other] kazanırsın.",
-            "ID-ID": "Menambah [buff]Regenerasi HP[/buff] hingga [buff](A)[/buff] selama [buff](B)[/buff].\nDapatkan [other](C) Ketenaran Memancing[/other].",
-            "FR-FR": "Augmente votre [buff]régénération de santé[/buff] de [buff](A)[/buff] pendant [buff](B)[/buff].\nObtenez [other](C) renommée de pêche[/other].",
-            "JA-JP": "[buff](A)[/buff]の間、[buff]体力再生[/buff]を[buff](B)[/buff]上昇させます。\n[other](C)の釣り名声[/other]を獲得します。",
-            "EN-US": "Increases your [buff]Health Regeneration[/buff] by [buff](A)[/buff] for [buff](B)[/buff].\nGain [other](C) Fishing Fame[/other].",
-            "DE-DE": "Steigert deine [buff]Lebensregeneration[/buff] für [buff](A)[/buff] um [buff](B)[/buff].\nErhalte [other](C) Angel-Ruhm[/other].",
-            "AR-SA": "تزيد من [buff]تجديد الصحة[/buff] بمقدار [buff](A)[/buff] لمدة [buff](B)[/buff].\nيمكن الحصول على [other](C) من نقاط خبرة الصيد[/other].",
-            "KO-KR": "[buff](A)[/buff] 동안 [buff]체력 재생량[/buff]을 [buff](B)[/buff] 만큼 증가시킵니다.\n[other](C)의 낚시 명성[/other]을 얻습니다.",
-            "PT-BR": "Aumenta sua [buff]Regeneração de Vida[/buff] em [buff](A)[/buff] por [buff](B)[/buff].\nGanha [other](C) de Fama de Pesca[/other].",
-            "ZH-TW": "使自身[buff]生命值回復速度[/buff]增加[buff](A)[/buff]，持續[buff](B)[/buff]。\n獲得[other](C)點釣魚聲望[/other]。",
-            "ES-ES": "Incrementa tu [buff]regeneración de salud[/buff] en [buff](A)[/buff] por [buff](B)[/buff].\nGana [other](C) de fama de pescador[/other].",
-            "ZH-CN": "你的[buff]生命回复速度[/buff]提高[buff](A)[/buff]，持续[buff](B)[/buff]。\n获得[other](C)钓鱼声望[/other]。"
+            "IT-IT": "Aumenta la tua [buff]Rigenerazione della Salute[/buff] fuori dal combattimento del [buff](A)[/buff] per [buff](B)[/buff].\nOttieni [other](C) Fama da Pesca[/other].",
+            "RU-RU": "Увеличивает ваше [buff]восстановление здоровья[/buff] вне боя на [buff](A)[/buff] в течение [buff](B)[/buff].\nДобавляет [other](C) рыболовной славы[/other].",
+            "PL-PL": "Zwiększa twoją [buff]Regenerację Zdrowia[/buff] poza walką o [buff](A)[/buff] na [buff](B)[/buff].\nZyskujesz [other](C) Sławy Rybackiej[/other].",
+            "TR-TR": "Savaş dışındaki [buff]Sağlık Yenilemeni[/buff] [buff](A)[/buff] boyunca [buff](B)[/buff] artırır.\n[other](C) Balıkçılık Namı[/other] kazanırsın.",
+            "ID-ID": "Meningkatkan [buff]Regenerasi HP[/buff] kamu di luar pertempuran sebesar [buff](A)[/buff], selama [buff](B)[/buff].\nDapatkan [other](C) Ketenaran Memancing[/other].",
+            "FR-FR": "Augmente votre [buff]Régénération de Santé[/buff] en dehors des combats de [buff](A)[/buff] pendant [buff](B)[/buff].\nObtenez [other](C) Renommée de Pêche[/other].",
+            "JA-JP": "戦闘外の時、[buff](A)[/buff]間、[buff]体力再生[/buff]が[buff](B)[/buff]増加する。\n[other](C)の釣り名声[/other]を獲得する。",
+            "EN-US": "Increases your [buff]Health Regeneration[/buff] outside of combat by [buff](A)[/buff] for [buff](B)[/buff].\nGain [other](C) Fishing Fame[/other].",
+            "DE-DE": "Steigert deine [buff]Lebensregeneration[/buff] außerhalb von Kämpfen um [buff](A)[/buff] für [buff](B)[/buff].\nErhalte [other](C) Angel-Ruhm[/other].",
+            "AR-SA": "تزيد من [buff]تجديد صحتك[/buff] خارج القتال بمقدار [buff](A)[/buff] لمدة [buff](B)[/buff].\nيمكن الحصول على [other](C) من نقاط خبرة اصطياد السمك[/other].",
+            "KO-KR": "[buff](A)[/buff] 동안 전투 이외 상황에서 [buff]체력 재생[/buff]을 [buff](B)[/buff]만큼 증가시킵니다.\n[other](C)의 낚시 명성[/other]을 얻습니다.",
+            "PT-BR": "Aumenta sua [buff]Regeneração de Vida[/buff] fora de combate em [buff](A)[/buff] por [buff](B)[/buff].\nGanha [other](C) de Fama de Pesca[/other].",
+            "ZH-TW": "使您不在戰鬥狀態時[buff]生命值恢復[/buff]增加[buff](A)[/buff]，持續[buff](B)[/buff]。\n獲得[other](C)點釣魚聲望[/other]。",
+            "ES-ES": "Incrementa tu [buff]Regeneración de Salud[/buff] fuera de combate en [buff](A)[/buff] durante [buff](B)[/buff].\nGana [other](C) de Fama de Pescador[/other].",
+            "ZH-CN": "使你不在战斗状态时[buff]生命恢复速度[/buff]提高[buff](A)[/buff]，持续[buff](B)[/buff]。\n获得[other](C)钓鱼声望[/other]。"
           },
           "target": "self",
           "castingTime": 0.8,
@@ -7292,7 +7292,7 @@
     "enchantmentLevel": 0,
     "categoryId": "cooked",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -7400,7 +7400,7 @@
           "uniqueName": "FOOD_LOAD_GATHER_P5",
           "uiAtlas": null,
           "uiSprite": "SPELL_PIE",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_FOOD_LOAD_GATHER",
           "descriptionLocaTag": "@SPELLS_FOOD_LOAD_GATHER_DESC",
           "localizedNames": {
@@ -7525,7 +7525,7 @@
     "enchantmentLevel": 0,
     "categoryId": "fish",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": null,
     "activeSlots": {
       "1": [
@@ -7534,7 +7534,7 @@
           "uniqueName": "FOOD_FISH_SALTWATER_6_RAW",
           "uiAtlas": null,
           "uiSprite": "FOOD_FISH_BUFF",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": null,
           "descriptionLocaTag": "@SPELLS_FOOD_FISH_COMMON_RAW_DESC",
           "localizedNames": {
@@ -7555,21 +7555,21 @@
             "ZH-CN": "健鳍鲑鱼"
           },
           "localizedDescriptions": {
-            "IT-IT": "Aumenta la tua [buff]rigenerazione della salute[/buff] del [buff](A)[/buff] per [buff](B)[/buff].\nOttieni [other](C) fama di pesca[/other].",
-            "RU-RU": "Увеличивает ваше [buff]восстановление здоровья[/buff] на [buff](A)[/buff] в течение [buff](B)[/buff].\nДобавляет [other](C) рыболовной славы[/other].",
-            "PL-PL": "Zwiększa twoją [buff]Regenerację Zdrowia[/buff] o [buff](A)[/buff] na [buff](B)[/buff].\nZdobywasz [other](C) Sławy Wędkarskiej[/other].",
-            "TR-TR": "[buff]Sağlık Yenileme'ni[/buff] [buff](A)[/buff] boyunca [buff](B)[/buff] artırır.\n[other](C) Balıkçılık Namı[/other] kazanırsın.",
-            "ID-ID": "Menambah [buff]Regenerasi HP[/buff] hingga [buff](A)[/buff] selama [buff](B)[/buff].\nDapatkan [other](C) Ketenaran Memancing[/other].",
-            "FR-FR": "Augmente votre [buff]régénération de santé[/buff] de [buff](A)[/buff] pendant [buff](B)[/buff].\nObtenez [other](C) renommée de pêche[/other].",
-            "JA-JP": "[buff](A)[/buff]の間、[buff]体力再生[/buff]を[buff](B)[/buff]上昇させます。\n[other](C)の釣り名声[/other]を獲得します。",
-            "EN-US": "Increases your [buff]Health Regeneration[/buff] by [buff](A)[/buff] for [buff](B)[/buff].\nGain [other](C) Fishing Fame[/other].",
-            "DE-DE": "Steigert deine [buff]Lebensregeneration[/buff] für [buff](A)[/buff] um [buff](B)[/buff].\nErhalte [other](C) Angel-Ruhm[/other].",
-            "AR-SA": "تزيد من [buff]تجديد الصحة[/buff] بمقدار [buff](A)[/buff] لمدة [buff](B)[/buff].\nيمكن الحصول على [other](C) من نقاط خبرة الصيد[/other].",
-            "KO-KR": "[buff](A)[/buff] 동안 [buff]체력 재생량[/buff]을 [buff](B)[/buff] 만큼 증가시킵니다.\n[other](C)의 낚시 명성[/other]을 얻습니다.",
-            "PT-BR": "Aumenta sua [buff]Regeneração de Vida[/buff] em [buff](A)[/buff] por [buff](B)[/buff].\nGanha [other](C) de Fama de Pesca[/other].",
-            "ZH-TW": "使自身[buff]生命值回復速度[/buff]增加[buff](A)[/buff]，持續[buff](B)[/buff]。\n獲得[other](C)點釣魚聲望[/other]。",
-            "ES-ES": "Incrementa tu [buff]regeneración de salud[/buff] en [buff](A)[/buff] por [buff](B)[/buff].\nGana [other](C) de fama de pescador[/other].",
-            "ZH-CN": "你的[buff]生命回复速度[/buff]提高[buff](A)[/buff]，持续[buff](B)[/buff]。\n获得[other](C)钓鱼声望[/other]。"
+            "IT-IT": "Aumenta la tua [buff]Rigenerazione della Salute[/buff] fuori dal combattimento del [buff](A)[/buff] per [buff](B)[/buff].\nOttieni [other](C) Fama da Pesca[/other].",
+            "RU-RU": "Увеличивает ваше [buff]восстановление здоровья[/buff] вне боя на [buff](A)[/buff] в течение [buff](B)[/buff].\nДобавляет [other](C) рыболовной славы[/other].",
+            "PL-PL": "Zwiększa twoją [buff]Regenerację Zdrowia[/buff] poza walką o [buff](A)[/buff] na [buff](B)[/buff].\nZyskujesz [other](C) Sławy Rybackiej[/other].",
+            "TR-TR": "Savaş dışındaki [buff]Sağlık Yenilemeni[/buff] [buff](A)[/buff] boyunca [buff](B)[/buff] artırır.\n[other](C) Balıkçılık Namı[/other] kazanırsın.",
+            "ID-ID": "Meningkatkan [buff]Regenerasi HP[/buff] kamu di luar pertempuran sebesar [buff](A)[/buff], selama [buff](B)[/buff].\nDapatkan [other](C) Ketenaran Memancing[/other].",
+            "FR-FR": "Augmente votre [buff]Régénération de Santé[/buff] en dehors des combats de [buff](A)[/buff] pendant [buff](B)[/buff].\nObtenez [other](C) Renommée de Pêche[/other].",
+            "JA-JP": "戦闘外の時、[buff](A)[/buff]間、[buff]体力再生[/buff]が[buff](B)[/buff]増加する。\n[other](C)の釣り名声[/other]を獲得する。",
+            "EN-US": "Increases your [buff]Health Regeneration[/buff] outside of combat by [buff](A)[/buff] for [buff](B)[/buff].\nGain [other](C) Fishing Fame[/other].",
+            "DE-DE": "Steigert deine [buff]Lebensregeneration[/buff] außerhalb von Kämpfen um [buff](A)[/buff] für [buff](B)[/buff].\nErhalte [other](C) Angel-Ruhm[/other].",
+            "AR-SA": "تزيد من [buff]تجديد صحتك[/buff] خارج القتال بمقدار [buff](A)[/buff] لمدة [buff](B)[/buff].\nيمكن الحصول على [other](C) من نقاط خبرة اصطياد السمك[/other].",
+            "KO-KR": "[buff](A)[/buff] 동안 전투 이외 상황에서 [buff]체력 재생[/buff]을 [buff](B)[/buff]만큼 증가시킵니다.\n[other](C)의 낚시 명성[/other]을 얻습니다.",
+            "PT-BR": "Aumenta sua [buff]Regeneração de Vida[/buff] fora de combate em [buff](A)[/buff] por [buff](B)[/buff].\nGanha [other](C) de Fama de Pesca[/other].",
+            "ZH-TW": "使您不在戰鬥狀態時[buff]生命值恢復[/buff]增加[buff](A)[/buff]，持續[buff](B)[/buff]。\n獲得[other](C)點釣魚聲望[/other]。",
+            "ES-ES": "Incrementa tu [buff]Regeneración de Salud[/buff] fuera de combate en [buff](A)[/buff] durante [buff](B)[/buff].\nGana [other](C) de Fama de Pescador[/other].",
+            "ZH-CN": "使你不在战斗状态时[buff]生命恢复速度[/buff]提高[buff](A)[/buff]，持续[buff](B)[/buff]。\n获得[other](C)钓鱼声望[/other]。"
           },
           "target": "self",
           "castingTime": 0.8,
@@ -7645,7 +7645,7 @@
     "enchantmentLevel": 0,
     "categoryId": "cooked",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -7753,7 +7753,7 @@
           "uniqueName": "FOOD_BUFF_MAXHP_AVALON_P3",
           "uiAtlas": null,
           "uiSprite": "SPELL_SANDWICH",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_FOOD_BUFF_MAXHP_AVALON",
           "descriptionLocaTag": "@SPELLS_FOOD_BUFF_MAXHP_AVALON_DESC",
           "localizedNames": {
@@ -7841,7 +7841,7 @@
     "localizedNames": {
       "IT-IT": "Panino con montone avaloniano",
       "RU-RU": "Авалонский сэндвич с бараниной",
-      "PL-PL": "Awalońska Kanapka z Wołowiną",
+      "PL-PL": "Awalońska Kanapka z Baraniną",
       "TR-TR": "Avalon Koyunu Sandviçi",
       "ID-ID": "Roti Lapis Daging Domba Avalonian",
       "FR-FR": "Sandwich au mouton avalonien",
@@ -7878,7 +7878,7 @@
     "enchantmentLevel": 0,
     "categoryId": "fish",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": null,
     "activeSlots": {
       "1": [
@@ -7887,7 +7887,7 @@
           "uniqueName": "FOOD_FISH_BUFF_MAXHP_3_RAW",
           "uiAtlas": null,
           "uiSprite": "FOOD_FISH_BUFF",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": null,
           "descriptionLocaTag": "@SPELLS_FOOD_FISH_BUFF_MAXHP_RAW_DESC",
           "localizedNames": {
@@ -7998,7 +7998,7 @@
     "enchantmentLevel": 0,
     "categoryId": "cooked",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -8106,7 +8106,7 @@
           "uniqueName": "FOOD_BUFF_MAXHP_AVALON_P5",
           "uiAtlas": null,
           "uiSprite": "SPELL_SANDWICH",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_FOOD_BUFF_MAXHP_AVALON",
           "descriptionLocaTag": "@SPELLS_FOOD_BUFF_MAXHP_AVALON_DESC",
           "localizedNames": {
@@ -8231,7 +8231,7 @@
     "enchantmentLevel": 0,
     "categoryId": "cooked",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -8327,7 +8327,7 @@
           "uniqueName": "FOOD_BUFF_CASTSPEED_CDR_P5",
           "uiAtlas": null,
           "uiSprite": "SPELL_OMELETT",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_FOOD_BUFF_CASTSPEED_CDR",
           "descriptionLocaTag": "@SPELLS_FOOD_BUFF_CASTSPEED_CDR_V2_DESC",
           "localizedNames": {
@@ -8445,7 +8445,7 @@
     "enchantmentLevel": 0,
     "categoryId": "cooked",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -8541,7 +8541,7 @@
           "uniqueName": "FOOD_BUFF_MAXHP_P3",
           "uiAtlas": null,
           "uiSprite": "SPELL_SANDWICH",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_FOOD_BUFF_MAXHP",
           "descriptionLocaTag": "@SPELLS_FOOD_BUFF_MAXHP_DESC",
           "localizedNames": {
@@ -8652,7 +8652,7 @@
     "enchantmentLevel": 0,
     "categoryId": "cooked",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -8736,7 +8736,7 @@
           "uniqueName": "FOOD_CRAFTING_P3",
           "uiAtlas": null,
           "uiSprite": "SPELL_SALAD",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_FOOD_CRAFTING",
           "descriptionLocaTag": "@SPELLS_FOOD_CRAFTING_DESC",
           "localizedNames": {
@@ -8854,7 +8854,7 @@
     "enchantmentLevel": 0,
     "categoryId": "fish",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": null,
     "activeSlots": {
       "1": [
@@ -8863,7 +8863,7 @@
           "uniqueName": "FOOD_FISH_HEALTH_REG_1_RAW",
           "uiAtlas": null,
           "uiSprite": "FOOD_FISH_BUFF",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": null,
           "descriptionLocaTag": "@SPELLS_FOOD_FISH_HEALTH_REG_RAW_DESC",
           "localizedNames": {
@@ -8974,7 +8974,7 @@
     "enchantmentLevel": 0,
     "categoryId": "cooked",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -9070,7 +9070,7 @@
           "uniqueName": "FOOD_BUFF_CASTSPEED_CDR_P1",
           "uiAtlas": null,
           "uiSprite": "SPELL_OMELETT",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_FOOD_BUFF_CASTSPEED_CDR",
           "descriptionLocaTag": "@SPELLS_FOOD_BUFF_CASTSPEED_CDR_V2_DESC",
           "localizedNames": {
@@ -9188,7 +9188,7 @@
     "enchantmentLevel": 0,
     "categoryId": "fish",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": null,
     "activeSlots": {
       "1": [
@@ -9197,7 +9197,7 @@
           "uniqueName": "FOOD_FISH_LOAD_GATHER_1_RAW",
           "uiAtlas": null,
           "uiSprite": "FOOD_FISH_BUFF",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": null,
           "descriptionLocaTag": "@SPELLS_FOOD_FISH_LOAD_GATHER_RAW_DESC",
           "localizedNames": {
@@ -9282,7 +9282,7 @@
       "TR-TR": "Yayla Buzgözü",
       "ID-ID": "Mata Dingin Dataran Tinggi",
       "FR-FR": "Sar noirtête",
-      "JA-JP": "���ップランド・コールドアイ",
+      "JA-JP": "アップランド・コールドアイ",
       "EN-US": "Upland Coldeye",
       "DE-DE": "Kaltauge",
       "AR-SA": "كولداي المرتفعات",
@@ -9315,7 +9315,7 @@
     "enchantmentLevel": 0,
     "categoryId": "cooked",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -9411,7 +9411,7 @@
           "uniqueName": "FOOD_BUFF_CASTSPEED_CDR_P3",
           "uiAtlas": null,
           "uiSprite": "SPELL_OMELETT",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_FOOD_BUFF_CASTSPEED_CDR",
           "descriptionLocaTag": "@SPELLS_FOOD_BUFF_CASTSPEED_CDR_V2_DESC",
           "localizedNames": {
@@ -9529,7 +9529,7 @@
     "enchantmentLevel": 0,
     "categoryId": "cooked",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -9625,7 +9625,7 @@
           "uniqueName": "FOOD_BUFF_LIFESTEAL_P1",
           "uiAtlas": null,
           "uiSprite": "SPELL_ROAST",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_FOOD_BUFF_LIFESTEAL",
           "descriptionLocaTag": "@SPELLS_FOOD_BUFF_LIFESTEAL_DESC",
           "localizedNames": {
@@ -9728,7 +9728,7 @@
     "enchantmentLevel": 0,
     "categoryId": "cooked",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -9800,7 +9800,7 @@
           "uniqueName": "FOOD_HEALTH_REG_P5",
           "uiAtlas": null,
           "uiSprite": "SPELL_SOUP",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_FOOD_HEALTH_REG",
           "descriptionLocaTag": "@SPELLS_FOOD_HEALTH_REG_DESC",
           "localizedNames": {
@@ -9821,21 +9821,21 @@
             "ZH-CN": "蔬菜汤"
           },
           "localizedDescriptions": {
-            "IT-IT": "Aumenta la tua [buff]rigenerazione della salute[/buff] del [buff](A)[/buff] per [buff](B)[/buff].",
-            "RU-RU": "Увеличивает ваше [buff]восстановление здоровья[/buff] на [buff](A)[/buff] в течение [buff](B)[/buff].",
-            "PL-PL": "Zwiększa twoją [buff]regenerację Zdrowia[/buff] o [buff](A)[/buff] przez [buff](B)[/buff].",
-            "TR-TR": "[buff]Sağlık Yenileme'ni[/buff] [buff](A)[/buff] boyunca [buff](B)[/buff] artırır.",
-            "ID-ID": "Menambah [buff]Regenerasi HP[/buff] hingga [buff](A)[/buff] selama [buff](B)[/buff].",
-            "FR-FR": "Augmente votre [buff]régénération de santé[/buff] de [buff](A)[/buff] pendant [buff](B)[/buff].",
-            "JA-JP": "[buff](A)[/buff]の間、[buff]体力再生[/buff]を[buff](B)[/buff]上昇させます。",
-            "EN-US": "Increases your [buff]Health Regeneration[/buff] by [buff](A)[/buff] for [buff](B)[/buff].",
-            "DE-DE": "Steigert deine [buff]Lebensregeneration[/buff] für [buff](A)[/buff] um [buff](B)[/buff].",
-            "AR-SA": "تزيد من [buff]تجديد الصحة[/buff] بمقدار [buff](A)[/buff] لمدة [buff](B)[/buff].",
-            "KO-KR": "[buff](A)[/buff] 동안 [buff]체력 회복[/buff]을 [buff](B)[/buff] 만큼 증가시킵니다.",
-            "PT-BR": "Aumenta sua [buff]Regeneração de Vida[/buff] em [buff](A)[/buff] por [buff](B)[/buff].",
-            "ZH-TW": "使自身[buff]生命值回復速度[/buff]增加[buff](A)[/buff]，持續[buff](B)[/buff]。",
-            "ES-ES": "Incrementa tu [buff]regeneración de salud[/buff] en [buff](A)[/buff] por [buff](B)[/buff].",
-            "ZH-CN": "你的[buff]生命恢复速度[/buff]提高[buff](A)[/buff]，持续[buff](B)[/buff]。"
+            "IT-IT": "Aumenta la tua [buff]Rigenerazione della Salute[/buff] fuori dal combattimento del [buff](A)[/buff] per [buff](B)[/buff].",
+            "RU-RU": "Увеличивает ваше [buff]восстановление здоровья[/buff] вне боя на [buff](A)[/buff] в течение [buff](B)[/buff].",
+            "PL-PL": "Zwiększa twoją [buff]Regenerację Zdrowia[/buff] poza walką o [buff](A)[/buff] na [buff](B)[/buff].",
+            "TR-TR": "Savaş dışındaki [buff]Sağlık Yenilemeni[/buff] [buff](A)[/buff] boyunca [buff](B)[/buff] artırır.",
+            "ID-ID": "Meningkatkan [buff]Regenerasi HP[/buff] kamu di luar pertempuran sebesar [buff](A)[/buff], selama [buff](B)[/buff].",
+            "FR-FR": "Augmente votre [buff]Régénération de Santé[/buff] en dehors des combats de [buff](A)[/buff] pendant [buff](B)[/buff].",
+            "JA-JP": "戦闘外の時、[buff](A)[/buff]間、[buff]体力再生[/buff]が[buff](B)[/buff]増加する。",
+            "EN-US": "Increases your [buff]Health Regeneration[/buff] outside of combat by [buff](A)[/buff] for [buff](B)[/buff].",
+            "DE-DE": "Steigert deine [buff]Lebensregeneration[/buff] außerhalb von Kämpfen um [buff](A)[/buff] für [buff](B)[/buff].",
+            "AR-SA": "تزيد من [buff]تجديد صحتك[/buff] خارج القتال بمقدار [buff](A)[/buff] لمدة [buff](B)[/buff].",
+            "KO-KR": "[buff](A)[/buff] 동안 전투 이외 상황에서 [buff]체력 재생[/buff]을 [buff](B)[/buff]만큼 증가시킵니다.",
+            "PT-BR": "Aumenta sua [buff]Regeneração de Vida[/buff] fora de combate em [buff](A)[/buff] por [buff](B)[/buff].",
+            "ZH-TW": "使您不在戰鬥狀態時[buff]生命值恢復[/buff]增加[buff](A)[/buff]，持續[buff](B)[/buff]。",
+            "ES-ES": "Incrementa tu [buff]Regeneración de Salud[/buff] fuera de combate en [buff](A)[/buff] durante [buff](B)[/buff].",
+            "ZH-CN": "使你不在战斗状态时[buff]生命恢复速度[/buff]提高[buff](A)[/buff]，持续[buff](B)[/buff]。"
           },
           "target": "self",
           "castingTime": 0.8,
@@ -9911,7 +9911,7 @@
     "enchantmentLevel": 0,
     "categoryId": "cooked",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -10007,7 +10007,7 @@
           "uniqueName": "FOOD_BUFF_LIFESTEAL_P3",
           "uiAtlas": null,
           "uiSprite": "SPELL_ROAST",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_FOOD_BUFF_LIFESTEAL",
           "descriptionLocaTag": "@SPELLS_FOOD_BUFF_LIFESTEAL_DESC",
           "localizedNames": {
@@ -10040,7 +10040,7 @@
             "AR-SA": "عندما [other]تلحق ضررًا[/other] [heal]يمكنك سرقة (A)[/heal] من [heal]الصحة[/heal] التي [heal]فقدها[/heal] العدو لمدة [other](B)[/other] التالية.",
             "KO-KR": "[other](A)[/other] 동안 [other]대미지를 가할[/other] 때마다 적이 [heal]잃은[/heal] [heal]체력[/heal]의 [heal](B)를 훔칩니다[/heal].",
             "PT-BR": "Sempre que você [other]causa dano[/other], [heal]rouba (A)[/heal] da [heal]Vida[/heal] que o inimigo [heal]perdeu[/heal] pelos próximos [other](B)[/other].",
-            "ZH-TW": "每當您[other]造成傷害[/other]時，在接下來[other](A)[/other]內，[heal]竊取(B)[/heal]敵人[heal]損失[/heal]的[heal]生命值[/heal]。",
+            "ZH-TW": "每當您[other]造���傷害[/other]時，在接下來[other](A)[/other]內，[heal]竊取(B)[/heal]敵人[heal]損失[/heal]的[heal]生命值[/heal]。",
             "ES-ES": "Cuando [other]inflijas daño[/other], [heal]roba (A)[/heal] de la [heal]salud[/heal] que el enemigo ha [heal]perdido[/heal] por los próximos [other](B)[/other].",
             "ZH-CN": "每次你[other]造成伤害[/other]时[heal]偷取生命[/heal]，等同敌人[heal]损失生命[/heal]的[heal](A)[/heal]比例，持续[other](B)[/other]。"
           },
@@ -10110,7 +10110,7 @@
     "enchantmentLevel": 0,
     "categoryId": "fish",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": null,
     "activeSlots": {
       "1": [
@@ -10119,7 +10119,7 @@
           "uniqueName": "FOOD_FISH_BUFF_DMG_3_RAW",
           "uiAtlas": null,
           "uiSprite": "FOOD_FISH_BUFF",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": null,
           "descriptionLocaTag": "@SPELLS_FOOD_FISH_BUFF_DMG_RAW_DESC",
           "localizedNames": {
@@ -10149,7 +10149,7 @@
             "JA-JP": "[buff](A)[/buff]の間、[buff]クールダウン率[/buff]が[buff](B)[/buff]上昇します。\n[other](C)の釣り名声[/other]を獲得します。",
             "EN-US": "Increases your [buff]Cooldown Rate[/buff] by [buff](A)[/buff] for [buff](B)[/buff].\nGain [other](C) Fishing Fame[/other].",
             "DE-DE": "Steigert deine [buff]Abklingzeitsrate[/buff] für [buff](A)[/buff] um [buff](B)[/buff].\nErhalte [other](C) Angel-Ruhm[/other].",
-            "AR-SA": "تزيد من [buff]معدل فترات الانتظار[/buff] بمقدار [buff](A)[/buff] لمدة [buff](B)[/buff].\nيمكن الحصول على [other](C) من نقاط خبرة الصيد[/other].",
+            "AR-SA": "تزيد من [buff]معدل فترات الانتظار[/buff] بمقدار [buff](A)[/buff] لمدة [buff](B)[/buff].\nيمكن ال��صول على [other](C) من نقاط خبرة الصيد[/other].",
             "KO-KR": "[buff](A)[/buff] 동안 [buff]재사용 대기 시간 감소 속도[/buff]가 [buff](B)[/buff] 만큼 증가합니다.\n[other](C)의 낚시 명성[/other]을 얻습니다.",
             "PT-BR": "Aumenta sua [buff]Taxa de Recarga[/buff] em [buff](A)[/buff] por [buff](B)[/buff].\nGanha [other](C) de Fama de Pesca[/other].",
             "ZH-TW": "使自身[buff]冷卻時間速率[/buff]增加[buff](A)[/buff]，持續[buff](B)[/buff]。\n獲得[other](C)點釣魚聲望[/other]。",
@@ -10230,7 +10230,7 @@
     "enchantmentLevel": 0,
     "categoryId": "fish",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": null,
     "activeSlots": {
       "1": [
@@ -10239,7 +10239,7 @@
           "uniqueName": "FOOD_FISH_FRESHWATER_3_RAW",
           "uiAtlas": null,
           "uiSprite": "FOOD_FISH_BUFF",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": null,
           "descriptionLocaTag": "@SPELLS_FOOD_FISH_COMMON_RAW_DESC",
           "localizedNames": {
@@ -10260,21 +10260,21 @@
             "ZH-CN": "阿尔比恩河鲈"
           },
           "localizedDescriptions": {
-            "IT-IT": "Aumenta la tua [buff]rigenerazione della salute[/buff] del [buff](A)[/buff] per [buff](B)[/buff].\nOttieni [other](C) fama di pesca[/other].",
-            "RU-RU": "Увеличивает ваше [buff]восстановление здоровья[/buff] на [buff](A)[/buff] в течение [buff](B)[/buff].\nДобавляет [other](C) рыболовной славы[/other].",
-            "PL-PL": "Zwiększa twoją [buff]Regenerację Zdrowia[/buff] o [buff](A)[/buff] na [buff](B)[/buff].\nZdobywasz [other](C) Sławy Wędkarskiej[/other].",
-            "TR-TR": "[buff]Sağlık Yenileme'ni[/buff] [buff](A)[/buff] boyunca [buff](B)[/buff] artırır.\n[other](C) Balıkçılık Namı[/other] kazanırsın.",
-            "ID-ID": "Menambah [buff]Regenerasi HP[/buff] hingga [buff](A)[/buff] selama [buff](B)[/buff].\nDapatkan [other](C) Ketenaran Memancing[/other].",
-            "FR-FR": "Augmente votre [buff]régénération de santé[/buff] de [buff](A)[/buff] pendant [buff](B)[/buff].\nObtenez [other](C) renommée de pêche[/other].",
-            "JA-JP": "[buff](A)[/buff]の間、[buff]体力再生[/buff]を[buff](B)[/buff]上昇させます。\n[other](C)の釣り名声[/other]を獲得します。",
-            "EN-US": "Increases your [buff]Health Regeneration[/buff] by [buff](A)[/buff] for [buff](B)[/buff].\nGain [other](C) Fishing Fame[/other].",
-            "DE-DE": "Steigert deine [buff]Lebensregeneration[/buff] für [buff](A)[/buff] um [buff](B)[/buff].\nErhalte [other](C) Angel-Ruhm[/other].",
-            "AR-SA": "تزيد من [buff]تجديد الصحة[/buff] بمقدار [buff](A)[/buff] لمدة [buff](B)[/buff].\nيمكن الحصول على [other](C) من نقاط خبرة الصيد[/other].",
-            "KO-KR": "[buff](A)[/buff] 동안 [buff]체력 재생량[/buff]을 [buff](B)[/buff] 만큼 증가시킵니다.\n[other](C)의 낚시 명성[/other]을 얻습니다.",
-            "PT-BR": "Aumenta sua [buff]Regeneração de Vida[/buff] em [buff](A)[/buff] por [buff](B)[/buff].\nGanha [other](C) de Fama de Pesca[/other].",
-            "ZH-TW": "使自身[buff]生命值回復速度[/buff]增加[buff](A)[/buff]，持續[buff](B)[/buff]。\n獲得[other](C)點釣魚聲望[/other]。",
-            "ES-ES": "Incrementa tu [buff]regeneración de salud[/buff] en [buff](A)[/buff] por [buff](B)[/buff].\nGana [other](C) de fama de pescador[/other].",
-            "ZH-CN": "你的[buff]生命回复速度[/buff]提高[buff](A)[/buff]，持续[buff](B)[/buff]。\n获得[other](C)钓鱼声望[/other]。"
+            "IT-IT": "Aumenta la tua [buff]Rigenerazione della Salute[/buff] fuori dal combattimento del [buff](A)[/buff] per [buff](B)[/buff].\nOttieni [other](C) Fama da Pesca[/other].",
+            "RU-RU": "Увеличивает ваше [buff]восстановление здоровья[/buff] вне боя на [buff](A)[/buff] в течение [buff](B)[/buff].\nДобавляет [other](C) рыболовной славы[/other].",
+            "PL-PL": "Zwiększa twoją [buff]Regenerację Zdrowia[/buff] poza walką o [buff](A)[/buff] na [buff](B)[/buff].\nZyskujesz [other](C) Sławy Rybackiej[/other].",
+            "TR-TR": "Savaş dışındaki [buff]Sağlık Yenilemeni[/buff] [buff](A)[/buff] boyunca [buff](B)[/buff] artırır.\n[other](C) Balıkçılık Namı[/other] kazanırsın.",
+            "ID-ID": "Meningkatkan [buff]Regenerasi HP[/buff] kamu di luar pertempuran sebesar [buff](A)[/buff], selama [buff](B)[/buff].\nDapatkan [other](C) Ketenaran Memancing[/other].",
+            "FR-FR": "Augmente votre [buff]Régénération de Santé[/buff] en dehors des combats de [buff](A)[/buff] pendant [buff](B)[/buff].\nObtenez [other](C) Renommée de Pêche[/other].",
+            "JA-JP": "戦闘外の時、[buff](A)[/buff]間、[buff]体力再生[/buff]が[buff](B)[/buff]増加する。\n[other](C)の釣り名声[/other]を獲得する。",
+            "EN-US": "Increases your [buff]Health Regeneration[/buff] outside of combat by [buff](A)[/buff] for [buff](B)[/buff].\nGain [other](C) Fishing Fame[/other].",
+            "DE-DE": "Steigert deine [buff]Lebensregeneration[/buff] außerhalb von Kämpfen um [buff](A)[/buff] für [buff](B)[/buff].\nErhalte [other](C) Angel-Ruhm[/other].",
+            "AR-SA": "تزيد من [buff]تجديد صحتك[/buff] خارج القتال بمقدار [buff](A)[/buff] لمدة [buff](B)[/buff].\nيمكن الحصول على [other](C) من نقاط خبرة اصطياد السمك[/other].",
+            "KO-KR": "[buff](A)[/buff] 동안 전투 이외 상황에서 [buff]체력 재생[/buff]을 [buff](B)[/buff]만큼 증가시킵니다.\n[other](C)의 낚시 명성[/other]을 얻습니다.",
+            "PT-BR": "Aumenta sua [buff]Regeneração de Vida[/buff] fora de combate em [buff](A)[/buff] por [buff](B)[/buff].\nGanha [other](C) de Fama de Pesca[/other].",
+            "ZH-TW": "使您不在戰鬥狀態時[buff]生命值恢復[/buff]增加[buff](A)[/buff]，持續[buff](B)[/buff]。\n獲得[other](C)點釣魚聲望[/other]。",
+            "ES-ES": "Incrementa tu [buff]Regeneración de Salud[/buff] fuera de combate en [buff](A)[/buff] durante [buff](B)[/buff].\nGana [other](C) de Fama de Pescador[/other].",
+            "ZH-CN": "使你不在战斗状态时[buff]生命恢复速度[/buff]提高[buff](A)[/buff]，持续[buff](B)[/buff]。\n获得[other](C)钓鱼声望[/other]。"
           },
           "target": "self",
           "castingTime": 0.8,
@@ -10350,7 +10350,7 @@
     "enchantmentLevel": 0,
     "categoryId": "cooked",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -10422,7 +10422,7 @@
           "uniqueName": "FOOD_HEALTH_REG_P3",
           "uiAtlas": null,
           "uiSprite": "SPELL_SOUP",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_FOOD_HEALTH_REG",
           "descriptionLocaTag": "@SPELLS_FOOD_HEALTH_REG_DESC",
           "localizedNames": {
@@ -10443,21 +10443,21 @@
             "ZH-CN": "蔬菜汤"
           },
           "localizedDescriptions": {
-            "IT-IT": "Aumenta la tua [buff]rigenerazione della salute[/buff] del [buff](A)[/buff] per [buff](B)[/buff].",
-            "RU-RU": "Увеличивает ваше [buff]восстановление здоровья[/buff] на [buff](A)[/buff] в течение [buff](B)[/buff].",
-            "PL-PL": "Zwiększa twoją [buff]regenerację Zdrowia[/buff] o [buff](A)[/buff] przez [buff](B)[/buff].",
-            "TR-TR": "[buff]Sağlık Yenileme'ni[/buff] [buff](A)[/buff] boyunca [buff](B)[/buff] artırır.",
-            "ID-ID": "Menambah [buff]Regenerasi HP[/buff] hingga [buff](A)[/buff] selama [buff](B)[/buff].",
-            "FR-FR": "Augmente votre [buff]régénération de santé[/buff] de [buff](A)[/buff] pendant [buff](B)[/buff].",
-            "JA-JP": "[buff](A)[/buff]の間、[buff]体力再生[/buff]を[buff](B)[/buff]上昇させます。",
-            "EN-US": "Increases your [buff]Health Regeneration[/buff] by [buff](A)[/buff] for [buff](B)[/buff].",
-            "DE-DE": "Steigert deine [buff]Lebensregeneration[/buff] für [buff](A)[/buff] um [buff](B)[/buff].",
-            "AR-SA": "تزيد من [buff]تجديد الصحة[/buff] بمقدار [buff](A)[/buff] لمدة [buff](B)[/buff].",
-            "KO-KR": "[buff](A)[/buff] 동안 [buff]체력 회복[/buff]을 [buff](B)[/buff] 만큼 증가시킵니다.",
-            "PT-BR": "Aumenta sua [buff]Regeneração de Vida[/buff] em [buff](A)[/buff] por [buff](B)[/buff].",
-            "ZH-TW": "使自身[buff]生命值回復速度[/buff]增加[buff](A)[/buff]，持續[buff](B)[/buff]。",
-            "ES-ES": "Incrementa tu [buff]regeneración de salud[/buff] en [buff](A)[/buff] por [buff](B)[/buff].",
-            "ZH-CN": "你的[buff]生命恢复速度[/buff]提高[buff](A)[/buff]，持续[buff](B)[/buff]。"
+            "IT-IT": "Aumenta la tua [buff]Rigenerazione della Salute[/buff] fuori dal combattimento del [buff](A)[/buff] per [buff](B)[/buff].",
+            "RU-RU": "Увеличивает ваше [buff]восстановление здоровья[/buff] вне боя на [buff](A)[/buff] в течение [buff](B)[/buff].",
+            "PL-PL": "Zwiększa twoją [buff]Regenerację Zdrowia[/buff] poza walką o [buff](A)[/buff] na [buff](B)[/buff].",
+            "TR-TR": "Savaş dışındaki [buff]Sağlık Yenilemeni[/buff] [buff](A)[/buff] boyunca [buff](B)[/buff] artırır.",
+            "ID-ID": "Meningkatkan [buff]Regenerasi HP[/buff] kamu di luar pertempuran sebesar [buff](A)[/buff], selama [buff](B)[/buff].",
+            "FR-FR": "Augmente votre [buff]Régénération de Santé[/buff] en dehors des combats de [buff](A)[/buff] pendant [buff](B)[/buff].",
+            "JA-JP": "戦闘外の時、[buff](A)[/buff]間、[buff]体力再生[/buff]が[buff](B)[/buff]増加する。",
+            "EN-US": "Increases your [buff]Health Regeneration[/buff] outside of combat by [buff](A)[/buff] for [buff](B)[/buff].",
+            "DE-DE": "Steigert deine [buff]Lebensregeneration[/buff] außerhalb von Kämpfen um [buff](A)[/buff] für [buff](B)[/buff].",
+            "AR-SA": "تزيد من [buff]تجديد صحتك[/buff] خارج القتال بمقدار [buff](A)[/buff] لمدة [buff](B)[/buff].",
+            "KO-KR": "[buff](A)[/buff] 동안 전투 이외 상황에서 [buff]체력 재생[/buff]을 [buff](B)[/buff]만큼 증가시킵니다.",
+            "PT-BR": "Aumenta sua [buff]Regeneração de Vida[/buff] fora de combate em [buff](A)[/buff] por [buff](B)[/buff].",
+            "ZH-TW": "使您不在戰鬥狀態時[buff]生命值恢復[/buff]增加[buff](A)[/buff]，持續[buff](B)[/buff]。",
+            "ES-ES": "Incrementa tu [buff]Regeneración de Salud[/buff] fuera de combate en [buff](A)[/buff] durante [buff](B)[/buff].",
+            "ZH-CN": "使你不在战斗状态时[buff]生命恢复速度[/buff]提高[buff](A)[/buff]，持续[buff](B)[/buff]。"
           },
           "target": "self",
           "castingTime": 0.8,
@@ -10533,7 +10533,7 @@
     "enchantmentLevel": 0,
     "categoryId": "fish",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": null,
     "activeSlots": {
       "1": [
@@ -10542,7 +10542,7 @@
           "uniqueName": "FOOD_FISH_SALTWATER_5_RAW",
           "uiAtlas": null,
           "uiSprite": "FOOD_FISH_BUFF",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": null,
           "descriptionLocaTag": "@SPELLS_FOOD_FISH_COMMON_RAW_DESC",
           "localizedNames": {
@@ -10563,21 +10563,21 @@
             "ZH-CN": "斑点狼鱼"
           },
           "localizedDescriptions": {
-            "IT-IT": "Aumenta la tua [buff]rigenerazione della salute[/buff] del [buff](A)[/buff] per [buff](B)[/buff].\nOttieni [other](C) fama di pesca[/other].",
-            "RU-RU": "Увеличивает ваше [buff]восстановление здоровья[/buff] на [buff](A)[/buff] в течение [buff](B)[/buff].\nДобавляет [other](C) рыболовной славы[/other].",
-            "PL-PL": "Zwiększa twoją [buff]Regenerację Zdrowia[/buff] o [buff](A)[/buff] na [buff](B)[/buff].\nZdobywasz [other](C) Sławy Wędkarskiej[/other].",
-            "TR-TR": "[buff]Sağlık Yenileme'ni[/buff] [buff](A)[/buff] boyunca [buff](B)[/buff] artırır.\n[other](C) Balıkçılık Namı[/other] kazanırsın.",
-            "ID-ID": "Menambah [buff]Regenerasi HP[/buff] hingga [buff](A)[/buff] selama [buff](B)[/buff].\nDapatkan [other](C) Ketenaran Memancing[/other].",
-            "FR-FR": "Augmente votre [buff]régénération de santé[/buff] de [buff](A)[/buff] pendant [buff](B)[/buff].\nObtenez [other](C) renommée de pêche[/other].",
-            "JA-JP": "[buff](A)[/buff]の間、[buff]体力再生[/buff]を[buff](B)[/buff]上昇させます。\n[other](C)の釣り名声[/other]を獲得します。",
-            "EN-US": "Increases your [buff]Health Regeneration[/buff] by [buff](A)[/buff] for [buff](B)[/buff].\nGain [other](C) Fishing Fame[/other].",
-            "DE-DE": "Steigert deine [buff]Lebensregeneration[/buff] für [buff](A)[/buff] um [buff](B)[/buff].\nErhalte [other](C) Angel-Ruhm[/other].",
-            "AR-SA": "تزيد من [buff]تجديد الصحة[/buff] بمقدار [buff](A)[/buff] لمدة [buff](B)[/buff].\nيمكن الحصول على [other](C) من نقاط خبرة الصيد[/other].",
-            "KO-KR": "[buff](A)[/buff] 동안 [buff]체력 재생량[/buff]을 [buff](B)[/buff] 만큼 ���가시킵니다.\n[other](C)의 낚시 명성[/other]을 얻습니다.",
-            "PT-BR": "Aumenta sua [buff]Regeneração de Vida[/buff] em [buff](A)[/buff] por [buff](B)[/buff].\nGanha [other](C) de Fama de Pesca[/other].",
-            "ZH-TW": "使自身[buff]生命值回復速度[/buff]增加[buff](A)[/buff]，持續[buff](B)[/buff]。\n獲得[other](C)點釣魚聲望[/other]。",
-            "ES-ES": "Incrementa tu [buff]regeneración de salud[/buff] en [buff](A)[/buff] por [buff](B)[/buff].\nGana [other](C) de fama de pescador[/other].",
-            "ZH-CN": "你的[buff]生命回复速度[/buff]提高[buff](A)[/buff]，持续[buff](B)[/buff]。\n获得[other](C)钓鱼声望[/other]。"
+            "IT-IT": "Aumenta la tua [buff]Rigenerazione della Salute[/buff] fuori dal combattimento del [buff](A)[/buff] per [buff](B)[/buff].\nOttieni [other](C) Fama da Pesca[/other].",
+            "RU-RU": "Увеличивает ваше [buff]восстановление здоровья[/buff] вне боя на [buff](A)[/buff] в течение [buff](B)[/buff].\nДобавляет [other](C) рыболовной славы[/other].",
+            "PL-PL": "Zwiększa twoją [buff]Regenerację Zdrowia[/buff] poza walką o [buff](A)[/buff] na [buff](B)[/buff].\nZyskujesz [other](C) Sławy Rybackiej[/other].",
+            "TR-TR": "Savaş dışındaki [buff]Sağlık Yenilemeni[/buff] [buff](A)[/buff] boyunca [buff](B)[/buff] artırır.\n[other](C) Balıkçılık Namı[/other] kazanırsın.",
+            "ID-ID": "Meningkatkan [buff]Regenerasi HP[/buff] kamu di luar pertempuran sebesar [buff](A)[/buff], selama [buff](B)[/buff].\nDapatkan [other](C) Ketenaran Memancing[/other].",
+            "FR-FR": "Augmente votre [buff]Régénération de Santé[/buff] en dehors des combats de [buff](A)[/buff] pendant [buff](B)[/buff].\nObtenez [other](C) Renommée de Pêche[/other].",
+            "JA-JP": "戦闘外の時、[buff](A)[/buff]間、[buff]体力再生[/buff]が[buff](B)[/buff]増加する。\n[other](C)の釣り名声[/other]を獲得する。",
+            "EN-US": "Increases your [buff]Health Regeneration[/buff] outside of combat by [buff](A)[/buff] for [buff](B)[/buff].\nGain [other](C) Fishing Fame[/other].",
+            "DE-DE": "Steigert deine [buff]Lebensregeneration[/buff] außerhalb von Kämpfen um [buff](A)[/buff] für [buff](B)[/buff].\nErhalte [other](C) Angel-Ruhm[/other].",
+            "AR-SA": "تزيد من [buff]تجديد صحتك[/buff] خارج القتال بمقدار [buff](A)[/buff] لمدة [buff](B)[/buff].\nيمكن الحصول على [other](C) من نقاط خبرة اصطياد السمك[/other].",
+            "KO-KR": "[buff](A)[/buff] 동안 전투 이외 상황에서 [buff]체력 재생[/buff]을 [buff](B)[/buff]만큼 증가시킵니다.\n[other](C)의 낚시 명성[/other]을 얻습니다.",
+            "PT-BR": "Aumenta sua [buff]Regeneração de Vida[/buff] fora de combate em [buff](A)[/buff] por [buff](B)[/buff].\nGanha [other](C) de Fama de Pesca[/other].",
+            "ZH-TW": "使您不在戰鬥狀態時[buff]生命��恢復[/buff]增加[buff](A)[/buff]，持續[buff](B)[/buff]。\n獲得[other](C)點釣魚聲望[/other]。",
+            "ES-ES": "Incrementa tu [buff]Regeneración de Salud[/buff] fuera de combate en [buff](A)[/buff] durante [buff](B)[/buff].\nGana [other](C) de Fama de Pescador[/other].",
+            "ZH-CN": "使你不在战斗状态时[buff]生命恢复速度[/buff]提高[buff](A)[/buff]，持续[buff](B)[/buff]。\n获得[other](C)钓鱼声望[/other]。"
           },
           "target": "self",
           "castingTime": 0.8,
@@ -10624,7 +10624,7 @@
       "EN-US": "Spotted Wolffish",
       "DE-DE": "Gepunkteter Seewolf",
       "AR-SA": "سمكة الذئب المرقطة",
-      "KO-KR": "점박이 늑대물고기",
+      "KO-KR": "점박이 늑���물고기",
       "PT-BR": "Peixe-lobo Pintado",
       "ZH-TW": "點紋狼魚",
       "ES-ES": "Pez lobo pintado",
@@ -10653,7 +10653,7 @@
     "enchantmentLevel": 0,
     "categoryId": "cooked",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -10749,7 +10749,7 @@
           "uniqueName": "FOOD_FISH_BUFF_DMG_P1",
           "uiAtlas": null,
           "uiSprite": "SPELL_STEW_FISH",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_FOOD_FISH_BUFF_DMG",
           "descriptionLocaTag": "@SPELLS_FOOD_FISH_BUFF_DMG_V2_DESC",
           "localizedNames": {
@@ -10771,7 +10771,7 @@
           },
           "localizedDescriptions": {
             "IT-IT": "Aumenta tutti i [buff]danni[/buff] che infliggi del [buff](A)[/buff] e la tua [buff]velocità di ricarica[/buff] del [buff](B)[/buff] per [buff](C)[/buff].",
-            "RU-RU": "Увеличивает ве��ь наносимый вами [buff]урон[/buff] на [buff](A)[/buff] и вашу [buff]скорость восстановления навыков[/buff] на [buff](B)[/buff] в течение [buff](C)[/buff].",
+            "RU-RU": "Увеличивает весь наносимый вами [buff]урон[/buff] на [buff](A)[/buff] и вашу [buff]скорость восстановления навыков[/buff] на [buff](B)[/buff] в течение [buff](C)[/buff].",
             "PL-PL": "Zwiększa wszystkie zadawane przez ciebie [buff]obrażenia[/buff] o [buff](A)[/buff] i twoją [buff]Szybkość odnawiania[/buff] o [buff](B)[/buff] na [buff](C)[/buff].",
             "TR-TR": "[buff](A)[/buff] boyunca verdiğin tüm [buff]hasarı[/buff] [buff](B)[/buff] ve [buff]Bekleme Dolma Hızı'nı[/buff] [buff](C)[/buff] artırır.",
             "ID-ID": "Meningkatkan semua [buff]damage[/buff] yang kamu berikan sebesar [buff](A)[/buff] dan [buff]Laju Cooldown[/buff] kamu sebesar [buff](B)[/buff] selama [buff](C)[/buff].",
@@ -10779,7 +10779,7 @@
             "JA-JP": "[buff](A)[/buff]の自分が与えるすべての[buff]ダメージ[/buff]を[buff](B)[/buff]増加させ、自分の[buff]クールダウン率[/buff]を[buff](C)[/buff]増加させる。",
             "EN-US": "Increases all [buff]damage[/buff] you deal by [buff](A)[/buff] and your [buff]Cooldown Rate[/buff] by [buff](B)[/buff] for [buff](C)[/buff].",
             "DE-DE": "Steigert für [buff](A)[/buff] allen von dir angerichteten [buff]Schaden[/buff] um [buff](B)[/buff] und deine [buff]Abklingrate[/buff] um [buff](C)[/buff].",
-            "AR-SA": "تزيد من كل [buff]الأضرار[/buff] المُلحقة من جانبك بمقدار [buff](A)[/buff] ومن [buff]معدل فترات الانتظار[/buff] بمقدار [buff](B)[/buff] لمدة [buff](C)[/buff].",
+            "AR-SA": "تزيد من كل [buff]الأضرار[/buff] المُلحقة من جانبك بمقدار [buff](A)[/buff] ومن [buff]معدل فترات ا��انتظار[/buff] بمقدار [buff](B)[/buff] لمدة [buff](C)[/buff].",
             "KO-KR": "[buff](A)[/buff] 동안 가하는 모든 [buff]대미지[/buff]가 [buff](B)[/buff]만큼, [buff]재사용 대기 시간 감소 속도[/buff]가 [buff](C)[/buff]만큼 증가합니다.",
             "PT-BR": "Aumenta todo o [buff]dano[/buff] que você causa em [buff](A)[/buff] e a sua [buff]Taxa de Recarga[/buff] em [buff](B)[/buff] por [buff](C)[/buff].",
             "ZH-TW": "使自身造成的[buff]傷害[/buff]增加[buff](A)[/buff]，[buff]冷卻速率[/buff]增加[buff](B)[/buff]，持續[buff](C)[/buff]。",
@@ -10888,7 +10888,7 @@
     "enchantmentLevel": 0,
     "categoryId": "cooked",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -10984,7 +10984,7 @@
           "uniqueName": "FOOD_FISH_BUFF_LIFESTEAL_P1",
           "uiAtlas": null,
           "uiSprite": "SPELL_ROAST_FISH",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_FOOD_FISH_BUFF_LIFESTEAL",
           "descriptionLocaTag": "@SPELLS_FOOD_FISH_BUFF_LIFESTEAL_DESC",
           "localizedNames": {
@@ -11095,7 +11095,7 @@
     "enchantmentLevel": 0,
     "categoryId": "cooked",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": null,
     "activeSlots": {
       "1": [
@@ -11104,7 +11104,7 @@
           "uniqueName": "FOOD_FISH_SEAWEEDSALAD_P1",
           "uiAtlas": null,
           "uiSprite": "FOOD_FISH_BUFF",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_FOOD_FISH_SEAWEEDSALAD_1",
           "descriptionLocaTag": "@SPELLS_FOOD_FISH_SEAWEEDSALAD_1_DESC",
           "localizedNames": {
@@ -11231,7 +11231,7 @@
     "enchantmentLevel": 0,
     "categoryId": "cooked",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -11315,7 +11315,7 @@
           "uniqueName": "FOOD_CRAFTING_P1",
           "uiAtlas": null,
           "uiSprite": "SPELL_SALAD",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_FOOD_CRAFTING",
           "descriptionLocaTag": "@SPELLS_FOOD_CRAFTING_DESC",
           "localizedNames": {
@@ -11433,7 +11433,7 @@
     "enchantmentLevel": 0,
     "categoryId": "cooked",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -11541,7 +11541,7 @@
           "uniqueName": "FOOD_FISH_HEALTH_REG_P5",
           "uiAtlas": null,
           "uiSprite": "SPELL_SOUP_FISH",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_FOOD_FISH_HEALTH_REG",
           "descriptionLocaTag": "@SPELLS_FOOD_FISH_HEALTH_REG_DESC",
           "localizedNames": {
@@ -11562,21 +11562,21 @@
             "ZH-CN": "蛤蜊汤"
           },
           "localizedDescriptions": {
-            "IT-IT": "Aumenta la tua [buff]rigenerazione della salute[/buff] del [buff](A)[/buff] e la [buff]rigenerazione dell'energia[/buff] del [buff](B)[/buff] per [buff](C)[/buff].",
-            "RU-RU": "Увеличивает ваше [buff]восстановление здоровья[/buff] на [buff](A)[/buff], а также ваше [buff]восстановление энергии[/buff] на [buff](B)[/buff] в течение [buff](C)[/buff].",
-            "PL-PL": "Zwiększa twoją [buff]regenerację Zdrowia[/buff] o [buff](A)[/buff] i twoją [buff]regenerację Energii[/buff] o [buff](B)[/buff] przez [buff](C)[/buff].",
-            "TR-TR": "[buff](A)[/buff] boyunca [buff]Sağlık Yenileme'ni[/buff] [buff](B)[/buff] ve [buff]Enerji Yenileme'ni[/buff] [buff](C)[/buff] artırır.",
-            "ID-ID": "Menambah [buff]Regenerasi HP[/buff] hingga [buff](A)[/buff] dan [buff]Regenerasi Energi[/buff] hingga [buff](B)[/buff] selama [buff](C)[/buff].",
-            "FR-FR": "Augmente votre [buff]régénération de santé[/buff] de [buff](A)[/buff] et votre [buff]régénération d'énergie[/buff] de [buff](B)[/buff] pendant [buff](C)[/buff].",
-            "JA-JP": "[buff](A)[/buff]の間、[buff]体力再生[/buff]が[buff](B)[/buff]上昇し、[buff]エネルギー再生[/buff]が[buff](C)[/buff]上昇します。",
-            "EN-US": "Increases your [buff]Health Regeneration[/buff] by [buff](A)[/buff] and your [buff]Energy Regeneration[/buff] by [buff](B)[/buff] for [buff](C)[/buff].",
-            "DE-DE": "Steigert für [buff](A)[/buff] deine [buff]Lebensregeneration[/buff] um [buff](B)[/buff] und deine [buff]Energieregeneration[/buff] um [buff](C)[/buff].",
-            "AR-SA": "تزيد من [buff]تجديد الصحة[/buff] بمقدار [buff](A)[/buff] ومن [buff]تجديد الطاقة[/buff] بمقدار [buff](B)[/buff] لمدة [buff](C)[/buff].",
-            "KO-KR": "[buff](A)[/buff] 동안 [buff]체력 회복[/buff]을 [buff](B)[/buff] 만큼, 그리고 [buff]에너지 회복[/buff]을 [buff](C)[/buff] 만큼 증가시킵니다.",
-            "PT-BR": "Aumenta sua [buff]Regeneração de Vida[/buff] em [buff](A)[/buff] e sua [buff]Regeneração de Energia[/buff] em [buff](B)[/buff] por [buff](C)[/buff].",
-            "ZH-TW": "使自身[buff]生命值回復速度[/buff]增加[buff](A)[/buff]、[buff]能量回復速度[/buff]增加[buff](B)[/buff]，持續[buff](C)[/buff]。",
-            "ES-ES": "Incrementa tu [buff]regeneración de salud[/buff] en [buff](A)[/buff] y tu [buff]regeneración de energía[/buff] en [buff](B)[/buff] por [buff](C)[/buff].",
-            "ZH-CN": "你的[buff]生命恢复速度[/buff]提高[buff](A)[/buff]，[buff]能量恢复速度[/buff]提高[buff](B)[/buff]，持续[buff](C)[/buff] 。"
+            "IT-IT": "Aumenta la tua [buff]Rigenerazione della Salute[/buff] fuori dal combattimento del [buff](A)[/buff] e la [buff]Rigenerazione dell'Energia[/buff] del [buff](B)[/buff] per [buff](C)[/buff].",
+            "RU-RU": "Увеличивает ваше [buff]восстановление здоровья[/buff] вне боя на [buff](A)[/buff] и ваше [buff]восстановление энергии[/buff] на [buff](B)[/buff] в течение [buff](C)[/buff].",
+            "PL-PL": "Zwiększa twoją [buff]Regenerację Zdrowia[/buff] poza walką o [buff](A)[/buff] i twoją [buff]Regenerację Energii[/buff] o [buff](B)[/buff] na [buff](C)[/buff].",
+            "TR-TR": "[buff](A)[/buff] boyunca savaş dışındaki [buff]Sağlık Yenilemeni[/buff] [buff](B)[/buff] ve [buff]Enerji Yenilemeni[/buff] [buff](C)[/buff] artırır.",
+            "ID-ID": "Meningkatkan [buff]Regenerasi HP[/buff] kamu di luar pertempuran sebesar [buff](A)[/buff] dan [buff]Regenerasi Energi[/buff] kamu sebesar [buff](B)[/buff] selama [buff](C)[/buff].",
+            "FR-FR": "Augmente votre [buff]Régénération de Santé[/buff] en dehors des combats de [buff](A)[/buff] et votre [buff]Régénération d'Énergie[/buff] de [buff](B)[/buff] pendant [buff](C)[/buff].",
+            "JA-JP": "戦闘外の時、[buff](A)[/buff]間、[buff]体力再生[/buff]が[buff](B)[/buff]、[buff]エネルギー再生[/buff]が[buff](C)[/buff]増加する。",
+            "EN-US": "Increases your [buff]Health Regeneration[/buff] outside of combat by [buff](A)[/buff] and your [buff]Energy Regeneration[/buff] by [buff](B)[/buff] for [buff](C)[/buff].",
+            "DE-DE": "Steigert deine [buff]Lebensregeneration[/buff] außerhalb von Kämpfen um [buff](A)[/buff] und deine [buff]Energieregeneration[/buff] um [buff](B)[/buff]für [buff](C)[/buff].",
+            "AR-SA": "يزيد من [buff]تجديد صحتك[/buff] خارج القتال بمقدار [buff](A)[/buff] و [buff]تجديد طاقتك[/buff] بمقدار [buff](B)[/buff] لمدة [buff](C)[/buff].",
+            "KO-KR": "[buff](A)[/buff] 동안 전투 이외 상황에서 [buff]체력 재생[/buff]을 [buff](B)[/buff]만큼, 그리고 [buff]에너지 재생[/buff]을 [buff](C)[/buff]만큼 증가시킵니다.",
+            "PT-BR": "Aumenta sua [buff]Regeneração de Vida[/buff] fora de combate em [buff](A)[/buff] e sua [buff]Regeneração de Energia[/buff] em [buff](B)[/buff] por [buff](C)[/buff].",
+            "ZH-TW": "使您不在戰鬥狀態時[buff]生命值恢復[/buff]增加[buff](A)[/buff]，[buff]能量回復[/buff]增加[buff](B)[/buff]，持續[buff](C)[/buff]。",
+            "ES-ES": "Incrementa tu [buff]Regeneración de Salud[/buff] fuera de combate en [buff](A)[/buff] y tu [buff]Regeneración de Energía[/buff] en [buff](B)[/buff] durante [buff](C)[/buff].",
+            "ZH-CN": "使你不在战斗状态时[buff]生命恢复速度[/buff]提高[buff](A)[/buff]，[buff]能量回复速度[/buff]提高[buff](B)[/buff]，持续[buff](C)[/buff]。"
           },
           "target": "self",
           "castingTime": 0.8,
@@ -11659,7 +11659,7 @@
     "enchantmentLevel": 0,
     "categoryId": "fish",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": null,
     "activeSlots": {
       "1": [
@@ -11668,7 +11668,7 @@
           "uniqueName": "FOOD_FISH_SALTWATER_2_RAW",
           "uiAtlas": null,
           "uiSprite": "FOOD_FISH_BUFF",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": null,
           "descriptionLocaTag": "@SPELLS_FOOD_FISH_COMMON_RAW_DESC",
           "localizedNames": {
@@ -11689,21 +11689,21 @@
             "ZH-CN": "条纹鲭鱼"
           },
           "localizedDescriptions": {
-            "IT-IT": "Aumenta la tua [buff]rigenerazione della salute[/buff] del [buff](A)[/buff] per [buff](B)[/buff].\nOttieni [other](C) fama di pesca[/other].",
-            "RU-RU": "Увеличивает ваше [buff]восстановление здоровья[/buff] на [buff](A)[/buff] в течение [buff](B)[/buff].\nДобавляет [other](C) рыболовной славы[/other].",
-            "PL-PL": "Zwiększa twoją [buff]Regenerację Zdrowia[/buff] o [buff](A)[/buff] na [buff](B)[/buff].\nZdobywasz [other](C) Sławy Wędkarskiej[/other].",
-            "TR-TR": "[buff]Sağlık Yenileme'ni[/buff] [buff](A)[/buff] boyunca [buff](B)[/buff] artırır.\n[other](C) Balıkçılık Namı[/other] kazanırsın.",
-            "ID-ID": "Menambah [buff]Regenerasi HP[/buff] hingga [buff](A)[/buff] selama [buff](B)[/buff].\nDapatkan [other](C) Ketenaran Memancing[/other].",
-            "FR-FR": "Augmente votre [buff]régénération de santé[/buff] de [buff](A)[/buff] pendant [buff](B)[/buff].\nObtenez [other](C) renommée de pêche[/other].",
-            "JA-JP": "[buff](A)[/buff]の間、[buff]体力再生[/buff]を[buff](B)[/buff]上昇させます。\n[other](C)の釣り名声[/other]を獲得します。",
-            "EN-US": "Increases your [buff]Health Regeneration[/buff] by [buff](A)[/buff] for [buff](B)[/buff].\nGain [other](C) Fishing Fame[/other].",
-            "DE-DE": "Steigert deine [buff]Lebensregeneration[/buff] für [buff](A)[/buff] um [buff](B)[/buff].\nErhalte [other](C) Angel-Ruhm[/other].",
-            "AR-SA": "تزيد من [buff]تجديد الصحة[/buff] بمقدار [buff](A)[/buff] لمدة [buff](B)[/buff].\nيمكن الحصول على [other](C) من نقاط خبرة الصيد[/other].",
-            "KO-KR": "[buff](A)[/buff] 동안 [buff]체력 재생량[/buff]을 [buff](B)[/buff] 만큼 증가시킵니다.\n[other](C)의 낚시 명성[/other]을 얻습니다.",
-            "PT-BR": "Aumenta sua [buff]Regeneração de Vida[/buff] em [buff](A)[/buff] por [buff](B)[/buff].\nGanha [other](C) de Fama de Pesca[/other].",
-            "ZH-TW": "使自身[buff]生命值回復速度[/buff]增加[buff](A)[/buff]，持續[buff](B)[/buff]。\n獲得[other](C)點釣魚聲望[/other]。",
-            "ES-ES": "Incrementa tu [buff]regeneración de salud[/buff] en [buff](A)[/buff] por [buff](B)[/buff].\nGana [other](C) de fama de pescador[/other].",
-            "ZH-CN": "你的[buff]生命回复速度[/buff]提高[buff](A)[/buff]，持续[buff](B)[/buff]。\n获得[other](C)钓鱼声望[/other]。"
+            "IT-IT": "Aumenta la tua [buff]Rigenerazione della Salute[/buff] fuori dal combattimento del [buff](A)[/buff] per [buff](B)[/buff].\nOttieni [other](C) Fama da Pesca[/other].",
+            "RU-RU": "Увеличивает ваше [buff]восстановление здоровья[/buff] вне боя на [buff](A)[/buff] в течение [buff](B)[/buff].\nДобавляет [other](C) рыболовной славы[/other].",
+            "PL-PL": "Zwiększa twoją [buff]Regenerację Zdrowia[/buff] poza walką o [buff](A)[/buff] na [buff](B)[/buff].\nZyskujesz [other](C) Sławy Rybackiej[/other].",
+            "TR-TR": "Savaş dışındaki [buff]Sağlık Yenilemeni[/buff] [buff](A)[/buff] boyunca [buff](B)[/buff] artırır.\n[other](C) Balıkçılık Namı[/other] kazanırsın.",
+            "ID-ID": "Meningkatkan [buff]Regenerasi HP[/buff] kamu di luar pertempuran sebesar [buff](A)[/buff], selama [buff](B)[/buff].\nDapatkan [other](C) Ketenaran Memancing[/other].",
+            "FR-FR": "Augmente votre [buff]Régénération de Santé[/buff] en dehors des combats de [buff](A)[/buff] pendant [buff](B)[/buff].\nObtenez [other](C) Renommée de Pêche[/other].",
+            "JA-JP": "戦闘外の時、[buff](A)[/buff]間、[buff]体力再生[/buff]が[buff](B)[/buff]増加する。\n[other](C)の釣り名声[/other]を獲得する。",
+            "EN-US": "Increases your [buff]Health Regeneration[/buff] outside of combat by [buff](A)[/buff] for [buff](B)[/buff].\nGain [other](C) Fishing Fame[/other].",
+            "DE-DE": "Steigert deine [buff]Lebensregeneration[/buff] außerhalb von Kämpfen um [buff](A)[/buff] für [buff](B)[/buff].\nErhalte [other](C) Angel-Ruhm[/other].",
+            "AR-SA": "تزيد من [buff]تجديد صحتك[/buff] خارج القتال بمقدار [buff](A)[/buff] لمدة [buff](B)[/buff].\nيمكن الحصول على [other](C) من نقاط خبرة اصطياد السمك[/other].",
+            "KO-KR": "[buff](A)[/buff] 동안 전투 이외 상황에서 [buff]체력 재생[/buff]을 [buff](B)[/buff]만큼 증가시킵니다.\n[other](C)의 낚시 명성[/other]을 얻습니다.",
+            "PT-BR": "Aumenta sua [buff]Regeneração de Vida[/buff] fora de combate em [buff](A)[/buff] por [buff](B)[/buff].\nGanha [other](C) de Fama de Pesca[/other].",
+            "ZH-TW": "使您不在戰鬥狀態時[buff]生命值恢復[/buff]增加[buff](A)[/buff]，持續[buff](B)[/buff]。\n獲得[other](C)點釣魚聲望[/other]。",
+            "ES-ES": "Incrementa tu [buff]Regeneración de Salud[/buff] fuera de combate en [buff](A)[/buff] durante [buff](B)[/buff].\nGana [other](C) de Fama de Pescador[/other].",
+            "ZH-CN": "使你不在战斗状态时[buff]生命恢复速度[/buff]提高[buff](A)[/buff]，持续[buff](B)[/buff]。\n获得[other](C)钓鱼声望[/other]。"
           },
           "target": "self",
           "castingTime": 0.8,
@@ -11779,7 +11779,7 @@
     "enchantmentLevel": 0,
     "categoryId": "cooked",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -11863,7 +11863,7 @@
           "uniqueName": "FOOD_CRAFTING_P5",
           "uiAtlas": null,
           "uiSprite": "SPELL_SALAD",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_FOOD_CRAFTING",
           "descriptionLocaTag": "@SPELLS_FOOD_CRAFTING_DESC",
           "localizedNames": {
@@ -11981,7 +11981,7 @@
     "enchantmentLevel": 0,
     "categoryId": "fish",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": null,
     "activeSlots": {
       "1": [
@@ -11990,7 +11990,7 @@
           "uniqueName": "FOOD_FISH_CRAFTING_2_RAW",
           "uiAtlas": null,
           "uiSprite": "FOOD_FISH_BUFF",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": null,
           "descriptionLocaTag": "@SPELLS_FOOD_FISH_CRAFTING_RAW_DESC",
           "localizedNames": {
@@ -12013,7 +12013,7 @@
           "localizedDescriptions": {
             "IT-IT": "Aumenta la tua [buff]velocità di creazione[/buff] del [buff](A)[/buff] e migliora la [buff]qualità di creazione[/buff] del [buff](B)[/buff] per [buff](C)[/buff].\nOttieni [other](D) fama di pesca[/other].",
             "RU-RU": "Повышает вашу [buff]скорость ремесла[/buff] на [buff](A)[/buff] и [buff]качество создаваемых предметов[/buff] на [buff](B)[/buff] for [buff](C)[/buff].\nДобавляет [other](D) рыболовной славы[/other].",
-            "PL-PL": "Zwiększa twoją [buff]Szybkość Wytwarzania[/buff] o [buff](A)[/buff] oraz [buff]Jakość Wytwarzania[/buff] o [buff](B)[/buff] na [buff](C)[/buff].\nGain [other](D) Fishing Fame[/other].",
+            "PL-PL": "Zwiększa twoją [buff]Szybkość Wytwarzania[/buff] o [buff](A)[/buff] oraz [buff]Jakość Wytwarzania[/buff] o [buff](B)[/buff] na [buff](C)[/buff].\nZdobywasz [other](D) Sławy Wędkarskiej[/other].",
             "TR-TR": "[buff](A)[/buff] boyunca [buff]Zanaat Hızı'nı[/buff] [buff](B)[/buff] ve [buff]Zanaat Kalitesi'ni[/buff] [buff](C)[/buff] artırır.\n[other](D) Balıkçılık Namı[/other] kazanırsın.",
             "ID-ID": "Menambah [buff]Kualitas Crafting[/buff] hingga [buff](A)[/buff] dan [buff]Kualitas Crafting[/buff] hingga [buff](B)[/buff] selama [buff](C)[/buff].\nDapatkan [other](D) Ketenaran Memancing[/other].",
             "FR-FR": "Augmente votre [buff]vitesse de fabrication[/buff] de [buff](A)[/buff] et [buff]qualité de fabrication[/buff] de [buff](B)[/buff] pendant [buff](C)[/buff].\nObtenez [other](D) renommée de pêche[/other].",
@@ -12108,7 +12108,7 @@
     "enchantmentLevel": 0,
     "categoryId": "fish",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": null,
     "activeSlots": {
       "1": [
@@ -12117,7 +12117,7 @@
           "uniqueName": "FOOD_FISH_BUFF_CASTSPEED_CDR_3_RAW",
           "uiAtlas": null,
           "uiSprite": "FOOD_FISH_BUFF",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": null,
           "descriptionLocaTag": "@SPELLS_FOOD_FISH_BUFF_CASTSPEED_CDR_RAW_DESC",
           "localizedNames": {
@@ -12228,7 +12228,7 @@
     "enchantmentLevel": 0,
     "categoryId": "cooked",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -12336,7 +12336,7 @@
           "uniqueName": "FOOD_FISH_BUFF_LIFESTEAL_P3",
           "uiAtlas": null,
           "uiSprite": "SPELL_ROAST_FISH",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_FOOD_FISH_BUFF_LIFESTEAL",
           "descriptionLocaTag": "@SPELLS_FOOD_FISH_BUFF_LIFESTEAL_DESC",
           "localizedNames": {
@@ -12447,7 +12447,7 @@
     "enchantmentLevel": 0,
     "categoryId": "cooked",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -12555,7 +12555,7 @@
           "uniqueName": "FOOD_FISH_CRAFTING_P5",
           "uiAtlas": null,
           "uiSprite": "SPELL_SALAD_FISH",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_FOOD_FISH_CRAFTING",
           "descriptionLocaTag": "@SPELLS_FOOD_CRAFTING_DESC",
           "localizedNames": {
@@ -12673,7 +12673,7 @@
     "enchantmentLevel": 0,
     "categoryId": "cooked",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -12781,7 +12781,7 @@
           "uniqueName": "FOOD_BUFF_CASTSPEED_CDR_AVALON_P3",
           "uiAtlas": null,
           "uiSprite": "SPELL_OMELETT",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_FOOD_BUFF_CASTSPEED_CDR_AVALON",
           "descriptionLocaTag": "@SPELLS_FOOD_BUFF_CASTSPEED_CDR_AVALON_V2_DESC",
           "localizedNames": {
@@ -12913,7 +12913,7 @@
     "enchantmentLevel": 0,
     "categoryId": "fish",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": null,
     "activeSlots": {
       "1": [
@@ -12922,7 +12922,7 @@
           "uniqueName": "FOOD_FISH_BUFF_LIFESTEAL_2_RAW",
           "uiAtlas": null,
           "uiSprite": "FOOD_FISH_BUFF",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": null,
           "descriptionLocaTag": "@SPELLS_FOOD_FISH_BUFF_LIFESTEAL_RAW_DESC",
           "localizedNames": {
@@ -13033,7 +13033,7 @@
     "enchantmentLevel": 0,
     "categoryId": "fish",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": null,
     "activeSlots": {
       "1": [
@@ -13042,7 +13042,7 @@
           "uniqueName": "FOOD_FISH_BUFF_DMG_1_RAW",
           "uiAtlas": null,
           "uiSprite": "FOOD_FISH_BUFF",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": null,
           "descriptionLocaTag": "@SPELLS_FOOD_FISH_BUFF_DMG_RAW_DESC",
           "localizedNames": {
@@ -13153,7 +13153,7 @@
     "enchantmentLevel": 0,
     "categoryId": "fish",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": null,
     "activeSlots": {
       "1": [
@@ -13162,7 +13162,7 @@
           "uniqueName": "FOOD_FISH_FRESHWATER_1_RAW",
           "uiAtlas": null,
           "uiSprite": "FOOD_FISH_BUFF",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": null,
           "descriptionLocaTag": "@SPELLS_FOOD_FISH_COMMON_RAW_DESC",
           "localizedNames": {
@@ -13183,21 +13183,21 @@
             "ZH-CN": "普通红眼鱼"
           },
           "localizedDescriptions": {
-            "IT-IT": "Aumenta la tua [buff]rigenerazione della salute[/buff] del [buff](A)[/buff] per [buff](B)[/buff].\nOttieni [other](C) fama di pesca[/other].",
-            "RU-RU": "Увеличивает ваше [buff]восстановление здоровья[/buff] на [buff](A)[/buff] в течение [buff](B)[/buff].\nДобавляет [other](C) рыболовной славы[/other].",
-            "PL-PL": "Zwiększa twoją [buff]Regenerację Zdrowia[/buff] o [buff](A)[/buff] na [buff](B)[/buff].\nZdobywasz [other](C) Sławy Wędkarskiej[/other].",
-            "TR-TR": "[buff]Sağlık Yenileme'ni[/buff] [buff](A)[/buff] boyunca [buff](B)[/buff] artırır.\n[other](C) Balıkçılık Namı[/other] kazanırsın.",
-            "ID-ID": "Menambah [buff]Regenerasi HP[/buff] hingga [buff](A)[/buff] selama [buff](B)[/buff].\nDapatkan [other](C) Ketenaran Memancing[/other].",
-            "FR-FR": "Augmente votre [buff]régénération de santé[/buff] de [buff](A)[/buff] pendant [buff](B)[/buff].\nObtenez [other](C) renommée de pêche[/other].",
-            "JA-JP": "[buff](A)[/buff]の間、[buff]体力再生[/buff]を[buff](B)[/buff]上昇させます。\n[other](C)の釣り名声[/other]を獲得します。",
-            "EN-US": "Increases your [buff]Health Regeneration[/buff] by [buff](A)[/buff] for [buff](B)[/buff].\nGain [other](C) Fishing Fame[/other].",
-            "DE-DE": "Steigert deine [buff]Lebensregeneration[/buff] für [buff](A)[/buff] um [buff](B)[/buff].\nErhalte [other](C) Angel-Ruhm[/other].",
-            "AR-SA": "تزيد من [buff]تجديد الصحة[/buff] بمقدار [buff](A)[/buff] لمدة [buff](B)[/buff].\nيمكن الحصول على [other](C) من نقاط خبرة الصيد[/other].",
-            "KO-KR": "[buff](A)[/buff] 동안 [buff]체력 재생량[/buff]을 [buff](B)[/buff] 만큼 증가시킵니다.\n[other](C)의 낚시 명성[/other]을 얻습니다.",
-            "PT-BR": "Aumenta sua [buff]Regeneração de Vida[/buff] em [buff](A)[/buff] por [buff](B)[/buff].\nGanha [other](C) de Fama de Pesca[/other].",
-            "ZH-TW": "使自身[buff]生命值回復速度[/buff]增加[buff](A)[/buff]，持續[buff](B)[/buff]。\n獲得[other](C)點釣魚聲望[/other]。",
-            "ES-ES": "Incrementa tu [buff]regeneración de salud[/buff] en [buff](A)[/buff] por [buff](B)[/buff].\nGana [other](C) de fama de pescador[/other].",
-            "ZH-CN": "你的[buff]生命回复速度[/buff]提高[buff](A)[/buff]，持续[buff](B)[/buff]。\n获得[other](C)钓鱼声望[/other]。"
+            "IT-IT": "Aumenta la tua [buff]Rigenerazione della Salute[/buff] fuori dal combattimento del [buff](A)[/buff] per [buff](B)[/buff].\nOttieni [other](C) Fama da Pesca[/other].",
+            "RU-RU": "Увеличивает ваше [buff]восстановление здоровья[/buff] вне боя на [buff](A)[/buff] в течение [buff](B)[/buff].\nДобавляет [other](C) рыболовной славы[/other].",
+            "PL-PL": "Zwiększa twoją [buff]Regenerację Zdrowia[/buff] poza walką o [buff](A)[/buff] na [buff](B)[/buff].\nZyskujesz [other](C) Sławy Rybackiej[/other].",
+            "TR-TR": "Savaş dışındaki [buff]Sağlık Yenilemeni[/buff] [buff](A)[/buff] boyunca [buff](B)[/buff] artırır.\n[other](C) Balıkçılık Namı[/other] kazanırsın.",
+            "ID-ID": "Meningkatkan [buff]Regenerasi HP[/buff] kamu di luar pertempuran sebesar [buff](A)[/buff], selama [buff](B)[/buff].\nDapatkan [other](C) Ketenaran Memancing[/other].",
+            "FR-FR": "Augmente votre [buff]Régénération de Santé[/buff] en dehors des combats de [buff](A)[/buff] pendant [buff](B)[/buff].\nObtenez [other](C) Renommée de Pêche[/other].",
+            "JA-JP": "戦闘外の時、[buff](A)[/buff]間、[buff]体力再生[/buff]が[buff](B)[/buff]増加する。\n[other](C)の釣り名声[/other]を獲得する。",
+            "EN-US": "Increases your [buff]Health Regeneration[/buff] outside of combat by [buff](A)[/buff] for [buff](B)[/buff].\nGain [other](C) Fishing Fame[/other].",
+            "DE-DE": "Steigert deine [buff]Lebensregeneration[/buff] außerhalb von Kämpfen um [buff](A)[/buff] für [buff](B)[/buff].\nErhalte [other](C) Angel-Ruhm[/other].",
+            "AR-SA": "تزيد من [buff]تجديد صحتك[/buff] خارج القتال بمقدار [buff](A)[/buff] لمدة [buff](B)[/buff].\nيمكن الحصول على [other](C) من نقاط خبرة اصطياد السمك[/other].",
+            "KO-KR": "[buff](A)[/buff] 동안 전투 이외 상황에서 [buff]체력 재생[/buff]을 [buff](B)[/buff]만큼 증가시킵니다.\n[other](C)의 낚시 명성[/other]을 얻습니다.",
+            "PT-BR": "Aumenta sua [buff]Regeneração de Vida[/buff] fora de combate em [buff](A)[/buff] por [buff](B)[/buff].\nGanha [other](C) de Fama de Pesca[/other].",
+            "ZH-TW": "使您不在戰鬥狀態時[buff]生命值恢復[/buff]增加[buff](A)[/buff]，持續[buff](B)[/buff]。\n獲得[other](C)點釣魚聲望[/other]。",
+            "ES-ES": "Incrementa tu [buff]Regeneración de Salud[/buff] fuera de combate en [buff](A)[/buff] durante [buff](B)[/buff].\nGana [other](C) de Fama de Pescador[/other].",
+            "ZH-CN": "使你不在战斗状态时[buff]生命恢复速度[/buff]提高[buff](A)[/buff]，持续[buff](B)[/buff]。\n获得[other](C)钓鱼声望[/other]。"
           },
           "target": "self",
           "castingTime": 0.8,
@@ -13273,7 +13273,7 @@
     "enchantmentLevel": 0,
     "categoryId": "cooked",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -13381,7 +13381,7 @@
           "uniqueName": "FOOD_BUFF_DMG_AVALON_P5",
           "uiAtlas": null,
           "uiSprite": "SPELL_STEW",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_FOOD_BUFF_DMG_AVALON",
           "descriptionLocaTag": "@SPELLS_FOOD_BUFF_DMG_AVALON_DESC",
           "localizedNames": {
@@ -13402,21 +13402,21 @@
             "ZH-CN": "阿瓦隆炖肉"
           },
           "localizedDescriptions": {
-            "IT-IT": "Aumenta tutti i [buff]danni[/buff] che infliggi del [buff](A)[/buff] e la tua [buff]rigenerazione della salute[/buff] del [buff](B)[/buff] per [buff](C)[/buff].",
-            "RU-RU": "Увеличивает весь наносимый вами [buff]урон[/buff] на [buff](A)[/buff], а также ваше [buff]восстановление здоровья[/buff] на [buff](B)[/buff] в течение [buff](C)[/buff].",
-            "PL-PL": "Zwiększa wszystkie zadawane przez ciebie [buff]obrażenia[/buff] o [buff](A)[/buff] i twoją [buff]regenerację Zdrowia[/buff] o [buff](B)[/buff], przez [buff](C)[/buff].",
-            "TR-TR": "[buff](A)[/buff] boyunca verdiğin tüm [buff]hasarı[/buff] [buff](B)[/buff] ve [buff]Sağlık Yenileme'ni[/buff] [buff](C)[/buff] artırır.",
-            "ID-ID": "Menambah semua [buff]damage[/buff] yang kamu hasilkan hingga [buff](A)[/buff], dan [buff]Regenerasi HP[/buff] hingga [buff](B)[/buff], selama [buff](C)[/buff].",
-            "FR-FR": "Augmente tous vos [buff]dégâts[/buff] infligés de [buff](A)[/buff], ainsi que votre [buff]régénération de santé[/buff] de [buff](B)[/buff], pendant [buff](C)[/buff].",
-            "JA-JP": "[buff](A)[/buff]の間、あなたの全ての[buff]ダメージ[/buff]を[buff](B)[/buff]上昇させ、[buff]体力再生[/buff]を[buff](C)[/buff]上昇させます。",
-            "EN-US": "Increases all [buff]damage[/buff] you deal by [buff](A)[/buff], and your [buff]Health Regeneration[/buff] by [buff](B)[/buff], for [buff](C)[/buff].",
-            "DE-DE": "Steigert für [buff](A)[/buff] allen von dir angerichteten [buff]Schaden[/buff] um [buff](B)[/buff] und deine [buff]Lebensregeneration[/buff] um [buff](C)[/buff].",
-            "AR-SA": "تزيد من كل [buff]الأضرار[/buff] المُلحقة من جانبك بمقدار [buff](A)[/buff] ومن [buff]تجديد الصحة[/buff] بمقدار [buff](B)[/buff] لمدة [buff](C)[/buff].",
-            "KO-KR": "[buff](A)[/buff] 동안 자신이 가하는 [buff]대미지[/buff]를 [buff](B)[/buff] 만큼, 그리고 [buff]체력 회복[/buff]을 [buff](C)[/buff] 만큼 증가시킵니다.",
-            "PT-BR": "Aumenta todo o [buff]dano[/buff] que você causa em [buff](A)[/buff], e sua [buff]Regeneração de Vida[/buff] em [buff](B)[/buff], por [buff](C)[/buff].",
-            "ZH-TW": "使自身造成的所有[buff]傷害[/buff]增加[buff](A)[/buff]、[buff]生命值回復速度[/buff]增加[buff](B)[/buff]，持續[buff](C)[/buff]。",
-            "ES-ES": "Incrementa todo tu [buff]daño[/buff] en [buff](A)[/buff] y tu [buff]regeneración de salud[/buff] en [buff](B)[/buff] por [buff](C)[/buff].",
-            "ZH-CN": "你的[buff]伤害[/buff]输出提高[buff](A)[/buff]，[buff]生命恢复速度[/buff]提高[buff](B)[/buff]，持续[buff](C)[/buff]。"
+            "IT-IT": "Aumenta tutti i [buff]danni[/buff] che infliggi del [buff](A)[/buff] e la tua [buff]Rigenerazione della Salute[/buff] fuori dal combattimento del [buff](B)[/buff] per [buff](C)[/buff].",
+            "RU-RU": "Увеличивает весь наносимый вами [buff]урон[/buff] на [buff](A)[/buff] и ваше [buff]восстановление здоровья[/buff] вне боя на [buff](B)[/buff] в течение [buff](C)[/buff].",
+            "PL-PL": "Zwiększa zadawane [buff]obrażenia[/buff] o [buff](A)[/buff] oraz [buff]Regenerację Zdrowia[/buff] poza walką o [buff](B)[/buff] na [buff](C)[/buff].",
+            "TR-TR": "[buff](A)[/buff] boyunca verdiğin tüm [buff]hasarı[/buff] [buff](B)[/buff] ve savaş dışındaki [buff]Sağlık Yenilemeni[/buff] [buff](C)[/buff] artırır.",
+            "ID-ID": "Menambah semua [buff]damage[/buff] yang kamu hasilkan sebesar [buff](A)[/buff], dan [buff]Regenerasi HP[/buff] kamu di luar pertempuran sebesar [buff](B)[/buff], selama [buff](C)[/buff].",
+            "FR-FR": "Augmente tous les [buff]dégâts[/buff] que vous infligez de [buff](A)[/buff], ainsi que votre [buff]Régénération de Santé[/buff] en dehors des combats de [buff](B)[/buff] pendant [buff](C)[/buff].",
+            "JA-JP": "自分が与えるすべての[buff]ダメージ[/buff]を[buff](A)[/buff]増加させ、戦闘外の時、[buff](B)[/buff]間、[buff]体力再生[/buff]が[buff](C)[/buff]増加する。",
+            "EN-US": "Increases all [buff]damage[/buff] you deal by [buff](A)[/buff], and your [buff]Health Regeneration[/buff] outside of combat by [buff](B)[/buff], for [buff](C)[/buff].",
+            "DE-DE": "Steigert sämtlichen [buff]Schaden[/buff], den du zufügst, um [buff](A)[/buff] und deine [buff]Lebensregeneration[/buff] außerhalb von Kämpfen um [buff](B)[/buff] für [buff](C)[/buff].",
+            "AR-SA": "يزيد كل [buff]الضرر[/buff] الذي تتعامل معه بمقدار [buff](A)[/buff]، و[buff]تجديد صحتك[/buff] خارج القتال بمقدار [buff](B)[/buff]، مقابل [buff](C)[/buff].",
+            "KO-KR": "[buff](A)[/buff] 동안 자신이 가하는 모든 [buff]대미지[/buff]를 [buff](B)[/buff]만큼, 그리고 전투 이외 상황에서 [buff]체력 재생[/buff]을 [buff](C)[/buff]만큼 증가시킵니다.",
+            "PT-BR": "Aumenta todo o [buff]dano[/buff] que você causa em [buff](A)[/buff], e sua [buff]Regeneração de Vida[/buff] fora de combate em [buff](B)[/buff], por [buff](C)[/buff].",
+            "ZH-TW": "使您造成的所有[buff]傷害[/buff]增加[buff](A)[/buff]，不在戰鬥狀態時[buff]生命值恢復[/buff]增加[buff](B)[/buff]，持續[buff](C)[/buff]。",
+            "ES-ES": "Incrementa todo el [buff]daño[/buff] que infliges en [buff](A)[/buff] y tu [buff]Regeneración de Salud[/buff] fuera de combate en [buff](B)[/buff] durante [buff](C)[/buff].",
+            "ZH-CN": "使你造成的所有[buff]伤害[/buff]提高[buff](A)[/buff]，不在战斗状态时[buff]生命恢复速度[/buff]提高[buff](B)[/buff]，持续[buff](C)[/buff]。"
           },
           "target": "self",
           "castingTime": 0.8,
@@ -13520,7 +13520,7 @@
     "enchantmentLevel": 0,
     "categoryId": "cooked",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -13628,7 +13628,7 @@
           "uniqueName": "FOOD_FISH_BUFF_MAXHP_P5",
           "uiAtlas": null,
           "uiSprite": "SPELL_SANDWICH_FISH",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_FOOD_FISH_BUFF_MAXHP",
           "descriptionLocaTag": "@SPELLS_FOOD_FISH_BUFF_MAXHP_V2_DESC",
           "localizedNames": {
@@ -13746,7 +13746,7 @@
     "enchantmentLevel": 0,
     "categoryId": "fish",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": null,
     "activeSlots": {
       "1": [
@@ -13755,7 +13755,7 @@
           "uniqueName": "FOOD_FISH_FRESHWATER_4_RAW",
           "uiAtlas": null,
           "uiSprite": "FOOD_FISH_BUFF",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": null,
           "descriptionLocaTag": "@SPELLS_FOOD_FISH_COMMON_RAW_DESC",
           "localizedNames": {
@@ -13776,21 +13776,21 @@
             "ZH-CN": "蓝鳞梭鱼"
           },
           "localizedDescriptions": {
-            "IT-IT": "Aumenta la tua [buff]rigenerazione della salute[/buff] del [buff](A)[/buff] per [buff](B)[/buff].\nOttieni [other](C) fama di pesca[/other].",
-            "RU-RU": "Увеличивает ваше [buff]восстановление здоровья[/buff] на [buff](A)[/buff] в течение [buff](B)[/buff].\nДобавляет [other](C) рыболовной славы[/other].",
-            "PL-PL": "Zwiększa twoją [buff]Regenerację Zdrowia[/buff] o [buff](A)[/buff] na [buff](B)[/buff].\nZdobywasz [other](C) Sławy Wędkarskiej[/other].",
-            "TR-TR": "[buff]Sağlık Yenileme'ni[/buff] [buff](A)[/buff] boyunca [buff](B)[/buff] artırır.\n[other](C) Balıkçılık Namı[/other] kazanırsın.",
-            "ID-ID": "Menambah [buff]Regenerasi HP[/buff] hingga [buff](A)[/buff] selama [buff](B)[/buff].\nDapatkan [other](C) Ketenaran Memancing[/other].",
-            "FR-FR": "Augmente votre [buff]régénération de santé[/buff] de [buff](A)[/buff] pendant [buff](B)[/buff].\nObtenez [other](C) renommée de pêche[/other].",
-            "JA-JP": "[buff](A)[/buff]の間、[buff]体力再生[/buff]を[buff](B)[/buff]上昇させます。\n[other](C)の釣り名声[/other]を獲得します。",
-            "EN-US": "Increases your [buff]Health Regeneration[/buff] by [buff](A)[/buff] for [buff](B)[/buff].\nGain [other](C) Fishing Fame[/other].",
-            "DE-DE": "Steigert deine [buff]Lebensregeneration[/buff] für [buff](A)[/buff] um [buff](B)[/buff].\nErhalte [other](C) Angel-Ruhm[/other].",
-            "AR-SA": "تزيد من [buff]تجديد الصحة[/buff] بمقدار [buff](A)[/buff] لمدة [buff](B)[/buff].\nيمكن الحصول على [other](C) من نقاط خبرة الصيد[/other].",
-            "KO-KR": "[buff](A)[/buff] 동안 [buff]체력 재생량[/buff]을 [buff](B)[/buff] 만큼 증가시킵니다.\n[other](C)의 낚시 명성[/other]을 얻습니다.",
-            "PT-BR": "Aumenta sua [buff]Regeneração de Vida[/buff] em [buff](A)[/buff] por [buff](B)[/buff].\nGanha [other](C) de Fama de Pesca[/other].",
-            "ZH-TW": "使自身[buff]生命值回復速度[/buff]增加[buff](A)[/buff]，持續[buff](B)[/buff]。\n獲得[other](C)點釣魚聲望[/other]。",
-            "ES-ES": "Incrementa tu [buff]regeneración de salud[/buff] en [buff](A)[/buff] por [buff](B)[/buff].\nGana [other](C) de fama de pescador[/other].",
-            "ZH-CN": "你的[buff]生命回复速度[/buff]提高[buff](A)[/buff]，持续[buff](B)[/buff]。\n获得[other](C)钓鱼声望[/other]。"
+            "IT-IT": "Aumenta la tua [buff]Rigenerazione della Salute[/buff] fuori dal combattimento del [buff](A)[/buff] per [buff](B)[/buff].\nOttieni [other](C) Fama da Pesca[/other].",
+            "RU-RU": "Увеличивает ваше [buff]восстановление здоровья[/buff] вне боя на [buff](A)[/buff] в течение [buff](B)[/buff].\nДобавляет [other](C) рыболовной славы[/other].",
+            "PL-PL": "Zwiększa twoją [buff]Regenerację Zdrowia[/buff] poza walką o [buff](A)[/buff] na [buff](B)[/buff].\nZyskujesz [other](C) Sławy Rybackiej[/other].",
+            "TR-TR": "Savaş dışındaki [buff]Sağlık Yenilemeni[/buff] [buff](A)[/buff] boyunca [buff](B)[/buff] artırır.\n[other](C) Balıkçılık Namı[/other] kazanırsın.",
+            "ID-ID": "Meningkatkan [buff]Regenerasi HP[/buff] kamu di luar pertempuran sebesar [buff](A)[/buff], selama [buff](B)[/buff].\nDapatkan [other](C) Ketenaran Memancing[/other].",
+            "FR-FR": "Augmente votre [buff]Régénération de Santé[/buff] en dehors des combats de [buff](A)[/buff] pendant [buff](B)[/buff].\nObtenez [other](C) Renommée de Pêche[/other].",
+            "JA-JP": "戦闘外の時、[buff](A)[/buff]間、[buff]体力再生[/buff]が[buff](B)[/buff]増加する。\n[other](C)の釣り名声[/other]を獲得する。",
+            "EN-US": "Increases your [buff]Health Regeneration[/buff] outside of combat by [buff](A)[/buff] for [buff](B)[/buff].\nGain [other](C) Fishing Fame[/other].",
+            "DE-DE": "Steigert deine [buff]Lebensregeneration[/buff] außerhalb von Kämpfen um [buff](A)[/buff] für [buff](B)[/buff].\nErhalte [other](C) Angel-Ruhm[/other].",
+            "AR-SA": "تزيد من [buff]تجديد صحتك[/buff] خارج القتال بمقدار [buff](A)[/buff] لمدة [buff](B)[/buff].\nيمكن الحصول على [other](C) من نقاط خبرة اصطياد السمك[/other].",
+            "KO-KR": "[buff](A)[/buff] 동안 전투 이외 상황에서 [buff]체력 재생[/buff]을 [buff](B)[/buff]만큼 증가시킵니다.\n[other](C)의 낚시 명성[/other]을 얻습니다.",
+            "PT-BR": "Aumenta sua [buff]Regeneração de Vida[/buff] fora de combate em [buff](A)[/buff] por [buff](B)[/buff].\nGanha [other](C) de Fama de Pesca[/other].",
+            "ZH-TW": "使您不在戰鬥狀態時[buff]生命值恢復[/buff]增加[buff](A)[/buff]，持續[buff](B)[/buff]。\n獲得[other](C)點釣魚聲望[/other]。",
+            "ES-ES": "Incrementa tu [buff]Regeneración de Salud[/buff] fuera de combate en [buff](A)[/buff] durante [buff](B)[/buff].\nGana [other](C) de Fama de Pescador[/other].",
+            "ZH-CN": "使你不在战斗状态时[buff]生命恢复速度[/buff]提高[buff](A)[/buff]，持续[buff](B)[/buff]。\n获得[other](C)钓鱼声望[/other]。"
           },
           "target": "self",
           "castingTime": 0.8,
@@ -13866,7 +13866,7 @@
     "enchantmentLevel": 0,
     "categoryId": "cooked",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": null,
     "activeSlots": {
       "1": [
@@ -13875,7 +13875,7 @@
           "uniqueName": "FOOD_FISH_GRILLEDFISH_P1",
           "uiAtlas": null,
           "uiSprite": "FOOD_FISH_BUFF",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_FOOD_FISH_GRILLEDFISH_1",
           "descriptionLocaTag": "@SPELLS_FOOD_FISH_GRILLEDFISH_1_DESC",
           "localizedNames": {
@@ -13986,7 +13986,7 @@
     "enchantmentLevel": 0,
     "categoryId": "cooked",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -14094,7 +14094,7 @@
           "uniqueName": "FOOD_LOAD_GATHER_P3",
           "uiAtlas": null,
           "uiSprite": "SPELL_PIE",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_FOOD_LOAD_GATHER",
           "descriptionLocaTag": "@SPELLS_FOOD_LOAD_GATHER_DESC",
           "localizedNames": {
@@ -14219,7 +14219,7 @@
     "enchantmentLevel": 0,
     "categoryId": "cooked",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -14315,7 +14315,7 @@
           "uniqueName": "FOOD_FISH_LOAD_GATHER_P1",
           "uiAtlas": null,
           "uiSprite": "SPELL_PIE_FISH",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_FOOD_FISH_LOAD_GATHER",
           "descriptionLocaTag": "@SPELLS_FOOD_FISH_LOAD_GATHER_DESC",
           "localizedNames": {
@@ -14325,7 +14325,7 @@
             "TR-TR": "Balık Turtası",
             "ID-ID": "Pai Ikan",
             "FR-FR": "Tourte au poisson",
-            "JA-JP": "フィッシュパイ",
+            "JA-JP": "フ���ッシュパイ",
             "EN-US": "Fish Pie",
             "DE-DE": "Fischpastete",
             "AR-SA": "فطيرة بلحم السمك",
@@ -14348,7 +14348,7 @@
             "AR-SA": "تزيد من [buff]إنتاجية الجمع[/buff] بمقدار [buff](A)[/buff] ومن [buff]الحمولة القصوى[/buff] بمقدار [buff](B)[/buff] ومن [buff]مقاومة التحكم في الحشود[/buff] بمقدار [buff](C)[/buff] لمدة [buff](D)[/buff].",
             "KO-KR": "[buff](A)[/buff] 동안 [buff]채집량[/buff]이 [buff](B)[/buff] 만큼, [buff]최대 적재량[/buff]이 [buff](C)[/buff]만큼, 그리고 [buff]군중 제어 저항[/buff]이 [buff](D)[/buff]만큼 증가합니다.",
             "PT-BR": "Aumenta seu [buff]Retorno de Coleta[/buff] em [buff](A)[/buff], sua [buff]Carga Máxima[/buff] em [buff](B)[/buff], e sua [buff]Resistência a Controle de Grupo[/buff] em [buff](C)[/buff] por [buff](D)[/buff].",
-            "ZH-TW": "使自身[buff]採集收穫[/buff]增加[buff](A)[/buff]、[buff]負重上限[/buff]增加[buff](B)[/buff]、[buff]群體控制抗性[/buff]增加[buff](C)[/buff]，持續[buff](D)[/buff]。",
+            "ZH-TW": "使自身[buff]採集收穫[/buff]增加[buff](A)[/buff]、[buff]���重上限[/buff]增加[buff](B)[/buff]、[buff]群體控制抗性[/buff]增加[buff](C)[/buff]，持續[buff](D)[/buff]。",
             "ES-ES": "Incrementa tu [buff]rendimiento de recolección[/buff] en [buff](A)[/buff], tu [buff]carga máxima[/buff] en [buff](B)[/buff], y tu [buff]resistencia al control de multitudes[/buff] en [buff](C)[/buff] por [buff](D)[/buff].",
             "ZH-CN": "你的[buff]采集产出[/buff]提高[buff](A)[/buff]，[buff]最大负重量[/buff]提高[buff](B)[/buff]，[buff]群体控制抗性[/buff]提高[buff](C)[/buff]，持续[buff](D)[/buff]。"
           },
@@ -14454,7 +14454,7 @@
     "enchantmentLevel": 0,
     "categoryId": "fish",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": null,
     "activeSlots": {
       "1": [
@@ -14463,7 +14463,7 @@
           "uniqueName": "FOOD_FISH_BUFF_MAXHP_2_RAW",
           "uiAtlas": null,
           "uiSprite": "FOOD_FISH_BUFF",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": null,
           "descriptionLocaTag": "@SPELLS_FOOD_FISH_BUFF_MAXHP_RAW_DESC",
           "localizedNames": {
@@ -14574,7 +14574,7 @@
     "enchantmentLevel": 0,
     "categoryId": "cooked",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -14682,7 +14682,7 @@
           "uniqueName": "FOOD_FISH_CRAFTING_P3",
           "uiAtlas": null,
           "uiSprite": "SPELL_SALAD_FISH",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_FOOD_FISH_CRAFTING",
           "descriptionLocaTag": "@SPELLS_FOOD_CRAFTING_DESC",
           "localizedNames": {
@@ -14775,7 +14775,7 @@
       "PT-BR": "Salada de Polvo das Águas médias",
       "ZH-TW": "中水章魚沙拉",
       "ES-ES": "Ensalada de pulpo de aguas medias",
-      "ZH-CN": "中层水域章鱼���拉"
+      "ZH-CN": "中层水域章鱼沙拉"
     },
     "localizedDescriptions": null,
     "slotType": "food",
@@ -14800,7 +14800,7 @@
     "enchantmentLevel": 0,
     "categoryId": "fish",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": null,
     "activeSlots": {
       "1": [
@@ -14809,7 +14809,7 @@
           "uniqueName": "FOOD_FISH_SALTWATER_4_RAW",
           "uiAtlas": null,
           "uiSprite": "FOOD_FISH_BUFF",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": null,
           "descriptionLocaTag": "@SPELLS_FOOD_FISH_COMMON_RAW_DESC",
           "localizedNames": {
@@ -14830,21 +14830,21 @@
             "ZH-CN": "蓝鳞鳕鱼"
           },
           "localizedDescriptions": {
-            "IT-IT": "Aumenta la tua [buff]rigenerazione della salute[/buff] del [buff](A)[/buff] per [buff](B)[/buff].\nOttieni [other](C) fama di pesca[/other].",
-            "RU-RU": "Увеличивает ваше [buff]восстановление здоровья[/buff] на [buff](A)[/buff] в течение [buff](B)[/buff].\nДобавляет [other](C) рыболовной славы[/other].",
-            "PL-PL": "Zwiększa twoją [buff]Regenerację Zdrowia[/buff] o [buff](A)[/buff] na [buff](B)[/buff].\nZdobywasz [other](C) Sławy Wędkarskiej[/other].",
-            "TR-TR": "[buff]Sağlık Yenileme'ni[/buff] [buff](A)[/buff] boyunca [buff](B)[/buff] artırır.\n[other](C) Balıkçılık Namı[/other] kazanırsın.",
-            "ID-ID": "Menambah [buff]Regenerasi HP[/buff] hingga [buff](A)[/buff] selama [buff](B)[/buff].\nDapatkan [other](C) Ketenaran Memancing[/other].",
-            "FR-FR": "Augmente votre [buff]régénération de santé[/buff] de [buff](A)[/buff] pendant [buff](B)[/buff].\nObtenez [other](C) renommée de pêche[/other].",
-            "JA-JP": "[buff](A)[/buff]の間、[buff]体力再生[/buff]を[buff](B)[/buff]上昇させます。\n[other](C)の釣り名声[/other]を獲得します。",
-            "EN-US": "Increases your [buff]Health Regeneration[/buff] by [buff](A)[/buff] for [buff](B)[/buff].\nGain [other](C) Fishing Fame[/other].",
-            "DE-DE": "Steigert deine [buff]Lebensregeneration[/buff] für [buff](A)[/buff] um [buff](B)[/buff].\nErhalte [other](C) Angel-Ruhm[/other].",
-            "AR-SA": "تزيد من [buff]تجديد الصحة[/buff] بمقدار [buff](A)[/buff] لمدة [buff](B)[/buff].\nيمكن الحصول على [other](C) من نقاط خبرة الصيد[/other].",
-            "KO-KR": "[buff](A)[/buff] 동안 [buff]체력 재생량[/buff]을 [buff](B)[/buff] 만큼 증가시킵니다.\n[other](C)의 낚시 명성[/other]을 얻습니다.",
-            "PT-BR": "Aumenta sua [buff]Regeneração de Vida[/buff] em [buff](A)[/buff] por [buff](B)[/buff].\nGanha [other](C) de Fama de Pesca[/other].",
-            "ZH-TW": "使自身[buff]生命值回復速度[/buff]增加[buff](A)[/buff]，持續[buff](B)[/buff]。\n獲得[other](C)點釣魚聲望[/other]。",
-            "ES-ES": "Incrementa tu [buff]regeneración de salud[/buff] en [buff](A)[/buff] por [buff](B)[/buff].\nGana [other](C) de fama de pescador[/other].",
-            "ZH-CN": "你的[buff]生命回复速度[/buff]提高[buff](A)[/buff]，持续[buff](B)[/buff]。\n获得[other](C)钓鱼声望[/other]。"
+            "IT-IT": "Aumenta la tua [buff]Rigenerazione della Salute[/buff] fuori dal combattimento del [buff](A)[/buff] per [buff](B)[/buff].\nOttieni [other](C) Fama da Pesca[/other].",
+            "RU-RU": "Увеличивает ваше [buff]восстановление здоровья[/buff] вне боя на [buff](A)[/buff] в течение [buff](B)[/buff].\nДобавляет [other](C) рыболовной славы[/other].",
+            "PL-PL": "Zwiększa twoją [buff]Regenerację Zdrowia[/buff] poza walką o [buff](A)[/buff] na [buff](B)[/buff].\nZyskujesz [other](C) Sławy Rybackiej[/other].",
+            "TR-TR": "Savaş dışındaki [buff]Sağlık Yenilemeni[/buff] [buff](A)[/buff] boyunca [buff](B)[/buff] artırır.\n[other](C) Balıkçılık Namı[/other] kazanırsın.",
+            "ID-ID": "Meningkatkan [buff]Regenerasi HP[/buff] kamu di luar pertempuran sebesar [buff](A)[/buff], selama [buff](B)[/buff].\nDapatkan [other](C) Ketenaran Memancing[/other].",
+            "FR-FR": "Augmente votre [buff]Régénération de Santé[/buff] en dehors des combats de [buff](A)[/buff] pendant [buff](B)[/buff].\nObtenez [other](C) Renommée de Pêche[/other].",
+            "JA-JP": "戦闘外の時、[buff](A)[/buff]間、[buff]体力再生[/buff]が[buff](B)[/buff]増加する。\n[other](C)の釣り名声[/other]を獲得する。",
+            "EN-US": "Increases your [buff]Health Regeneration[/buff] outside of combat by [buff](A)[/buff] for [buff](B)[/buff].\nGain [other](C) Fishing Fame[/other].",
+            "DE-DE": "Steigert deine [buff]Lebensregeneration[/buff] außerhalb von Kämpfen um [buff](A)[/buff] für [buff](B)[/buff].\nErhalte [other](C) Angel-Ruhm[/other].",
+            "AR-SA": "تزيد من [buff]تجديد صحتك[/buff] خارج القتال بمقدار [buff](A)[/buff] لمدة [buff](B)[/buff].\nيمكن الحصول على [other](C) من نقاط خبرة اصطياد السمك[/other].",
+            "KO-KR": "[buff](A)[/buff] 동안 전투 이외 상황에서 [buff]체력 재생[/buff]을 [buff](B)[/buff]만큼 증가시킵니다.\n[other](C)의 낚시 명성[/other]을 얻습니다.",
+            "PT-BR": "Aumenta sua [buff]Regeneração de Vida[/buff] fora de combate em [buff](A)[/buff] por [buff](B)[/buff].\nGanha [other](C) de Fama de Pesca[/other].",
+            "ZH-TW": "使您不在戰鬥狀態時[buff]生命值恢復[/buff]增加[buff](A)[/buff]，持續[buff](B)[/buff]。\n獲得[other](C)點釣魚聲望[/other]。",
+            "ES-ES": "Incrementa tu [buff]Regeneración de Salud[/buff] fuera de combate en [buff](A)[/buff] durante [buff](B)[/buff].\nGana [other](C) de Fama de Pescador[/other].",
+            "ZH-CN": "使你不在战斗状态时[buff]生命恢复速度[/buff]提高[buff](A)[/buff]，持续[buff](B)[/buff]。\n获得[other](C)钓鱼声望[/other]。"
           },
           "target": "self",
           "castingTime": 0.8,
@@ -14920,7 +14920,7 @@
     "enchantmentLevel": 0,
     "categoryId": "cooked",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -15028,7 +15028,7 @@
           "uniqueName": "FOOD_FISH_BUFF_CASTSPEED_CDR_P5",
           "uiAtlas": null,
           "uiSprite": "SPELL_OMELETTE_FISH",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_FOOD_FISH_BUFF_CASTSPEED_CDR",
           "descriptionLocaTag": "@SPELLS_FOOD_FISH_BUFF_CASTSPEED_CDR_V2_DESC",
           "localizedNames": {
@@ -15153,7 +15153,7 @@
     "enchantmentLevel": 0,
     "categoryId": "fish",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": null,
     "activeSlots": {
       "1": [
@@ -15162,12 +15162,12 @@
           "uniqueName": "FOOD_FISH_BUFF_CASTSPEED_CDR_1_RAW",
           "uiAtlas": null,
           "uiSprite": "FOOD_FISH_BUFF",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": null,
           "descriptionLocaTag": "@SPELLS_FOOD_FISH_BUFF_CASTSPEED_CDR_RAW_DESC",
           "localizedNames": {
             "IT-IT": "Granchio degli argini",
-            "RU-RU": "Мелководны�� краб",
+            "RU-RU": "Мелководный краб",
             "PL-PL": "Krab Rzeczny",
             "TR-TR": "Sığnehir Yengeci",
             "ID-ID": "Kepiting Hilir",
@@ -15273,7 +15273,7 @@
     "enchantmentLevel": 0,
     "categoryId": "cooked",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -15381,7 +15381,7 @@
           "uniqueName": "FOOD_BUFF_CASTSPEED_CDR_AVALON_P5",
           "uiAtlas": null,
           "uiSprite": "SPELL_OMELETT",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_FOOD_BUFF_CASTSPEED_CDR_AVALON",
           "descriptionLocaTag": "@SPELLS_FOOD_BUFF_CASTSPEED_CDR_AVALON_V2_DESC",
           "localizedNames": {
@@ -15513,7 +15513,7 @@
     "enchantmentLevel": 0,
     "categoryId": "fish",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": null,
     "activeSlots": {
       "1": [
@@ -15522,7 +15522,7 @@
           "uniqueName": "FOOD_FISH_BUFF_LIFESTEAL_1_RAW",
           "uiAtlas": null,
           "uiSprite": "FOOD_FISH_BUFF",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": null,
           "descriptionLocaTag": "@SPELLS_FOOD_FISH_BUFF_LIFESTEAL_RAW_DESC",
           "localizedNames": {
@@ -15608,7 +15608,7 @@
       "PT-BR": "Pargo Bruma-branca",
       "ZH-TW": "白霧鯛魚",
       "ES-ES": "Pargo de niebla blanca",
-      "ZH-CN": "白雾鲷鱼"
+      "ZH-CN": "白雾鲷���"
     },
     "localizedDescriptions": null,
     "slotType": "food",
@@ -15633,7 +15633,7 @@
     "enchantmentLevel": 0,
     "categoryId": "cooked",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -15729,7 +15729,7 @@
           "uniqueName": "FOOD_FISH_CRAFTING_P1",
           "uiAtlas": null,
           "uiSprite": "SPELL_SALAD_FISH",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_FOOD_FISH_CRAFTING",
           "descriptionLocaTag": "@SPELLS_FOOD_CRAFTING_DESC",
           "localizedNames": {
@@ -15847,7 +15847,7 @@
     "enchantmentLevel": 0,
     "categoryId": "vanity",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": null,
     "activeSlots": {
       "1": [
@@ -15856,7 +15856,7 @@
           "uniqueName": "FOOD_EASTER_CHOCOLATE",
           "uiAtlas": null,
           "uiSprite": "EASTER_CHOCOLATE",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": null,
           "descriptionLocaTag": null,
           "localizedNames": {
@@ -15887,7 +15887,7 @@
             "EN-US": "Makes you happy, increasing your [buff]Energy Regeneration[/buff] by [buff](A)[/buff] for [buff](B)[/buff].",
             "DE-DE": "Macht dich für [buff](A)[/buff] glücklich und steigert deine [buff]Energieregeneration[/buff] um [buff](B)[/buff].",
             "AR-SA": "تشعرك بالسعادة، ما يزيد من [buff]تجديد الطاقة[/buff] لديك بمقدار [buff](A)[/buff] لمدة [buff](B)[/buff].",
-            "KO-KR": "기분이 좋아져서 [buff](A)[/buff] 동안 [buff]에너지 재생량[/buff]이 [buff](B)[/buff]만큼 증가합니다.",
+            "KO-KR": "기분이 ��아져서 [buff](A)[/buff] 동안 [buff]에너지 재생량[/buff]이 [buff](B)[/buff]만큼 증가합니다.",
             "PT-BR": "Te deixa feliz, aumentando sua [buff]Regeneração de Energia[/buff] em [buff](A)[/buff] por [buff](B)[/buff].",
             "ZH-TW": "令自身感到幸福，使[buff]能量回復速度[/buff]增加[buff](A)[/buff]，持續[buff](B)[/buff]。",
             "ES-ES": "Te hace feliz e incrementa tu [buff]regeneración de energía[/buff] en [buff](A)[/buff] por [buff](B)[/buff].",
@@ -15983,7 +15983,7 @@
     "enchantmentLevel": 0,
     "categoryId": "fish",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": null,
     "activeSlots": {
       "1": [
@@ -15992,7 +15992,7 @@
           "uniqueName": "FOOD_FISH_BUFF_DMG_2_RAW",
           "uiAtlas": null,
           "uiSprite": "FOOD_FISH_BUFF",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": null,
           "descriptionLocaTag": "@SPELLS_FOOD_FISH_BUFF_DMG_RAW_DESC",
           "localizedNames": {
@@ -16103,7 +16103,7 @@
     "enchantmentLevel": 0,
     "categoryId": "fish",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": null,
     "activeSlots": {
       "1": [
@@ -16112,7 +16112,7 @@
           "uniqueName": "FOOD_FISH_SALTWATER_1_RAW",
           "uiAtlas": null,
           "uiSprite": "FOOD_FISH_BUFF",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": null,
           "descriptionLocaTag": "@SPELLS_FOOD_FISH_COMMON_RAW_DESC",
           "localizedNames": {
@@ -16133,21 +16133,21 @@
             "ZH-CN": "普通鲱鱼"
           },
           "localizedDescriptions": {
-            "IT-IT": "Aumenta la tua [buff]rigenerazione della salute[/buff] del [buff](A)[/buff] per [buff](B)[/buff].\nOttieni [other](C) fama di pesca[/other].",
-            "RU-RU": "Увеличивает ваше [buff]восстановление здоровья[/buff] на [buff](A)[/buff] в течение [buff](B)[/buff].\nДобавляет [other](C) рыболовной славы[/other].",
-            "PL-PL": "Zwiększa twoją [buff]Regenerację Zdrowia[/buff] o [buff](A)[/buff] na [buff](B)[/buff].\nZdobywasz [other](C) Sławy Wędkarskiej[/other].",
-            "TR-TR": "[buff]Sağlık Yenileme'ni[/buff] [buff](A)[/buff] boyunca [buff](B)[/buff] artırır.\n[other](C) Balıkçılık Namı[/other] kazanırsın.",
-            "ID-ID": "Menambah [buff]Regenerasi HP[/buff] hingga [buff](A)[/buff] selama [buff](B)[/buff].\nDapatkan [other](C) Ketenaran Memancing[/other].",
-            "FR-FR": "Augmente votre [buff]régénération de santé[/buff] de [buff](A)[/buff] pendant [buff](B)[/buff].\nObtenez [other](C) renommée de pêche[/other].",
-            "JA-JP": "[buff](A)[/buff]の間、[buff]体力再生[/buff]を[buff](B)[/buff]上昇させます。\n[other](C)の釣り名声[/other]を獲得します。",
-            "EN-US": "Increases your [buff]Health Regeneration[/buff] by [buff](A)[/buff] for [buff](B)[/buff].\nGain [other](C) Fishing Fame[/other].",
-            "DE-DE": "Steigert deine [buff]Lebensregeneration[/buff] für [buff](A)[/buff] um [buff](B)[/buff].\nErhalte [other](C) Angel-Ruhm[/other].",
-            "AR-SA": "تزيد من [buff]تجديد الصحة[/buff] بمقدار [buff](A)[/buff] لمدة [buff](B)[/buff].\nيمكن الحصول على [other](C) من نقاط خبرة الصيد[/other].",
-            "KO-KR": "[buff](A)[/buff] 동안 [buff]체력 재생량[/buff]을 [buff](B)[/buff] 만큼 증가시킵니다.\n[other](C)의 낚시 명성[/other]을 얻습니다.",
-            "PT-BR": "Aumenta sua [buff]Regeneração de Vida[/buff] em [buff](A)[/buff] por [buff](B)[/buff].\nGanha [other](C) de Fama de Pesca[/other].",
-            "ZH-TW": "使自身[buff]生命值回復速度[/buff]增加[buff](A)[/buff]，持續[buff](B)[/buff]。\n獲得[other](C)點釣魚聲望[/other]。",
-            "ES-ES": "Incrementa tu [buff]regeneración de salud[/buff] en [buff](A)[/buff] por [buff](B)[/buff].\nGana [other](C) de fama de pescador[/other].",
-            "ZH-CN": "你的[buff]生命回复速度[/buff]提高[buff](A)[/buff]，持续[buff](B)[/buff]。\n获得[other](C)钓鱼声望[/other]。"
+            "IT-IT": "Aumenta la tua [buff]Rigenerazione della Salute[/buff] fuori dal combattimento del [buff](A)[/buff] per [buff](B)[/buff].\nOttieni [other](C) Fama da Pesca[/other].",
+            "RU-RU": "Увеличивает ваше [buff]восстановление здоровья[/buff] вне боя на [buff](A)[/buff] в течение [buff](B)[/buff].\nДобавляет [other](C) рыболовной славы[/other].",
+            "PL-PL": "Zwiększa twoją [buff]Regenerację Zdrowia[/buff] poza walką o [buff](A)[/buff] na [buff](B)[/buff].\nZyskujesz [other](C) Sławy Rybackiej[/other].",
+            "TR-TR": "Savaş dışındaki [buff]Sağlık Yenilemeni[/buff] [buff](A)[/buff] boyunca [buff](B)[/buff] artırır.\n[other](C) Balıkçılık Namı[/other] kazanırsın.",
+            "ID-ID": "Meningkatkan [buff]Regenerasi HP[/buff] kamu di luar pertempuran sebesar [buff](A)[/buff], selama [buff](B)[/buff].\nDapatkan [other](C) Ketenaran Memancing[/other].",
+            "FR-FR": "Augmente votre [buff]Régénération de Santé[/buff] en dehors des combats de [buff](A)[/buff] pendant [buff](B)[/buff].\nObtenez [other](C) Renommée de Pêche[/other].",
+            "JA-JP": "戦闘外の時、[buff](A)[/buff]間、[buff]体力再生[/buff]が[buff](B)[/buff]増加する。\n[other](C)の釣り名声[/other]を獲得する。",
+            "EN-US": "Increases your [buff]Health Regeneration[/buff] outside of combat by [buff](A)[/buff] for [buff](B)[/buff].\nGain [other](C) Fishing Fame[/other].",
+            "DE-DE": "Steigert deine [buff]Lebensregeneration[/buff] außerhalb von Kämpfen um [buff](A)[/buff] für [buff](B)[/buff].\nErhalte [other](C) Angel-Ruhm[/other].",
+            "AR-SA": "تزيد من [buff]تجديد صحتك[/buff] خارج القتال بمقدار [buff](A)[/buff] لمدة [buff](B)[/buff].\nيمكن الحصول على [other](C) من نقاط خبرة اصطياد السمك[/other].",
+            "KO-KR": "[buff](A)[/buff] 동안 전투 이외 상황에서 [buff]체력 재생[/buff]을 [buff](B)[/buff]만큼 증가시킵니다.\n[other](C)의 낚시 명성[/other]을 얻습니다.",
+            "PT-BR": "Aumenta sua [buff]Regeneração de Vida[/buff] fora de combate em [buff](A)[/buff] por [buff](B)[/buff].\nGanha [other](C) de Fama de Pesca[/other].",
+            "ZH-TW": "使您不在戰鬥狀態時[buff]生命值恢復[/buff]增加[buff](A)[/buff]，持續[buff](B)[/buff]。\n獲得[other](C)點釣魚聲望[/other]。",
+            "ES-ES": "Incrementa tu [buff]Regeneración de Salud[/buff] fuera de combate en [buff](A)[/buff] durante [buff](B)[/buff].\nGana [other](C) de Fama de Pescador[/other].",
+            "ZH-CN": "使你不在战斗状态时[buff]生命恢复速度[/buff]提高[buff](A)[/buff]，持续[buff](B)[/buff]。\n获得[other](C)钓鱼声望[/other]。"
           },
           "target": "self",
           "castingTime": 0.8,

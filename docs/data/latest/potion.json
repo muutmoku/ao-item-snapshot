@@ -13,7 +13,7 @@
     "enchantmentLevel": 0,
     "categoryId": "potion",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -97,7 +97,7 @@
           "uniqueName": "POTION_GATHER_P1",
           "uiAtlas": null,
           "uiSprite": "EQUIPNEXTTOOL",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_POTION_GATHER",
           "descriptionLocaTag": "@SPELLS_POTION_GATHER_DESC",
           "localizedNames": {
@@ -126,7 +126,7 @@
             "FR-FR": "Augmente votre [buff]vitesse de récolte[/buff] et [buff]pêche[/buff] de [buff](A)[/buff] et votre [buff]rendement de récolte[/buff] et [buff]pêche[/buff] de [buff](B)[/buff] pendant [buff](C)[/buff].",
             "JA-JP": "自分の[buff]採集[/buff]と[buff]漁獲速度[/buff]を[buff](A)[/buff]増加させ、[buff]採集[/buff]と[buff]漁獲量[/buff]を[buff](B)[/buff]間[buff](C)[/buff]増加させる。",
             "EN-US": "Increase your [buff]Gather[/buff] and [buff]Fishing Speed[/buff] by [buff](A)[/buff] and your [buff]Gather[/buff] and [buff]Fishing Yield[/buff] by [buff](B)[/buff] for [buff](C)[/buff].",
-            "DE-DE": "Steigert für [buff](A)[/buff] deine {buff]Geschwindigkeit[/buff] beim [buff]Sammeln[/buff] und [buff]Angeln[/buff] um [buff](B)[/buff] und deinen [buff]Sammel-[/buff] und [buff]Angel-Ertrag[/buff] um [buff](C)[/buff].",
+            "DE-DE": "Steigert für [buff](A)[/buff] deine [buff]Geschwindigkeit[/buff] beim [buff]Sammeln[/buff] und [buff]Angeln[/buff] um [buff](B)[/buff] und deinen [buff]Sammel-[/buff] und [buff]Angel-Ertrag[/buff] um [buff](C)[/buff].",
             "AR-SA": "يمكن زيادة قدرة [buff]الجمع[/buff] و[buff]سرعة الصيد[/buff] لديك بمقدار [buff](A)[/buff] وقدرة[buff]الجمع[/buff] و[buff]إنتاجية الصيد[/buff] بمقدار [buff](B)[/buff] لمدة [buff](C)[/buff].",
             "KO-KR": "[buff](A)[/buff] 동안 [buff]채집[/buff] 및 [buff]낚시 속도[/buff]가 [buff](B)[/buff]만큼, [buff]채집량[/buff] 및 [buff]낚시 성공률[/buff]이 [buff](C)[/buff]만큼 증가합니다.",
             "PT-BR": "Aumenta a sua [buff]Velocidade de Coleta[/buff] e de [buff]Pesca[/buff] em [buff](A)[/buff] e o seu [buff]Rendimento de Coleta[/buff] e de [buff]Pesca[/buff] em [buff](B)[/buff] por [buff](C)[/buff].",
@@ -229,7 +229,7 @@
     "enchantmentLevel": 0,
     "categoryId": "potion",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -361,9 +361,9 @@
           "uniqueName": "POTION_CLEANSE2_P5",
           "uiAtlas": null,
           "uiSprite": "MAGICCIRCLE_MOVEMENT",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_POTION_CLEANSE2",
-          "descriptionLocaTag": "@SPELLS_POTION_CLEANSE2_T7_DESC",
+          "descriptionLocaTag": "@SPELLS_POTION_CLEANSE2_T7_V2_DESC",
           "localizedNames": {
             "IT-IT": "Pozione purificante",
             "RU-RU": "Очищающее зелье",
@@ -382,21 +382,21 @@
             "ZH-CN": "净化药水"
           },
           "localizedDescriptions": {
-            "IT-IT": "[other]Purifica[/other] tutti gli [other]effetti di danno nel tempo[/other], [other]gli effetti di Controllo sulla Folla[/other] e i [other]debuff[/other] (si può usare da storditi o silenziati). \nRende [buff]immuni[/buff] a tutti gli [buff]effetti di Controllo sulla Folla[/buff] per [buff](A)[/buff].",
-            "RU-RU": "Вы [other]снимаете[/other] все [other]эффекты с периодическим уроном[/other], [other]эффекты контроля[/other] и [other]дебафы[/other] (можно использовать при оглушении или безмолвии).\nНаделяет [buff]невосприимчивостью[/buff] ко всем [buff]эффектам контроля[/buff] на [buff](A)[/buff].",
-            "PL-PL": "[other]Oczyszczasz[/other] wszystkie [other]efekty obrażeń czasowych[/other], [other]efekty kontroli tłumu[/other] i [other]debuffy[/other] (można użyć, będąc ogłuszonym lub wyciszonym). \nZapewnia [buff]odporność[/buff] na wszystkie [buff]efekty kontroli tłumu[/buff] przez [buff](A)[/buff].",
-            "TR-TR": "Tüm [other]zamanla hasar etkilerini[/other], [other]kitle kontrol etkilerini[/other] ve [other]zayıflatmaları[/other] [other]arındırır[/other] (sersemletilmiş veya susturulmuşken de kullanılabilir). \n[buff](A)[/buff] boyunca tüm [buff]kitle kontrol etkilerine[/buff] karşı [buff]bağışıklık[/buff] sağlar.",
-            "ID-ID": "[other]Membersihkan[/other] semua [other]efek damage seiring waktu[/other], [other]efek Kontrol Kerumunan[/other] dan [other]debuff[/other] (dapat digunakan ketika terkena stun atau terbungkam). \nMemberikan [buff]kekebalan[/buff] dari semua [buff]efek Kontrol Kerumunan[/buff] selama [buff](A)[/buff].",
-            "FR-FR": "[other]Purifie[/other] tous les [other]effets de dégâts sur la durée[/other], [other]effets de contrôle de foule[/other] et [other]malus[/other] (vous pouvez l'utiliser lorsque vous êtes étourdi ou réduit au silence). \nConfère une [buff]immunité[/buff] contre tous les [buff]effets de contrôle de foule[/buff] pendant [buff](A)[/buff].",
-            "JA-JP": "[other]全ての[other]時間経過ダメージ効果[/other]、[other]CC効果[/other]、[other]デバフ[/other](気絶中や沈黙中でも使用可能)を[other]浄化[/other]する。\n全ての[buff]CCl効果[/buff]に対して[buff](A)[/buff]間[buff]免疫[/buff]を付与する。",
-            "EN-US": "[other]Cleanse[/other] all [other]damage over time effects[/other], [other]Crowd Control effects[/other] and [other]debuffs[/other] (can be used while stunned or silenced). \nGrants [buff]immunity[/buff] to all [buff]Crowd Control effects[/buff] for [buff](A)[/buff].",
-            "DE-DE": "[other]Reinigt[/other] alle [other]CC-Effekte[/other] und [other]Debuffs[/other] (außer Schaden-auf-Zeit Effekte; kann auch bei Stille oder Betäubung genutzt werden).\nGewährt für [buff](A)[/buff] [buff]Immunität[/buff] gegen alle [other]CC-Effekte[/other].",
-            "AR-SA": "يمكن [other]تطهير[/other] كل [other]تأثيرات الضرر بمرور الوقت[/other] و[other]تأثيرات التحكم في الحشود[/other] و[other]التثبيطات[/other] (يمكن الاستخدام في أثناء الإصابة بالصعق أو الإيقاف). \nتمنح [buff]حصانة[/buff] من [buff]كل تأثيرات التحكم في الحشود[/buff] لمدة [buff](A)[/buff].",
-            "KO-KR": "모든 [other]지속 대미지 효과[/other]와 [other]군중 제어 효과[/other], [other]디버프[/other]를 [other]정화[/other]합니다 (기절이나 침묵 상태 중 사용 가능).\n[buff](A)[/buff] 동안 모든 [buff]군중 제어 효과[/buff]에 대한 [buff]면역[/buff]을 부여합니다.",
-            "PT-BR": "[other]Purifica[/other] todos os [other]efeitos de dano ao longo do tempo[/other], [other]efeitos de Controle de Multidão[/other] e [other]desvantagens[/other] (pode ser usado enquanto atordoado ou silenciado). \nConcede [buff]imunidade[/buff] a todos os [buff]efeitos de Controle de Multidão[/buff] por [buff](A)[/buff].",
-            "ZH-TW": "[other]淨化[/other]所有[other]持續性傷害效果[/other]、[other]群體控制效果[/other]和[other]減益效果[/other](暈眩或沉默時可使用)。\n使您[buff]免疫[/buff]所有[buff]群體控制效果[/buff]，持續[buff](A)[/buff]。",
-            "ES-ES": "[other]Limpia[/other] todos los [other]efectos de daño a largo plazo[/other], los [other]efectos de control de multitudes[/other] y los [other]debuffs[/other] (puede usarse estando aturdido o silenciado). \nOtorga [buff]inmunidad[/buff] contra todos los [buff]efectos de control de multitudes[/buff] durante [buff](A)[/buff].",
-            "ZH-CN": "[other]净化[/other]所有[other]持续性伤害效果[/other]、[other]群体控制效果[/other]和[other]减益效果[/other]（可以在被击晕或沉默时使用��。\n使你[buff]免疫[/buff]所有[buff]群体控制效果[/buff]，持续[buff](A)[/buff]。"
+            "IT-IT": "[other]Purifica[/other] tutti gli [other]effetti di danno nel tempo[/other], [other]gli effetti di Controllo sulla Folla[/other] e i [other]debuff[/other] (si può usare da storditi o silenziati). \nRende [buff]immuni[/buff] a tutti gli [buff]effetti di Controllo sulla Folla[/buff] per [buff](A)[/buff].\n[other]Purificare[/other] un qualsiasi effetto aumenta la tua [buff]Velocità di Movimento[/buff] del [buff](B)[/buff] per [buff](A)[/buff].",
+            "RU-RU": "Вы [other]снимаете[/other] все [other]эффекты с периодическим уроном[/other], [other]эффекты контроля[/other] и [other]дебафы[/other] (можно использова��ь при оглушении или безмолвии). \nНаделяет [buff]невосприимчивостью[/buff] ко всем [buff]эффектам контроля[/buff] на [buff](A)[/buff].\n[other]Очищение[/other] от любого эффекта увеличивает вашу [buff]скорость передвижения[/buff] на [buff](B)[/buff] в течение [buff](A)[/buff].",
+            "PL-PL": "[other]Oczyszczasz[/other] wszystkie [other]efekty obrażeń czasowych[/other], [other]efekty kontroli tłumu[/other] i [other]debuffy[/other] (można użyć, będąc ogłuszonym lub wyciszonym). \nZapewnia [buff]odporność[/buff] na wszystkie [buff]efekty kontroli tłumu[/buff] przez [buff](A)[/buff].\n[other]Oczyszczenie[/other] dowolnego efektu zwiększy twoją [buff]Szybkość ruchu[/buff] o [buff](B)[/buff] na [buff](A)[/buff].",
+            "TR-TR": "Tüm [other]zamanla hasar etkilerini[/other], [other]kitle kontrol etkilerini[/other] ve [other]zayıflatmaları[/other] [other]arındırır[/other] (sersemletilmiş veya susturulmuşken de kullanılabilir). \n[buff](A)[/buff] boyunca tüm [buff]kitle kontrol etkilerine[/buff] karşı [buff]bağışıklık[/buff] sağlar.\nHerhangi bir etkiyi [other]arındırmak[/other], [buff]Hareket Hızını[/buff] [buff](A)[/buff] boyunca [buff](C)[/buff] artırır.",
+            "ID-ID": "[other]Membersihkan[/other] semua [other]efek damage seiring waktu[/other], [other]efek Kontrol Kerumunan[/other] dan [other]debuff[/other] (dapat digunakan ketika terkena stun atau terbungkam). \nMemberikan [buff]kekebalan[/buff] dari semua [buff]efek Kontrol Kerumunan[/buff] selama [buff](A)[/buff].\n[other]Membersihkan[/other] semua efek, meningkatkan [buff]Kecepatan Gerak[/buff] sebesar [buff](B)[/buff] selama [buff](A)[/buff].",
+            "FR-FR": "[other]Purifie[/other] tous les [other]effets de dégâts sur la durée[/other], [other]effets de Contrôle de Foule[/other] et [other]malus[/other] (vous pouvez l'utiliser lorsque vous êtes étourdi ou réduit au silence). \nConfère une [buff]immunité[/buff] contre tous les [buff]effets de Contrôle de Foule[/buff] pendant [buff](A)[/buff].\n[other]Purifier[/other] tout effet augmente votre [buff]Vitesse de Déplacement[/buff] de [buff](B)[/buff] pendant [buff](A)[/buff].",
+            "JA-JP": "全ての[other]時間経過ダメージ効果[/other]、[other]CC効果[/other]、[other]デバフ[/other](気絶中や沈黙中でも使用可能)を[other]浄化[/other]する。 \n全ての[buff]CCl効果[/buff]に対して[buff](A)[/buff]間[buff]免疫[/buff]を付与する。\nデバフ効果[other]浄化[/other]すると、自身の[buff]移動速度[/buff]が[buff](A)[/buff]間、[buff](C)[/buff]増加します。",
+            "EN-US": "[other]Cleanse[/other] all [other]damage over time effects[/other], [other]Crowd Control effects[/other] and [other]debuffs[/other] (can be used while stunned or silenced). \nGrants [buff]immunity[/buff] to all [buff]Crowd Control effects[/buff] for [buff](A)[/buff].\n[other]Cleansing[/other] any effect increases your [buff]Move Speed[/buff] by [buff](B)[/buff] for [buff](A)[/buff].",
+            "DE-DE": "[other]Reinigt[/other] alle [other]CC-Effekte[/other] und [other]Debuffs[/other] (außer Schaden-auf-Zeit Effekte; kann auch bei Stille oder Betäubung genutzt werden). \nGewährt für [buff](A)[/buff] [buff]Immunität[/buff] gegen alle [buff]CC-Effekte[/buff].\nDie [other]Reinigung[/other] eines beliebigen Effekts steigert deine [buff]Bewegungsgeschwindigkeit[/buff] um [buff](B)[/buff] für [buff](A)[/buff].",
+            "AR-SA": "يمكن [other]تطهير[/other] كل [other]تأثيرات الضرر بمرور الوقت[/other] و[other]تأثيرات التحكم في الحشود[/other] و[other]التثبيطات[/other] (يمكن الاستخدام في أثناء الإصابة بالصعق أو الإيقاف). \nتمنح [buff]حصانة[/buff] من [buff]كل تأثيرات التحكم في الحشود[/buff] لمدة [buff](A)[/buff].\n[other] يتم تطهير[/other] أي تأثير من [buff]سرعة حركتك[/buff] بمقدار [buff](B)[/buff] لمدة [buff](A)[/buff].",
+            "KO-KR": "모든 [other]지속 대미지 효과[/other]와 [other]군중 제어 효과[/other], [other]디버프[/other]를 [other]정화[/other]합니다 (기절이나 침묵 상태 중 사용 가능). \n[buff](A)[/buff] 동안 모든 [buff]군중 제어 효과[/buff]에 대한 [buff]면역[/buff]을 부여합니다.\n어떤 효과든 [other]정화[/other] 시 [buff]이동 속도[/buff]가 [buff](A)[/buff] 동안 [buff](C)[/buff]만큼 증가합니다.",
+            "PT-BR": "[other]Purifica[/other] todos os [other]efeitos de dano ao longo do tempo[/other], [other]efeitos de Controle de Multidões[/other] e [other]desvantagens[/other] (pode ser usado enquanto atordoado ou silenciado). \nConcede [buff]imunidade[/buff] a todos os [buff]efeitos de Controle de Multidões[/buff] por [buff](A)[/buff].\n[other]Purificar[/other] qualquer efeito aumenta a sua [buff]Velocidade de Movimento[/buff] em [buff](B)[/buff] por [buff](A)[/buff].",
+            "ZH-TW": "[other]淨化[/other]所有[other]持續性傷害效果[/other]、[other]群體控制效果[/other]和[other]減益效果[/other](暈眩或沉默時可使用)。 \n對所有[buff]群體控制效果免疫[/buff]，持續[buff](A)[/buff]。\n如果成功[other]淨化[/other]任何效果，則使您自身的[buff]移動速度[/buff]增加[buff](B)[/buff]，持續[buff](A)[/buff]。",
+            "ES-ES": "[other]Limpia[/other] todos los [other]efectos de daño a largo plazo[/other], los [other]efectos de Control de Multitudes[/other] y los [other]debuffs[/other] (puede usarse estando aturdido o silenciado). \nOtorga [buff]inmunidad[/buff] contra todos los [buff]efectos de Control de Multitudes[/buff] durante [buff](A)[/buff].\n[other]Limpiar[/other] cualquier efecto incrementa tu [buff]Velocidad de Movimiento[/buff] en [buff](B)[/buff] durante [buff](A)[/buff].",
+            "ZH-CN": "[other]净化[/other]所有[other]持续性伤害效果[/other]、[other]群体控制效果[/other]和[other]减益效果[/other]（可以在被击晕或沉默的状态下使用）。 \n对所有[buff]群体控制效果免疫[/buff]，持续[buff](A)[/buff]。\n如果成功[other]净化[/other]任何效果，则使你的[buff]移动速度[/buff]提高[buff](B)[/buff]，持续[buff](A)[/buff]。"
           },
           "target": "self",
           "castingTime": 0,
@@ -464,7 +464,7 @@
     "enchantmentLevel": 0,
     "categoryId": "vanity",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": null,
     "activeSlots": {
       "1": [
@@ -473,7 +473,7 @@
           "uniqueName": "VANITY_CONSUMABLE_FIREWORKS_YELLOW",
           "uiAtlas": null,
           "uiSprite": "FIREWORKYELLOW",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": null,
           "descriptionLocaTag": null,
           "localizedNames": {
@@ -506,7 +506,7 @@
             "AR-SA": "عليك إضاءة السماء [b][c][FFB418]بانفجار أصفر متلألئ[/b][/c][-].",
             "KO-KR": "반짝이는 황색 폭죽으로 하늘을 밝히세요.",
             "PT-BR": "Ilumina o céu com uma brilhante explosão amarela.",
-            "ZH-TW": "以[b][c][FFB418]閃耀的黃色爆炸[/b][/c][-]點亮天空。",
+            "ZH-TW": "以[b][c][FFB418]閃��的黃色爆炸[/b][/c][-]點亮天空。",
             "ES-ES": "Ilumina el cielo con una brillante explosión amarilla.",
             "ZH-CN": "烟花在夜空中绽放，闪耀着璀璨的金光。"
           },
@@ -592,7 +592,7 @@
     "enchantmentLevel": 0,
     "categoryId": "potion",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -700,7 +700,7 @@
           "uniqueName": "POTION_GATHER_P3",
           "uiAtlas": null,
           "uiSprite": "EQUIPNEXTTOOL",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_POTION_GATHER",
           "descriptionLocaTag": "@SPELLS_POTION_GATHER_DESC",
           "localizedNames": {
@@ -729,7 +729,7 @@
             "FR-FR": "Augmente votre [buff]vitesse de récolte[/buff] et [buff]pêche[/buff] de [buff](A)[/buff] et votre [buff]rendement de récolte[/buff] et [buff]pêche[/buff] de [buff](B)[/buff] pendant [buff](C)[/buff].",
             "JA-JP": "自分の[buff]採集[/buff]と[buff]漁獲速度[/buff]を[buff](A)[/buff]増加させ、[buff]採集[/buff]と[buff]漁獲量[/buff]を[buff](B)[/buff]間[buff](C)[/buff]増加させる。",
             "EN-US": "Increase your [buff]Gather[/buff] and [buff]Fishing Speed[/buff] by [buff](A)[/buff] and your [buff]Gather[/buff] and [buff]Fishing Yield[/buff] by [buff](B)[/buff] for [buff](C)[/buff].",
-            "DE-DE": "Steigert für [buff](A)[/buff] deine {buff]Geschwindigkeit[/buff] beim [buff]Sammeln[/buff] und [buff]Angeln[/buff] um [buff](B)[/buff] und deinen [buff]Sammel-[/buff] und [buff]Angel-Ertrag[/buff] um [buff](C)[/buff].",
+            "DE-DE": "Steigert für [buff](A)[/buff] deine [buff]Geschwindigkeit[/buff] beim [buff]Sammeln[/buff] und [buff]Angeln[/buff] um [buff](B)[/buff] und deinen [buff]Sammel-[/buff] und [buff]Angel-Ertrag[/buff] um [buff](C)[/buff].",
             "AR-SA": "يمكن زيادة قدرة [buff]الجمع[/buff] و[buff]سرعة الصيد[/buff] لديك بمقدار [buff](A)[/buff] وقدرة[buff]الجمع[/buff] و[buff]إنتاجية الصيد[/buff] بمقدار [buff](B)[/buff] لمدة [buff](C)[/buff].",
             "KO-KR": "[buff](A)[/buff] 동안 [buff]채집[/buff] 및 [buff]낚시 속도[/buff]가 [buff](B)[/buff]만큼, [buff]채집량[/buff] 및 [buff]낚시 성공률[/buff]이 [buff](C)[/buff]만큼 증가합니다.",
             "PT-BR": "Aumenta a sua [buff]Velocidade de Coleta[/buff] e de [buff]Pesca[/buff] em [buff](A)[/buff] e o seu [buff]Rendimento de Coleta[/buff] e de [buff]Pesca[/buff] em [buff](B)[/buff] por [buff](C)[/buff].",
@@ -832,7 +832,7 @@
     "enchantmentLevel": 0,
     "categoryId": "potion",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -904,7 +904,7 @@
           "uniqueName": "POTION_RESISTANCE_P1",
           "uiAtlas": null,
           "uiSprite": "LIVINGARMOR",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_POTION_RESISTANCE",
           "descriptionLocaTag": "@SPELLS_POTION_RESISTANCE_DESC",
           "localizedNames": {
@@ -931,7 +931,7 @@
             "TR-TR": "[buff](A)[/buff] boyunca [buff]savunmanı[/buff] [buff](B)[/buff] ve [buff]kitle kontrol direncini[/buff] [buff](C)[/buff] artırır.",
             "ID-ID": "Menambah [buff]Pertahanan[/buff] sebesar [buff](A)[/buff] dan [buff]Resistansi Kontrol Kerumunan[/buff] sebesar [buff](B)[/buff] selama [buff](C)[/buff].",
             "FR-FR": "Buvez pour augmenter votre [buff]défense[/buff] de [buff](A)[/buff] et votre [buff]résistance aux contrôles de foule[/buff] de [buff](B)[/buff] pendant [buff](C)[/buff].",
-            "JA-JP": "[buff](A)[/buff]の間、[buff]防御力[/buff]が[buff](B)[/buff]、[buff]クラウド��ントロール耐性[/buff]が[buff](C)[/buff]上昇します。",
+            "JA-JP": "[buff](A)[/buff]の間、[buff]防御力[/buff]が[buff](B)[/buff]、[buff]クラウドコントロール耐性[/buff]が[buff](C)[/buff]上昇します。",
             "EN-US": "Increases your [buff]Defense[/buff] by [buff](A)[/buff] and your [buff]Crowd Control Resistance[/buff] by [buff](B)[/buff] for [buff](C)[/buff].",
             "DE-DE": "Steigert deine [buff]Verteidigung[/buff] um [buff](A)[/buff] und deine [buff]Crowd Control Resistenz[/buff] für [buff](B)[/buff] um [buff](C)[/buff].",
             "AR-SA": "تزيد [buff]دفاعك[/buff] بمقدار [buff](A)[/buff] [buff]ومقاومة التحكم في الحشود[/buff] لديك بمقدار [buff](B)[/buff] لمدة [buff](C)[/buff].",
@@ -1036,7 +1036,7 @@
     "enchantmentLevel": 0,
     "categoryId": "potion",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -1144,9 +1144,9 @@
           "uniqueName": "POTION_CLEANSE2_P3",
           "uiAtlas": null,
           "uiSprite": "MAGICCIRCLE_MOVEMENT",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_POTION_CLEANSE2",
-          "descriptionLocaTag": "@SPELLS_POTION_CLEANSE2_DESC",
+          "descriptionLocaTag": "@SPELLS_POTION_CLEANSE2_V2_DESC",
           "localizedNames": {
             "IT-IT": "Pozione purificante",
             "RU-RU": "Очищающее зелье",
@@ -1165,21 +1165,21 @@
             "ZH-CN": "净化药水"
           },
           "localizedDescriptions": {
-            "IT-IT": "[other]Purifica[/other] tutti [other]gli effetti di Controllo sulla Folla[/other] e [other]i debuff[/other] (esclusi gli effetti di danno nel tempo; può essere utilizzata mentre si è storditi o silenziati).\nRende [buff]immuni[/buff] a tutti [buff]gli effetti di Controllo sulla Folla[/buff] per [buff](A)[/buff].",
-            "RU-RU": "[other]Снимает[/other] все [other]эффекты контроля[/other] и [other]дебафы[/other] (исключая эффекты с периодическим уроном; можно использовать в состоянии оглушения или безмолвия).\nНаделяет [buff]невосприимчивостью[/buff] ко всем [buff]эффектам контроля[/buff] в течение [buff](A)[/buff].",
-            "PL-PL": "[other]Oczyszczasz[/other] wszystkie [other]efekty kontroli tłumu[/other] i [other]debuffy[/other] (poza efektami obrażeń czasowych; można użyć, będąc ogłuszonym lub wyciszonym).\nZapewnia [buff]odporność[/buff] na wszystkie [buff]efekty kontroli tłumu[/buff] przez [buff](A)[/buff].",
-            "TR-TR": "Tüm [other]kitle kontrol etkilerini[/other] ve [other]zayıflatmaları[/other] [other]arındırır[/other]. (Zamanla hasar etkileri arındırılmaz; sersemlemiş veya susturulmuşken de kullanılabilir.)\n[buff](A)[/buff] boyunca tüm [buff]kitle kontrol etkilerine[/buff] karşı [buff]bağışıklık[/buff] sağlar.",
-            "ID-ID": "[other]Membersihkan[/other] semua [other]efek Kontrol Kerumunan[/other] dan [other]debuff[/other] (kecuali efek damage seiring waktu; dapat digunakan ketika terkena stun atau terbungkam).\nMemberikan [buff]kekebalan[/buff] dari semua [buff]efek Kontrol Kerumunan[/buff] selama [buff](A)[/buff].",
-            "FR-FR": "[other]Purifie[/other] tous les [other]effets de contrôle de foule[/other] et [other]malus[/other] (à l'exception des effets de dégâts sur la durée ; vous pouvez l'utiliser lorsque vous êtes étourdi ou réduit au silence).\nConfère une [buff]immunité[/buff] contre tous les [buff]effets de contrôle de foule[/buff] pendant [buff](A)[/buff].",
-            "JA-JP": "[other]すべての[other]CC効果[/other]と[other]debuff[/other]（時間経過ダメージを除く）。\n全ての[buff]CC効果[/buff]に対して[buff](A)[/buff]の間[buff]免疫[/buff]を付与する。",
-            "EN-US": "[other]Cleanse[/other] all [other]Crowd Control effects[/other] and [other]debuffs[/other] (except damage over time effects; can be used while stunned or silenced).\nGrants [buff]immunity[/buff] to all [buff]Crowd Control effects[/buff] for [buff](A)[/buff].",
-            "DE-DE": "[other]Reinigt[/other] alle [other]CC-Effekte[/other] und [other]Debuffs[/other] (außer Schaden-auf-Zeit Effekte; kann auch bei Verstummung oder Betäubung genutzt werden).\nVerleiht für [buff](A)[/buff] [buff]Immunität[/buff] gegen alle [buff]CC-Effekte[/buff].",
-            "AR-SA": "يمكن [other]تطهير[/other] كل [other]تأثير��ت التحكم في الحشود[/other] و[other]التثبيطات[/other] (باستثناء تأثيرات الضرر بمرور الوقت؛ يمكن الاستخدام في أثناء الإصابة بالصعق أو الإيقاف).\nتمنح [buff]حصانة[/buff] من كل [buff]تأثيرات التحكم في الحشود[/buff] لمدة [buff](A)[/buff].",
-            "KO-KR": "모든 [other]군중 제어 효과[/other]와 [other]디버프[/other]를 [other]정화[/other]합니다 (지속 대미지 효과 제외, 기절과 침묵 상태에서 사용 가능).\n[buff](A)[/buff] 동안 모든 [buff]군중 제어 효과[/buff]에 대한 [buff]면역[/buff]을 부여합니다.",
-            "PT-BR": "[other]Purifica[/other] todos os [other]efeitos de Controle de Multidão[/other] e [other]desvantagens[/other] (exceto efeitos de dano ao longo do tempo; pode ser usada enquanto atordoado ou silenciado).\nConcede [buff]imunidade[/buff] a todos os [buff]efeitos de Controle de Multidão[/buff] por [buff](A)[/buff].",
-            "ZH-TW": "[other]淨化[/other]所有[other]群體控制效果[/other]和[other]減益效果[/other](不包含持續性傷害效果，且暈眩或沉默時可使用)。\n對所有[buff]群體控制效果[/buff]免疫，持續[buff](A)[/buff]。",
-            "ES-ES": "[other]Limpia[/other] todos [other]los efectos de control de multitudes[/other] y [other]debuffs[/other] (excepto por los efectos de daño a largo plazo; puede usarse estando aturdido o silenciado).\nOtorga [buff]inmunidad[/buff] contra todos los [buff]efectos de control de multitudes[/buff] durante [buff](A)[/buff].",
-            "ZH-CN": "[other]净化[/other]所有[other]群体控制效果[/other]与[other]减益状态[/other]（持续性伤害效果除外，可以在被击晕或沉默的状态下使用）。\n对所有[buff]群体控制效果[/buff]免疫，持续[buff](A)[/buff]。"
+            "IT-IT": "[other]Purifica[/other] tutti gli [other]effetti di Controllo sulla Folla[/other] e i [other]debuff[/other] (esclusi gli effetti di danno nel tempo; si può usare da storditi o silenziati).\nRende [buff]immuni[/buff] a tutti gli [buff]effetti di Controllo sulla Folla[/buff] per [buff](A)[/buff].\n[other]Purificare[/other] un qualsiasi effetto aumenta la tua [buff]Velocità di Movimento[/buff] del [buff](B)[/buff] per [buff](A)[/buff].",
+            "RU-RU": "Вы [other]снимаете[/other] все [other]эффекты контроля[/other] и [other]дебафы[/other] (исключая эффекты с периодическим уроном; можно использовать при оглушении или безмолвии).\nНаделяет [buff]невосприимчивостью[/buff] ��о всем [buff]эффектам контроля[/buff] на [buff](A)[/buff].\n[other]Очищение[/other] от любого эффекта увеличивает вашу [buff]скорость передвижения[/buff] на [buff](B)[/buff] в течение [buff](A)[/buff].",
+            "PL-PL": "[other]Oczyszczasz[/other] wszystkie [other]efekty kontroli tłumu[/other] i [other]debuffy[/other] (poza obrażeniami czasowymi; można użyć, będąc ogłuszonym lub wyciszonym).\nZapewnia [buff]odporność[/buff] na wszystkie [buff]efekty kontroli tłumu[/buff] przez [buff](A)[/buff].\n[other]Oczyszczenie[/other] dowolnego efektu zwiększy twoją [buff]Szybkość ruchu[/buff] o [buff](B)[/buff] na [buff](A)[/buff].",
+            "TR-TR": "Tüm [other]kitle kontrol etkilerini[/other] ve [other]zayıflatmaları[/other] [other]arındırır[/other]. (Zamanla hasar etkileri arındırılmaz; sersemlemiş veya susturulmuşken de kullanılabilir.)\n[buff](A)[/buff] boyunca tüm [buff]kitle kontrol etkilerine[/buff] karşı [buff]bağışıklık[/buff] sağlar.\nHerhangi bir etkiyi [other]arındırmak[/other], [buff]Hareket Hızını[/buff] [buff](A)[/buff] boyunca [buff](C)[/buff] artırır.",
+            "ID-ID": "[other]Membersihkan[/other] semua [other]efek Kontrol Kerumunan[/other] dan [other]debuff[/other] (kecuali efek damage seiring waktu; dapat digunakan ketika terkena stun atau terbungkam).\nMemberikan [buff]kekebalan[/buff] dari semua [buff]efek Kontrol Kerumunan[/buff] selama [buff](A)[/buff].\n[other]Membersihkan[/other] semua efek, meningkatkan [buff]Kecepatan Gerak[/buff] sebesar [buff](B)[/buff] selama [buff](A)[/buff].",
+            "FR-FR": "[other]Purifie[/other] tous les [other]effets de Contrôle de Foule[/other] et [other]malus[/other] (à l'exception des effets de dégâts sur la durée ; vous pouvez l'utiliser lorsque vous êtes étourdi ou réduit au silence).\nConfère une [buff]immunité[/buff] contre tous les [buff]effets de Contrôle de Foule[/buff] pendant [buff](A)[/buff].\n[other]Purifier[/other] tout effet augmente votre [buff]Vitesse de Déplacement[/buff] de [buff](B)[/buff] pendant [buff](A)[/buff].",
+            "JA-JP": "全ての[other]CC効果[/other]と[other]デバフ[/other]を[other]浄化[/other]（時間経過ダメージを除く。）\n全ての[buff]CCl効果[/buff]に対して[buff](A)[/buff]間[buff]免疫[/buff]を付与する。\nデバフ効果[other]浄化[/other]すると、自身の[buff]移動速度[/buff]が[buff](A)[/buff]間、[buff](C)[/buff]増加します。",
+            "EN-US": "[other]Cleanse[/other] all [other]Crowd Control effects[/other] and [other]debuffs[/other] (except damage over time effects; can be used while stunned or silenced).\nGrants [buff]immunity[/buff] to all [buff]Crowd Control effects[/buff] for [buff](A)[/buff].\n[other]Cleansing[/other] any effect increases your [buff]Move Speed[/buff] by [buff](B)[/buff] for [buff](A)[/buff].",
+            "DE-DE": "[other]Reinigt[/other] alle [other]CC-Effekte[/other] und [other]Debuffs[/other] (außer Schaden-auf-Zeit Effekte; kann auch bei Stille oder Betäubung genutzt werden).\nGewährt für [buff](A)[/buff] [buff]Immunität[/buff] gegen alle [buff]CC-Effekte[/buff].\nDie [other]Reinigung[/other] eines beliebigen Effekts steigert deine [buff]Bewegungsgeschwindigkeit[/buff] um [buff](B)[/buff] für [buff](A)[/buff].",
+            "AR-SA": "يمكن [other]تطهير[/other] كل [other]تأثيرات التحكم في الحشود[/other] و[other]التثبيطات[/other] (باستثناء تأثيرات الضرر بمرور الوقت؛ يمكن الاستخدام في أثناء الإصابة بالصعق أو الإيقاف).\nتمنح [buff]حصانة[/buff] من [buff]كل تأثيرات التحكم في الحشود[/buff] لمدة [buff](A)[/buff].\n[other] يتم تطهير[/other] أي تأثير من [buff]سرعة حركتك[/buff] بمقدار [buff](B)[/buff] لمدة [buff](A)[/buff].",
+            "KO-KR": "모든 [other]군중 제어 효과[/other]와 [other]디버프[/other]를 [other]정화[/other]합니다 (지속 대미지 효과 제외, 기절과 침묵 상태에서 사용 가능).\n[buff](A)[/buff] 동안 모든 [buff]군중 제어 효과[/buff]에 대한 [buff]면역[/buff]을 부여합니다.\n어떤 효과든 [other]정화[/other] 시 [buff]이동 속도[/buff]가 [buff](A)[/buff] 동안 [buff](C)[/buff]만큼 증가합니다.",
+            "PT-BR": "[other]Purifica[/other] todos os [other]efeitos de Controle de Multidões[/other] e [other]desvantagens[/other] (exceto efeitos de dano ao longo do tempo; pode ser usado enquanto atordoado ou silenciado).\nConcede [buff]imunidade[/buff] a todos os [buff]efeitos de Controle de Multidões[/buff] por [buff](A)[/buff].\n[other]Purificar[/other] qualquer efeito aumenta a sua [buff]Velocidade de Movimento[/buff] em [buff](B)[/buff] por [buff](A)[/buff].",
+            "ZH-TW": "[other]淨化[/other]所有[other]群體控制效果[/other]和[other]減益效果[/other](不包含持續性傷害效果，且暈眩或沉默時可使用)。\n對所有[buff]群體控制效果免疫[/buff]，持續[buff](A)[/buff]。\n如果成功[other]淨化[/other]任何效果，則使您自身的[buff]移動速度[/buff]增加[buff](B)[/buff]，持續[buff](A)[/buff]。",
+            "ES-ES": "[other]Limpia[/other] todos [other]los efectos de Control de Multitudes[/other] y [other]debuffs[/other] (excepto por los efectos de daño a largo plazo; puede usarse estando aturdido o silenciado).\nOtorga [buff]inmunidad[/buff] contra todos los [buff]efectos de Control de Multitudes[/buff] durante [buff](A)[/buff].\n[other]Limpiar[/other] cualquier efecto incrementa tu [buff]Velocidad de Movimiento[/buff] en [buff](B)[/buff] durante [buff](A)[/buff].",
+            "ZH-CN": "[other]净化[/other]所有[other]群体控制效果[/other]与[other]减益状态[/other]（持续性伤害效果除外，可以在被击晕或沉默的状态下使用）。\n对所有[buff]群体控制效果免疫[/buff]，持续[buff](A)[/buff]。\n如果成功[other]净化[/other]任何效果，则使你的[buff]移动速度[/buff]提高[buff](B)[/buff]，持续[buff](A)[/buff]。"
           },
           "target": "self",
           "castingTime": 0,
@@ -1218,7 +1218,7 @@
       "EN-US": "Cleansing Potion",
       "DE-DE": "Reinigungstrank",
       "AR-SA": "جرعة تطهير",
-      "KO-KR": "정화 포션",
+      "KO-KR": "정화 포���",
       "PT-BR": "Poção Purificadora",
       "ZH-TW": "淨化藥水",
       "ES-ES": "Poción de limpieza",
@@ -1247,7 +1247,7 @@
     "enchantmentLevel": 0,
     "categoryId": "potion",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -1379,7 +1379,7 @@
           "uniqueName": "POTION_BERSERK_P5",
           "uiAtlas": null,
           "uiSprite": "BLOODLUST",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_POTION_BERSERK",
           "descriptionLocaTag": "@SPELLS_POTION_BERSERK_DESC",
           "localizedNames": {
@@ -1409,7 +1409,7 @@
             "JA-JP": "[buff](A)[/buff]の間、自身の[buff]ダメージ[/buff]を[buff](B)[/buff]増加させる。\n\n自分の[other]防御力[/other]を[other](C)[/other]減少させる。",
             "EN-US": "Increase your [buff]damage[/buff] by [buff](A)[/buff] for [buff](B)[/buff].\n\nDecreases your [other]Defense[/other] by [other](C)[/other].",
             "DE-DE": "Steigert deinen [buff]Schaden[/buff] für [buff](A)[/buff] um [buff](B)[/buff].\n\nReduziert deine [other]Verteidigung[/other] um [other](C)[/other].",
-            "AR-SA": "يمكنك زيادة [buff]ضررك[/buff] بمقدار [buff](A)[/buff] ��مدة [buff](B)[/buff].\n\nتقلل [other]دفاعك[/other] بمقدار [other](C)[/other].",
+            "AR-SA": "يمكنك زيادة [buff]ضررك[/buff] بمقدار [buff](A)[/buff] لمدة [buff](B)[/buff].\n\nتقلل [other]دفاعك[/other] بمقدار [other](C)[/other].",
             "KO-KR": "[buff](A)[/buff] 동안 [buff]대미지[/buff]를 [buff](B)[/buff]만큼 증가시킵니다.\n\n[other]방어력[/other]이 [other](C)[/other]만큼 감소합니다.",
             "PT-BR": "Aumenta o seu [buff]dano[/buff] em [buff](A)[/buff] por [buff](B)[/buff].\n\nReduz a sua [other]Defesa[/other] em [other](C)[/other].",
             "ZH-TW": "使您的[buff]傷害[/buff]增加[buff](A)[/buff]，持續[buff](B)[/buff]。\n\n使您的[other]防禦[/other]降低[other](C)[/other]。",
@@ -1525,7 +1525,7 @@
     "enchantmentLevel": 0,
     "categoryId": "potion",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -1621,7 +1621,7 @@
           "uniqueName": "POTION_MAXHP_P3",
           "uiAtlas": null,
           "uiSprite": "GIANTSTEPS",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_POTION_GIGANTIFY",
           "descriptionLocaTag": "@SPELLS_POTION_GIGANTIFY_DESC",
           "localizedNames": {
@@ -1739,7 +1739,7 @@
     "enchantmentLevel": 0,
     "categoryId": "potion",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -1871,7 +1871,7 @@
           "uniqueName": "POTION_MOB_RESET_P5",
           "uiAtlas": null,
           "uiSprite": "MAGIC_INTERRUPT",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_POTION_MOB_RESET",
           "descriptionLocaTag": "@SPELLS_POTION_MOB_RESET_DESC",
           "localizedNames": {
@@ -1901,7 +1901,7 @@
             "JA-JP": "[buff](A)[/buff]の間、自身と周囲の半径[other](B)[/other]内にいる最大[other](C)[/other]のグループメンバーを[buff]モブ[/buff]から不可視にする。\n影響を受けたプレイヤー全員に[buff]シールド[/other]を適用し、見えない間[buff](D)ダメージ[/buff]（抵抗前）を吸収する。",
             "EN-US": "Turns you and up to [other](A)[/other] group members within a [other](B) radius[/other] around you [buff]invisible to mobs[/buff] for [buff](C)[/buff].\nApplies a [buff]shield[/buff] to all affected players, absorbing [buff](D) damage[/buff] (before resistances) while invisible.",
             "DE-DE": "Macht dich und bis zu [other](A)[/other] Gruppenmitglieder innerhalb von [other](B) Radius[/other] um dich herum für [buff](C)[/buff] [buff]unsichtbar für Mobs[/buff].\nVerleiht den betroffenen Spielern ein [buff]Schild[/buff], das bis zu [buff](D) Schaden[/buff] (vor Resistenzabzug) absorbiert, solange ihr unsichtbar seid.",
-            "AR-SA": "تجعلك أنت وما يصل إلى [other](A)[/other] من أعضاء المجموعة الذين في [other]محيط (B)[/other] حولك [buff]في حالة اختفاء للغرماء[/buff] لمدة [buff](C)[/buff].\nتمنح [buff]درعًا[/buff] لجميع اللاعبين المتأثرين يمتص [buff](D) من الضرر[/buff] (قبل المقاومة) في حالة الاختفاء.",
+            "AR-SA": "تجعلك أنت وما يصل إلى [other](A)[/other] من أعضاء المجمو��ة الذين في [other]محيط (B)[/other] حولك [buff]في حالة اختفاء للغرماء[/buff] لمدة [buff](C)[/buff].\nتمنح [buff]درعًا[/buff] لجميع اللاعبين المتأثرين يمتص [buff](D) من الضرر[/buff] (قبل المقاومة) في حالة الاختفاء.",
             "KO-KR": "자신과 자신으로부터 [other](A) 범위[/other] 내에 있는 그룹원 최대 [other](B)[/other]명을 [buff](C)[/buff] 동안 [buff]몹에게 보이지 않는[/buff] 상태로 만듭니다.\n영향을 받은 모든 플레이어에게 투명 상태 동안 [buff](D)의 대미지[/buff](저항력 계산 전)를 흡수하는 [other]방어막[/other]을 부여합니다.",
             "PT-BR": "Deixa você e até [other](A)[/other] membros do grupo dentro de um [other]raio de (B)[/other] ao seu redor [buff]invisíveis para os monstros[/buff] por [buff](C)[/buff].\nAplica um [buff]escudo[/buff] em todos os jogadores atingidos, absorvendo [buff](D) de dano[/buff] (antes das resistências) enquanto invisível.",
             "ZH-TW": "使您自身與[other](A)半徑[/other]範圍內最多[other](B)[/other]名隊友[buff]對怪物隱形[/buff]，持續[buff](C)[/buff]。\n為所有獲得此效果的玩家施加[buff]護盾[/buff]，在隱形期間可吸收最多[buff](D)點傷害[/buff](計算抗性前)。",
@@ -1986,7 +1986,7 @@
     "enchantmentLevel": 0,
     "categoryId": "potion",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -2118,7 +2118,7 @@
           "uniqueName": "POTION_TORNADO_P5",
           "uiAtlas": null,
           "uiSprite": "TORNADO",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_POTION_TORNADO",
           "descriptionLocaTag": "@SPELLS_POTION_TORNADO_V2_DESC",
           "localizedNames": {
@@ -2150,17 +2150,17 @@
             "DE-DE": "Wirf den Trank auf die anvisierte Position, dies entfesselt dort einen Tornado mit [other](A) Radius[/other], der für [other](B)[/other] bestehen bleibt.\nAlle getroffenen Gegner werden um [cc](C)[/cc] [cc]zurückgestoßen[/cc] (ignoriert CC-resistenzen).",
             "AR-SA": "إلقاء الجرعة على الموقع المستهدف يطلق إعصارًا [other]بمحيط (A)[/other] يدوم لمدة [other](B)[/other].\n[cc]يطيح[/cc] بكل الأعداء الذين يلمسونه لمسافة قدرها [cc](C)[/cc] (مع تجاهل مقاومة التحكم في الحشود).",
             "KO-KR": "대상 위치에 포션을 던져서, [other](A)[/other] 동안 지속되는 [other](B) 범위[/other]의 토네이도를 방출합니다.\n토네이도에 닿은 적을 [cc](C)[/cc]만큼 [cc]밀쳐냅니다[/cc](군중 제어 저항을 무시함).",
-            "PT-BR": "Joga a poção na posição alvo, liberando um tornado com um [other]raio de (A)[/other] que dura [other](B)[/other].\nJoga todos os inimigos que encostarem no tornado [cc](C)[/cc] [cc]para trás[/cc] (ignora a Resistência a Controle de Multidão).",
+            "PT-BR": "Joga a poção na posição alvo, liberando um tornado com um [other](A)raio de [/other] que dura [other](B)[/other].\nJoga todos os inimigos que encostarem no tornado [cc][/cc] [cc](C)[/cc]para trás (ignora a Resistência a Controle de Grupo).",
             "ZH-TW": "朝目標位置投擲藥水，在[other](A)半徑[/other]範圍釋放一道龍捲風，持續[other](B)[/other]。\n[cc]擊退[/cc]所有接觸到它的敵人[cc](C)[/cc](無視群體控制抗性)。",
             "ES-ES": "Lanza la poción al lugar señalado y libera un tornado de un [other]radio de (A)[/other] que dura [other](B)[/other].\n[cc]Derriba[/cc] a todos los enemigos que lo toquen a una distancia de [cc](C)[/cc] (ignora la resistencia al control de multitudes).",
-            "ZH-CN": "朝目标位置投掷药水，在[other](A)半径[/other]范围释放一道龙卷风，持续[other](B)[/other]。\n[cc]击退[/cc]所有接触到它的敌人[cc](C)[/cc]（无视群体控制抗性）。"
+            "ZH-CN": "朝目标位置投掷药水，在[other](A)半径[/other]范围释��一道龙卷风，持续[other](B)[/other]。\n[cc]击退[/cc]所有接触到它的敌人[cc](C)[/cc]（无视群体控制抗性）。"
           },
           "target": "ground",
           "castingTime": 0,
           "hitDelay": 0.2,
           "standTime": 0.2,
           "disruptionFactor": 0,
-          "recastDelay": 90,
+          "recastDelay": 60,
           "energyUsage": 0,
           "castRange": 13,
           "category": "instant",
@@ -2228,7 +2228,7 @@
     "enchantmentLevel": 0,
     "categoryId": "potion",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -2336,7 +2336,7 @@
           "uniqueName": "POTION_MOB_RESET_P3",
           "uiAtlas": null,
           "uiSprite": "MAGIC_INTERRUPT",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_POTION_MOB_RESET",
           "descriptionLocaTag": "@SPELLS_POTION_MOB_RESET_DESC",
           "localizedNames": {
@@ -2451,7 +2451,7 @@
     "enchantmentLevel": 0,
     "categoryId": "vanity",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": null,
     "activeSlots": {
       "1": [
@@ -2460,7 +2460,7 @@
           "uniqueName": "VANITY_CONSUMABLE_FIREWORKS_GREEN",
           "uiAtlas": null,
           "uiSprite": "FIREWORKGREEN",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": null,
           "descriptionLocaTag": null,
           "localizedNames": {
@@ -2482,7 +2482,7 @@
           },
           "localizedDescriptions": {
             "IT-IT": "Uno scoppio illumina il cielo di un [b][c][6ACC04]luccichio verde[/b][/c][-].",
-            "RU-RU": "Раскрасьте ��ебо сияющими зелеными всполохами.",
+            "RU-RU": "Раскрасьте небо сияющими зелеными всполохами.",
             "PL-PL": "Rozświetla niebo błyszczącą zieloną eksplozją.",
             "TR-TR": "[b][c][6ACC04]Parlak yeşil bir patlamayla[/b][/c][-] gökyüzünü aydınlat.",
             "ID-ID": "Menerangi langit dengan [b][c][6ACC04]ledakan hijau berkilauan[/b][/c][-].",
@@ -2567,126 +2567,6 @@
   },
   {
     "itemType": "consumable",
-    "uniqueName": "T5_FISHINGBAIT",
-    "uiSprite": "FISHINGBAIT",
-    "uiSpriteOverlay1": null,
-    "uiSpriteOverlay2": null,
-    "uiSpriteOverlay3": null,
-    "uiAtlas": null,
-    "showinmarketplace": true,
-    "level": 1,
-    "tier": 5,
-    "enchantmentLevel": 0,
-    "categoryId": "fishingbait",
-    "categoryName": "",
-    "revision": 280399,
-    "enchantments": null,
-    "activeSlots": {
-      "1": [
-        {
-          "spellType": "active",
-          "uniqueName": "FISHINGBAIT_LEVEL3_USE",
-          "uiAtlas": null,
-          "uiSprite": "FISHINGBAIT_USE",
-          "revision": 278881,
-          "nameLocaTag": null,
-          "descriptionLocaTag": null,
-          "localizedNames": {
-            "IT-IT": "Esca da pesca speciale",
-            "RU-RU": "Особая наживка",
-            "PL-PL": "Specjalna Przynęta",
-            "TR-TR": "Özel Balık Yemi",
-            "ID-ID": "Umpan Ikan Spesial",
-            "FR-FR": "Appât à poisson spécial",
-            "JA-JP": "特製の釣り餌",
-            "EN-US": "Special Fish Bait",
-            "DE-DE": "Spezieller Angelköder",
-            "AR-SA": "طُعم السمك المميز",
-            "KO-KR": "특별한 낚시 미끼",
-            "PT-BR": "Isca de Pesca Especial",
-            "ZH-TW": "獨門釣餌",
-            "ES-ES": "Cebo especial",
-            "ZH-CN": "特殊鱼饵"
-          },
-          "localizedDescriptions": {
-            "IT-IT": "Prepari la canna da pesca con esche per catturare fino a [other](A)[/other] pesci nei prossimi [buff](B)[/buff].\nRiduce il [buff]tempo[/buff] che passa prima che un [buff]pesce abbocchi[/buff] del [buff](C)[/buff].",
-            "RU-RU": "Подготовьте наживку для удочки на [other](A)[/other] пойманной рыбы в течение следующих [buff](B)[/buff].\nСокращает [buff]время[/buff] до [buff]поклевки[/buff] на [buff](C)[/buff].",
-            "PL-PL": "Szykujesz wędkę z przynętą na [other](A)[/other] ryb złapanych przez następne [buff](B)[/buff].\nZmniejsza [buff]czas[/buff] do [buff]złapania ryby[/buff] o [buff](C)[/buff].",
-            "TR-TR": "Oltanı, sonraki [buff](A)[/buff] içerisinde en fazla [other](B)[/other] balık tutmak için yem ile hazırlar.\nBir [buff]balık ısırana[/buff] kadar geçen [buff]süreyi[/buff] [buff](C)[/buff] azaltır.",
-            "ID-ID": "Mempersiapkan joran dengan umpan sampai [other](A)[/other] ikan tertangkap dalam [buff](B)[/buff] berikutnya.\nMengurangi [buff]waktu[/buff] sampai [buff]ikan terpancing[/buff] hingga [buff](C)[/buff].",
-            "FR-FR": "Préparez votre Canne à pêche et des appâts pour jusqu'à [other](A)[/other] de poisson attrapé dans les prochaines [buff](B)[/buff].\nRéduit le [buff]temps[/buff] nécessaire pour qu'un [buff]poisson morde[/buff] de [buff](C)[/buff].",
-            "JA-JP": "[buff](A)[/buff]の間、最大[other](B)[/other]匹の魚が釣れるまで、餌を付けた釣り竿を用意します。\n[buff]魚が食いつく[/buff]までの[buff]時間[/buff]を[buff](C)[/buff]減少させます。",
-            "EN-US": "Prepare your fishing rod with bait for up to [other](A)[/other] fish caught within the next [buff](B)[/buff].\nReduces the [buff]time[/buff] until a [buff]fish bites[/buff] by [buff](C)[/buff].",
-            "DE-DE": "Bestücke deine Angel mit Ködern für bis zu [other](A)[/other] Fische innerhalb der nächsten [buff](B)[/buff].\nReduziert die [buff]Zeit[/buff], bis ein [buff]Fisch beißt[/buff], um [buff](C)[/buff].",
-            "AR-SA": "يمكن تجهيز الصنارة بطعم لما يصل إلى [other](A)[/other] من الأسماك التي تم اصطيادها خلال [buff](B)[/buff] التالية.\nتقلل [buff]الوقت[/buff] حتى [buff]الإمساك بسمكة[/buff] بمقدار [buff](C)[/buff].",
-            "KO-KR": "[buff](A)[/buff] 동안 최대 [other](B)[/other] 마리의 물고기를 잡을 수 있게 낚시대에 미끼를 끼웁니다.\n[buff]입질[/buff]이 올 때까지의 [buff]시간[/buff]을 [buff](C)[/buff] 만큼 감소시킵니다.",
-            "PT-BR": "Prepare a sua vara de pescar com isca para até [other](A)[/other] peixes dentro dos próximos [buff](B)[/buff].\nReduz o [buff]tempo[/buff] até um [buff]peixe morder a isca[/buff] em [buff](C)[/buff].",
-            "ZH-TW": "為釣竿準備釣餌，在接下來[buff](A)[/buff]內，最多可釣起[other](B)[/other]條魚。\n使[buff]魚咬餌[/buff]的[buff]時間[/buff]減少[buff](C)[/buff]。",
-            "ES-ES": "Le pone cebo a tu caña de pescar para atrapar hasta [other](A)[/other] peces durante los próximos [buff](B)[/buff].\nReduce el [buff]tiempo[/buff] en el que el [buff]pez muerde[/buff] el anzuelo por [buff](C)[/buff].",
-            "ZH-CN": "为你的鱼竿准备鱼饵，最多可于[buff](A)[/buff]内钓起[other](B)[/other]只鱼。\n[buff]鱼咬饵[/buff]前的[buff]时间[/buff]减少[buff](C)[/buff]。"
-          },
-          "target": "self",
-          "castingTime": 0,
-          "hitDelay": 0.4,
-          "standTime": 0.4,
-          "disruptionFactor": null,
-          "recastDelay": 0,
-          "energyUsage": 0,
-          "castRange": 0,
-          "category": "fishingbait_buffs",
-          "uiType": "buff",
-          "maxCharges": null,
-          "buffOverTime": [
-            {
-              "target": "self",
-              "type": "fishingspeed",
-              "time": 600,
-              "value": 2.5,
-              "effectAreaRadius": null
-            }
-          ],
-          "directAttributeChange": null,
-          "root": null,
-          "stun": null,
-          "attributeChangeOverTime": null,
-          "silence": null,
-          "damageShield": null,
-          "channeling": null,
-          "knockback": null,
-          "spellEffectArea": null,
-          "invisibility": null
-        }
-      ]
-    },
-    "passiveSlots": {},
-    "localizedNames": {
-      "IT-IT": "Esca da pesca speciale",
-      "RU-RU": "Особая наживка",
-      "PL-PL": "Specjalna Przynęta",
-      "TR-TR": "Özel Balık Yemi",
-      "ID-ID": "Umpan Ikan Spesial",
-      "FR-FR": "Appât à poisson spécial",
-      "JA-JP": "特製の釣り餌",
-      "EN-US": "Special Fish Bait",
-      "DE-DE": "Spezieller Angelköder",
-      "AR-SA": "طُعم السمك المميز",
-      "KO-KR": "특별한 낚시 미끼",
-      "PT-BR": "Isca de Peixe Especial",
-      "ZH-TW": "獨門釣餌",
-      "ES-ES": "Cebo especial",
-      "ZH-CN": "特殊鱼饵"
-    },
-    "localizedDescriptions": null,
-    "slotType": "potion",
-    "abilityPower": 0,
-    "maxStackSize": null,
-    "weight": null,
-    "spriteName": "FISHINGBAIT",
-    "stackable": true,
-    "equipable": false
-  },
-  {
-    "itemType": "consumable",
     "uniqueName": "T6_POTION_BERSERK",
     "uiSprite": "POTION_BERSERK",
     "uiSpriteOverlay1": null,
@@ -2699,7 +2579,7 @@
     "enchantmentLevel": 0,
     "categoryId": "potion",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -2807,7 +2687,7 @@
           "uniqueName": "POTION_BERSERK_P3",
           "uiAtlas": null,
           "uiSprite": "BLOODLUST",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_POTION_BERSERK",
           "descriptionLocaTag": "@SPELLS_POTION_BERSERK_DESC",
           "localizedNames": {
@@ -2953,7 +2833,7 @@
     "enchantmentLevel": 0,
     "categoryId": "potion",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -3037,7 +2917,7 @@
           "uniqueName": "POTION_POISON_P1",
           "uiAtlas": null,
           "uiSprite": "POTION_YELLOW",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_POTION_POISON",
           "descriptionLocaTag": "@SPELLS_POTION_POISON_V2_DESC",
           "localizedNames": {
@@ -3058,21 +2938,21 @@
             "ZH-CN": "毒药"
           },
           "localizedDescriptions": {
-            "IT-IT": "Lanci la pozione sul nemico bersaglio, avvelenandolo e infliggendogli [dmg](A) danni puri[/dmg] (contro i giocatori) / [dmg](B) danni puri[/dmg] (contro i mob) nell'arco di [dmg](C)[/dmg].\n\nOgni volta che il nemico avvelenato [other]subisce danni diretti[/other], sarà [cc]rallentato[/cc] del [cc](D)[/cc] per [cc](E)[/cc].\n\nNon [other]innesca[/other]effetti normalmente [other]innescati dal danno[/other].",
-            "RU-RU": "Бросьте зелье в выбранного противника, отравляя его и нанося [dmg](A) чистого урона[/dmg] (по игрокам) / [dmg](B) чистого урона[/dmg] (по монстрам) в течение [dmg](C)[/dmg].\n\nКаждый раз, когда отравленный противник [other]получает прямой урон[/other], он будет [cc]замедлен[/cc] на [cc](D)[/cc] в течение [cc](E)[/cc].\n\n[other]Не вызывает срабатывание[/other] эффектов, [other]срабатывающих от урона[/other].",
-            "PL-PL": "Rzucasz miksturę w wybranego gracza, zatruwając go i zadając [dmg](A) obrażeń rzeczywistych[/dmg] (przeciwko graczom) / [dmg](B) obrażeń rzeczywistych[/dmg] (przeciwko mobom) w ciągu [dmg](C)[/dmg].\n\nZa każdym razem, gdy zatruty wróg [other]otrzyma bezpośrednie obrażenia[/other], zostanie on [cc]spowolniony[/cc] o [cc](D)[/cc] na [cc](E)[/cc].\n\n[other]nie aktywuje[/other] efektów zazwyczaj [other]aktywowanych przez obrażenia[/other].",
-            "TR-TR": "Hedef düşmana iksir fırlatıp hedefi zehirler ve [dmg](A)[/dmg] boyunca [dmg](B) gerçek hasar[/dmg] (oyunculara karşı) / [dmg](C) gerçek hasar[/dmg] (diğer düşmanlara karşı) verir.\n\nZehirlenen düşman [other]doğrudan hasar aldığında[/other] [cc](D)[/cc] boyunca [cc](E)[/cc] [cc]yavaşlar[/cc].\n\nNormalde [other]hasarla tetiklenen[/other] etkileri [other]tetiklemez[/other].",
-            "ID-ID": "Melemparkan ramuan ke musuh tertarget, meracuni target dan memberikan [dmg](A) damage murni[/dmg] (vs. pemain) / [dmg](B) damage murni[/dmg] (vs. mob) dalam waktu [dmg](C)[/dmg].\n\nSetiap kali musuh yang diracuni [other]menerima damage langsung[/other], mereka akan [cc]diperlambat[/cc] sebesar [cc](D)[/cc] selama [cc](E)[/cc].\n\n[other]Tidak memicu[/other] efek yang normalnya [other]terpicu oleh damage[/other].",
-            "FR-FR": "Lancez la potion sur l'ennemi ciblé pour l'empoisonner et lui infliger [dmg](A) dégâts bruts[/dmg] (contre les joueurs) / [dmg](B) dégâts bruts[/dmg] (contre les monstres) pendant [dmg](C)[/dmg].\n\nLorsque l'ennemi empoisonné [other]subit des dégâts directs[/other], il est [cc]ralenti[/cc] de [cc](D)[/cc] pendant [cc](E)[/cc].\n\n[other]Ne déclenche pas[/other] des effets normalement [other]déclenchés par les dégâts[/other].",
-            "JA-JP": "対象の敵にポーションを投げつけ、対象を毒状態にし、[dmg](A)[/dmg]以上の[dmg](B)真のダメージ[/dmg](対プレイヤー)/[dmg](C)真のダメージ[/dmg](対モブ)を与える。\n\n毒に侵された敵が[other]直接ダメージ[/other]を受けるたび、[cc](D)[/cc]の間、[cc](E)[/cc]スロウ[/cc]する。\n\n通常[other]ダメージによって誘発する[/other]効果を[other]誘発[/other]させない。",
-            "EN-US": "Throw the potion at the targeted enemy, poisoning the target and dealing [dmg](A) true damage[/dmg] (vs. players) / [dmg](B) true damage[/dmg] (vs. mobs) over [dmg](C)[/dmg].\n\nWhenever the poisoned enemy [other]takes direct damage[/other], they will be [cc]slowed[/cc] by [cc](D)[/cc] for [cc](E)[/cc].\n\nDoes [other]not trigger[/other] effects normally [other]triggered by damage[/other].",
-            "DE-DE": "Wirf den trank auf den anvisierten Gegner, dies vergiftet das Ziel und verursacht über [dmg](A)[/dmg] [dmg](B) echten Schaden[/dmg] (an Spielern) / [dmg](C) echten Schaden[/dmg] (an Mobs).\n\nImmer, wenn der vergiftete Gegner [other]direkten Schaden erleidet[/other], wird er für [cc](D)[/cc] um [cc](E)[/cc] [cc]verlangsamt[/cc].\n\n[other]Löst keine Effekte aus[/other], die normalerweise [other]durch Schaden ausgelöst werden[/other].",
-            "AR-SA": "تُلقى الجرعة على العدو المستهدف، فتسمم الهدف وتلحق [dmg](A) من الضرر الفعلي[/dmg] (ضد اللاعبين) / [dmg](B) من الضرر الفعلي[/dmg] (ضد الغرماء) خلال [dmg](C)[/dmg].\n\nعندما يتلقى الأعداء المسمومون [other]ضررًا مباشرًا[/other]، [cc]ستبطأ حركتهم[/cc] بمقدار [cc](D)[/cc] لمدة [cc](E)[/cc].\n\nعادة، [other]لا تفعّل[/other] تأثيرات [other]ناجمة عن الضرر[/other].",
-            "KO-KR": "목표 적에게 포션을 던져, 대상을 중독시켜 [dmg](A)[/dmg]에 걸쳐 [dmg](B)의 ���정 대미지[/dmg] (vs. 플레이어) / [dmg](C)의 고정 대미지[/dmg] (vs. 몹)를 입힙니다.\n\n중독 상태인 적이 [other]직접 대미지를 입을 때마다[/other], [cc](D)[/cc] 동안 [cc](E)[/cc]만큼 [cc]느려[/cc]집니다.\n\n일반적인 [other]대미지로 인해 발동되는[/other] 효과를 [other]발동시키지 않습니다[/other].",
-            "PT-BR": "Joga a poção no inimigo alvo, o envenenando e causando [dmg](A) de dano verdadeiro[/dmg] (contra jogadores) / [dmg](B) de dano verdadeiro[/dmg] (contra monstros) ao longo de [dmg](C)[/dmg].\n\nSempre que o inimigo envenenado [other]receber dano direto[/other], ele será [cc]desacelerado[/cc] em [cc](D)[/cc] por [cc](E)[/cc].\n\nNão [other]aciona[/other] outros efeitos normalmente [other]acionados por dano[/other].",
-            "ZH-TW": "朝目標敵人投擲藥水，使目標中毒，並在[dmg](A)[/dmg]內造成[dmg](B)點真實傷害[/dmg](對玩家)/[dmg](C)點真實傷害[/dmg](對怪物)。\n中毒的敵人[other]受到直接傷害[/other]時，他們會被[cc]緩速(D)[/cc]，持續[cc](E)[/cc]。\n\n[other]不會觸發[/other]一般由[other]傷害觸發[/other]的效果。",
-            "ES-ES": "Lanza la poción al enemigo señalado, envenénalo e inflígele [dmg](A) de daño verdadero[/dmg] (contra jugadores) / [dmg](B) de daño verdadero[/dmg] (contra monstruos) durante [dmg](C)[/dmg].\n\nCada vez que el enemigo envenenado [other]recibe daño directo[/other], será [cc]ralentizado[/cc] en [cc](D)[/cc] por [cc](E)[/cc].\n\nNo [other]activa[/other] efectos que normalmente [other]se activan con daño[/other].",
-            "ZH-CN": "朝目标敌人投掷药瓶，使其中毒，在[dmg](A)[/dmg]内造成[dmg](B)真实伤害[/dmg]（对玩家） / [dmg](C)真实伤害[/dmg]（对野怪）。\n中毒的敌人[other]承受直接伤害[/other]时，他们会被[cc]减速(D)[/cc]，持续[cc](E)[/cc]。\n\n[other]不会触发[/other]一般由[other]造成伤害触发[/other]的效果。"
+            "IT-IT": "Lanci la pozione contro il nemico bersaglio, avvelenandolo e infliggendogli [dmg]danni puri[/dmg] nell'arco di [dmg](A)[/dmg].\n[#] Contro i giocatori: [dmg](B) danni puri[/dmg]\n[#] Contro i giocatori su una cavalcatura: [dmg](C)danni puri[/dmg]\n[#] Contro i mob: [dmg](D) danni puri[/dmg]\n\nOgni volta che il nemico avvelenato [other]subisce danni diretti[/other], sarà [cc]rallentato[/cc] del [cc](E)[/cc] per [cc](F)[/cc].",
+            "RU-RU": "Бросьте зелье в выбранного врага, отравив его и нанеся [dmg]чистый урон[/dmg] в течение [dmg](A)[/dmg].\n[#] Против игроков: [dmg](B) чистого урона[/dmg]\n[#] Против игроков на скакунах: [dmg](C) чистого урона[/dmg]\n[#] Против монстров: [dmg](D) чистого урона[/dmg]\n\nКаждый раз, когда отравленный противник [other]получает прямой урон[/other], он будет [cc]замедлен[/cc] на [cc](E)[/cc] в течение [cc](F)[/cc].",
+            "PL-PL": "Rzucasz miksturą we wskazanego wroga, zatruwając go i zadając [dmg]obrażeń rzeczywistych[/dmg] w ciągu [dmg](A)[/dmg].\n[#] Przeciwko graczom: [dmg](B) obrażeń rzeczywistych[/dmg]\n[#] Przeciwko graczom na wierzchowcach: [dmg](C) obrażeń rzeczywistych[/dmg]\n[#] Przeciwko mobom: [dmg](D) obrażeń rzeczywistych[/dmg]\n\nZa każdym razem, gdy zatruty wróg [other]otrzyma bezpośrednie obrażenia[/other], zostanie on [cc]spowolniony[/cc] o [cc](E)[/cc] na [cc](F)[/cc].",
+            "TR-TR": "İksiri hedeflenen düşmana fırlat, hedefi zehirle ve [dmg](A)[/dmg] boyunca [dmg]gerçek hasar[/dmg] ver.\n[#] Oyunculara karşı: [dmg](B) gerçek hasar[/dmg]\n[#] Binek üstündeki oyunculara karşı: [dmg](C) gerçek hasar[/dmg]\n[#] Düşmanlara karşı: [dmg](D) gerçek hasar[/dmg]\n\nZehirlenen düşman [other]doğrudan hasar aldığında[/other] [cc](E)[/cc] boyunca [cc](F)[/cc] [cc]yavaşlatılır[/cc].",
+            "ID-ID": "Melemparkan ramuan ke musuh tertarget, meracuni musuh dan memberikan [dmg]true damage[/dmg] dalam [dmg](A)[/dmg].\n[#] Melawan pemain: [dmg](B) true damage[/dmg]\n[#] Melawan pemain menunggang: [dmg](C) true damage[/dmg]\n[#] Melawan mob: [dmg](D) true damage[/dmg]\n\nSetiap kali musuh yang diracuni [other]menerima damage langsung[/other], mereka akan [cc]diperlambat[/cc] sebesar [cc](E)[/cc] selama [cc](F)[/cc].",
+            "FR-FR": "Lancez la potion sur l'ennemi ciblé, l'empoisonnant et lui infligeant des [dmg]dégâts bruts[/dmg] pendant [dmg](A)[/dmg].\n[#] Contre les joueurs : [dmg](B) dégâts bruts[/dmg]\n[#] Contre les joueurs montés : [dmg](C) dégâts bruts[/dmg]\n[#] Contre les monstres : [dmg](D) dégâts bruts[/dmg]\n\nLorsque l'ennemi empoisonné [other]subit des dégâts directs[/other], il est [cc]ralenti[/cc] de [cc](E)[/cc] pendant [cc](F)[/cc].",
+            "JA-JP": "対象の敵にポーションを投げつけ、毒状態にし、[dmg](A)[/dmg]間、[dmg]真のダメージ[/dmg]を与える。\n[#]対プレイヤー：[dmg](B)真のダメージ[/dmg]\n[#]対騎乗中のプレイヤー：[dmg](C)真のダメージ[/dmg]\n[#]対モブ：[dmg](D)真のダメージ[/dmg]\n\n毒を受けた敵が[other]直接ダメージ[/other]を受けるたび、[cc](E)[/cc]間、移動速度が[cc](F)[/cc][cc]減少[/cc]する。",
+            "EN-US": "Throw the potion at the targeted enemy, poisoning the target and dealing [dmg]true damage[/dmg] over [dmg](A)[/dmg].\n[#] Against players: [dmg](B) true damage[/dmg]\n[#] Against mounted players: [dmg](C) true damage[/dmg]\n[#] Against mobs: [dmg](D) true damage[/dmg]\n\nWhenever the poisoned enemy [other]takes direct damage[/other], they will be [cc]slowed[/cc] by [cc](E)[/cc] for [cc](F)[/cc].",
+            "DE-DE": "Wirf den Trank auf den anvisierten Gegner, dies vergiftet das Ziel und verursacht über [dmg](A)[/dmg] [dmg]Echten Schaden[/dmg].\n[#] Gegen Spieler: [dmg](B) Echten Schaden[/dmg]\n[#] Gegen berittene Spieler: [dmg](C) Echten Schaden[/dmg]\n[#] Gegen Mobs:[dmg](D) Echten Schaden[/dmg]\n\nImmer, wenn der vergiftete Gegner [other]direkten Schaden erleidet[/other], wird er für [cc](E)[/cc] um [cc](F)[/cc] [cc]verlangsamt[/cc].",
+            "AR-SA": "قم بإلقاء الجرعة على العدو المستهدف، مما يؤدي إلى تسميم الهدف وإحداث [dmg]ضرر فعلي[/dmg] خلال [dmg](A)[/dmg].\n[#] ضد اللاعبين: [dmg]لمدة(B) ضرر فعلي[/dmg]\n[#] ضد اللاعبين على المطية: [dmg]لمدة(C) ضرر فعلي[/dmg]\n[#] ضد الحشود: [dmg]لمدة(D) ضرر فعلي بنسبة[/dmg]\n\nعندما يتلقى الأعداء المسمومون [other]ضررًا مباشرًا[/other]، [cc]ستبطأ حركتهم[/cc]بنسبة[cc](E)[/cc] لمدة [cc](F)[/cc].",
+            "KO-KR": "대상 적에게 포션을 던져서 독에 중독시켜 [dmg](A)[/dmg]에 걸쳐 [dmg]고정 대미지[/dmg]를 입힙니다.\n[#] 플레이어 상대로: [dmg](B)의 고정 대미지[/dmg]\n[#] 탈것에 탑승한 플레이어 상대로: [dmg](C)의 고정 대미지[/dmg]\n[#] 몬스터 상대로: [dmg](D)의 고정 대미지[/dmg]\n\n중독 상태인 적은 [other]직접 대미지를 입을 때마다[/other], [cc](E)[/cc] 동안 [cc](F)[/cc]만큼 [cc]느려집니다[/cc].",
+            "PT-BR": "Joga a poção no inimigo alvo, envenenando o alvo e causando [dmg]dano verdadeiro[/dmg] ao longo de [dmg](A)[/dmg].\n[#] Contra jogadores: [dmg](B) de dano verdadeiro[/dmg]\n[#] Contra jogadores montados: [dmg](C) de dano verdadeiro[/dmg]\n[#] Contra monstros: [dmg](D) de dano verdadeiro[/dmg]\n\nSempre que o inimigo envenenado [other]receber dano direto[/other], ele será [cc]desacelerado[/cc] em [cc](E)[/cc] por [cc](F)[/cc].",
+            "ZH-TW": "朝目標敵人投擲藥水，使目標中毒，並在[dmg](A)[/dmg]內造成[dmg]真實傷害[/dmg]。\n[#]對玩家：[dmg](B)點真實傷害[/dmg]\n[#]對騎乘坐騎的玩家：[dmg](C)點真實傷害[/dmg]\n[#]對怪物：[dmg](D)點真實傷害[/dmg]\n\n每當中毒的敵人受到[other]直接傷害[/other]，他們會被[cc]緩速(E)[/cc]，持續[cc](F)[/cc]。",
+            "ES-ES": "Lánzale la poción al enemigo señalado para envenenarlo e infligirle [dmg]daño verdadero[/dmg] durante [dmg](A)[/dmg].\n[#] Contra jugadores: [dmg](B) de daño verdadero[/dmg]\n[#] Contra jugadores en monturas: [dmg](C) de daño verdadero[/dmg]\n[#] Contra monstruos: [dmg](D) de daño verdadero[/dmg]\n\nCada vez que el enemigo envenenado [other]recibe daño directo[/other], será [cc]ralentizado[/cc] en [cc](E)[/cc] por [cc](F)[/cc].",
+            "ZH-CN": "朝目标敌人投掷药水，使目标中毒，并在[dmg](A)[/dmg]内造成[dmg]真实伤害[/dmg]。\n[#]对玩家：[dmg](B)真实伤害[/dmg]\n[#]对骑乘坐骑的玩家：[dmg](C)真实伤害[/dmg]\n[#]对野怪：[dmg](D)真实伤害[/dmg]\n\n每当中毒的敌人受到[other]直接伤害[/other]，他们会被[cc]减速(E)[/cc]，持续[cc](F)[/cc]。"
           },
           "target": "enemy",
           "castingTime": 0,
@@ -3104,6 +2984,15 @@
               "interval": 1,
               "initialInterval": 0,
               "change": -36,
+              "count": 5,
+              "effectType": "magic",
+              "effectAreaRadius": null
+            },
+            {
+              "attribute": "health",
+              "interval": 1,
+              "initialInterval": 0,
+              "change": -18,
               "count": 5,
               "effectType": "magic",
               "effectAreaRadius": null
@@ -3159,7 +3048,7 @@
     "enchantmentLevel": 0,
     "categoryId": "potion",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -3267,7 +3156,7 @@
           "uniqueName": "POTION_ACID_P3",
           "uiAtlas": null,
           "uiSprite": "CURSED_AREA",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_POTION_ACID",
           "descriptionLocaTag": "@SPELLS_POTION_ACID_DESC",
           "localizedNames": {
@@ -3320,14 +3209,14 @@
               "target": "enemy",
               "type": "physicalarmor",
               "time": 5,
-              "value": -0.099,
+              "value": -0.149,
               "effectAreaRadius": 5
             },
             {
               "target": "enemy",
               "type": "magicresistance",
               "time": 5,
-              "value": -0.099,
+              "value": -0.149,
               "effectAreaRadius": 5
             }
           ],
@@ -3385,7 +3274,7 @@
     "enchantmentLevel": 0,
     "categoryId": "potion",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -3481,12 +3370,12 @@
           "uniqueName": "POTION_ENERGY_P5",
           "uiAtlas": null,
           "uiSprite": "RESTOREENERGY",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_POTION_ENERGY",
           "descriptionLocaTag": "@SPELLS_POTION_ENERGY_TEST_DESC",
           "localizedNames": {
             "IT-IT": "Pozione energetica",
-            "RU-RU": "Эликсир э��ергии",
+            "RU-RU": "Эликсир энергии",
             "PL-PL": "Mikstura Energii",
             "TR-TR": "Enerji İksiri",
             "ID-ID": "Ramuan Energi",
@@ -3610,7 +3499,7 @@
     "enchantmentLevel": 0,
     "categoryId": "potion",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -3694,7 +3583,7 @@
           "uniqueName": "POTION_HEAL_P3",
           "uiAtlas": null,
           "uiSprite": "HEAL_SELF",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_POTION_HEAL",
           "descriptionLocaTag": "@SPELLS_POTION_HEAL_DESC",
           "localizedNames": {
@@ -3807,7 +3696,7 @@
     "enchantmentLevel": 0,
     "categoryId": "potion",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -3879,7 +3768,7 @@
           "uniqueName": "POTION_HEAL_P1",
           "uiAtlas": null,
           "uiSprite": "HEAL_SELF",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_POTION_HEAL",
           "descriptionLocaTag": "@SPELLS_POTION_HEAL_DESC",
           "localizedNames": {
@@ -3992,7 +3881,7 @@
     "enchantmentLevel": 0,
     "categoryId": "vanity",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": null,
     "activeSlots": {
       "1": [
@@ -4001,7 +3890,7 @@
           "uniqueName": "VANITY_CONSUMABLE_FIREWORKS_YELLOW",
           "uiAtlas": null,
           "uiSprite": "FIREWORKYELLOW",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": null,
           "descriptionLocaTag": null,
           "localizedNames": {
@@ -4028,7 +3917,7 @@
             "TR-TR": "[b][c][FFB418]Parlak sarı bir patlamayla[/b][/c][-] gökyüzünü aydınlat.",
             "ID-ID": "Menerangi langit dengan [b][c][FFB418]ledakan hijau berkilauan[/b][/c][-].",
             "FR-FR": "Illumine le ciel d'une époustouflante explosion jaune.",
-            "JA-JP": "[b][c][FFB418]きらめく黄色の爆発[/b][/c][-]で空を照らし出します。",
+            "JA-JP": "[b][c][FFB418]き��めく黄色の爆発[/b][/c][-]で空を照らし出します。",
             "EN-US": "Light up the sky with a [b][c][FFB418]shimmering yellow explosion[/b][/c][-].",
             "DE-DE": "Erhelle den Himmel mit dieser glitzernd gelben Explosion.",
             "AR-SA": "عليك إضاءة السماء [b][c][FFB418]بانفجار أصفر متلألئ[/b][/c][-].",
@@ -4108,126 +3997,6 @@
   },
   {
     "itemType": "consumable",
-    "uniqueName": "T1_FISHINGBAIT",
-    "uiSprite": "FISHINGBAIT",
-    "uiSpriteOverlay1": null,
-    "uiSpriteOverlay2": null,
-    "uiSpriteOverlay3": null,
-    "uiAtlas": null,
-    "showinmarketplace": true,
-    "level": 1,
-    "tier": 1,
-    "enchantmentLevel": 0,
-    "categoryId": "fishingbait",
-    "categoryName": "",
-    "revision": 280399,
-    "enchantments": null,
-    "activeSlots": {
-      "1": [
-        {
-          "spellType": "active",
-          "uniqueName": "FISHINGBAIT_LEVEL1_USE",
-          "uiAtlas": null,
-          "uiSprite": "FISHINGBAIT_USE",
-          "revision": 278881,
-          "nameLocaTag": null,
-          "descriptionLocaTag": null,
-          "localizedNames": {
-            "IT-IT": "Esca da pesca semplice",
-            "RU-RU": "Простая наживка",
-            "PL-PL": "Prosta Przynęta",
-            "TR-TR": "Basit Balık Yemi",
-            "ID-ID": "Umpan Ikan Simpel",
-            "FR-FR": "Appât à poisson simple",
-            "JA-JP": "単純な釣り餌",
-            "EN-US": "Simple Fish Bait",
-            "DE-DE": "Einfacher Angelköder",
-            "AR-SA": "طُعم سمك بسيط",
-            "KO-KR": "기본 낚시 미끼",
-            "PT-BR": "Isca de Pesca Simples",
-            "ZH-TW": "簡易釣餌",
-            "ES-ES": "Cebo simple",
-            "ZH-CN": "普通鱼饵"
-          },
-          "localizedDescriptions": {
-            "IT-IT": "Prepari la canna da pesca con esche per catturare fino a [other](A)[/other] pesci nei prossimi [buff](B)[/buff].\nRiduce il [buff]tempo[/buff] che passa prima che un [buff]pesce abbocchi[/buff] del [buff](C)[/buff].",
-            "RU-RU": "Подготовьте наживку для удочки на [other](A)[/other] пойманной рыбы в течение следующих [buff](B)[/buff].\nСокращает [buff]время[/buff] до [buff]поклевки[/buff] на [buff](C)[/buff].",
-            "PL-PL": "Szykujesz wędkę z przynętą na [other](A)[/other] ryb złapanych przez następne [buff](B)[/buff].\nZmniejsza [buff]czas[/buff] do [buff]złapania ryby[/buff] o [buff](C)[/buff].",
-            "TR-TR": "Oltanı, sonraki [buff](A)[/buff] içerisinde en fazla [other](B)[/other] balık tutmak için yem ile hazırlar.\nBir [buff]balık ısırana[/buff] kadar geçen [buff]süreyi[/buff] [buff](C)[/buff] azaltır.",
-            "ID-ID": "Mempersiapkan joran dengan umpan sampai [other](A)[/other] ikan tertangkap dalam [buff](B)[/buff] berikutnya.\nMengurangi [buff]waktu[/buff] sampai [buff]ikan terpancing[/buff] hingga [buff](C)[/buff].",
-            "FR-FR": "Préparez votre Canne à pêche et des appâts pour jusqu'à [other](A)[/other] de poisson attrapé dans les prochaines [buff](B)[/buff].\nRéduit le [buff]temps[/buff] nécessaire pour qu'un [buff]poisson morde[/buff] de [buff](C)[/buff].",
-            "JA-JP": "[buff](A)[/buff]の間、最大[other](B)[/other]匹の魚が釣れるまで、餌を付けた釣り竿を用意します。\n[buff]魚が食いつく[/buff]までの[buff]時間[/buff]を[buff](C)[/buff]減少させます。",
-            "EN-US": "Prepare your fishing rod with bait for up to [other](A)[/other] fish caught within the next [buff](B)[/buff].\nReduces the [buff]time[/buff] until a [buff]fish bites[/buff] by [buff](C)[/buff].",
-            "DE-DE": "Bestücke deine Angel mit Ködern für bis zu [other](A)[/other] Fische innerhalb der nächsten [buff](B)[/buff].\nReduziert die [buff]Zeit[/buff], bis ein [buff]Fisch beißt[/buff], um [buff](C)[/buff].",
-            "AR-SA": "يمكن تجهيز الصنارة بطعم لما يصل إلى [other](A)[/other] من الأسماك التي تم اصطيادها خلال [buff](B)[/buff] التالية.\nتقلل [buff]الوقت[/buff] حتى [buff]الإمساك بسمكة[/buff] بمقدار [buff](C)[/buff].",
-            "KO-KR": "[buff](A)[/buff] 동안 최대 [other](B)[/other] 마리의 물고기를 잡을 수 있게 낚시대에 미끼를 끼웁니다.\n[buff]입질[/buff]이 올 때까지의 [buff]시간[/buff]을 [buff](C)[/buff] 만큼 감소시킵니다.",
-            "PT-BR": "Prepare a sua vara de pescar com isca para até [other](A)[/other] peixes dentro dos próximos [buff](B)[/buff].\nReduz o [buff]tempo[/buff] até um [buff]peixe morder a isca[/buff] em [buff](C)[/buff].",
-            "ZH-TW": "為釣竿準備釣餌，在接下來[buff](A)[/buff]內，最多可釣起[other](B)[/other]條魚。\n使[buff]魚咬餌[/buff]的[buff]時間[/buff]減少[buff](C)[/buff]。",
-            "ES-ES": "Le pone cebo a tu caña de pescar para atrapar hasta [other](A)[/other] peces durante los próximos [buff](B)[/buff].\nReduce el [buff]tiempo[/buff] en el que el [buff]pez muerde[/buff] el anzuelo por [buff](C)[/buff].",
-            "ZH-CN": "为你的鱼竿准备鱼饵，最多可于[buff](A)[/buff]内钓起[other](B)[/other]只鱼。\n[buff]鱼咬饵[/buff]前的[buff]时间[/buff]减少[buff](C)[/buff]。"
-          },
-          "target": "self",
-          "castingTime": 0,
-          "hitDelay": 0.4,
-          "standTime": 0.4,
-          "disruptionFactor": null,
-          "recastDelay": 0,
-          "energyUsage": 0,
-          "castRange": 0,
-          "category": "fishingbait_buffs",
-          "uiType": "buff",
-          "maxCharges": null,
-          "buffOverTime": [
-            {
-              "target": "self",
-              "type": "fishingspeed",
-              "time": 600,
-              "value": 0.5,
-              "effectAreaRadius": null
-            }
-          ],
-          "directAttributeChange": null,
-          "root": null,
-          "stun": null,
-          "attributeChangeOverTime": null,
-          "silence": null,
-          "damageShield": null,
-          "channeling": null,
-          "knockback": null,
-          "spellEffectArea": null,
-          "invisibility": null
-        }
-      ]
-    },
-    "passiveSlots": {},
-    "localizedNames": {
-      "IT-IT": "Esca da pesca semplice",
-      "RU-RU": "Простая наживка",
-      "PL-PL": "Prosta Przynęta",
-      "TR-TR": "Basit Balık Yemi",
-      "ID-ID": "Umpan Ikan Simpel",
-      "FR-FR": "Appât à poisson simple",
-      "JA-JP": "単純な釣り餌",
-      "EN-US": "Simple Fish Bait",
-      "DE-DE": "Einfacher Angelköder",
-      "AR-SA": "طُعم سمك بسيط",
-      "KO-KR": "기본 낚시 미끼",
-      "PT-BR": "Isca de Peixe Simples",
-      "ZH-TW": "簡易釣餌",
-      "ES-ES": "Cebo simple",
-      "ZH-CN": "普通鱼饵"
-    },
-    "localizedDescriptions": null,
-    "slotType": "potion",
-    "abilityPower": 0,
-    "maxStackSize": null,
-    "weight": null,
-    "spriteName": "FISHINGBAIT",
-    "stackable": true,
-    "equipable": false
-  },
-  {
-    "itemType": "consumable",
     "uniqueName": "T3_POTION_ACID",
     "uiSprite": "POTION_ACID",
     "uiSpriteOverlay1": null,
@@ -4240,7 +4009,7 @@
     "enchantmentLevel": 0,
     "categoryId": "potion",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -4324,7 +4093,7 @@
           "uniqueName": "POTION_ACID_P1",
           "uiAtlas": null,
           "uiSprite": "CURSED_AREA",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_POTION_ACID",
           "descriptionLocaTag": "@SPELLS_POTION_ACID_DESC",
           "localizedNames": {
@@ -4377,14 +4146,14 @@
               "target": "enemy",
               "type": "physicalarmor",
               "time": 5,
-              "value": -0.05,
+              "value": -0.075,
               "effectAreaRadius": 5
             },
             {
               "target": "enemy",
               "type": "magicresistance",
               "time": 5,
-              "value": -0.05,
+              "value": -0.075,
               "effectAreaRadius": 5
             }
           ],
@@ -4442,7 +4211,7 @@
     "enchantmentLevel": 0,
     "categoryId": "potion",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -4526,7 +4295,7 @@
           "uniqueName": "POTION_MOB_RESET_P1",
           "uiAtlas": null,
           "uiSprite": "MAGIC_INTERRUPT",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_POTION_MOB_RESET",
           "descriptionLocaTag": "@SPELLS_POTION_MOB_RESET_P1_DESC",
           "localizedNames": {
@@ -4604,7 +4373,7 @@
     "localizedNames": {
       "IT-IT": "Pozione della calma minore",
       "RU-RU": "Малое успокаивающее зелье",
-      "PL-PL": "Mniejsza Mikstura Uspokająjąca",
+      "PL-PL": "Mniejsza Mikstura Uspokajająca",
       "TR-TR": "Zayıf Sakinleştirici İksir",
       "ID-ID": "Ramuan Penenang Minor",
       "FR-FR": "Potion de calme mineure",
@@ -4641,7 +4410,7 @@
     "enchantmentLevel": 0,
     "categoryId": "potion",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -4737,7 +4506,7 @@
           "uniqueName": "POTION_RESISTANCE_P3",
           "uiAtlas": null,
           "uiSprite": "LIVINGARMOR",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_POTION_RESISTANCE",
           "descriptionLocaTag": "@SPELLS_POTION_RESISTANCE_DESC",
           "localizedNames": {
@@ -4869,7 +4638,7 @@
     "enchantmentLevel": 0,
     "categoryId": "potion",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -4977,7 +4746,7 @@
           "uniqueName": "POTION_TORNADO_P3",
           "uiAtlas": null,
           "uiSprite": "TORNADO",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_POTION_TORNADO",
           "descriptionLocaTag": "@SPELLS_POTION_TORNADO_V2_DESC",
           "localizedNames": {
@@ -5009,7 +4778,7 @@
             "DE-DE": "Wirf den Trank auf die anvisierte Position, dies entfesselt dort einen Tornado mit [other](A) Radius[/other], der für [other](B)[/other] bestehen bleibt.\nAlle getroffenen Gegner werden um [cc](C)[/cc] [cc]zurückgestoßen[/cc] (ignoriert CC-resistenzen).",
             "AR-SA": "إلقاء الجرعة على الموقع المستهدف يطلق إعصارًا [other]بمحيط (A)[/other] يدوم لمدة [other](B)[/other].\n[cc]يطيح[/cc] بكل الأعداء الذين يلمسونه لمسافة قدرها [cc](C)[/cc] (مع تجاهل مقاومة التحكم في الحشود).",
             "KO-KR": "대상 위치에 포션을 던져서, [other](A)[/other] 동안 지속되는 [other](B) 범위[/other]의 토네이도를 방출합니다.\n토네이도에 닿은 적을 [cc](C)[/cc]만큼 [cc]밀쳐냅니다[/cc](군중 제어 저항을 무시함).",
-            "PT-BR": "Joga a poção na posição alvo, liberando um tornado com um [other]raio de (A)[/other] que dura [other](B)[/other].\nJoga todos os inimigos que encostarem no tornado [cc](C)[/cc] [cc]para trás[/cc] (ignora a Resistência a Controle de Multidão).",
+            "PT-BR": "Joga a poção na posição alvo, liberando um tornado com um [other](A)raio de [/other] que dura [other](B)[/other].\nJoga todos os inimigos que encostarem no tornado [cc][/cc] [cc](C)[/cc]para trás (ignora a Resistência a Controle de Grupo).",
             "ZH-TW": "朝目標位置投擲藥水，在[other](A)半徑[/other]範圍釋放一道龍捲風，持續[other](B)[/other]。\n[cc]擊退[/cc]所有接觸到它的敵人[cc](C)[/cc](無視群體控制抗性)。",
             "ES-ES": "Lanza la poción al lugar señalado y libera un tornado de un [other]radio de (A)[/other] que dura [other](B)[/other].\n[cc]Derriba[/cc] a todos los enemigos que lo toquen a una distancia de [cc](C)[/cc] (ignora la resistencia al control de multitudes).",
             "ZH-CN": "朝目标位置投掷药水，在[other](A)半径[/other]范围释放一道龙卷风，持续[other](B)[/other]。\n[cc]击退[/cc]所有接触到它的敌人[cc](C)[/cc]（无视群体控制抗性）。"
@@ -5019,7 +4788,7 @@
           "hitDelay": 0.2,
           "standTime": 0.2,
           "disruptionFactor": 0,
-          "recastDelay": 90,
+          "recastDelay": 60,
           "energyUsage": 0,
           "castRange": 13,
           "category": "instant",
@@ -5087,7 +4856,7 @@
     "enchantmentLevel": 0,
     "categoryId": "potion",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -5171,7 +4940,7 @@
           "uniqueName": "POTION_TORNADO_P1",
           "uiAtlas": null,
           "uiSprite": "TORNADO",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_POTION_TORNADO",
           "descriptionLocaTag": "@SPELLS_POTION_TORNADO_V2_DESC",
           "localizedNames": {
@@ -5201,9 +4970,9 @@
             "JA-JP": "狙った位置にポーションを投げつけ、[other](A)[/other]持続する半径[/other](B)[/other]の竜巻を放つ。\n[cc]触れている全ての敵を[cc](C)[/cc]ノックバックさせる（CC耐性無視）。",
             "EN-US": "Throw the potion at the targeted position, releasing a tornado with a [other](A) radius[/other] lasting [other](B)[/other].\n[cc]Knocks back[/cc] all enemies touching it by [cc](C)[/cc] (ignores Crowd Control Resistance).",
             "DE-DE": "Wirf den Trank auf die anvisierte Position, dies entfesselt dort einen Tornado mit [other](A) Radius[/other], der für [other](B)[/other] bestehen bleibt.\nAlle getroffenen Gegner werden um [cc](C)[/cc] [cc]zurückgestoßen[/cc] (ignoriert CC-resistenzen).",
-            "AR-SA": "إلقاء الجرعة على الموقع المستهدف يطلق إعصارًا [other]بمحيط (A)[/other] يدوم لمدة [other](B)[/other].\n[cc]يطيح[/cc] بكل الأعداء الذين يلمسونه لمسافة قدرها [cc](C)[/cc] (مع تجاهل مقاومة التحكم في الحشود).",
+            "AR-SA": "إلقاء الجرعة على ال��وقع المستهدف يطلق إعصارًا [other]بمحيط (A)[/other] يدوم لمدة [other](B)[/other].\n[cc]يطيح[/cc] بكل الأعداء الذين يلمسونه لمسافة قدرها [cc](C)[/cc] (مع تجاهل مقاومة التحكم في الحشود).",
             "KO-KR": "대상 위치에 포션을 던져서, [other](A)[/other] 동안 지속되는 [other](B) 범위[/other]의 토네이도를 방출합니다.\n토네이도에 닿은 적을 [cc](C)[/cc]만큼 [cc]밀쳐냅니다[/cc](군중 제어 저항을 무시함).",
-            "PT-BR": "Joga a poção na posição alvo, liberando um tornado com um [other]raio de (A)[/other] que dura [other](B)[/other].\nJoga todos os inimigos que encostarem no tornado [cc](C)[/cc] [cc]para trás[/cc] (ignora a Resistência a Controle de Multidão).",
+            "PT-BR": "Joga a poção na posição alvo, liberando um tornado com um [other](A)raio de [/other] que dura [other](B)[/other].\nJoga todos os inimigos que encostarem no tornado [cc][/cc] [cc](C)[/cc]para trás (ignora a Resistência a Controle de Grupo).",
             "ZH-TW": "朝目標位置投擲藥水，在[other](A)半徑[/other]範圍釋放一道龍捲風，持續[other](B)[/other]。\n[cc]擊退[/cc]所有接觸到它的敵人[cc](C)[/cc](無視群體控制抗性)。",
             "ES-ES": "Lanza la poción al lugar señalado y libera un tornado de un [other]radio de (A)[/other] que dura [other](B)[/other].\n[cc]Derriba[/cc] a todos los enemigos que lo toquen a una distancia de [cc](C)[/cc] (ignora la resistencia al control de multitudes).",
             "ZH-CN": "朝目标位置投掷药水，在[other](A)半径[/other]范围释放一道龙卷风，持续[other](B)[/other]。\n[cc]击退[/cc]所有接触到它的敌人[cc](C)[/cc]（无视群体控制抗性）。"
@@ -5213,7 +4982,7 @@
           "hitDelay": 0.2,
           "standTime": 0.2,
           "disruptionFactor": 0,
-          "recastDelay": 90,
+          "recastDelay": 60,
           "energyUsage": 0,
           "castRange": 13,
           "category": "instant",
@@ -5281,7 +5050,7 @@
     "enchantmentLevel": 0,
     "categoryId": "vanity",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": null,
     "activeSlots": {
       "1": [
@@ -5290,7 +5059,7 @@
           "uniqueName": "VANITY_CONSUMABLE_FIREWORKS_GREEN",
           "uiAtlas": null,
           "uiSprite": "FIREWORKGREEN",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": null,
           "descriptionLocaTag": null,
           "localizedNames": {
@@ -5409,7 +5178,7 @@
     "enchantmentLevel": 0,
     "categoryId": "potion",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -5541,9 +5310,9 @@
           "uniqueName": "POTION_LAVA_P5",
           "uiAtlas": null,
           "uiSprite": "AOE_FIRE",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_POTION_LAVA",
-          "descriptionLocaTag": "@SPELLS_POTION_LAVA_DESC",
+          "descriptionLocaTag": "@SPELLS_POTION_LAVA_V2_DESC",
           "localizedNames": {
             "IT-IT": "Pozione Inferno",
             "RU-RU": "Зелье адского пламени",
@@ -5562,28 +5331,28 @@
             "ZH-CN": "狱火药水"
           },
           "localizedDescriptions": {
-            "IT-IT": "Lanci la pozione sulla posizione bersaglio, creando una pozza di fuoco infernale con un [other]raggio di (A)[/other] che dura [other](B)[/other].\nInfligge [dmg](C) danni puri[/dmg] (contro i giocatori) / [dmg](D) danni puri[/dmg] (contro i mob) ogni [dmg](E)[/dmg].\n\nLanciare la pozione dissolverà [other]tutte le pozze degli alleati[/other] in un [other]raggio di (F)[/other] attorno alla tua pozza.",
-            "RU-RU": "Бросьте зелье в указанное место, создав лужу адского пламени [other]радиусом(A)[/other] на [other](B)[/other].\nНаносит [dmg](C) чистого урона[/dmg] (по игрокам) / [dmg](D) чистого урона[/dmg] (по монстрам) каждые [dmg](E)[/dmg].\n\nЕсли бросить зелье, оно растворит [other]все лужи союзников[/other] в [other]радиусе (F)[/other] от вашей лужи.",
-            "PL-PL": "Rzucasz miksturę w wybrane miejsce, tworząc kałużę Piekielnego Ognia o promieniu [other](A)[/other], utrzymującą się przez [other](B)[/other].\nZadaje [dmg](C) obrażeń rzeczywistych[/dmg] (przeciwko graczom) / [dmg](D) obrażeń rzeczywistych[/dmg] (przeciwko mobom) co [dmg](E)[/dmg].\n\nRzucenie mikstury dezaktywuje [other]wszystkie kałuże sojuszników[/other] w promieniu [other](F)[/other] od twojej kałuży.",
-            "TR-TR": "Hedef konuma iksir atıp [other](A)[/other] boyunca aktif kalan [other](B) yarıçaplı[/other] bir Cehennem Ateşi gölü oluşturur.\nHer [dmg](C)[/dmg] [dmg](D) gerçek hasar[/dmg] (oyunculara karşı) / [dmg](E) gerçek hasar[/dmg] (diğer düşmanlara karşı) verir.\n\nİksiri attığında gölün etrafındaki [other](F) yarıçaplı[/other] alanda bulunan [other]tüm müttefik gölleri[/other] yok olur.",
-            "ID-ID": "Lemparkan ramuan ke posisi yang ditarget, menciptakan genangan Api Neraka dengan [other](A) radius[/other] berlangsung selama [other](B)[/other].\nMemberikan [dmg](C) damage murni[/dmg] (vs. pemain) / [dmg](D) damage murni[/dmg] (vs. mob) setiap [dmg](E)[/dmg].\n\nMelempar ramuan akan menghilangkan [other]semua genangan sekutu[/other] dalam [other](F) radius[/other] di sekitar genanganmu.",
-            "FR-FR": "Lancez la potion sur l'emplacement ciblé pour créer une flaque de feu infernal d'un [other]rayon de (A)[/other] qui dure [other](B)[/other].\nInflige [dmg](C) dégâts bruts[/dmg] (contre les joueurs) / [dmg](D) dégâts bruts[/dmg] (contre les monstres) toutes les [dmg](E)[/dmg].\n\nLancer la potion va dissoudre [other]toutes les flaques des alliées[/other] dans un [other]rayon de (F)[/other] autour de votre flaque.",
-            "JA-JP": "狙った位置にポーションを投げつけ、[other](A)[/other]持続する[other](B)半径[/other]の獄炎の水たまりを作り出す。\n[dmg](C)[/dmg]毎に[dmg](D)真のダメージ[/dmg](対プレイヤー)/[dmg](E)真のダメージ[/dmg](対モブ)を与える。\n\nポーションを投げると、自分の水たまりを中心とした[other](F)半径[/other]内の[other]すべての味方の水たまり[/other]を溶かす。",
-            "EN-US": "Throw the potion at the targeted position, creating a puddle of Hellfire with a [other](A) radius[/other] lasting [other](B)[/other].\nDeals [dmg](C) true damage[/dmg] (vs. players) / [dmg](D) true damage[/dmg] (vs. mobs) every [dmg](E)[/dmg].\n\nThrowing the potion will dissolve [other]all ally puddles[/other] in a [other](F) radius[/other] around your puddle.",
-            "DE-DE": "Wirf den Trank auf den anvisierten Punkt, dies erzeugt dort für [other](A)[/other]eine Pfütze aus Höllenfeuer mit [other](B) Radius[/other].\nVerursacht alle [dmg](C)[/dmg] [dmg](D) echten Schaden[/dmg] (bei Spielern) / [dmg](E) echten Schaden[/dmg] (bei Mobs).\n\nDas Werfen dieser Flasche löst [other]alle anderen Pfützen von Alliierten[/other] in [other](F) Radius[/other] um deine Pfütze auf.",
-            "AR-SA": "إلقاء الجرعة في الموقع المستهدف ينشئ بركة من نار الجحيم في [other]محيط (A)[/other] وتستمر لمدة [other](B)[/other].\nتلحق [dmg](C) من الضرر الفعلي[/dmg] (ضد اللاعبين) / [dmg](D) من الضرر الفعلي[/dmg] (ضد الغرماء) كل [dmg](E)[/dmg].\n\nسيؤدي إلقاء الجرعة إلى تلاشي [other]كل برك الحلفاء[/other] في [other]محيط (F)[/other] حول بركتك.",
-            "KO-KR": "대상 위치에 포션을 던져서, [other](A)[/other] 동안 지속되는 [other](B) 범위[/other]의 지옥불 웅덩이를 생성합니다.\n매 [dmg](C)[/dmg]마다 [dmg](D)의 고정 대미지[/dmg] (vs. 플레이어) / [dmg](E)의 고정 대미지[/dmg] (vs. 몹) 를 입힙니다.\n\n포션을 던지면 내 웅덩이 [other](F) 범위[/other] 내에 위치한 [other]모든 아군 웅덩이[/other]가 사라집니다.",
-            "PT-BR": "Joga a poção na posição alvo, criando uma poça de chamas infernais com um [other]raio de (A)[/other] que dura [other](B)[/other].\nCausa [dmg](C) de dano verdadeiro[/dmg] (contra jogadores) / [dmg](D) de dano verdadeiro[/dmg] (contra monstros) a cada [dmg](E)[/dmg].\n\nJogar a poção dissolverá [other]todas as poças aliadas[/other] em um [other]raio de (F)[/other] ao redor da sua poça.",
-            "ZH-TW": "朝目標位置投擲藥水，在[other](A)半徑[/other]範圍創造一個來自地獄的熔岩池，持續[other](B)[/other]。\n每[dmg](C)[/dmg]造成[dmg](D)點真實傷害[/dmg](對玩家)/[dmg](E)點真實傷害[/dmg](對怪物)。\n\n使您周圍[other](F)半徑[/other]範圍內[other]所有盟友釋放的熔岩池[/other]消失。",
-            "ES-ES": "Lanza la poción al lugar señalado y crea un charco de fuego infernal de un [other]radio de (A)[/other] que dura [other](B)[/other].\nInflige [dmg](C) de daño verdadero[/dmg] (contra jugadores) / [dmg](D) de daño verdadero[/dmg] (contra monstruos) cada [dmg](E)[/dmg].\n\nUsar la poción disolverá [other]todos los charcos aliados[/other] que se encuentren en un [other]radio de (F) [/other] alrededor de tu charco.",
-            "ZH-CN": "朝目标位置投掷药水，在[other](A)半径[/other]范围创造一个来自地狱的熔岩池，持续[other](B)[/other]。\n每[dmg](C)[/dmg]造成[dmg](D)真实伤害[/dmg]（对玩家）/ [dmg](E)真实伤害[/dmg]（对野怪）。\n\n使你周围[other](F)半径[/other]范围内[other]所有友军释放的熔岩池[/other]消失。"
+            "IT-IT": "Lanci la pozione sulla posizione bersaglio, creando una pozza di fuoco infernale con un [other]raggio di (A)[/other] che dura [other](B)[/other].\nInfligge [dmg](C) danni puri[/dmg] (contro i giocatori) / [dmg](D) danni puri[/dmg] (contro i mob) ogni [dmg](E)[/dmg] (questi danni non possono essere riflessi).\nRiduce le [debuff]Cure ricevute[/debuff] del [debuff](F)[/debuff] per [debuff](G)[/debuff].\n\nLanciare la pozione dissolverà [other]tutte le pozze degli alleati[/other] in un [other]raggio di (H)[/other] attorno alla tua pozza.",
+            "RU-RU": "Бросьте зелье в указанное место, создав лужу адского пламени [other]радиусом(A)[/other] на [other](B)[/other].\nНаносит [dmg](C) чистого урона[/dmg] (по игрокам) / [dmg](D) чистого урона[/dmg] (по монстрам) каждые [dmg](E)[/dmg] (этот урон невозможно отразить).\nСнижает [debuff]получаемое исцеление[/debuff] на [debuff](F)[/debuff] в течение [debuff](G)[/debuff].\n\nЕсли бросить зелье, оно растворит [other]все лужи союзников[/other] в [other]радиусе (H)[/other] от вашей лужи.",
+            "PL-PL": "Rzucasz miksturę w wybrane miejsce, tworząc kałużę Piekielnego Ognia o promieniu [other](A)[/other], utrzymującą się przez [other](B)[/other].\nZadaje [dmg](C) obrażeń rzeczywistych[/dmg] (przeciwko graczom) / [dmg](D) obrażeń rzeczywistych[/dmg] (przeciwko mobom) co [dmg](E)[/dmg] (nie mogą być odbite).\nZmniejsza [debuff]Otrzymywane leczenie[/debuff] o [debuff](F)[/debuff] na [debuff](G)[/debuff].\n\nRzucenie mikstury dezaktywuje [other]wszystkie kałuże sojuszników[/other] w promieniu [other](H)[/other] od twojej kałuży.",
+            "TR-TR": "Hedef konuma iksir atıp [other](A)[/other] boyunca aktif kalan [other](B) yarıçaplı[/other] bir Cehennem Ateşi gölü oluşturur.\nHer [dmg](C)[/dmg] [dmg](D) gerçek hasar[/dmg] (oyunculara karşı) / [dmg](E) gerçek hasar[/dmg] (diğer düşmanlara karşı) verir. (Bu hasar yansıtılamaz.)\n[debuff]Alınan iyileştirmeyi[/debuff], [debuff](F)[/debuff] boyunca [debuff](G)[/debuff] azaltır.\n\nİksiri attığında gölün etrafındaki [other](H) yarıçaplı[/other] alanda bulunan [other]tüm müttefik gölleri[/other] yok olur.",
+            "ID-ID": "Lemparkan ramuan ke posisi yang ditarget, menciptakan genangan Api Neraka dengan [other](A) radius[/other] berlangsung selama [other](B)[/other].\nMemberikan [dmg](C) true damage[/dmg] (vs. pemain) / [dmg](D) true damage[/dmg] (vs. mob) setiap [dmg](E)[/dmg] (damage ini tidak dapat dipantulkan).\nMengurangi [debuff]Pemulihan Diterima[/debuff] sebesar [debuff](F)[/debuff] selama [debuff](G)[/debuff].\n\nMelempar ramuan akan menghilangkan [other]semua genangan sekutu[/other] dalam [other](H) radius[/other] di sekitar genanganmu.",
+            "FR-FR": "Lancez la potion sur l'emplacement ciblé pour créer une flaque de Feu Infernal d'un [other]rayon de (A)[/other] qui dure [other](B)[/other].\nInflige [dmg](C) dégâts bruts[/dmg] (contre les joueurs) / [dmg](D) dégâts bruts[/dmg] (contre les monstres) toutes les [dmg](E)[/dmg] (les dégâts ne peuvent pas être renvoyés).\nRéduit les [debuff]Soins Reçus[/debuff] de [debuff](F)[/debuff] pendant [debuff](G)[/debuff].\n\nLancer la potion va dissoudre [other]toutes les flaques des alliées[/other] dans un [other]rayon de (H)[/other] autour de votre flaque.",
+            "JA-JP": "狙った位置にポーションを投げつけ、[other](A)[/other]持続する[other](B)半径[/other]の獄炎の水たまりを作り出す。\n[dmg](C)[/dmg]毎に[dmg](D)真のダメージ[/dmg](対プレイヤー)/[dmg](E)真のダメージ[/dmg](対モブ)を与える（このダメージは跳ね返せません）。\n[debuff](F)[/debuff]間、[debuff]受ける回復量[/debuff]が[debuff](G)[/debuff]減少する。\n\nポーションを投げると、自分の水たまりを中心とした[other](H)半径[/other]内の[other]すべての味方の水たまり[/other]を溶かす。",
+            "EN-US": "Throw the potion at the targeted position, creating a puddle of Hellfire with a [other](A) radius[/other] lasting [other](B)[/other].\nDeals [dmg](C) true damage[/dmg] (vs. players) / [dmg](D) true damage[/dmg] (vs. mobs) every [dmg](E)[/dmg] (this damage cannot be reflected).\nReduces [debuff]Healing Received[/debuff] by [debuff](F)[/debuff] for [debuff](G)[/debuff].\n\nThrowing the potion will dissolve [other]all ally puddles[/other] in a [other](H) radius[/other] around your puddle.",
+            "DE-DE": "Wirf den Trank auf den anvisierten Punkt, dies erzeugt dort für [other](A)[/other]eine Pfütze aus Höllenfeuer mit [other](B) Radius[/other].\nVerursacht alle [dmg](C)[/dmg] [dmg](D) echten Schaden[/dmg] (bei Spielern) / [dmg](E) echten Schaden[/dmg] (bei Mobs) (dieser Schaden kann nicht reflektiert werden).\nReduziert für [debuff](F)[/debuff] die [debuff]empfangene Heilung[/debuff] um [debuff](G)[/debuff].\n\nDas Werfen dieser Flasche löst [other]alle anderen Pfützen von Alliierten[/other] in [other](H) Radius[/other] um deine Pfütze auf.",
+            "AR-SA": "إلقاء الجرعة في الموقع المستهدف ينشئ بركة من نار الجحيم في [other]محيط (A)[/other] وتستمر لمدة [other](B)[/other].\nتلحق [dmg](C) من الضرر الفعلي[/dmg] (ضد اللاعبين) / [dmg](D) من الضرر الفعلي[/dmg] (ضد الغرماء) كل [dmg](E)[/dmg](لا يمكن عكس هذا الضرر).\nتقلل [debuff]العلاج المُتلقى[/debuff] بمقدار [debuff](F)[/debuff] لمدة [debuff](G)[/debuff].\n\nسيؤدي إلقاء الجرعة إلى تلاشي [other]كل برك الحلفاء[/other] في [other]محيط (H)[/other] حول بركتك.",
+            "KO-KR": "대상 위치에 포션을 던져서, [other](A)[/other] 동안 지속되는 [other](B) 범위[/other]의 지옥불 웅덩이를 생성합니다.\n매 [dmg](C)[/dmg]마다 [dmg](D)의 고정 대미지[/dmg] (vs. 플레이어) / [dmg](E)의 고정 대미지[/dmg] (vs. 몹) 를 입힙니다 (이 피해는 반사가 불가능 합니다).\n[debuff](F)[/debuff] 동안 [debuff]받는 회복량[/debuff]을 [debuff](G)[/debuff]만큼 감소시킵니다.\n\n포션을 던지면 내 웅덩이 [other](H) 범위[/other] 내에 위치한 [other]모든 아군 웅덩이[/other]가 사라집니다.",
+            "PT-BR": "Joga a poção na posição alvo, criando uma poça de chamas infernais com um [other]raio de (A)[/other] que dura [other](B)[/other].\nCausa [dmg](C) de dano verdadeiro[/dmg] (contra jogadores) / [dmg](D) de dano verdadeiro[/dmg] (contra monstros) a cada [dmg](E)[/dmg] (esse dano não pode ser refletido).\nReduz a [debuff]Cura Recebida[/debuff] em [debuff](F)[/debuff] por [debuff](G)[/debuff].\n\nJogar a poção dissolverá [other]todas as poças aliadas[/other] em um [other]raio de (H)[/other] ao redor da sua poça.",
+            "ZH-TW": "朝目標位置投擲藥水，在[other](A)半徑[/other]範圍創造一個來自地獄的熔岩池，持續[other](B)[/other]。\n每[dmg](C)[/dmg]造成[dmg](D)點真實傷害[/dmg](對玩家)/[dmg](E)點真實傷害[/dmg](對怪物)(該傷害無法被反彈)。\n使[debuff]受到的治療效果[/debuff]降低[debuff](F)[/debuff]，持續[debuff](G)[/debuff]。\n\n使您周圍[other](H)半徑[/other]範圍內[other]所有盟友釋放的熔岩池[/other]消失。",
+            "ES-ES": "Lanza la poción al lugar señalado y crea un charco de Fuego Infernal de un [other]radio de (A)[/other] que dura [other](B)[/other].\nInflige [dmg](C) de daño verdadero[/dmg] (contra jugadores) / [dmg](D) de daño verdadero[/dmg] (contra monstruos) cada [dmg](E)[/dmg] (el daño no puede ser reflejado).\nReduce la [debuff]Curación Recibida[/debuff] en [debuff](F)[/debuff] durante [debuff](G)[/debuff].\n\nUsar la poción disolverá [other]todos los charcos aliados[/other] que se encuentren en un [other]radio de (H)[/other] alrededor de tu charco.",
+            "ZH-CN": "朝目标位置投掷药水，在[other](A)半径[/other]范围创造一个来自地狱的熔岩池，持续[other](B)[/other]。\n每[dmg](C)[/dmg]造成[dmg](D)真实伤害[/dmg]（对玩家）/ [dmg](E)真实伤害[/dmg]（对野怪）（伤害无法被反弹）。\n使[debuff]受到的治疗效果[/debuff]降低[debuff](F)[/debuff]，持续[debuff](G)[/debuff]。\n\n使你周围[other](H)半径[/other]范围内[other]所有友军释放的熔岩池[/other]消失。"
           },
           "target": "ground",
           "castingTime": 0,
           "hitDelay": 0.2,
           "standTime": 0.2,
           "disruptionFactor": 0,
-          "recastDelay": 60,
+          "recastDelay": 90,
           "energyUsage": 0,
           "castRange": 13,
           "category": "instant",
@@ -5600,11 +5369,11 @@
           "knockback": null,
           "spellEffectArea": {
             "time": 3,
-            "effect": "POTION_LAVA_EFFECT_P5",
+            "effect": "POTION_LAVA_EFFECT_HEALCUT",
             "target": "enemy",
             "position": "attarget",
-            "removeOnLeave": true,
-            "visible": true
+            "removeOnLeave": false,
+            "visible": false
           },
           "invisibility": null
         }
@@ -5651,7 +5420,7 @@
     "enchantmentLevel": 0,
     "categoryId": "potion",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -5759,7 +5528,7 @@
           "uniqueName": "POTION_MAXHP_P5",
           "uiAtlas": null,
           "uiSprite": "GIANTSTEPS",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_POTION_GIGANTIFY",
           "descriptionLocaTag": "@SPELLS_POTION_GIGANTIFY_DESC",
           "localizedNames": {
@@ -5877,7 +5646,7 @@
     "enchantmentLevel": 0,
     "categoryId": "vanity",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": null,
     "activeSlots": {
       "1": [
@@ -5886,7 +5655,7 @@
           "uniqueName": "VANITY_CONSUMABLE_FIREWORKS_BLUE",
           "uiAtlas": null,
           "uiSprite": "FIREWORKBLUE",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": null,
           "descriptionLocaTag": null,
           "localizedNames": {
@@ -6005,7 +5774,7 @@
     "enchantmentLevel": 0,
     "categoryId": "potion",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -6101,7 +5870,7 @@
           "uniqueName": "POTION_AOE_SLOW_P3",
           "uiAtlas": null,
           "uiSprite": "BUFF_CCR",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_POTION_AOE_SLOW",
           "descriptionLocaTag": "@SPELLS_POTION_AOE_SLOW_DESC",
           "localizedNames": {
@@ -6211,7 +5980,7 @@
     "enchantmentLevel": 0,
     "categoryId": "vanity",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": null,
     "activeSlots": {
       "1": [
@@ -6220,7 +5989,7 @@
           "uniqueName": "VANITY_CONSUMABLE_FIREWORKS_RED",
           "uiAtlas": null,
           "uiSprite": "FIREWORKRED",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": null,
           "descriptionLocaTag": null,
           "localizedNames": {
@@ -6242,7 +6011,7 @@
           },
           "localizedDescriptions": {
             "IT-IT": "Uno scoppio illumina il cielo di un [b][c][FF2E2E]luccichio rosso[/b][/c][-].",
-            "RU-RU": "Рас��расьте небо сияющими красными всполохами.",
+            "RU-RU": "Раскрасьте небо сияющими красными всполохами.",
             "PL-PL": "Rozświetla niebo błyszczącą czerwoną eksplozją.",
             "TR-TR": "[b][c][FF2E2E]Parlak kırmızı bir patlamayla[/b][/c][-] gökyüzünü aydınlat.",
             "ID-ID": "Menerangi langit dengan [b][c][FF2E2E]ledakan merah berkilauan[/b][/c][-].",
@@ -6339,7 +6108,7 @@
     "enchantmentLevel": 0,
     "categoryId": "vanity",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": null,
     "activeSlots": {
       "1": [
@@ -6348,7 +6117,7 @@
           "uniqueName": "VANITY_SUMMONING_RABBIT_EASTER",
           "uiAtlas": null,
           "uiSprite": "EASTER_EGG",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": null,
           "descriptionLocaTag": null,
           "localizedNames": {
@@ -6467,7 +6236,7 @@
     "enchantmentLevel": 0,
     "categoryId": "potion",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -6587,7 +6356,7 @@
           "uniqueName": "POTION_POISON_P5",
           "uiAtlas": null,
           "uiSprite": "POTION_YELLOW",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_POTION_POISON",
           "descriptionLocaTag": "@SPELLS_POTION_POISON_V2_DESC",
           "localizedNames": {
@@ -6608,21 +6377,21 @@
             "ZH-CN": "毒药"
           },
           "localizedDescriptions": {
-            "IT-IT": "Lanci la pozione sul nemico bersaglio, avvelenandolo e infliggendogli [dmg](A) danni puri[/dmg] (contro i giocatori) / [dmg](B) danni puri[/dmg] (contro i mob) nell'arco di [dmg](C)[/dmg].\n\nOgni volta che il nemico avvelenato [other]subisce danni diretti[/other], sarà [cc]rallentato[/cc] del [cc](D)[/cc] per [cc](E)[/cc].\n\nNon [other]innesca[/other]effetti normalmente [other]innescati dal danno[/other].",
-            "RU-RU": "Бросьте зелье в выбранного противника, отравляя его и нанося [dmg](A) чистого урона[/dmg] (по игрокам) / [dmg](B) чистого урона[/dmg] (по монстрам) в течение [dmg](C)[/dmg].\n\nКаждый раз, когда отравленный противник [other]получает прямой урон[/other], он будет [cc]замедлен[/cc] на [cc](D)[/cc] в течение [cc](E)[/cc].\n\n[other]Не вызывает срабатывание[/other] эффектов, [other]срабатывающих от урона[/other].",
-            "PL-PL": "Rzucasz miksturę w wybranego gracza, zatruwając go i zadając [dmg](A) obrażeń rzeczywistych[/dmg] (przeciwko graczom) / [dmg](B) obrażeń rzeczywistych[/dmg] (przeciwko mobom) w ciągu [dmg](C)[/dmg].\n\nZa każdym razem, gdy zatruty wróg [other]otrzyma bezpośrednie obrażenia[/other], zostanie on [cc]spowolniony[/cc] o [cc](D)[/cc] na [cc](E)[/cc].\n\n[other]nie aktywuje[/other] efektów zazwyczaj [other]aktywowanych przez obrażenia[/other].",
-            "TR-TR": "Hedef düşmana iksir fırlatıp hedefi zehirler ve [dmg](A)[/dmg] boyunca [dmg](B) gerçek hasar[/dmg] (oyunculara karşı) / [dmg](C) gerçek hasar[/dmg] (diğer düşmanlara karşı) verir.\n\nZehirlenen düşman [other]doğrudan hasar aldığında[/other] [cc](D)[/cc] boyunca [cc](E)[/cc] [cc]yavaşlar[/cc].\n\nNormalde [other]hasarla tetiklenen[/other] etkileri [other]tetiklemez[/other].",
-            "ID-ID": "Melemparkan ramuan ke musuh tertarget, meracuni target dan memberikan [dmg](A) damage murni[/dmg] (vs. pemain) / [dmg](B) damage murni[/dmg] (vs. mob) dalam waktu [dmg](C)[/dmg].\n\nSetiap kali musuh yang diracuni [other]menerima damage langsung[/other], mereka akan [cc]diperlambat[/cc] sebesar [cc](D)[/cc] selama [cc](E)[/cc].\n\n[other]Tidak memicu[/other] efek yang normalnya [other]terpicu oleh damage[/other].",
-            "FR-FR": "Lancez la potion sur l'ennemi ciblé pour l'empoisonner et lui infliger [dmg](A) dégâts bruts[/dmg] (contre les joueurs) / [dmg](B) dégâts bruts[/dmg] (contre les monstres) pendant [dmg](C)[/dmg].\n\nLorsque l'ennemi empoisonné [other]subit des dégâts directs[/other], il est [cc]ralenti[/cc] de [cc](D)[/cc] pendant [cc](E)[/cc].\n\n[other]Ne déclenche pas[/other] des effets normalement [other]déclenchés par les dégâts[/other].",
-            "JA-JP": "対象の敵にポーションを投げつけ、対象を毒状態にし、[dmg](A)[/dmg]以上の[dmg](B)真のダメージ[/dmg](対プレイヤー)/[dmg](C)真のダメージ[/dmg](対モブ)を与える。\n\n毒に侵された敵が[other]直接ダメージ[/other]を受けるたび、[cc](D)[/cc]の間、[cc](E)[/cc]スロウ[/cc]する。\n\n通常[other]ダメージによって誘発する[/other]効果を[other]誘発[/other]させない。",
-            "EN-US": "Throw the potion at the targeted enemy, poisoning the target and dealing [dmg](A) true damage[/dmg] (vs. players) / [dmg](B) true damage[/dmg] (vs. mobs) over [dmg](C)[/dmg].\n\nWhenever the poisoned enemy [other]takes direct damage[/other], they will be [cc]slowed[/cc] by [cc](D)[/cc] for [cc](E)[/cc].\n\nDoes [other]not trigger[/other] effects normally [other]triggered by damage[/other].",
-            "DE-DE": "Wirf den trank auf den anvisierten Gegner, dies vergiftet das Ziel und verursacht über [dmg](A)[/dmg] [dmg](B) echten Schaden[/dmg] (an Spielern) / [dmg](C) echten Schaden[/dmg] (an Mobs).\n\nImmer, wenn der vergiftete Gegner [other]direkten Schaden erleidet[/other], wird er für [cc](D)[/cc] um [cc](E)[/cc] [cc]verlangsamt[/cc].\n\n[other]Löst keine Effekte aus[/other], die normalerweise [other]durch Schaden ausgelöst werden[/other].",
-            "AR-SA": "تُلقى الجرعة على العدو المستهدف، فتسمم الهدف وتلحق [dmg](A) من الضرر الفعلي[/dmg] (ضد اللاعبين) / [dmg](B) من الضرر الفعلي[/dmg] (ضد الغرماء) خلال [dmg](C)[/dmg].\n\nعندما يتلقى الأعداء المسمومون [other]ضررًا مباشرًا[/other]، [cc]ستبطأ حركتهم[/cc] بمقدار [cc](D)[/cc] لمدة [cc](E)[/cc].\n\nعادة، [other]لا تفعّل[/other] تأثيرات [other]ناجمة عن الضرر[/other].",
-            "KO-KR": "목표 적에게 포션을 던져, 대상을 중독시켜 [dmg](A)[/dmg]에 걸쳐 [dmg](B)의 고정 대미지[/dmg] (vs. 플레이어) / [dmg](C)의 고정 대미지[/dmg] (vs. 몹)를 입힙니다.\n\n중독 상태인 적이 [other]직접 대미지를 입을 때마다[/other], [cc](D)[/cc] 동안 [cc](E)[/cc]만큼 [cc]느려[/cc]집니다.\n\n일반적인 [other]대미지로 인해 발동되는[/other] 효과를 [other]발동시키지 않습니다[/other].",
-            "PT-BR": "Joga a poção no inimigo alvo, o envenenando e causando [dmg](A) de dano verdadeiro[/dmg] (contra jogadores) / [dmg](B) de dano verdadeiro[/dmg] (contra monstros) ao longo de [dmg](C)[/dmg].\n\nSempre que o inimigo envenenado [other]receber dano direto[/other], ele será [cc]desacelerado[/cc] em [cc](D)[/cc] por [cc](E)[/cc].\n\nNão [other]aciona[/other] outros efeitos normalmente [other]acionados por dano[/other].",
-            "ZH-TW": "朝目標敵人投擲藥水，使目標中毒，並在[dmg](A)[/dmg]內造成[dmg](B)點真實傷害[/dmg](對玩家)/[dmg](C)點真實傷害[/dmg](對怪物)。\n中毒的敵人[other]受到直接傷害[/other]時，他們會被[cc]緩速(D)[/cc]，持續[cc](E)[/cc]。\n\n[other]不會觸發[/other]一般由[other]傷害觸發[/other]的效果。",
-            "ES-ES": "Lanza la poción al enemigo señalado, envenénalo e inflígele [dmg](A) de daño verdadero[/dmg] (contra jugadores) / [dmg](B) de daño verdadero[/dmg] (contra monstruos) durante [dmg](C)[/dmg].\n\nCada vez que el enemigo envenenado [other]recibe daño directo[/other], será [cc]ralentizado[/cc] en [cc](D)[/cc] por [cc](E)[/cc].\n\nNo [other]activa[/other] efectos que normalmente [other]se activan con daño[/other].",
-            "ZH-CN": "朝目标敌人投掷药瓶，使其中毒，在[dmg](A)[/dmg]内造成[dmg](B)真实伤害[/dmg]（对玩家） / [dmg](C)真实伤害[/dmg]（对野怪）。\n中毒的敌人[other]承受直接伤害[/other]时，他们会被[cc]减速(D)[/cc]，持续[cc](E)[/cc]。\n\n[other]不会触发[/other]一般由[other]造成伤害触发[/other]的效果。"
+            "IT-IT": "Lanci la pozione contro il nemico bersaglio, avvelenandolo e infliggendogli [dmg]danni puri[/dmg] nell'arco di [dmg](A)[/dmg].\n[#] Contro i giocatori: [dmg](B) danni puri[/dmg]\n[#] Contro i giocatori su una cavalcatura: [dmg](C)danni puri[/dmg]\n[#] Contro i mob: [dmg](D) danni puri[/dmg]\n\nOgni volta che il nemico avvelenato [other]subisce danni diretti[/other], sarà [cc]rallentato[/cc] del [cc](E)[/cc] per [cc](F)[/cc].",
+            "RU-RU": "Бросьте зелье в выбранного врага, отравив его и нанеся [dmg]чистый урон[/dmg] в течение [dmg](A)[/dmg].\n[#] Против игроков: [dmg](B) чистого урона[/dmg]\n[#] Против игроков на скакунах: [dmg](C) чистого урона[/dmg]\n[#] Против монстров: [dmg](D) чистого урона[/dmg]\n\nКаждый раз, когда отравленный противник [other]получает прямой урон[/other], он будет [cc]замедлен[/cc] на [cc](E)[/cc] в течение [cc](F)[/cc].",
+            "PL-PL": "Rzucasz miksturą we wskazanego wroga, zatruwając go i zadając [dmg]obrażeń rzeczywistych[/dmg] w ciągu [dmg](A)[/dmg].\n[#] Przeciwko graczom: [dmg](B) obrażeń rzeczywistych[/dmg]\n[#] Przeciwko graczom na wierzchowcach: [dmg](C) obrażeń rzeczywistych[/dmg]\n[#] Przeciwko mobom: [dmg](D) obrażeń rzeczywistych[/dmg]\n\nZa każdym razem, gdy zatruty wróg [other]otrzyma bezpośrednie obrażenia[/other], zostanie on [cc]spowolniony[/cc] o [cc](E)[/cc] na [cc](F)[/cc].",
+            "TR-TR": "İksiri hedeflenen düşmana fırlat, hedefi zehirle ve [dmg](A)[/dmg] boyunca [dmg]gerçek hasar[/dmg] ver.\n[#] Oyunculara karşı: [dmg](B) gerçek hasar[/dmg]\n[#] Binek üstündeki oyunculara karşı: [dmg](C) gerçek hasar[/dmg]\n[#] Düşmanlara karşı: [dmg](D) gerçek hasar[/dmg]\n\nZehirlenen düşman [other]doğrudan hasar aldığında[/other] [cc](E)[/cc] boyunca [cc](F)[/cc] [cc]yavaşlatılır[/cc].",
+            "ID-ID": "Melemparkan ramuan ke musuh tertarget, meracuni musuh dan memberikan [dmg]true damage[/dmg] dalam [dmg](A)[/dmg].\n[#] Melawan pemain: [dmg](B) true damage[/dmg]\n[#] Melawan pemain menunggang: [dmg](C) true damage[/dmg]\n[#] Melawan mob: [dmg](D) true damage[/dmg]\n\nSetiap kali musuh yang diracuni [other]menerima damage langsung[/other], mereka akan [cc]diperlambat[/cc] sebesar [cc](E)[/cc] selama [cc](F)[/cc].",
+            "FR-FR": "Lancez la potion sur l'ennemi ciblé, l'empoisonnant et lui infligeant des [dmg]dégâts bruts[/dmg] pendant [dmg](A)[/dmg].\n[#] Contre les joueurs : [dmg](B) dégâts bruts[/dmg]\n[#] Contre les joueurs montés : [dmg](C) dégâts bruts[/dmg]\n[#] Contre les monstres : [dmg](D) dégâts bruts[/dmg]\n\nLorsque l'ennemi empoisonné [other]subit des dégâts directs[/other], il est [cc]ralenti[/cc] de [cc](E)[/cc] pendant [cc](F)[/cc].",
+            "JA-JP": "対象の敵にポーションを投げつけ、毒状態にし、[dmg](A)[/dmg]間、[dmg]真のダメージ[/dmg]を与える。\n[#]対プレイヤー：[dmg](B)真のダメージ[/dmg]\n[#]対騎乗中のプレイヤー：[dmg](C)真のダメージ[/dmg]\n[#]対モブ：[dmg](D)真のダメージ[/dmg]\n\n毒を受けた敵が[other]直接ダメージ[/other]を受けるたび、[cc](E)[/cc]間、移動速度が[cc](F)[/cc][cc]減少[/cc]する。",
+            "EN-US": "Throw the potion at the targeted enemy, poisoning the target and dealing [dmg]true damage[/dmg] over [dmg](A)[/dmg].\n[#] Against players: [dmg](B) true damage[/dmg]\n[#] Against mounted players: [dmg](C) true damage[/dmg]\n[#] Against mobs: [dmg](D) true damage[/dmg]\n\nWhenever the poisoned enemy [other]takes direct damage[/other], they will be [cc]slowed[/cc] by [cc](E)[/cc] for [cc](F)[/cc].",
+            "DE-DE": "Wirf den Trank auf den anvisierten Gegner, dies vergiftet das Ziel und verursacht über [dmg](A)[/dmg] [dmg]Echten Schaden[/dmg].\n[#] Gegen Spieler: [dmg](B) Echten Schaden[/dmg]\n[#] Gegen berittene Spieler: [dmg](C) Echten Schaden[/dmg]\n[#] Gegen Mobs:[dmg](D) Echten Schaden[/dmg]\n\nImmer, wenn der vergiftete Gegner [other]direkten Schaden erleidet[/other], wird er für [cc](E)[/cc] um [cc](F)[/cc] [cc]verlangsamt[/cc].",
+            "AR-SA": "قم بإلقاء الجرعة على العدو المستهدف، مما يؤدي إلى تسميم الهدف وإحداث [dmg]ضرر فعلي[/dmg] خلال [dmg](A)[/dmg].\n[#] ضد اللاعبين: [dmg]لمدة(B) ضرر فعلي[/dmg]\n[#] ضد اللاعبين على المطية: [dmg]لمدة(C) ضرر فعلي[/dmg]\n[#] ضد الحشود: [dmg]لمدة(D) ضرر فعلي بنسبة[/dmg]\n\nعندما يتلقى الأعداء المسمومون [other]ضررًا مباشرًا[/other]، [cc]ستبطأ حركتهم[/cc]بنسبة[cc](E)[/cc] لمدة [cc](F)[/cc].",
+            "KO-KR": "대상 적에게 포션을 던져서 독에 중독시켜 [dmg](A)[/dmg]에 걸쳐 [dmg]고정 대미지[/dmg]를 입힙니다.\n[#] 플레이어 상대로: [dmg](B)의 고정 대미지[/dmg]\n[#] 탈것에 탑승한 플레이어 상대로: [dmg](C)의 고정 대미지[/dmg]\n[#] 몬스터 상대로: [dmg](D)의 고정 대미지[/dmg]\n\n중독 상태인 적은 [other]직접 대미지를 입을 때마다[/other], [cc](E)[/cc] 동안 [cc](F)[/cc]만큼 [cc]느려집니다[/cc].",
+            "PT-BR": "Joga a poção no inimigo alvo, envenenando o alvo e causando [dmg]dano verdadeiro[/dmg] ao longo de [dmg](A)[/dmg].\n[#] Contra jogadores: [dmg](B) de dano verdadeiro[/dmg]\n[#] Contra jogadores montados: [dmg](C) de dano verdadeiro[/dmg]\n[#] Contra monstros: [dmg](D) de dano verdadeiro[/dmg]\n\nSempre que o inimigo envenenado [other]receber dano direto[/other], ele será [cc]desacelerado[/cc] em [cc](E)[/cc] por [cc](F)[/cc].",
+            "ZH-TW": "朝目標敵人投擲藥水，使目標中毒，並在[dmg](A)[/dmg]內造成[dmg]真實傷害[/dmg]。\n[#]對玩家：[dmg](B)點真實傷害[/dmg]\n[#]對騎乘坐騎的玩家：[dmg](C)點真實傷害[/dmg]\n[#]對怪物：[dmg](D)點真實傷害[/dmg]\n\n每當中毒的敵人受到[other]直接傷害[/other]，他們會被[cc]緩速(E)[/cc]，持續[cc](F)[/cc]。",
+            "ES-ES": "Lánzale la poción al enemigo señalado para envenenarlo e infligirle [dmg]daño verdadero[/dmg] durante [dmg](A)[/dmg].\n[#] Contra jugadores: [dmg](B) de daño verdadero[/dmg]\n[#] Contra jugadores en monturas: [dmg](C) de daño verdadero[/dmg]\n[#] Contra monstruos: [dmg](D) de daño verdadero[/dmg]\n\nCada vez que el enemigo envenenado [other]recibe daño directo[/other], será [cc]ralentizado[/cc] en [cc](E)[/cc] por [cc](F)[/cc].",
+            "ZH-CN": "朝目标敌人投掷药水，使目标中毒，并在[dmg](A)[/dmg]内造成[dmg]真实伤害[/dmg]。\n[#]对玩家：[dmg](B)真实伤害[/dmg]\n[#]对骑乘坐骑的玩家：[dmg](C)真实伤害[/dmg]\n[#]对野怪：[dmg](D)真实伤害[/dmg]\n\n每当中毒的敌人受到[other]直接伤害[/other]，他们会被[cc]减速(E)[/cc]，持续[cc](F)[/cc]。"
           },
           "target": "enemy",
           "castingTime": 0,
@@ -6654,6 +6423,15 @@
               "interval": 1,
               "initialInterval": 0,
               "change": -95,
+              "count": 5,
+              "effectType": "magic",
+              "effectAreaRadius": null
+            },
+            {
+              "attribute": "health",
+              "interval": 1,
+              "initialInterval": 0,
+              "change": -47.5,
               "count": 5,
               "effectType": "magic",
               "effectAreaRadius": null
@@ -6709,7 +6487,7 @@
     "enchantmentLevel": 0,
     "categoryId": "potion",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -6793,7 +6571,7 @@
           "uniqueName": "POTION_BERSERK_P1",
           "uiAtlas": null,
           "uiSprite": "BLOODLUST",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_POTION_BERSERK",
           "descriptionLocaTag": "@SPELLS_POTION_BERSERK_DESC",
           "localizedNames": {
@@ -6939,7 +6717,7 @@
     "enchantmentLevel": 0,
     "categoryId": "potion",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -7023,9 +6801,9 @@
           "uniqueName": "POTION_LAVA_P1",
           "uiAtlas": null,
           "uiSprite": "AOE_FIRE",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_POTION_LAVA",
-          "descriptionLocaTag": "@SPELLS_POTION_LAVA_DESC",
+          "descriptionLocaTag": "@SPELLS_POTION_LAVA_V2_DESC",
           "localizedNames": {
             "IT-IT": "Pozione Inferno",
             "RU-RU": "Зелье адского пламени",
@@ -7044,28 +6822,28 @@
             "ZH-CN": "狱火药水"
           },
           "localizedDescriptions": {
-            "IT-IT": "Lanci la pozione sulla posizione bersaglio, creando una pozza di fuoco infernale con un [other]raggio di (A)[/other] che dura [other](B)[/other].\nInfligge [dmg](C) danni puri[/dmg] (contro i giocatori) / [dmg](D) danni puri[/dmg] (contro i mob) ogni [dmg](E)[/dmg].\n\nLanciare la pozione dissolverà [other]tutte le pozze degli alleati[/other] in un [other]raggio di (F)[/other] attorno alla tua pozza.",
-            "RU-RU": "Бросьте зелье в указанное место, создав лужу адского пламени [other]радиусом(A)[/other] на [other](B)[/other].\nНаносит [dmg](C) чистого урона[/dmg] (по игрокам) / [dmg](D) чистого урона[/dmg] (по монстрам) каждые [dmg](E)[/dmg].\n\nЕсли бросить зелье, оно растворит [other]все лужи союзников[/other] в [other]радиусе (F)[/other] от вашей лужи.",
-            "PL-PL": "Rzucasz miksturę w wybrane miejsce, tworząc kałużę Piekielnego Ognia o promieniu [other](A)[/other], utrzymującą się przez [other](B)[/other].\nZadaje [dmg](C) obrażeń rzeczywistych[/dmg] (przeciwko graczom) / [dmg](D) obrażeń rzeczywistych[/dmg] (przeciwko mobom) co [dmg](E)[/dmg].\n\nRzucenie mikstury dezaktywuje [other]wszystkie kałuże sojuszników[/other] w promieniu [other](F)[/other] od twojej kałuży.",
-            "TR-TR": "Hedef konuma iksir atıp [other](A)[/other] boyunca aktif kalan [other](B) yarıçaplı[/other] bir Cehennem Ateşi gölü oluşturur.\nHer [dmg](C)[/dmg] [dmg](D) gerçek hasar[/dmg] (oyunculara karşı) / [dmg](E) gerçek hasar[/dmg] (diğer düşmanlara karşı) verir.\n\nİksiri attığında gölün etrafındaki [other](F) yarıçaplı[/other] alanda bulunan [other]tüm müttefik gölleri[/other] yok olur.",
-            "ID-ID": "Lemparkan ramuan ke posisi yang ditarget, menciptakan genangan Api Neraka dengan [other](A) radius[/other] berlangsung selama [other](B)[/other].\nMemberikan [dmg](C) damage murni[/dmg] (vs. pemain) / [dmg](D) damage murni[/dmg] (vs. mob) setiap [dmg](E)[/dmg].\n\nMelempar ramuan akan menghilangkan [other]semua genangan sekutu[/other] dalam [other](F) radius[/other] di sekitar genanganmu.",
-            "FR-FR": "Lancez la potion sur l'emplacement ciblé pour créer une flaque de feu infernal d'un [other]rayon de (A)[/other] qui dure [other](B)[/other].\nInflige [dmg](C) dégâts bruts[/dmg] (contre les joueurs) / [dmg](D) dégâts bruts[/dmg] (contre les monstres) toutes les [dmg](E)[/dmg].\n\nLancer la potion va dissoudre [other]toutes les flaques des alliées[/other] dans un [other]rayon de (F)[/other] autour de votre flaque.",
-            "JA-JP": "狙った位置にポーションを投げつけ、[other](A)[/other]持続する[other](B)半径[/other]の獄炎の水たまりを作り出す。\n[dmg](C)[/dmg]毎に[dmg](D)真のダメージ[/dmg](対プレイヤー)/[dmg](E)真のダメージ[/dmg](対モブ)を与える。\n\nポーションを投げると、自分の水たまりを中心とした[other](F)半径[/other]内の[other]すべての味方の水たまり[/other]を溶かす。",
-            "EN-US": "Throw the potion at the targeted position, creating a puddle of Hellfire with a [other](A) radius[/other] lasting [other](B)[/other].\nDeals [dmg](C) true damage[/dmg] (vs. players) / [dmg](D) true damage[/dmg] (vs. mobs) every [dmg](E)[/dmg].\n\nThrowing the potion will dissolve [other]all ally puddles[/other] in a [other](F) radius[/other] around your puddle.",
-            "DE-DE": "Wirf den Trank auf den anvisierten Punkt, dies erzeugt dort für [other](A)[/other]eine Pfütze aus Höllenfeuer mit [other](B) Radius[/other].\nVerursacht alle [dmg](C)[/dmg] [dmg](D) echten Schaden[/dmg] (bei Spielern) / [dmg](E) echten Schaden[/dmg] (bei Mobs).\n\nDas Werfen dieser Flasche löst [other]alle anderen Pfützen von Alliierten[/other] in [other](F) Radius[/other] um deine Pfütze auf.",
-            "AR-SA": "إلقاء الجرعة في الموقع المستهدف ينشئ بركة من نار الجحيم في [other]محيط (A)[/other] وتستمر لمدة [other](B)[/other].\nتلحق [dmg](C) من الضرر الفعلي[/dmg] (ضد اللاعبين) / [dmg](D) من الضرر الفعلي[/dmg] (ضد الغرماء) كل [dmg](E)[/dmg].\n\nسيؤدي إلقاء الجرعة إلى تلاشي [other]كل برك الحلفاء[/other] في [other]محيط (F)[/other] حول بركتك.",
-            "KO-KR": "대상 위치에 포션을 던져서, [other](A)[/other] 동안 지속되는 [other](B) 범위[/other]의 지옥불 웅덩이를 생성합니다.\n매 [dmg](C)[/dmg]마다 [dmg](D)의 고정 대미지[/dmg] (vs. 플레이어) / [dmg](E)의 고정 대미지[/dmg] (vs. 몹) 를 입힙니다.\n\n포션을 던지면 내 웅덩이 [other](F) 범위[/other] 내에 위치한 [other]모든 아군 웅덩이[/other]가 사라집니다.",
-            "PT-BR": "Joga a poção na posição alvo, criando uma poça de chamas infernais com um [other]raio de (A)[/other] que dura [other](B)[/other].\nCausa [dmg](C) de dano verdadeiro[/dmg] (contra jogadores) / [dmg](D) de dano verdadeiro[/dmg] (contra monstros) a cada [dmg](E)[/dmg].\n\nJogar a poção dissolverá [other]todas as poças aliadas[/other] em um [other]raio de (F)[/other] ao redor da sua poça.",
-            "ZH-TW": "朝目標位置投擲藥水，在[other](A)半徑[/other]範圍創造一個來自地獄的熔岩池，持續[other](B)[/other]。\n每[dmg](C)[/dmg]造成[dmg](D)點真實傷害[/dmg](對玩家)/[dmg](E)點真實傷害[/dmg](對怪物)。\n\n使您周圍[other](F)半徑[/other]範圍內[other]所有盟友釋放的熔岩池[/other]消失。",
-            "ES-ES": "Lanza la poción al lugar señalado y crea un charco de fuego infernal de un [other]radio de (A)[/other] que dura [other](B)[/other].\nInflige [dmg](C) de daño verdadero[/dmg] (contra jugadores) / [dmg](D) de daño verdadero[/dmg] (contra monstruos) cada [dmg](E)[/dmg].\n\nUsar la poción disolverá [other]todos los charcos aliados[/other] que se encuentren en un [other]radio de (F) [/other] alrededor de tu charco.",
-            "ZH-CN": "朝目标位置投掷药水，在[other](A)半径[/other]范围创造一个来自地狱的熔岩池，持续[other](B)[/other]。\n每[dmg](C)[/dmg]造成[dmg](D)真实伤害[/dmg]（对玩家）/ [dmg](E)真实伤害[/dmg]（对野怪）。\n\n使你周围[other](F)半径[/other]范围内[other]所有友军释放的熔岩池[/other]消失。"
+            "IT-IT": "Lanci la pozione sulla posizione bersaglio, creando una pozza di fuoco infernale con un [other]raggio di (A)[/other] che dura [other](B)[/other].\nInfligge [dmg](C) danni puri[/dmg] (contro i giocatori) / [dmg](D) danni puri[/dmg] (contro i mob) ogni [dmg](E)[/dmg] (questi danni non possono essere riflessi).\nRiduce le [debuff]Cure ricevute[/debuff] del [debuff](F)[/debuff] per [debuff](G)[/debuff].\n\nLanciare la pozione dissolverà [other]tutte le pozze degli alleati[/other] in un [other]raggio di (H)[/other] attorno alla tua pozza.",
+            "RU-RU": "Бросьте зелье в указанное место, создав лужу адского пламени [other]радиусом(A)[/other] на [other](B)[/other].\nНаносит [dmg](C) чистого урона[/dmg] (по игрокам) / [dmg](D) чистого урона[/dmg] (по монстрам) каждые [dmg](E)[/dmg] (этот урон невозможно отразить).\nСнижает [debuff]получаемое исцеление[/debuff] на [debuff](F)[/debuff] в течение [debuff](G)[/debuff].\n\nЕсли бросить зелье, оно растворит [other]все лужи союзников[/other] в [other]радиусе (H)[/other] от вашей лужи.",
+            "PL-PL": "Rzucasz miksturę w wybrane miejsce, tworząc kałużę Piekielnego Ognia o promieniu [other](A)[/other], utrzymującą się przez [other](B)[/other].\nZadaje [dmg](C) obrażeń rzeczywistych[/dmg] (przeciwko graczom) / [dmg](D) obrażeń rzeczywistych[/dmg] (przeciwko mobom) co [dmg](E)[/dmg] (nie mogą być odbite).\nZmniejsza [debuff]Otrzymywane leczenie[/debuff] o [debuff](F)[/debuff] na [debuff](G)[/debuff].\n\nRzucenie mikstury dezaktywuje [other]wszystkie kałuże sojuszników[/other] w promieniu [other](H)[/other] od twojej kałuży.",
+            "TR-TR": "Hedef konuma iksir atıp [other](A)[/other] boyunca aktif kalan [other](B) yarıçaplı[/other] bir Cehennem Ateşi gölü oluşturur.\nHer [dmg](C)[/dmg] [dmg](D) gerçek hasar[/dmg] (oyunculara karşı) / [dmg](E) gerçek hasar[/dmg] (diğer düşmanlara karşı) verir. (Bu hasar yansıtılamaz.)\n[debuff]Alınan iyileştirmeyi[/debuff], [debuff](F)[/debuff] boyunca [debuff](G)[/debuff] azaltır.\n\nİksiri attığında gölün etrafındaki [other](H) yarıçaplı[/other] alanda bulunan [other]tüm müttefik gölleri[/other] yok olur.",
+            "ID-ID": "Lemparkan ramuan ke posisi yang ditarget, menciptakan genangan Api Neraka dengan [other](A) radius[/other] berlangsung selama [other](B)[/other].\nMemberikan [dmg](C) true damage[/dmg] (vs. pemain) / [dmg](D) true damage[/dmg] (vs. mob) setiap [dmg](E)[/dmg] (damage ini tidak dapat dipantulkan).\nMengurangi [debuff]Pemulihan Diterima[/debuff] sebesar [debuff](F)[/debuff] selama [debuff](G)[/debuff].\n\nMelempar ramuan akan menghilangkan [other]semua genangan sekutu[/other] dalam [other](H) radius[/other] di sekitar genanganmu.",
+            "FR-FR": "Lancez la potion sur l'emplacement ciblé pour créer une flaque de Feu Infernal d'un [other]rayon de (A)[/other] qui dure [other](B)[/other].\nInflige [dmg](C) dégâts bruts[/dmg] (contre les joueurs) / [dmg](D) dégâts bruts[/dmg] (contre les monstres) toutes les [dmg](E)[/dmg] (les dégâts ne peuvent pas être renvoyés).\nRéduit les [debuff]Soins Reçus[/debuff] de [debuff](F)[/debuff] pendant [debuff](G)[/debuff].\n\nLancer la potion va dissoudre [other]toutes les flaques des alliées[/other] dans un [other]rayon de (H)[/other] autour de votre flaque.",
+            "JA-JP": "狙った位置にポーションを投げつけ、[other](A)[/other]持続する[other](B)半径[/other]の獄炎の水たまりを作り出す。\n[dmg](C)[/dmg]毎に[dmg](D)真のダメージ[/dmg](対プレイヤー)/[dmg](E)真のダメージ[/dmg](対モブ)を与える（このダメージは跳ね返せません）。\n[debuff](F)[/debuff]間、[debuff]受ける回復量[/debuff]が[debuff](G)[/debuff]減少する。\n\nポーションを投げると、自分の水たまりを中心とした[other](H)半径[/other]内の[other]すべての味方の水たまり[/other]を溶かす。",
+            "EN-US": "Throw the potion at the targeted position, creating a puddle of Hellfire with a [other](A) radius[/other] lasting [other](B)[/other].\nDeals [dmg](C) true damage[/dmg] (vs. players) / [dmg](D) true damage[/dmg] (vs. mobs) every [dmg](E)[/dmg] (this damage cannot be reflected).\nReduces [debuff]Healing Received[/debuff] by [debuff](F)[/debuff] for [debuff](G)[/debuff].\n\nThrowing the potion will dissolve [other]all ally puddles[/other] in a [other](H) radius[/other] around your puddle.",
+            "DE-DE": "Wirf den Trank auf den anvisierten Punkt, dies erzeugt dort für [other](A)[/other]eine Pfütze aus Höllenfeuer mit [other](B) Radius[/other].\nVerursacht alle [dmg](C)[/dmg] [dmg](D) echten Schaden[/dmg] (bei Spielern) / [dmg](E) echten Schaden[/dmg] (bei Mobs) (dieser Schaden kann nicht reflektiert werden).\nReduziert für [debuff](F)[/debuff] die [debuff]empfangene Heilung[/debuff] um [debuff](G)[/debuff].\n\nDas Werfen dieser Flasche löst [other]alle anderen Pfützen von Alliierten[/other] in [other](H) Radius[/other] um deine Pfütze auf.",
+            "AR-SA": "إلقاء الجرعة في الموقع المستهدف ينشئ بركة من نار الجحيم في [other]محيط (A)[/other] وتستمر لمدة [other](B)[/other].\nتلحق [dmg](C) من الضرر الفعلي[/dmg] (ضد اللاعبين) / [dmg](D) من الضرر الفعلي[/dmg] (ضد الغرماء) كل [dmg](E)[/dmg](لا يمكن عكس هذا الضرر).\nتقلل [debuff]العلاج المُتلقى[/debuff] بمقدار [debuff](F)[/debuff] لمدة [debuff](G)[/debuff].\n\nسيؤدي إلقاء الجرعة إلى تلاشي [other]كل برك الحلفاء[/other] في [other]محيط (H)[/other] حول بركتك.",
+            "KO-KR": "대상 위치에 포션을 던져서, [other](A)[/other] 동안 지속되는 [other](B) 범위[/other]의 지옥불 웅덩이를 생성합니다.\n매 [dmg](C)[/dmg]마다 [dmg](D)의 고정 대미지[/dmg] (vs. 플레이어) / [dmg](E)의 고정 대미지[/dmg] (vs. 몹) 를 입힙니다 (이 피해는 반사가 불가능 합니다).\n[debuff](F)[/debuff] 동안 [debuff]받는 회복량[/debuff]을 [debuff](G)[/debuff]만큼 감소시킵니다.\n\n포션을 던지면 내 웅덩이 [other](H) 범위[/other] 내에 위치한 [other]모든 아군 웅덩이[/other]가 사라집니다.",
+            "PT-BR": "Joga a poção na posição alvo, criando uma poça de chamas infernais com um [other]raio de (A)[/other] que dura [other](B)[/other].\nCausa [dmg](C) de dano verdadeiro[/dmg] (contra jogadores) / [dmg](D) de dano verdadeiro[/dmg] (contra monstros) a cada [dmg](E)[/dmg] (esse dano não pode ser refletido).\nReduz a [debuff]Cura Recebida[/debuff] em [debuff](F)[/debuff] por [debuff](G)[/debuff].\n\nJogar a poção dissolverá [other]todas as poças aliadas[/other] em um [other]raio de (H)[/other] ao redor da sua poça.",
+            "ZH-TW": "朝目標位置投擲藥水，在[other](A)半徑[/other]範圍創造一個來自地獄的熔岩池，持續[other](B)[/other]。\n每[dmg](C)[/dmg]造成[dmg](D)點真實傷害[/dmg](對玩家)/[dmg](E)點真實傷害[/dmg](對怪物)(該傷害無法被反彈)。\n使[debuff]受到的治療效果[/debuff]降低[debuff](F)[/debuff]，持續[debuff](G)[/debuff]。\n\n使您周圍[other](H)半徑[/other]範圍內[other]所有盟友釋放的熔岩池[/other]消失。",
+            "ES-ES": "Lanza la poción al lugar señalado y crea un charco de Fuego Infernal de un [other]radio de (A)[/other] que dura [other](B)[/other].\nInflige [dmg](C) de daño verdadero[/dmg] (contra jugadores) / [dmg](D) de daño verdadero[/dmg] (contra monstruos) cada [dmg](E)[/dmg] (el daño no puede ser reflejado).\nReduce la [debuff]Curación Recibida[/debuff] en [debuff](F)[/debuff] durante [debuff](G)[/debuff].\n\nUsar la poción disolverá [other]todos los charcos aliados[/other] que se encuentren en un [other]radio de (H)[/other] alrededor de tu charco.",
+            "ZH-CN": "朝目标位置投掷药水，在[other](A)半径[/other]范围创造一个来自地狱的熔岩池，持续[other](B)[/other]。\n每[dmg](C)[/dmg]造成[dmg](D)真实伤害[/dmg]（对玩家）/ [dmg](E)真实伤害[/dmg]（对野怪）（伤害无法被反弹）。\n使[debuff]受到的治疗效果[/debuff]降低[debuff](F)[/debuff]，持续[debuff](G)[/debuff]。\n\n使你周围[other](H)半径[/other]范围内[other]所有友军释放的熔岩池[/other]消失。"
           },
           "target": "ground",
           "castingTime": 0,
           "hitDelay": 0.2,
           "standTime": 0.2,
           "disruptionFactor": 0,
-          "recastDelay": 60,
+          "recastDelay": 90,
           "energyUsage": 0,
           "castRange": 13,
           "category": "instant",
@@ -7082,11 +6860,11 @@
           "knockback": null,
           "spellEffectArea": {
             "time": 3,
-            "effect": "POTION_LAVA_EFFECT_P1",
+            "effect": "POTION_LAVA_EFFECT_HEALCUT",
             "target": "enemy",
             "position": "attarget",
-            "removeOnLeave": true,
-            "visible": true
+            "removeOnLeave": false,
+            "visible": false
           },
           "invisibility": null
         }
@@ -7133,7 +6911,7 @@
     "enchantmentLevel": 0,
     "categoryId": "potion",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -7241,7 +7019,7 @@
           "uniqueName": "POTION_POISON_P3",
           "uiAtlas": null,
           "uiSprite": "POTION_YELLOW",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_POTION_POISON",
           "descriptionLocaTag": "@SPELLS_POTION_POISON_V2_DESC",
           "localizedNames": {
@@ -7262,21 +7040,21 @@
             "ZH-CN": "毒药"
           },
           "localizedDescriptions": {
-            "IT-IT": "Lanci la pozione sul nemico bersaglio, avvelenandolo e infliggendogli [dmg](A) danni puri[/dmg] (contro i giocatori) / [dmg](B) danni puri[/dmg] (contro i mob) nell'arco di [dmg](C)[/dmg].\n\nOgni volta che il nemico avvelenato [other]subisce danni diretti[/other], sarà [cc]rallentato[/cc] del [cc](D)[/cc] per [cc](E)[/cc].\n\nNon [other]innesca[/other]effetti normalmente [other]innescati dal danno[/other].",
-            "RU-RU": "Бросьте зелье в выбранного противника, отравляя его и нанося [dmg](A) чистого урона[/dmg] (по игрокам) / [dmg](B) чистого урона[/dmg] (по монстрам) в течение [dmg](C)[/dmg].\n\nКаждый раз, когда отравленный противник [other]получает прямой урон[/other], он будет [cc]замедлен[/cc] на [cc](D)[/cc] в течение [cc](E)[/cc].\n\n[other]Не вызывает срабатывание[/other] эффектов, [other]срабатывающих от урона[/other].",
-            "PL-PL": "Rzucasz miksturę w wybranego gracza, zatruwając go i zadając [dmg](A) obrażeń rzeczywistych[/dmg] (przeciwko graczom) / [dmg](B) obrażeń rzeczywistych[/dmg] (przeciwko mobom) w ciągu [dmg](C)[/dmg].\n\nZa każdym razem, gdy zatruty wróg [other]otrzyma bezpośrednie obrażenia[/other], zostanie on [cc]spowolniony[/cc] o [cc](D)[/cc] na [cc](E)[/cc].\n\n[other]nie aktywuje[/other] efektów zazwyczaj [other]aktywowanych przez obrażenia[/other].",
-            "TR-TR": "Hedef düşmana iksir fırlatıp hedefi zehirler ve [dmg](A)[/dmg] boyunca [dmg](B) gerçek hasar[/dmg] (oyunculara karşı) / [dmg](C) gerçek hasar[/dmg] (diğer düşmanlara karşı) verir.\n\nZehirlenen düşman [other]doğrudan hasar aldığında[/other] [cc](D)[/cc] boyunca [cc](E)[/cc] [cc]yavaşlar[/cc].\n\nNormalde [other]hasarla tetiklenen[/other] etkileri [other]tetiklemez[/other].",
-            "ID-ID": "Melemparkan ramuan ke musuh tertarget, meracuni target dan memberikan [dmg](A) damage murni[/dmg] (vs. pemain) / [dmg](B) damage murni[/dmg] (vs. mob) dalam waktu [dmg](C)[/dmg].\n\nSetiap kali musuh yang diracuni [other]menerima damage langsung[/other], mereka akan [cc]diperlambat[/cc] sebesar [cc](D)[/cc] selama [cc](E)[/cc].\n\n[other]Tidak memicu[/other] efek yang normalnya [other]terpicu oleh damage[/other].",
-            "FR-FR": "Lancez la potion sur l'ennemi ciblé pour l'empoisonner et lui infliger [dmg](A) dégâts bruts[/dmg] (contre les joueurs) / [dmg](B) dégâts bruts[/dmg] (contre les monstres) pendant [dmg](C)[/dmg].\n\nLorsque l'ennemi empoisonné [other]subit des dégâts directs[/other], il est [cc]ralenti[/cc] de [cc](D)[/cc] pendant [cc](E)[/cc].\n\n[other]Ne déclenche pas[/other] des effets normalement [other]déclenchés par les dégâts[/other].",
-            "JA-JP": "対象の敵にポーションを投げつけ、対象を毒状態にし、[dmg](A)[/dmg]以上の[dmg](B)真のダメージ[/dmg](対プレイヤー)/[dmg](C)真のダメージ[/dmg](対モブ)を与える。\n\n毒に侵された敵が[other]直接ダメージ[/other]を受けるたび、[cc](D)[/cc]の間、[cc](E)[/cc]スロウ[/cc]する。\n\n通常[other]ダメージによって誘発する[/other]効果を[other]誘発[/other]させない。",
-            "EN-US": "Throw the potion at the targeted enemy, poisoning the target and dealing [dmg](A) true damage[/dmg] (vs. players) / [dmg](B) true damage[/dmg] (vs. mobs) over [dmg](C)[/dmg].\n\nWhenever the poisoned enemy [other]takes direct damage[/other], they will be [cc]slowed[/cc] by [cc](D)[/cc] for [cc](E)[/cc].\n\nDoes [other]not trigger[/other] effects normally [other]triggered by damage[/other].",
-            "DE-DE": "Wirf den trank auf den anvisierten Gegner, dies vergiftet das Ziel und verursacht über [dmg](A)[/dmg] [dmg](B) echten Schaden[/dmg] (an Spielern) / [dmg](C) echten Schaden[/dmg] (an Mobs).\n\nImmer, wenn der vergiftete Gegner [other]direkten Schaden erleidet[/other], wird er für [cc](D)[/cc] um [cc](E)[/cc] [cc]verlangsamt[/cc].\n\n[other]Löst keine Effekte aus[/other], die normalerweise [other]durch Schaden ausgelöst werden[/other].",
-            "AR-SA": "تُلقى الجرعة على العدو المستهدف، فتسمم الهدف وتلحق [dmg](A) من الضرر الفعلي[/dmg] (ضد اللاعبين) / [dmg](B) من الضرر الفعلي[/dmg] (ضد الغرماء) خلال [dmg](C)[/dmg].\n\nعندما يتلقى الأعداء المسمومون [other]ضررًا مباشرًا[/other]، [cc]ستبطأ حركتهم[/cc] بمقدار [cc](D)[/cc] لمدة [cc](E)[/cc].\n\nعادة، [other]لا تفعّل[/other] تأثيرات [other]ناجمة عن الضرر[/other].",
-            "KO-KR": "목표 적에게 포션을 던져, 대상을 중독시켜 [dmg](A)[/dmg]에 걸쳐 [dmg](B)의 고정 대미지[/dmg] (vs. 플레이어) / [dmg](C)의 고정 대미지[/dmg] (vs. 몹)를 입힙니다.\n\n중독 상태인 적이 [other]직접 대미지를 입을 때마다[/other], [cc](D)[/cc] 동안 [cc](E)[/cc]만큼 [cc]느려[/cc]집니다.\n\n일반적인 [other]대미지로 인해 발동되는[/other] 효과를 [other]발동시키지 않습니다[/other].",
-            "PT-BR": "Joga a poção no inimigo alvo, o envenenando e causando [dmg](A) de dano verdadeiro[/dmg] (contra jogadores) / [dmg](B) de dano verdadeiro[/dmg] (contra monstros) ao longo de [dmg](C)[/dmg].\n\nSempre que o inimigo envenenado [other]receber dano direto[/other], ele será [cc]desacelerado[/cc] em [cc](D)[/cc] por [cc](E)[/cc].\n\nNão [other]aciona[/other] outros efeitos normalmente [other]acionados por dano[/other].",
-            "ZH-TW": "朝目標敵人投擲藥水，使目標中毒，並在[dmg](A)[/dmg]內造成[dmg](B)點真實傷害[/dmg](對玩家)/[dmg](C)點真實傷害[/dmg](對怪物)。\n中毒的敵人[other]受到直接傷害[/other]時，他們會被[cc]緩速(D)[/cc]，持續[cc](E)[/cc]。\n\n[other]不會觸發[/other]一般由[other]傷害觸發[/other]的效果。",
-            "ES-ES": "Lanza la poción al enemigo señalado, envenénalo e inflígele [dmg](A) de daño verdadero[/dmg] (contra jugadores) / [dmg](B) de daño verdadero[/dmg] (contra monstruos) durante [dmg](C)[/dmg].\n\nCada vez que el enemigo envenenado [other]recibe daño directo[/other], será [cc]ralentizado[/cc] en [cc](D)[/cc] por [cc](E)[/cc].\n\nNo [other]activa[/other] efectos que normalmente [other]se activan con daño[/other].",
-            "ZH-CN": "朝目标敌人投掷药瓶，使其中毒，在[dmg](A)[/dmg]内造成[dmg](B)真实伤害[/dmg]（对玩家） / [dmg](C)真实伤害[/dmg]（对野怪）。\n中毒的敌人[other]承受直接伤害[/other]时，他们会被[cc]减速(D)[/cc]，持续[cc](E)[/cc]。\n\n[other]不会触发[/other]一般由[other]造成伤害触发[/other]的效果。"
+            "IT-IT": "Lanci la pozione contro il nemico bersaglio, avvelenandolo e infliggendogli [dmg]danni puri[/dmg] nell'arco di [dmg](A)[/dmg].\n[#] Contro i giocatori: [dmg](B) danni puri[/dmg]\n[#] Contro i giocatori su una cavalcatura: [dmg](C)danni puri[/dmg]\n[#] Contro i mob: [dmg](D) danni puri[/dmg]\n\nOgni volta che il nemico avvelenato [other]subisce danni diretti[/other], sarà [cc]rallentato[/cc] del [cc](E)[/cc] per [cc](F)[/cc].",
+            "RU-RU": "Бросьте зелье в выбранного врага, отравив его и нанеся [dmg]чистый урон[/dmg] в течение [dmg](A)[/dmg].\n[#] Против игроков: [dmg](B) чистого урона[/dmg]\n[#] Против игроков на скакунах: [dmg](C) чистого урона[/dmg]\n[#] Против монстров: [dmg](D) чистого урона[/dmg]\n\nКаждый раз, когда отравленный противник [other]получает прямой урон[/other], он будет [cc]замедлен[/cc] на [cc](E)[/cc] в течение [cc](F)[/cc].",
+            "PL-PL": "Rzucasz miksturą we wskazanego wroga, zatruwając go i zadając [dmg]obrażeń rzeczywistych[/dmg] w ciągu [dmg](A)[/dmg].\n[#] Przeciwko graczom: [dmg](B) obrażeń rzeczywistych[/dmg]\n[#] Przeciwko graczom na wierzchowcach: [dmg](C) obrażeń rzeczywistych[/dmg]\n[#] Przeciwko mobom: [dmg](D) obrażeń rzeczywistych[/dmg]\n\nZa każdym razem, gdy zatruty wróg [other]otrzyma bezpośrednie obrażenia[/other], zostanie on [cc]spowolniony[/cc] o [cc](E)[/cc] na [cc](F)[/cc].",
+            "TR-TR": "İksiri hedeflenen düşmana fırlat, hedefi zehirle ve [dmg](A)[/dmg] boyunca [dmg]gerçek hasar[/dmg] ver.\n[#] Oyunculara karşı: [dmg](B) gerçek hasar[/dmg]\n[#] Binek üstündeki oyunculara karşı: [dmg](C) gerçek hasar[/dmg]\n[#] Düşmanlara karşı: [dmg](D) gerçek hasar[/dmg]\n\nZehirlenen düşman [other]doğrudan hasar aldığında[/other] [cc](E)[/cc] boyunca [cc](F)[/cc] [cc]yavaşlatılır[/cc].",
+            "ID-ID": "Melemparkan ramuan ke musuh tertarget, meracuni musuh dan memberikan [dmg]true damage[/dmg] dalam [dmg](A)[/dmg].\n[#] Melawan pemain: [dmg](B) true damage[/dmg]\n[#] Melawan pemain menunggang: [dmg](C) true damage[/dmg]\n[#] Melawan mob: [dmg](D) true damage[/dmg]\n\nSetiap kali musuh yang diracuni [other]menerima damage langsung[/other], mereka akan [cc]diperlambat[/cc] sebesar [cc](E)[/cc] selama [cc](F)[/cc].",
+            "FR-FR": "Lancez la potion sur l'ennemi ciblé, l'empoisonnant et lui infligeant des [dmg]dégâts bruts[/dmg] pendant [dmg](A)[/dmg].\n[#] Contre les joueurs : [dmg](B) dégâts bruts[/dmg]\n[#] Contre les joueurs montés : [dmg](C) dégâts bruts[/dmg]\n[#] Contre les monstres : [dmg](D) dégâts bruts[/dmg]\n\nLorsque l'ennemi empoisonné [other]subit des dégâts directs[/other], il est [cc]ralenti[/cc] de [cc](E)[/cc] pendant [cc](F)[/cc].",
+            "JA-JP": "対象の敵にポーションを投げつけ、毒状態にし、[dmg](A)[/dmg]間、[dmg]真のダメージ[/dmg]を与える。\n[#]対プレイヤー：[dmg](B)真のダメージ[/dmg]\n[#]対騎乗中のプレイヤー：[dmg](C)真のダメージ[/dmg]\n[#]対モブ：[dmg](D)真のダメージ[/dmg]\n\n毒を受けた敵が[other]直接ダメージ[/other]を受けるたび、[cc](E)[/cc]間、移動速度が[cc](F)[/cc][cc]減少[/cc]する。",
+            "EN-US": "Throw the potion at the targeted enemy, poisoning the target and dealing [dmg]true damage[/dmg] over [dmg](A)[/dmg].\n[#] Against players: [dmg](B) true damage[/dmg]\n[#] Against mounted players: [dmg](C) true damage[/dmg]\n[#] Against mobs: [dmg](D) true damage[/dmg]\n\nWhenever the poisoned enemy [other]takes direct damage[/other], they will be [cc]slowed[/cc] by [cc](E)[/cc] for [cc](F)[/cc].",
+            "DE-DE": "Wirf den Trank auf den anvisierten Gegner, dies vergiftet das Ziel und verursacht über [dmg](A)[/dmg] [dmg]Echten Schaden[/dmg].\n[#] Gegen Spieler: [dmg](B) Echten Schaden[/dmg]\n[#] Gegen berittene Spieler: [dmg](C) Echten Schaden[/dmg]\n[#] Gegen Mobs:[dmg](D) Echten Schaden[/dmg]\n\nImmer, wenn der vergiftete Gegner [other]direkten Schaden erleidet[/other], wird er für [cc](E)[/cc] um [cc](F)[/cc] [cc]verlangsamt[/cc].",
+            "AR-SA": "قم بإلقاء الجرعة على العدو المستهدف، مما يؤدي إلى تسميم الهدف وإحداث [dmg]ضرر فعلي[/dmg] خلال [dmg](A)[/dmg].\n[#] ضد اللاعبين: [dmg]لمدة(B) ضرر فعلي[/dmg]\n[#] ضد اللاعبين على المطية: [dmg]لمدة(C) ضرر فعلي[/dmg]\n[#] ضد الحشود: [dmg]لمدة(D) ضرر فعلي بنسبة[/dmg]\n\nعندما يتلقى الأعداء المسمومون [other]ضررًا مباشرًا[/other]، [cc]ستبطأ حركتهم[/cc]بنسبة[cc](E)[/cc] لمدة [cc](F)[/cc].",
+            "KO-KR": "대상 적에게 포션을 던져서 독에 중독시켜 [dmg](A)[/dmg]에 걸쳐 [dmg]고정 대미지[/dmg]를 입힙니다.\n[#] 플레이어 상대로: [dmg](B)의 고정 대미지[/dmg]\n[#] 탈것에 탑승한 플레이어 상대로: [dmg](C)의 고정 대미지[/dmg]\n[#] 몬스터 상대로: [dmg](D)의 고정 대미지[/dmg]\n\n중독 상태인 적은 [other]직접 대미지를 입을 때마다[/other], [cc](E)[/cc] 동안 [cc](F)[/cc]만큼 [cc]느려집니다[/cc].",
+            "PT-BR": "Joga a poção no inimigo alvo, envenenando o alvo e causando [dmg]dano verdadeiro[/dmg] ao longo de [dmg](A)[/dmg].\n[#] Contra jogadores: [dmg](B) de dano verdadeiro[/dmg]\n[#] Contra jogadores montados: [dmg](C) de dano verdadeiro[/dmg]\n[#] Contra monstros: [dmg](D) de dano verdadeiro[/dmg]\n\nSempre que o inimigo envenenado [other]receber dano direto[/other], ele será [cc]desacelerado[/cc] em [cc](E)[/cc] por [cc](F)[/cc].",
+            "ZH-TW": "朝目標敵人投擲藥水，使目標中毒，並在[dmg](A)[/dmg]內造成[dmg]真實傷害[/dmg]。\n[#]對玩家：[dmg](B)點真實傷害[/dmg]\n[#]對騎乘坐騎的玩家：[dmg](C)點真實傷害[/dmg]\n[#]對怪物：[dmg](D)點真實傷害[/dmg]\n\n每當中毒的敵人受到[other]直接傷害[/other]，他們會被[cc]緩速(E)[/cc]，持續[cc](F)[/cc]。",
+            "ES-ES": "Lánzale la poción al enemigo señalado para envenenarlo e infligirle [dmg]daño verdadero[/dmg] durante [dmg](A)[/dmg].\n[#] Contra jugadores: [dmg](B) de daño verdadero[/dmg]\n[#] Contra jugadores en monturas: [dmg](C) de daño verdadero[/dmg]\n[#] Contra monstruos: [dmg](D) de daño verdadero[/dmg]\n\nCada vez que el enemigo envenenado [other]recibe daño directo[/other], será [cc]ralentizado[/cc] en [cc](E)[/cc] por [cc](F)[/cc].",
+            "ZH-CN": "朝目标敌人投掷药水，使目标中毒，并在[dmg](A)[/dmg]内造成[dmg]真实伤害[/dmg]。\n[#]对玩家：[dmg](B)真实伤害[/dmg]\n[#]对骑乘坐骑的玩家：[dmg](C)真实伤害[/dmg]\n[#]对野怪：[dmg](D)真实伤害[/dmg]\n\n每当中毒的敌人受到[other]直接伤害[/other]，他们会被[cc]减速(E)[/cc]，持续[cc](F)[/cc]。"
           },
           "target": "enemy",
           "castingTime": 0,
@@ -7308,6 +7086,15 @@
               "interval": 1,
               "initialInterval": 0,
               "change": -70,
+              "count": 5,
+              "effectType": "magic",
+              "effectAreaRadius": null
+            },
+            {
+              "attribute": "health",
+              "interval": 1,
+              "initialInterval": 0,
+              "change": -35,
               "count": 5,
               "effectType": "magic",
               "effectAreaRadius": null
@@ -7363,7 +7150,7 @@
     "enchantmentLevel": 0,
     "categoryId": "vanity",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": null,
     "activeSlots": {
       "1": [
@@ -7372,7 +7159,7 @@
           "uniqueName": "VANITY_CONSUMABLE_SNOWBALL",
           "uiAtlas": null,
           "uiSprite": "SNOWBALL",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": null,
           "descriptionLocaTag": null,
           "localizedNames": {
@@ -7499,7 +7286,7 @@
     "enchantmentLevel": 0,
     "categoryId": "potion",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -7583,7 +7370,7 @@
           "uniqueName": "POTION_CLEANSE2_P1",
           "uiAtlas": null,
           "uiSprite": "MAGICCIRCLE_MOVEMENT",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_POTION_CLEANSE2",
           "descriptionLocaTag": "@SPELLS_POTION_CLEANSE2_T3_DESC",
           "localizedNames": {
@@ -7615,7 +7402,7 @@
             "DE-DE": "[other]Reinigt[/other] alle [other]CC-Effekte[/other] und [other]Debuffs[/other] (außer Schaden-auf-Zeit Effekte; kann auch bei Stille oder Betäubung genutzt werden).",
             "AR-SA": "يمكن [other]تطهير[/other] كل [other]تأثيرات التحكم في الحشود[/other] و[other]التثبيطات[/other] (باستثناء تأثيرات الضرر بمرور الوقت؛ يمكن الاستخدام في أثناء الإصابة بالصعق أو الإيقاف).",
             "KO-KR": "모든 [other]군중 제어 효과[/other]와 [other]디버프[/other]를 [other]정화[/other]합니다 (지속 대미지 효과 제외, 기절이나 침묵 상태 중 사용 가능).",
-            "PT-BR": "[other]Purifica[/other] todos os [other]efeitos de Controle de Multidão[/other] e [other]desvantagens[/other] (exceto efeitos de dano ao longo do tempo; pode ser usado enquanto atordoado ou silenciado).",
+            "PT-BR": "[other]Purifica[/other] todos os [other]efeitos de Controle de Grupo[/other] e [other]desvantagens[/other] (exceto efeitos de dano ao longo do tempo; pode ser usado enquanto atordoado ou silenciado).",
             "ZH-TW": "[other]淨化[/other]所有[other]群體控制效果[/other]和[other]減益效果[/other](不包含持續性傷害效果；暈眩或沉默時可使用)。",
             "ES-ES": "[other]Limpia[/other] todos [other]los efectos de control de multitudes[/other] y [other]debuffs[/other] (excepto por los efectos de daño a largo plazo; puede usarse estando aturdido o silenciado).",
             "ZH-CN": "[other]净化[/other]所有[other]群体控制效果[/other]和[other]减益效果[/other]（不包含持续性伤害效果；可以在被击晕或沉默时使用）。"
@@ -7686,7 +7473,7 @@
     "enchantmentLevel": 0,
     "categoryId": "potion",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -7758,7 +7545,7 @@
           "uniqueName": "POTION_AOE_SLOW_P1",
           "uiAtlas": null,
           "uiSprite": "BUFF_CCR",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_POTION_AOE_SLOW",
           "descriptionLocaTag": "@SPELLS_POTION_AOE_SLOW_DESC",
           "localizedNames": {
@@ -7868,7 +7655,7 @@
     "enchantmentLevel": 0,
     "categoryId": "potion",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -7940,7 +7727,7 @@
           "uniqueName": "POTION_ENERGY_P1",
           "uiAtlas": null,
           "uiSprite": "RESTOREENERGY",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_POTION_ENERGY",
           "descriptionLocaTag": "@SPELLS_POTION_ENERGY_TEST_DESC",
           "localizedNames": {
@@ -8069,7 +7856,7 @@
     "enchantmentLevel": 0,
     "categoryId": "potion",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -8141,7 +7928,7 @@
           "uniqueName": "POTION_MAXHP_P1",
           "uiAtlas": null,
           "uiSprite": "GIANTSTEPS",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_POTION_GIGANTIFY",
           "descriptionLocaTag": "@SPELLS_POTION_GIGANTIFY_DESC",
           "localizedNames": {
@@ -8259,7 +8046,7 @@
     "enchantmentLevel": 0,
     "categoryId": "vanity",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": null,
     "activeSlots": {
       "1": [
@@ -8268,7 +8055,7 @@
           "uniqueName": "VANITY_CONSUMABLE_FIREWORKS_BLUE",
           "uiAtlas": null,
           "uiSprite": "FIREWORKBLUE",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": null,
           "descriptionLocaTag": null,
           "localizedNames": {
@@ -8375,126 +8162,6 @@
   },
   {
     "itemType": "consumable",
-    "uniqueName": "T3_FISHINGBAIT",
-    "uiSprite": "FISHINGBAIT",
-    "uiSpriteOverlay1": null,
-    "uiSpriteOverlay2": null,
-    "uiSpriteOverlay3": null,
-    "uiAtlas": null,
-    "showinmarketplace": true,
-    "level": 1,
-    "tier": 3,
-    "enchantmentLevel": 0,
-    "categoryId": "fishingbait",
-    "categoryName": "",
-    "revision": 280399,
-    "enchantments": null,
-    "activeSlots": {
-      "1": [
-        {
-          "spellType": "active",
-          "uniqueName": "FISHINGBAIT_LEVEL2_USE",
-          "uiAtlas": null,
-          "uiSprite": "FISHINGBAIT_USE",
-          "revision": 278881,
-          "nameLocaTag": null,
-          "descriptionLocaTag": null,
-          "localizedNames": {
-            "IT-IT": "Esca da pesca pregiata",
-            "RU-RU": "Необычная наживка",
-            "PL-PL": "Wyszukana Przynęta",
-            "TR-TR": "Süslü Balık Yemi",
-            "ID-ID": "Umpan Ikan Mewah",
-            "FR-FR": "Appât à poisson raffiné",
-            "JA-JP": "高級釣り餌",
-            "EN-US": "Fancy Fish Bait",
-            "DE-DE": "Besonderer Angelköder",
-            "AR-SA": "طُعم سمك فاخر",
-            "KO-KR": "멋진 낚시 미끼",
-            "PT-BR": "Isca de Pesca Extravagante",
-            "ZH-TW": "高級釣餌",
-            "ES-ES": "Cebo extravagante",
-            "ZH-CN": "高档鱼饵"
-          },
-          "localizedDescriptions": {
-            "IT-IT": "Prepari la canna da pesca con esche per catturare fino a [other](A)[/other] pesci nei prossimi [buff](B)[/buff].\nRiduce il [buff]tempo[/buff] che passa prima che un [buff]pesce abbocchi[/buff] del [buff](C)[/buff].",
-            "RU-RU": "Подготовьте наживку для удочки на [other](A)[/other] пойманной рыбы в течение следующих [buff](B)[/buff].\nСокращает [buff]время[/buff] до [buff]поклевки[/buff] на [buff](C)[/buff].",
-            "PL-PL": "Szykujesz wędkę z przynętą na [other](A)[/other] ryb złapanych przez następne [buff](B)[/buff].\nZmniejsza [buff]czas[/buff] do [buff]złapania ryby[/buff] o [buff](C)[/buff].",
-            "TR-TR": "Oltanı, sonraki [buff](A)[/buff] içerisinde en fazla [other](B)[/other] balık tutmak için yem ile hazırlar.\nBir [buff]balık ısırana[/buff] kadar geçen [buff]süreyi[/buff] [buff](C)[/buff] azaltır.",
-            "ID-ID": "Mempersiapkan joran dengan umpan sampai [other](A)[/other] ikan tertangkap dalam [buff](B)[/buff] berikutnya.\nMengurangi [buff]waktu[/buff] sampai [buff]ikan terpancing[/buff] hingga [buff](C)[/buff].",
-            "FR-FR": "Préparez votre Canne à pêche et des appâts pour jusqu'à [other](A)[/other] de poisson attrapé dans les prochaines [buff](B)[/buff].\nRéduit le [buff]temps[/buff] nécessaire pour qu'un [buff]poisson morde[/buff] de [buff](C)[/buff].",
-            "JA-JP": "[buff](A)[/buff]の間、最大[other](B)[/other]匹の魚が釣れるまで、餌を付けた釣り竿を用意します。\n[buff]魚が食いつく[/buff]までの[buff]時間[/buff]を[buff](C)[/buff]減少させます。",
-            "EN-US": "Prepare your fishing rod with bait for up to [other](A)[/other] fish caught within the next [buff](B)[/buff].\nReduces the [buff]time[/buff] until a [buff]fish bites[/buff] by [buff](C)[/buff].",
-            "DE-DE": "Bestücke deine Angel mit Ködern für bis zu [other](A)[/other] Fische innerhalb der nächsten [buff](B)[/buff].\nReduziert die [buff]Zeit[/buff], bis ein [buff]Fisch beißt[/buff], um [buff](C)[/buff].",
-            "AR-SA": "يمكن تجهيز الصنارة بطعم لما يصل إلى [other](A)[/other] من الأسماك التي تم اصطيادها خلال [buff](B)[/buff] التالية.\nتقلل [buff]الوقت[/buff] حتى [buff]الإمساك بسمكة[/buff] بمقدار [buff](C)[/buff].",
-            "KO-KR": "[buff](A)[/buff] 동안 최대 [other](B)[/other] 마리의 물고기를 잡을 수 있게 낚시대에 미끼를 끼웁니다.\n[buff]입질[/buff]이 올 때까지의 [buff]시간[/buff]을 [buff](C)[/buff] 만큼 감소시킵니다.",
-            "PT-BR": "Prepare a sua vara de pescar com isca para até [other](A)[/other] peixes dentro dos próximos [buff](B)[/buff].\nReduz o [buff]tempo[/buff] até um [buff]peixe morder a isca[/buff] em [buff](C)[/buff].",
-            "ZH-TW": "為釣竿準備釣餌，在接下來[buff](A)[/buff]內，最多可釣起[other](B)[/other]條魚。\n使[buff]魚咬餌[/buff]的[buff]時間[/buff]減少[buff](C)[/buff]。",
-            "ES-ES": "Le pone cebo a tu caña de pescar para atrapar hasta [other](A)[/other] peces durante los próximos [buff](B)[/buff].\nReduce el [buff]tiempo[/buff] en el que el [buff]pez muerde[/buff] el anzuelo por [buff](C)[/buff].",
-            "ZH-CN": "为你的鱼竿准备鱼饵，最多可于[buff](A)[/buff]内钓起[other](B)[/other]只鱼。\n[buff]鱼咬饵[/buff]前的[buff]时间[/buff]减少[buff](C)[/buff]。"
-          },
-          "target": "self",
-          "castingTime": 0,
-          "hitDelay": 0.4,
-          "standTime": 0.4,
-          "disruptionFactor": null,
-          "recastDelay": 0,
-          "energyUsage": 0,
-          "castRange": 0,
-          "category": "fishingbait_buffs",
-          "uiType": "buff",
-          "maxCharges": null,
-          "buffOverTime": [
-            {
-              "target": "self",
-              "type": "fishingspeed",
-              "time": 600,
-              "value": 1.25,
-              "effectAreaRadius": null
-            }
-          ],
-          "directAttributeChange": null,
-          "root": null,
-          "stun": null,
-          "attributeChangeOverTime": null,
-          "silence": null,
-          "damageShield": null,
-          "channeling": null,
-          "knockback": null,
-          "spellEffectArea": null,
-          "invisibility": null
-        }
-      ]
-    },
-    "passiveSlots": {},
-    "localizedNames": {
-      "IT-IT": "Esca da pesca pregiata",
-      "RU-RU": "Необычная наживка",
-      "PL-PL": "Wyszukana Przynęta",
-      "TR-TR": "Süslü Balık Yemi",
-      "ID-ID": "Umpan Ikan Mewah",
-      "FR-FR": "Appât à poisson raffiné",
-      "JA-JP": "高級釣り餌",
-      "EN-US": "Fancy Fish Bait",
-      "DE-DE": "Besonderer Angelköder",
-      "AR-SA": "طُعم سمك فاخر",
-      "KO-KR": "멋진 낚시 미끼",
-      "PT-BR": "Isca de Peixe Extravagante",
-      "ZH-TW": "高級釣餌",
-      "ES-ES": "Cebo extravagante",
-      "ZH-CN": "高档鱼饵"
-    },
-    "localizedDescriptions": null,
-    "slotType": "potion",
-    "abilityPower": 0,
-    "maxStackSize": null,
-    "weight": null,
-    "spriteName": "FISHINGBAIT",
-    "stackable": true,
-    "equipable": false
-  },
-  {
-    "itemType": "consumable",
     "uniqueName": "T4_POTION_ENERGY",
     "uiSprite": "POTION_ENERGY",
     "uiSpriteOverlay1": null,
@@ -8507,7 +8174,7 @@
     "enchantmentLevel": 0,
     "categoryId": "potion",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -8591,7 +8258,7 @@
           "uniqueName": "POTION_ENERGY_P3",
           "uiAtlas": null,
           "uiSprite": "RESTOREENERGY",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_POTION_ENERGY",
           "descriptionLocaTag": "@SPELLS_POTION_ENERGY_TEST_DESC",
           "localizedNames": {
@@ -8720,7 +8387,7 @@
     "enchantmentLevel": 0,
     "categoryId": "potion",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -8828,9 +8495,9 @@
           "uniqueName": "POTION_LAVA_P3",
           "uiAtlas": null,
           "uiSprite": "AOE_FIRE",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_POTION_LAVA",
-          "descriptionLocaTag": "@SPELLS_POTION_LAVA_DESC",
+          "descriptionLocaTag": "@SPELLS_POTION_LAVA_V2_DESC",
           "localizedNames": {
             "IT-IT": "Pozione Inferno",
             "RU-RU": "Зелье адского пламени",
@@ -8849,28 +8516,28 @@
             "ZH-CN": "狱火药水"
           },
           "localizedDescriptions": {
-            "IT-IT": "Lanci la pozione sulla posizione bersaglio, creando una pozza di fuoco infernale con un [other]raggio di (A)[/other] che dura [other](B)[/other].\nInfligge [dmg](C) danni puri[/dmg] (contro i giocatori) / [dmg](D) danni puri[/dmg] (contro i mob) ogni [dmg](E)[/dmg].\n\nLanciare la pozione dissolverà [other]tutte le pozze degli alleati[/other] in un [other]raggio di (F)[/other] attorno alla tua pozza.",
-            "RU-RU": "Бросьте зелье в указанное место, создав лужу адского пламени [other]радиусом(A)[/other] на [other](B)[/other].\nНаносит [dmg](C) чистого урона[/dmg] (по игрокам) / [dmg](D) чистого урона[/dmg] (по монстрам) каждые [dmg](E)[/dmg].\n\nЕсли бросить зелье, оно растворит [other]все лужи союзников[/other] в [other]радиусе (F)[/other] от вашей лужи.",
-            "PL-PL": "Rzucasz miksturę w wybrane miejsce, tworząc kałużę Piekielnego Ognia o promieniu [other](A)[/other], utrzymującą się przez [other](B)[/other].\nZadaje [dmg](C) obrażeń rzeczywistych[/dmg] (przeciwko graczom) / [dmg](D) obrażeń rzeczywistych[/dmg] (przeciwko mobom) co [dmg](E)[/dmg].\n\nRzucenie mikstury dezaktywuje [other]wszystkie kałuże sojuszników[/other] w promieniu [other](F)[/other] od twojej kałuży.",
-            "TR-TR": "Hedef konuma iksir atıp [other](A)[/other] boyunca aktif kalan [other](B) yarıçaplı[/other] bir Cehennem Ateşi gölü oluşturur.\nHer [dmg](C)[/dmg] [dmg](D) gerçek hasar[/dmg] (oyunculara karşı) / [dmg](E) gerçek hasar[/dmg] (diğer düşmanlara karşı) verir.\n\nİksiri attığında gölün etrafındaki [other](F) yarıçaplı[/other] alanda bulunan [other]tüm müttefik gölleri[/other] yok olur.",
-            "ID-ID": "Lemparkan ramuan ke posisi yang ditarget, menciptakan genangan Api Neraka dengan [other](A) radius[/other] berlangsung selama [other](B)[/other].\nMemberikan [dmg](C) damage murni[/dmg] (vs. pemain) / [dmg](D) damage murni[/dmg] (vs. mob) setiap [dmg](E)[/dmg].\n\nMelempar ramuan akan menghilangkan [other]semua genangan sekutu[/other] dalam [other](F) radius[/other] di sekitar genanganmu.",
-            "FR-FR": "Lancez la potion sur l'emplacement ciblé pour créer une flaque de feu infernal d'un [other]rayon de (A)[/other] qui dure [other](B)[/other].\nInflige [dmg](C) dégâts bruts[/dmg] (contre les joueurs) / [dmg](D) dégâts bruts[/dmg] (contre les monstres) toutes les [dmg](E)[/dmg].\n\nLancer la potion va dissoudre [other]toutes les flaques des alliées[/other] dans un [other]rayon de (F)[/other] autour de votre flaque.",
-            "JA-JP": "狙った位置にポーションを投げつけ、[other](A)[/other]持続する[other](B)半径[/other]の獄炎の水たまりを作り出す。\n[dmg](C)[/dmg]毎に[dmg](D)真のダメージ[/dmg](対プレイヤー)/[dmg](E)真のダメージ[/dmg](対モブ)を与える。\n\nポーションを投げると、自分の水たまりを中心とした[other](F)半径[/other]内の[other]すべての味方の水たまり[/other]を溶かす。",
-            "EN-US": "Throw the potion at the targeted position, creating a puddle of Hellfire with a [other](A) radius[/other] lasting [other](B)[/other].\nDeals [dmg](C) true damage[/dmg] (vs. players) / [dmg](D) true damage[/dmg] (vs. mobs) every [dmg](E)[/dmg].\n\nThrowing the potion will dissolve [other]all ally puddles[/other] in a [other](F) radius[/other] around your puddle.",
-            "DE-DE": "Wirf den Trank auf den anvisierten Punkt, dies erzeugt dort für [other](A)[/other]eine Pfütze aus Höllenfeuer mit [other](B) Radius[/other].\nVerursacht alle [dmg](C)[/dmg] [dmg](D) echten Schaden[/dmg] (bei Spielern) / [dmg](E) echten Schaden[/dmg] (bei Mobs).\n\nDas Werfen dieser Flasche löst [other]alle anderen Pfützen von Alliierten[/other] in [other](F) Radius[/other] um deine Pfütze auf.",
-            "AR-SA": "إلقاء الجرعة في الموقع المستهدف ينشئ بركة من نار الجحيم في [other]محيط (A)[/other] وتستمر لمدة [other](B)[/other].\nتلحق [dmg](C) من الضرر الفعلي[/dmg] (ضد اللاعبين) / [dmg](D) من الضرر الفعلي[/dmg] (ضد الغرماء) كل [dmg](E)[/dmg].\n\nسيؤدي إلقاء الجرعة إلى تلاشي [other]كل برك الحلفاء[/other] في [other]محيط (F)[/other] حول بركتك.",
-            "KO-KR": "대상 위치에 포션을 던져서, [other](A)[/other] 동안 지속되는 [other](B) 범위[/other]의 지옥불 웅덩이를 생성합니다.\n매 [dmg](C)[/dmg]마다 [dmg](D)의 고정 대미지[/dmg] (vs. 플레이어) / [dmg](E)의 고정 대미지[/dmg] (vs. 몹) 를 입힙니다.\n\n포션을 던지면 내 웅덩이 [other](F) 범위[/other] 내에 위치한 [other]모든 아군 웅덩이[/other]가 사라집니다.",
-            "PT-BR": "Joga a poção na posição alvo, criando uma poça de chamas infernais com um [other]raio de (A)[/other] que dura [other](B)[/other].\nCausa [dmg](C) de dano verdadeiro[/dmg] (contra jogadores) / [dmg](D) de dano verdadeiro[/dmg] (contra monstros) a cada [dmg](E)[/dmg].\n\nJogar a poção dissolverá [other]todas as poças aliadas[/other] em um [other]raio de (F)[/other] ao redor da sua poça.",
-            "ZH-TW": "朝目標位置投擲藥水，在[other](A)半徑[/other]範圍創造一個來自地獄的熔岩池，持續[other](B)[/other]。\n每[dmg](C)[/dmg]造成[dmg](D)點真實傷害[/dmg](對玩家)/[dmg](E)點真實傷害[/dmg](對怪物)。\n\n使您周圍[other](F)半徑[/other]範圍內[other]所有盟友釋放的熔岩池[/other]消失。",
-            "ES-ES": "Lanza la poción al lugar señalado y crea un charco de fuego infernal de un [other]radio de (A)[/other] que dura [other](B)[/other].\nInflige [dmg](C) de daño verdadero[/dmg] (contra jugadores) / [dmg](D) de daño verdadero[/dmg] (contra monstruos) cada [dmg](E)[/dmg].\n\nUsar la poción disolverá [other]todos los charcos aliados[/other] que se encuentren en un [other]radio de (F) [/other] alrededor de tu charco.",
-            "ZH-CN": "朝目标位置投掷药水，在[other](A)半径[/other]范围创造一个来自地狱的熔岩池，持续[other](B)[/other]。\n每[dmg](C)[/dmg]造成[dmg](D)真实伤害[/dmg]（对玩家）/ [dmg](E)真实伤害[/dmg]（对野怪）。\n\n使你周围[other](F)半径[/other]范围内[other]所有友军释放的熔岩池[/other]消失。"
+            "IT-IT": "Lanci la pozione sulla posizione bersaglio, creando una pozza di fuoco infernale con un [other]raggio di (A)[/other] che dura [other](B)[/other].\nInfligge [dmg](C) danni puri[/dmg] (contro i giocatori) / [dmg](D) danni puri[/dmg] (contro i mob) ogni [dmg](E)[/dmg] (questi danni non possono essere riflessi).\nRiduce le [debuff]Cure ricevute[/debuff] del [debuff](F)[/debuff] per [debuff](G)[/debuff].\n\nLanciare la pozione dissolverà [other]tutte le pozze degli alleati[/other] in un [other]raggio di (H)[/other] attorno alla tua pozza.",
+            "RU-RU": "Бросьте зелье в указанное место, создав лужу адского пламени [other]радиусом(A)[/other] на [other](B)[/other].\nНаносит [dmg](C) чистого урона[/dmg] (по игрокам) / [dmg](D) чистого урона[/dmg] (по монстрам) каждые [dmg](E)[/dmg] (этот урон невозможно отразить).\nСнижает [debuff]получаемое исцеление[/debuff] на [debuff](F)[/debuff] в течение [debuff](G)[/debuff].\n\nЕсли бросить зелье, оно растворит [other]все лужи союзников[/other] в [other]радиусе (H)[/other] от вашей лужи.",
+            "PL-PL": "Rzucasz miksturę w wybrane miejsce, tworząc kałużę Piekielnego Ognia o promieniu [other](A)[/other], utrzymującą się przez [other](B)[/other].\nZadaje [dmg](C) obrażeń rzeczywistych[/dmg] (przeciwko graczom) / [dmg](D) obrażeń rzeczywistych[/dmg] (przeciwko mobom) co [dmg](E)[/dmg] (nie mogą być odbite).\nZmniejsza [debuff]Otrzymywane leczenie[/debuff] o [debuff](F)[/debuff] na [debuff](G)[/debuff].\n\nRzucenie mikstury dezaktywuje [other]wszystkie kałuże sojuszników[/other] w promieniu [other](H)[/other] od twojej kałuży.",
+            "TR-TR": "Hedef konuma iksir atıp [other](A)[/other] boyunca aktif kalan [other](B) yarıçaplı[/other] bir Cehennem Ateşi gölü oluşturur.\nHer [dmg](C)[/dmg] [dmg](D) gerçek hasar[/dmg] (oyunculara karşı) / [dmg](E) gerçek hasar[/dmg] (diğer düşmanlara karşı) verir. (Bu hasar yansıtılamaz.)\n[debuff]Alınan iyileştirmeyi[/debuff], [debuff](F)[/debuff] boyunca [debuff](G)[/debuff] azaltır.\n\nİksiri attığında gölün etrafındaki [other](H) yarıçaplı[/other] alanda bulunan [other]tüm müttefik gölleri[/other] yok olur.",
+            "ID-ID": "Lemparkan ramuan ke posisi yang ditarget, menciptakan genangan Api Neraka dengan [other](A) radius[/other] berlangsung selama [other](B)[/other].\nMemberikan [dmg](C) true damage[/dmg] (vs. pemain) / [dmg](D) true damage[/dmg] (vs. mob) setiap [dmg](E)[/dmg] (damage ini tidak dapat dipantulkan).\nMengurangi [debuff]Pemulihan Diterima[/debuff] sebesar [debuff](F)[/debuff] selama [debuff](G)[/debuff].\n\nMelempar ramuan akan menghilangkan [other]semua genangan sekutu[/other] dalam [other](H) radius[/other] di sekitar genanganmu.",
+            "FR-FR": "Lancez la potion sur l'emplacement ciblé pour créer une flaque de Feu Infernal d'un [other]rayon de (A)[/other] qui dure [other](B)[/other].\nInflige [dmg](C) dégâts bruts[/dmg] (contre les joueurs) / [dmg](D) dégâts bruts[/dmg] (contre les monstres) toutes les [dmg](E)[/dmg] (les dégâts ne peuvent pas être renvoyés).\nRéduit les [debuff]Soins Reçus[/debuff] de [debuff](F)[/debuff] pendant [debuff](G)[/debuff].\n\nLancer la potion va dissoudre [other]toutes les flaques des alliées[/other] dans un [other]rayon de (H)[/other] autour de votre flaque.",
+            "JA-JP": "狙った位置にポーションを投げつけ、[other](A)[/other]持続する[other](B)半径[/other]の獄炎の水たまりを作り出す。\n[dmg](C)[/dmg]毎に[dmg](D)真のダメージ[/dmg](対プレイヤー)/[dmg](E)真のダメージ[/dmg](対モブ)を与える（このダメージは跳ね返せません）。\n[debuff](F)[/debuff]間、[debuff]受ける回復量[/debuff]が[debuff](G)[/debuff]減少する。\n\nポーションを投げると、自分の水たまりを中心とした[other](H)半径[/other]内の[other]すべての味方の水たまり[/other]を溶かす。",
+            "EN-US": "Throw the potion at the targeted position, creating a puddle of Hellfire with a [other](A) radius[/other] lasting [other](B)[/other].\nDeals [dmg](C) true damage[/dmg] (vs. players) / [dmg](D) true damage[/dmg] (vs. mobs) every [dmg](E)[/dmg] (this damage cannot be reflected).\nReduces [debuff]Healing Received[/debuff] by [debuff](F)[/debuff] for [debuff](G)[/debuff].\n\nThrowing the potion will dissolve [other]all ally puddles[/other] in a [other](H) radius[/other] around your puddle.",
+            "DE-DE": "Wirf den Trank auf den anvisierten Punkt, dies erzeugt dort für [other](A)[/other]eine Pfütze aus Höllenfeuer mit [other](B) Radius[/other].\nVerursacht alle [dmg](C)[/dmg] [dmg](D) echten Schaden[/dmg] (bei Spielern) / [dmg](E) echten Schaden[/dmg] (bei Mobs) (dieser Schaden kann nicht reflektiert werden).\nReduziert für [debuff](F)[/debuff] die [debuff]empfangene Heilung[/debuff] um [debuff](G)[/debuff].\n\nDas Werfen dieser Flasche löst [other]alle anderen Pfützen von Alliierten[/other] in [other](H) Radius[/other] um deine Pfütze auf.",
+            "AR-SA": "إلقاء الجرعة في الموقع المستهدف ينشئ بركة من نار الجحيم في [other]محيط (A)[/other] وتستمر لمدة [other](B)[/other].\nتلحق [dmg](C) من الضرر الفعلي[/dmg] (ضد اللاعبين) / [dmg](D) من الضرر الفعلي[/dmg] (ضد الغرماء) كل [dmg](E)[/dmg](لا يمكن عكس هذا الضرر).\nتقلل [debuff]العلاج المُتلقى[/debuff] بمقدار [debuff](F)[/debuff] لمدة [debuff](G)[/debuff].\n\nسيؤدي إلقاء الجرعة إلى تلاشي [other]كل برك الحلفاء[/other] في [other]محيط (H)[/other] حول بركتك.",
+            "KO-KR": "대상 위치에 포션을 던져서, [other](A)[/other] 동안 지속되는 [other](B) 범위[/other]의 지옥불 웅덩이를 생성합니다.\n매 [dmg](C)[/dmg]마다 [dmg](D)의 고정 대미지[/dmg] (vs. 플레이어) / [dmg](E)의 고정 대미지[/dmg] (vs. 몹) 를 입힙니다 (이 피해는 반사가 불가능 합니다).\n[debuff](F)[/debuff] 동안 [debuff]받는 회복량[/debuff]을 [debuff](G)[/debuff]만큼 감소시킵니다.\n\n포션을 던지면 내 웅덩이 [other](H) 범위[/other] 내에 위치한 [other]모든 아군 웅덩이[/other]가 사라집니다.",
+            "PT-BR": "Joga a poção na posição alvo, criando uma poça de chamas infernais com um [other]raio de (A)[/other] que dura [other](B)[/other].\nCausa [dmg](C) de dano verdadeiro[/dmg] (contra jogadores) / [dmg](D) de dano verdadeiro[/dmg] (contra monstros) a cada [dmg](E)[/dmg] (esse dano não pode ser refletido).\nReduz a [debuff]Cura Recebida[/debuff] em [debuff](F)[/debuff] por [debuff](G)[/debuff].\n\nJogar a poção dissolverá [other]todas as poças aliadas[/other] em um [other]raio de (H)[/other] ao redor da sua poça.",
+            "ZH-TW": "朝目標位置投擲藥水，在[other](A)半徑[/other]範圍創造一個來自地獄的熔岩池，持續[other](B)[/other]。\n每[dmg](C)[/dmg]造成[dmg](D)點真實傷害[/dmg](對玩家)/[dmg](E)點真實傷害[/dmg](對怪物)(該傷害無法被反彈)。\n使[debuff]受到的治療效果[/debuff]降低[debuff](F)[/debuff]，持續[debuff](G)[/debuff]。\n\n使您周圍[other](H)半徑[/other]範圍內[other]所有盟友釋放的熔岩池[/other]消失。",
+            "ES-ES": "Lanza la poción al lugar señalado y crea un charco de Fuego Infernal de un [other]radio de (A)[/other] que dura [other](B)[/other].\nInflige [dmg](C) de daño verdadero[/dmg] (contra jugadores) / [dmg](D) de daño verdadero[/dmg] (contra monstruos) cada [dmg](E)[/dmg] (el daño no puede ser reflejado).\nReduce la [debuff]Curación Recibida[/debuff] en [debuff](F)[/debuff] durante [debuff](G)[/debuff].\n\nUsar la poción disolverá [other]todos los charcos aliados[/other] que se encuentren en un [other]radio de (H)[/other] alrededor de tu charco.",
+            "ZH-CN": "朝目标位置投掷药水，在[other](A)半径[/other]范围创造一个来自地狱的熔岩池，持续[other](B)[/other]。\n每[dmg](C)[/dmg]造成[dmg](D)真实伤害[/dmg]（对玩家）/ [dmg](E)真实伤害[/dmg]（对野怪）（伤害无法被反弹）。\n使[debuff]受到的治疗效果[/debuff]降低[debuff](F)[/debuff]，持续[debuff](G)[/debuff]。\n\n使你周围[other](H)半径[/other]范围内[other]所有友军释放的熔岩池[/other]消失。"
           },
           "target": "ground",
           "castingTime": 0,
           "hitDelay": 0.2,
           "standTime": 0.2,
           "disruptionFactor": 0,
-          "recastDelay": 60,
+          "recastDelay": 90,
           "energyUsage": 0,
           "castRange": 13,
           "category": "instant",
@@ -8887,11 +8554,11 @@
           "knockback": null,
           "spellEffectArea": {
             "time": 3,
-            "effect": "POTION_LAVA_EFFECT_P3",
+            "effect": "POTION_LAVA_EFFECT_HEALCUT",
             "target": "enemy",
             "position": "attarget",
-            "removeOnLeave": true,
-            "visible": true
+            "removeOnLeave": false,
+            "visible": false
           },
           "invisibility": null
         }
@@ -8938,7 +8605,7 @@
     "enchantmentLevel": 0,
     "categoryId": "vanity",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": null,
     "activeSlots": {
       "1": [
@@ -8947,7 +8614,7 @@
           "uniqueName": "VANITY_CONSUMABLE_FIREWORKS_RED",
           "uiAtlas": null,
           "uiSprite": "FIREWORKRED",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": null,
           "descriptionLocaTag": null,
           "localizedNames": {
@@ -9066,7 +8733,7 @@
     "enchantmentLevel": 0,
     "categoryId": "potion",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -9198,7 +8865,7 @@
           "uniqueName": "POTION_GATHER_P5",
           "uiAtlas": null,
           "uiSprite": "EQUIPNEXTTOOL",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_POTION_GATHER",
           "descriptionLocaTag": "@SPELLS_POTION_GATHER_DESC",
           "localizedNames": {
@@ -9227,7 +8894,7 @@
             "FR-FR": "Augmente votre [buff]vitesse de récolte[/buff] et [buff]pêche[/buff] de [buff](A)[/buff] et votre [buff]rendement de récolte[/buff] et [buff]pêche[/buff] de [buff](B)[/buff] pendant [buff](C)[/buff].",
             "JA-JP": "自分の[buff]採集[/buff]と[buff]漁獲速度[/buff]を[buff](A)[/buff]増加させ、[buff]採集[/buff]と[buff]漁獲量[/buff]を[buff](B)[/buff]間[buff](C)[/buff]増加させる。",
             "EN-US": "Increase your [buff]Gather[/buff] and [buff]Fishing Speed[/buff] by [buff](A)[/buff] and your [buff]Gather[/buff] and [buff]Fishing Yield[/buff] by [buff](B)[/buff] for [buff](C)[/buff].",
-            "DE-DE": "Steigert für [buff](A)[/buff] deine {buff]Geschwindigkeit[/buff] beim [buff]Sammeln[/buff] und [buff]Angeln[/buff] um [buff](B)[/buff] und deinen [buff]Sammel-[/buff] und [buff]Angel-Ertrag[/buff] um [buff](C)[/buff].",
+            "DE-DE": "Steigert für [buff](A)[/buff] deine [buff]Geschwindigkeit[/buff] beim [buff]Sammeln[/buff] und [buff]Angeln[/buff] um [buff](B)[/buff] und deinen [buff]Sammel-[/buff] und [buff]Angel-Ertrag[/buff] um [buff](C)[/buff].",
             "AR-SA": "يمكن زيادة قدرة [buff]الجمع[/buff] و[buff]سرعة الصيد[/buff] لديك بمقدار [buff](A)[/buff] وقدرة[buff]الجمع[/buff] و[buff]إنتاجية الصيد[/buff] بمقدار [buff](B)[/buff] لمدة [buff](C)[/buff].",
             "KO-KR": "[buff](A)[/buff] 동안 [buff]채집[/buff] 및 [buff]낚시 속도[/buff]가 [buff](B)[/buff]만큼, [buff]채집량[/buff] 및 [buff]낚시 성공률[/buff]이 [buff](C)[/buff]만큼 증가합니다.",
             "PT-BR": "Aumenta a sua [buff]Velocidade de Coleta[/buff] e de [buff]Pesca[/buff] em [buff](A)[/buff] e o seu [buff]Rendimento de Coleta[/buff] e de [buff]Pesca[/buff] em [buff](B)[/buff] por [buff](C)[/buff].",
@@ -9330,7 +8997,7 @@
     "enchantmentLevel": 0,
     "categoryId": "potion",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -9426,7 +9093,7 @@
           "uniqueName": "POTION_HEAL_P5",
           "uiAtlas": null,
           "uiSprite": "HEAL_SELF",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_POTION_HEAL",
           "descriptionLocaTag": "@SPELLS_POTION_HEAL_DESC",
           "localizedNames": {
@@ -9539,7 +9206,7 @@
     "enchantmentLevel": 0,
     "categoryId": "potion",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -9659,7 +9326,7 @@
           "uniqueName": "POTION_AOE_SLOW_P5",
           "uiAtlas": null,
           "uiSprite": "BUFF_CCR",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_POTION_AOE_SLOW",
           "descriptionLocaTag": "@SPELLS_POTION_AOE_SLOW_DESC",
           "localizedNames": {
@@ -9769,7 +9436,7 @@
     "enchantmentLevel": 0,
     "categoryId": "potion",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -9889,7 +9556,7 @@
           "uniqueName": "POTION_RESISTANCE_P5",
           "uiAtlas": null,
           "uiSprite": "LIVINGARMOR",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_POTION_RESISTANCE",
           "descriptionLocaTag": "@SPELLS_POTION_RESISTANCE_DESC",
           "localizedNames": {
@@ -10021,7 +9688,7 @@
     "enchantmentLevel": 0,
     "categoryId": "potion",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -10153,7 +9820,7 @@
           "uniqueName": "POTION_ACID_P5",
           "uiAtlas": null,
           "uiSprite": "CURSED_AREA",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_POTION_ACID",
           "descriptionLocaTag": "@SPELLS_POTION_ACID_DESC",
           "localizedNames": {
@@ -10206,14 +9873,14 @@
               "target": "enemy",
               "type": "physicalarmor",
               "time": 5,
-              "value": -0.135,
+              "value": -0.203,
               "effectAreaRadius": 5
             },
             {
               "target": "enemy",
               "type": "magicresistance",
               "time": 5,
-              "value": -0.135,
+              "value": -0.203,
               "effectAreaRadius": 5
             }
           ],
@@ -10271,7 +9938,7 @@
     "enchantmentLevel": 0,
     "categoryId": "potion",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -10391,9 +10058,9 @@
           "uniqueName": "POTION_INVISIBILITY_P5",
           "uiAtlas": null,
           "uiSprite": "STEALTH",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": "@SPELLS_POTION_INVISIBILITY",
-          "descriptionLocaTag": "@SPELLS_POTION_INVISIBILITY_V2_DESC",
+          "descriptionLocaTag": "@SPELLS_POTION_INVISIBILITY_DESC",
           "localizedNames": {
             "IT-IT": "Pozione dell'invisibilità",
             "RU-RU": "Зелье невидимости",
@@ -10412,21 +10079,21 @@
             "ZH-CN": "隐形药水"
           },
           "localizedDescriptions": {
-            "IT-IT": "Ti rende [buff]invisibile[/buff] per massimo [buff](A)[/buff].\n[other]Attaccare[/other], [other]usare poteri[/other] o [other]subire danni rivela[/other] la tua presenza.\n\nRiduce tutti i [debuff]danni[/debuff] che infliggi del [debuff](B)[/debuff] per [debuff](C)[/debuff].",
-            "RU-RU": "Вы становитесь [buff]невидимым[/buff] на [buff](A)[/buff].\n[other]Атака[/other], [other]использование навыков[/other] или [other]получение урона прерывает[/other] невидимость.\n\nСокращает весь наносимый вами [debuff]урон[/debuff] на [debuff](B)[/debuff] в течение [debuff](C)[/debuff].",
-            "PL-PL": "Czyni cię [buff]niewidzialnym[/buff] do [buff](A)[/buff].\n[other]Atakowanie[/other], [other]używanie umiejętności[/other] lub [other]otrzymywanie obrażeń ujawnia[/other] cię.\n\nZmniejsza wszystkie [debuff]obrażenia[/debuff] jakie zadajesz o [debuff](B)[/debuff] przez [debuff](C)[/debuff].",
-            "TR-TR": "En fazla [buff](A)[/buff] boyunca seni [buff]görünmez[/buff] yapar.\n[other]Saldırmak[/other], [other]yetenek kullanmak[/other] veya [other]hasar almak[/other] seni açığa çıkarır.\n\n[debuff](B)[/debuff] boyunca verdiğin tüm [debuff]hasarı[/debuff] [debuff](C)[/debuff] azaltır.",
-            "ID-ID": "Membuatmu [buff]tidak terlihat[/buff] hingga selama [buff](A)[/buff].\n[other]Menyerang[/other], [other]menggunakan kemampuan[/other] atau [other]menerima damage akan memperlihatkan[/other] dirimu.\n\n\"Membuatmu [buff]tidak terlihat[/buff] hingga selama [buff](B)[/buff].\n[other]Menyerang[/other], [other]menggunakan kemampuan[/other] atau [other]menerima damage akan memperlihatkan[/other] dirimu.\n\nMengurangi semua [debuff]damage[/debuff] yang kamu hasilkan hingga [debuff](C)[/debuff] selama [debuff](D)[/debuff].\"semua [debuff]damage[/debuff] yang kamu hasilkan hingga [debuff](E)[/debuff] selama [debuff](F)[/debuff].",
-            "FR-FR": "Buvez pour devenir [buff]invisible[/buff] pendant [buff](A)[/buff].\n[other]Attaquer[/other], [other]utiliser des compétences[/other] ou [other]subir des dégâts[/other] vous [other]révèle[/other].\n\nRéduit tous les [debuff]dégâts[/debuff] que vous infligez de [debuff](B)[/debuff] pendant [debuff](C)[/debuff].",
-            "JA-JP": "最大[buff](A)[/buff]の間、あなたの姿を[buff]透明化[/buff]します。\n[other]攻撃したり[/other]、[other]能力を使用したり[/other]、[other]ダメージを受けると姿が現れます[/other]。\n\n[debuff](B)[/debuff]の間、あなたの全ての[debuff]ダメージ[/debuff]を[debuff](C)[/debuff]減少させます。",
-            "EN-US": "Turns you [buff]invisible[/buff] for up to [buff](A)[/buff].\n[other]Attacking[/other], [other]using abilities[/other] or [other]taking damage reveals[/other] you.\n\nDecreases all [debuff]damage[/debuff] you deal by [debuff](B)[/debuff] for [debuff](C)[/debuff].",
-            "DE-DE": "Macht dich für bis zu [buff](A)[/buff] [buff]unsichtbar[/buff].\n[other]Angreifen[/other], [other]Fertigkeitennutzung[/other], oder das [other]Erleiden von Schaden enttarnt[/other] dich.\n\nReduziert allen von dir verursachten [debuff]Schaden[/debuff] für [debuff](B)[/debuff] um [debuff](C)[/debuff].",
-            "AR-SA": "تجعلك [buff]مختفيًا[/buff] لما يصل إلى [buff](A)[/buff].\n[other]الهجوم[/other] [other]باستخدام القدرات[/other] أو [other]تلقي الضرر يكشف[/other]عنك.\n\nتقلل كل [debuff]الضرر[/debuff] الملحق من جانبك بمقدار [debuff](B)[/debuff] لمدة [debuff](C)[/debuff].",
-            "KO-KR": "최대 [buff](A)[/buff]까지 [buff]은신[/buff] 상태가 됩니다.\n[other]공격하거나[/other], [other]스킬을 사용하거나[/other] 또는 [other]대미지를 받으면 은신에서 드러납니다[/other].\n\n[debuff](B)[/debuff] 동안 가하는 [debuff]대미지[/debuff]를 [debuff](C)[/debuff] 만큼 감소시킵니다.",
-            "PT-BR": "Te deixa [buff]invisível[/buff] por até [buff](A)[/buff].\n[other]Atacar[/other], [other]usar habilidades[/other] ou [other]receber dano te revela[/other].\n\nReduz todo o [debuff]dano[/debuff] que você causa em [debuff](B)[/debuff] por [debuff](C)[/debuff].",
-            "ZH-TW": "使自身進入[buff]隱形[/buff]狀態，最多持續[buff](A)[/buff]。\n[other]發動攻擊[/other]、[other]使用技能[/other]或[other]受到傷害將會現身[/other]。\n\n使自身造成的所有[debuff]傷害[/debuff]降低[debuff](B)[/debuff]，持續[debuff](C)[/debuff]。",
-            "ES-ES": "Te vuelve [buff]invisible[/buff] por hasta [buff](A)[/buff].\n[other]Atacar[/other], [other]usar habilidades[/other] o [other]recibir daño te revela[/other].\n\nDisminuye todo el [debuff]daño[/debuff] que infliges en [debuff](B)[/debuff] por [debuff](C)[/debuff].",
-            "ZH-CN": "使你[buff]隐形[/buff]，最多可持续[buff](A)[/buff]。\n[other]普通攻击[/other]，[other]施放技能[/other]或[other]承受伤害[/other]将会使你被[other]揭露[/other]。\n\n你造成的所有[debuff]伤害[/debuff]降低[debuff](B)[/debuff]，持续[debuff](C)[/debuff]。"
+            "IT-IT": "Ti rende [buff]invisibile[/buff] per un massimo di [buff](A)[/buff].\n[other]Attaccare[/other], [other]usare abilità[/other] o [other]subire danni rivela[/other] la tua presenza.\n\nDiminuisce tutti i [debuff]danni[/debuff] che infliggi del [debuff](B)[/debuff] [other]mentre sei invisibile[/other] e per [debuff](C)[/debuff] [other]dopo[/other] esserti [other]rivelato[/other].",
+            "RU-RU": "Вы становитесь [buff]невидимым[/buff] на [buff](A)[/buff].\n[other]Атака[/other], [other]использование навыков[/other] или [other]получение урона прерывают[/other] невидимость.\n\nСнижает весь наносимый вами [debuff]урон[/debuff] на [debuff](B)[/debuff] [other]в состоянии невидимости[/other] и в течение [debuff](C)[/debuff] [other]после[/other] [other]выхода из невидимости[/other].",
+            "PL-PL": "Czyni cię [buff]niewidzialnym[/buff] do [buff](A)[/buff].\n[other]Atakowanie[/other], [other]używanie umiejętności[/other] lub [other]otrzymywanie obrażeń ujawnia[/other] cię.\n\nZmniejsza wszystkie [debuff]obrażenia[/debuff], które zadasz o [debuff](B)[/debuff] [other]podczas niewidzialności[/other] i na [debuff](C)[/debuff] [other]po[/other] [other]ujawnieniu[/other].",
+            "TR-TR": "En fazla [buff](A)[/buff] boyunca seni [buff]görünmez[/buff] yapar.\n[other]Saldırmak[/other], [other]yetenek kullanmak[/other] veya [other]hasar almak[/other] seni açığa çıkarır.\n\n[other]Görünmezken[/other] ve [other]ortaya çıktıktan[/other] [other]sonra[/other] [debuff](B)[/debuff] boyunca verdiğin tüm [debuff]hasarı[/debuff] [debuff](C)[/debuff] azaltır.",
+            "ID-ID": "Menjadikanmu [buff]tak terlihat[/buff] hingga selama [buff](A)[/buff].\n[other]Menyerang[/other], [other]menggunakan kemampuan[/other] atau [other]menerima damage akan memperlihatkan[/other] dirimu.\n\nMengurangi semua [debuff]damage[/debuff] yang kamu hasilkan sebesar [debuff](B)[/debuff] [other]ketika tak terlihat[/other] dan selama [debuff](C)[/debuff] [other]setelah[/other] [other]tersingkap[/other].",
+            "FR-FR": "Vous rend [buff]invisible[/buff] pendant [buff](A)[/buff] maximum.\n[other]Attaquer[/other], [other]utiliser des compétences[/other] ou [other]subir des dégâts[/other] vous révèle.\n\nRéduit tous les [debuff]dégâts[/debuff] que vous infligez de [debuff](B)[/debuff] [other]pendant que vous êtes invisible[/other] et pendant [debuff](C)[/debuff] [other]après[/other] avoir été [other]révélé[/other].",
+            "JA-JP": "最大[buff](A)[/buff]の間、あなたの姿を[buff]透明化[/buff]します。\n[other]攻撃したり[/other]、[other]能力を使用したり[/other]、[other]ダメージを受けると姿が現れます[/other]。\n\n[other]透明になっている間[/other]と、透明が[other]解除[/other]された[other]から[/other]の[debuff](B)[/debuff]間、与える[debuff]ダメージ[/debuff]が[debuff](C)[/debuff]減少する。",
+            "EN-US": "Turns you [buff]invisible[/buff] for up to [buff](A)[/buff].\n[other]Attacking[/other], [other]using abilities[/other] or [other]taking damage reveals[/other] you.\n\nDecreases all [debuff]damage[/debuff] you deal by [debuff](B)[/debuff] [other]while invisible[/other] and for [debuff](C)[/debuff] [other]after[/other] being [other]revealed[/other].",
+            "DE-DE": "Macht dich für bis zu [buff](A)[/buff] [buff]unsichtbar[/buff].\n[other]Angreifen[/other], [other]Fertigkeitennutzung[/other], oder das [other]Erleiden von Schaden enttarnt[/other] dich.\n\nVerringert sämtlichen [debuff]Schaden[/debuff], den du zufügst um [debuff](B)[/debuff] [other]wenn du unsichtbar bist[/other] und für [debuff](C)[/debuff] [other]nachdem[/other] du [other]enttarnt[/other] wurdest.",
+            "AR-SA": "تجعلك [buff]مختفيًا[/buff] لما يصل إلى [buff](A)[/buff].\n[other]الهجوم[/other] [other]باستخدام القدرات[/other] أو [other]تلقي الضرر يكشف[/other]عنك.\n\nيقلل كل [debuff]الضرر[/debuff] الذي تلحقه بمقدار [debuff](B)[/debuff] [other]أثناء الاختفاء[/other] ومقدار [debuff](C)[/debuff] [other]في[/other] أثناء [other]الظهور[/other].",
+            "KO-KR": "최대 [buff](A)[/buff]까지 [buff]은신[/buff] 상태가 됩니다.\n[other]공격하거나[/other], [other]스킬을 사용하거나[/other] 또는 [other]대미지를 받으면 은신에서 드러납니다[/other].\n\n[other]투명[/other] 상태일 때와 [other]모습이 드러난[/other] [other]후[/other] [debuff](B)[/debuff] 동안 가하는 모든 [debuff]대미지[/debuff]가 [debuff](C)[/debuff]만큼 감소합니다.",
+            "PT-BR": "Te deixa [buff]invisível[/buff] por até [buff](A)[/buff].\n[other]Atacar[/other], [other]usar habilidades[/other] ou [other]receber dano te revela[/other].\n\nReduz todo o [debuff]dano[/debuff] que você causa em [debuff](B)[/debuff] [other]enquanto invisível[/other] e por [debuff](C)[/debuff] [other]após[/other] ser [other]revelado[/other].",
+            "ZH-TW": "使自身進入[buff]隱形[/buff]狀態，最多持續[buff](A)[/buff]。\n[other]發動攻擊[/other]、[other]使用技能[/other]或[other]受到傷害將會現身[/other]。\n\n當您[other]在隱形狀態[/other]時，使您造成的所有[debuff]傷害[/debuff]降低[debuff](B)[/debuff]，當[other]現身[/other][other]之後[/other]則降低[debuff](C)[/debuff]。",
+            "ES-ES": "Te vuelve [buff]invisible[/buff] por hasta [buff](A)[/buff].\n[other]Atacar[/other], [other]usar habilidades[/other] o [other]recibir daño te revela[/other].\n\nReduce todo el [debuff]daño[/debuff] que infliges en [debuff](B)[/debuff] [other]mientras seas invisible[/other] y durante [debuff](C)[/debuff] [other]después[/other] de ser [other]revelado[/other].",
+            "ZH-CN": "使你[buff]隐形[/buff]，最多可持续[buff](A)[/buff]。\n[other]普通攻击[/other]，[other]施放技能[/other]或[other]承受伤害[/other]将会使你被[other]揭露[/other]。\n\n当你[other]在隐形状态[/other]时，使你造成的所有[debuff]伤害[/debuff]降低[debuff](B)[/debuff]，当[other]揭露[/other][other]之后[/other]则降低[debuff](C)[/debuff]。"
           },
           "target": "self",
           "castingTime": 0,
@@ -10442,28 +10109,14 @@
           "buffOverTime": [
             {
               "target": "self",
-              "type": "physicalattackdamagebonus",
+              "type": "bonusdamagevsplayers",
               "time": 8,
               "value": -0.5,
               "effectAreaRadius": null
             },
             {
               "target": "self",
-              "type": "magicattackdamagebonus",
-              "time": 8,
-              "value": -0.5,
-              "effectAreaRadius": null
-            },
-            {
-              "target": "self",
-              "type": "physicalspelldamagebonus",
-              "time": 8,
-              "value": -0.5,
-              "effectAreaRadius": null
-            },
-            {
-              "target": "self",
-              "type": "magicspelldamagebonus",
+              "type": "bonusdamagevsmobs",
               "time": 8,
               "value": -0.5,
               "effectAreaRadius": null

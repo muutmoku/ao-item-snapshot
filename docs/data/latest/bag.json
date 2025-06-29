@@ -13,7 +13,7 @@
     "enchantmentLevel": 0,
     "categoryId": "bag",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -122,7 +122,7 @@
           "uniqueName": "PASSIVE_MAXLOAD_SILVERTOPVEFAME_ON",
           "uiAtlas": null,
           "uiSprite": "PASSIVE_DAZE",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": null,
           "descriptionLocaTag": null,
           "localizedNames": {
@@ -148,7 +148,7 @@
             "PL-PL": "Zwiększa twoją zyskaną [buff]Sławę Bojową[/buff] o [buff](A)[/buff].\n\nKażdy dodatkowy punkt Sławy zużywa [other](B) Srebra[/other].\n\nZwiększa twój [buff]Maks. Udźwig[/buff] o [buff](C) kg[/buff].",
             "TR-TR": "[buff](A)[/buff] ile kazanılan [buff]Savaş Namı'nı[/buff] artırır.\n\nKazandığın her ekstra Nam puanı [other](B) Gümüş[/other] harcar.\n\n[buff]Azami yükünü[/buff] [buff](C) kg[/buff] artırır.",
             "ID-ID": "Meningkatkan [buff]Ketenaran Pertempuran[/buff] yang diraih sebesar [buff](A)[/buff].\n\nSetiap poin tambahan Ketenaran yang kamu peroleh akan menghabiskan [other](B) Perak[/other].\n\nMenambah [buff]Muatan Maks[/buff] hingga [buff](C) kg[/buff].",
-            "FR-FR": "Augmente votre [buff]Renommée de combat[/buff] obtenue de [buff](A)[/buff].\n\nChaque point de Renommée supplémentaire que vous obtenez consume [other](B) Argent[/other].\n\nAugmente votre [buff]Charge maximale[/buff] de [buff](C) Kg[/buff].",
+            "FR-FR": "Augmente la [buff]Renommée de combat[/buff] obtenue de [buff](A)[/buff].\n\nChaque point de Renommée supplémentaire que vous obtenez consomme [other](B) d'Argent[/other].\n\nAugmente votre [buff]Charge maximale[/buff] de [buff](C) Kg[/buff].",
             "JA-JP": "獲得する[buff]戦闘名声[/buff]が[buff](A)[/buff]増加します。\n\n追加で獲得する名声はそれぞれ、[other]シルバーを(B)[/other]消費します。\n\n[buff]最大重量[/buff]が[buff](C)kg[/buff]増えます。",
             "EN-US": "Increases your [buff]Combat Fame[/buff] gained by [buff](A)[/buff].\n\nEach extra point of Fame you gain consumes [other](B) Silver[/other].\n\nIncreases your [buff]Max Load[/buff] by [buff](C) kg[/buff].",
             "DE-DE": "Steigert deinen erhaltenen [buff]Kampfesruhm[/buff] um [buff](A)[/buff].\n\nJeder erhaltene Extrapunkt Ruhm verbraucht [other](B) Silber[/other].\n\nSteigert deine [buff]max. Tragkraft[/buff] um [buff](C) kg[/buff].",
@@ -176,7 +176,7 @@
           "uniqueName": "PASSIVE_MAXLOAD_SILVERTOPVEFAME_OFF",
           "uiAtlas": null,
           "uiSprite": "PASSIVE_NOATTACK",
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": null,
           "descriptionLocaTag": null,
           "localizedNames": {
@@ -287,7 +287,7 @@
     "enchantmentLevel": 0,
     "categoryId": "bag",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -389,114 +389,7 @@
       ]
     },
     "activeSlots": {},
-    "passiveSlots": {
-      "1": [
-        {
-          "spellType": "passive",
-          "uniqueName": "PASSIVE_MAXLOAD_SILVERTOPVEFAME_ON",
-          "uiAtlas": null,
-          "uiSprite": "PASSIVE_DAZE",
-          "revision": 278881,
-          "nameLocaTag": null,
-          "descriptionLocaTag": null,
-          "localizedNames": {
-            "IT-IT": "Studio del combattimento attivo",
-            "RU-RU": "Активация бонуса к боевой славе",
-            "PL-PL": "Nauka bojowa aktywna",
-            "TR-TR": "Savaş Analizi Etkin",
-            "ID-ID": "Studi Tempur Aktif",
-            "FR-FR": "Étude du combat active",
-            "JA-JP": "戦闘研究：アクティブ",
-            "EN-US": "Combat Study Active",
-            "DE-DE": "Kampfstudium aktiv",
-            "AR-SA": "تعلم القتال نشط",
-            "KO-KR": "전투 연구 활성화",
-            "PT-BR": "Estudo de Combate ativo",
-            "ZH-TW": "已啟用戰鬥研究",
-            "ES-ES": "Estudio de combate activo",
-            "ZH-CN": "燃起斗志"
-          },
-          "localizedDescriptions": {
-            "IT-IT": "Aumenta la quantità di [buff]fama di combattimento[/buff] che ottieni del [buff](A)[/buff].\n\nOgni punto di fama aggiuntivo che guadagni consuma [other](B) pezzi d'argento[/other].\n\nAumenta la tua [buff]capacità di carico massima[/buff] di [buff](C) kg[/buff].",
-            "RU-RU": "Увеличивает получаемую вами [buff]боевую славу[/buff] на [buff](A)[/buff].\n\nКаждое получаемое вами дополнительное очко славы расходует [other](B) серебра[/other].\n\nУвеличивает вашу [buff]максимальную грузоподъемность[/buff] на [buff](C) кг[/buff].",
-            "PL-PL": "Zwiększa twoją zyskaną [buff]Sławę Bojową[/buff] o [buff](A)[/buff].\n\nKażdy dodatkowy punkt Sławy zużywa [other](B) Srebra[/other].\n\nZwiększa twój [buff]Maks. Udźwig[/buff] o [buff](C) kg[/buff].",
-            "TR-TR": "[buff](A)[/buff] ile kazanılan [buff]Savaş Namı'nı[/buff] artırır.\n\nKazandığın her ekstra Nam puanı [other](B) Gümüş[/other] harcar.\n\n[buff]Azami yükünü[/buff] [buff](C) kg[/buff] artırır.",
-            "ID-ID": "Meningkatkan [buff]Ketenaran Pertempuran[/buff] yang diraih sebesar [buff](A)[/buff].\n\nSetiap poin tambahan Ketenaran yang kamu peroleh akan menghabiskan [other](B) Perak[/other].\n\nMenambah [buff]Muatan Maks[/buff] hingga [buff](C) kg[/buff].",
-            "FR-FR": "Augmente votre [buff]Renommée de combat[/buff] obtenue de [buff](A)[/buff].\n\nChaque point de Renommée supplémentaire que vous obtenez consume [other](B) Argent[/other].\n\nAugmente votre [buff]Charge maximale[/buff] de [buff](C) Kg[/buff].",
-            "JA-JP": "獲得する[buff]戦闘名声[/buff]が[buff](A)[/buff]増加します。\n\n追加で獲得する名声はそれぞれ、[other]シルバーを(B)[/other]消費します。\n\n[buff]最大重量[/buff]が[buff](C)kg[/buff]増えます。",
-            "EN-US": "Increases your [buff]Combat Fame[/buff] gained by [buff](A)[/buff].\n\nEach extra point of Fame you gain consumes [other](B) Silver[/other].\n\nIncreases your [buff]Max Load[/buff] by [buff](C) kg[/buff].",
-            "DE-DE": "Steigert deinen erhaltenen [buff]Kampfesruhm[/buff] um [buff](A)[/buff].\n\nJeder erhaltene Extrapunkt Ruhm verbraucht [other](B) Silber[/other].\n\nSteigert deine [buff]max. Tragkraft[/buff] um [buff](C) kg[/buff].",
-            "AR-SA": "تزيد من [buff]نقاط خبرة القتال[/buff] المكتسبة بمقدار [buff](A)[/buff].\n\nتستهلك كل نقطة خبرة إضافية يتم اكتسابها [other](B) من الفضة [/other].\n\nتقلل من [buff]الحمولة القصوى[/buff] لديك بمقدار [buff](C) كغم[/buff].",
-            "KO-KR": "얻는 [buff]전투 명성[/buff]을 [buff](A)[/buff] 만큼 증가시킵니다.\n \n추가로 얻는 각 명성 포인트당 [other](B)의 실버[/other]를 소모합니다.\n \n[buff]최대 적재량[/buff]을 [buff](C) kg[/buff] 만큼 증가시킵니다.",
-            "PT-BR": "Aumenta a sua [buff]Fama de Combate[/buff] recebida em [buff](A)[/buff].\n\nCada ponto extra de Fama que você ganha consome [other](B) de Prata[/other].\n\nAumenta sua [buff]Carga Máxima[/buff] em [buff](C) kg[/buff].",
-            "ZH-TW": "使自身獲得的[buff]戰鬥聲望[/buff]增加[buff](A)[/buff]。\n\n每額外獲得一點聲望時，消耗[other](B)枚銀幣[/other]。\n\n使自身[buff]負重上限[/buff]增加[buff](C)公斤[/buff]。",
-            "ES-ES": "Incrementa la [buff]fama de combate[/buff] que ganes en [buff](A)[/buff].\n\nCada punto extra de fama que ganes consume [other](B) de plata[/other].\n\nIncrementa tu capacidad de [buff]carga máxima[/buff] en [buff](C) kg[/buff].",
-            "ZH-CN": "你获得的[buff]战斗声望[/buff]提高[buff](A)[/buff]。\n\n每额外获得一点声望，消耗[other](B)银币[/other]。\n\n你的[buff]最大负重量[/buff]提高[buff](C)公斤[/buff]。"
-          },
-          "buff": [
-            {
-              "type": "maxload",
-              "value": 0.9
-            },
-            {
-              "type": "silvertobonuspvefame",
-              "value": 1
-            }
-          ],
-          "reflectDamage": null
-        },
-        {
-          "spellType": "passive",
-          "uniqueName": "PASSIVE_MAXLOAD_SILVERTOPVEFAME_OFF",
-          "uiAtlas": null,
-          "uiSprite": "PASSIVE_NOATTACK",
-          "revision": 278881,
-          "nameLocaTag": null,
-          "descriptionLocaTag": null,
-          "localizedNames": {
-            "IT-IT": "Studio del combattimento inattivo",
-            "RU-RU": "Деактивация бонуса к боевой славе",
-            "PL-PL": "Nauka bojowa nieaktywna",
-            "TR-TR": "Savaş Analizi Etkin Değil",
-            "ID-ID": "Studi Tempur Tidak Aktif",
-            "FR-FR": "Étude du combat inactive",
-            "JA-JP": "戦闘研究：非アクティブ",
-            "EN-US": "Combat Study Inactive",
-            "DE-DE": "Kampfstudium inaktiv",
-            "AR-SA": "تعلم القتال غير نشط",
-            "KO-KR": "전투 연구 비활성화",
-            "PT-BR": "Estudo de Combate inativo",
-            "ZH-TW": "未啟用戰鬥研究",
-            "ES-ES": "Estudio de combate Inactivo",
-            "ZH-CN": "静心修炼"
-          },
-          "localizedDescriptions": {
-            "IT-IT": "Non guadagnerai fama di combattimento bonus e di conseguenza non consumerai argento.\n\nAumenta la tua [buff]capacità di carico massima[/buff] di [buff](A) kg[/buff].",
-            "RU-RU": "Вы не будете получать дополнительную боевую славу и, следовательно, не потратите серебро.\n\nУвеличивает вашу [buff]максимальную грузоподъемность[/buff] на [buff](A) кг[/buff].",
-            "PL-PL": "Nie otrzymasz dodatkowej Sławy bojowej i tym samym nie będziesz tracił Srebra.\n\nZwiększa twój [buff]Maks. Udźwig[/buff] o [buff](A) kg[/buff].",
-            "TR-TR": "Bonus Savaş Namı almayacaksın ve bu nedenle Gümüş tüketimin olmayacak.\n\n[buff]Azami yükünü[/buff] [buff](A) kg[/buff] artırır.",
-            "ID-ID": "Kamu tidak akan mendapatkan bonus Ketenaran Pertempuran dan akibatnya tidak memiliki konsumsi Perak.\n\nMenambah [buff]Muatan Maks[/buff] hingga [buff](A) kg[/buff].",
-            "FR-FR": "Vous ne gagnerez aucun bonus supplémentaire de Renommée de combat et vous ne dépenserez pas d'argent.\n\nAugmente votre [buff]Charge maximale[/buff] de [buff](A) kg[/buff].",
-            "JA-JP": "ボーナス戦闘名声が得られず、結果的にシルバーの消費がありません。\n\n[buff]最大重量[/buff]が[buff](A)kg[/buff]増えます。",
-            "EN-US": "You will not gain bonus Combat Fame and consequently have no Silver consumption.\n\nIncreases your [buff]Max Load[/buff] by [buff](A) kg[/buff].",
-            "DE-DE": "Du erhältst keinen zusätzlichen Kampfesruhm und hast dementsprechend auch keinen erhöhten Silberverbrauch.\n\nSteigert deine [buff]max. Tragkraft[/buff] um [buff](A) kg[/buff].",
-            "AR-SA": "لا يمكنك الحصول على مكافأة نقاط خبرة القتال وبالتالي لن تُستهلك الفضة.\n\nتقلل من [buff]الحمولة القصوى[/buff] لديك بمقدار [buff](A) كغم[/buff].",
-            "KO-KR": "추가 전투 명성을 얻지 않으며 이로인한 실버 소모도 없습니다.\n \n[buff]최대 적재량[/buff]을 [buff](A) kg[/buff] 만큼 증가시킵니다.",
-            "PT-BR": "Você não receberá Fama de Combate bônus e consequentemente não haverá consumo de Prata.\n\nAumenta sua [buff]Carga Máxima[/buff] em [buff](A) kg[/buff].",
-            "ZH-TW": "您不會獲得額外的戰鬥聲望，因此不會消耗銀幣。\n\n使自身[buff]負重上限[/buff]增加[buff](A)公斤[/buff]。",
-            "ES-ES": "No ganarás fama de combate adicional y por lo tanto, tu plata no se consumirá.\n\nIncrementa tu capacidad de [buff]carga máxima[/buff] en [buff](A) kg[/buff].",
-            "ZH-CN": "你不会获得额外战斗声望，因此不会消耗银币。\n\n你的[buff]最大负重量[/buff]提高[buff](A)公斤[/buff]。"
-          },
-          "buff": [
-            {
-              "type": "maxload",
-              "value": 0.9
-            }
-          ],
-          "reflectDamage": null
-        }
-      ]
-    },
+    "passiveSlots": {},
     "localizedNames": {
       "IT-IT": "Sacca della conoscenza dell'anziano",
       "RU-RU": "Кошель интуиции (старейшина)",
@@ -561,63 +454,10 @@
     "enchantmentLevel": 0,
     "categoryId": "bag",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": null,
     "activeSlots": {},
-    "passiveSlots": {
-      "1": [
-        {
-          "spellType": "passive",
-          "uniqueName": "PASSIVE_MAXLOAD",
-          "uiAtlas": null,
-          "uiSprite": null,
-          "revision": 278881,
-          "nameLocaTag": null,
-          "descriptionLocaTag": "@SPELLS_PASSIVE_MAXLOAD_SHOES_DESC",
-          "localizedNames": {
-            "IT-IT": "Affanno",
-            "RU-RU": "Выносливость",
-            "PL-PL": "Taszczenie",
-            "TR-TR": "Ağır Adımlar",
-            "ID-ID": "Lesu",
-            "FR-FR": "Marche pénible",
-            "JA-JP": "重い足取り",
-            "EN-US": "Trudge",
-            "DE-DE": "Stapfen",
-            "AR-SA": "خطوات ثقيلة",
-            "KO-KR": "장거리 여행",
-            "PT-BR": "Estirão",
-            "ZH-TW": "跋涉",
-            "ES-ES": "Viajero",
-            "ZH-CN": "跋涉"
-          },
-          "localizedDescriptions": {
-            "IT-IT": "Aumenta la tua [buff]capacità di carico massima[/buff] di [buff](A) kg[/buff].",
-            "RU-RU": "Увеличивает ваш [buff]максимальный переносимый вес[/buff] на [buff](A) кг[/buff].",
-            "PL-PL": "Zwiększa twój [buff]Maksymalny udźwig[/buff] o [buff](A) kg[/buff].",
-            "TR-TR": "[buff]Azami yükünü[/buff] [buff](A) kg[/buff] artırır.",
-            "ID-ID": "Menambah [buff]Muatan Maks[/buff] hingga [buff](A) kg[/buff].",
-            "FR-FR": "Augmente votre [buff]charge maximale[/buff] de [buff](A) kg[/buff].",
-            "JA-JP": "[buff]最大重量[/buff]が[buff](A)kg[/buff]増えます。",
-            "EN-US": "Increases your [buff]Max Load[/buff] by [buff](A) kg[/buff].",
-            "DE-DE": "Steigert dein [buff]max. Gewicht[/buff] um [buff](A) kg[/buff].",
-            "AR-SA": "تقلل من [buff]الحمولة القصوى[/buff] لديك بمقدار [buff](A) كغم[/buff].",
-            "KO-KR": "[buff]최대 적재량[/buff]이 [buff](A) kg[/buff]만큼 증가합니다.",
-            "PT-BR": "Aumenta sua [buff]Carga Máxima[/buff] em [buff](A) kgs[/buff].",
-            "ZH-TW": "使自身[buff]負重上限[/buff]增加[buff](A)公斤[/buff]。",
-            "ES-ES": "Incrementa tu [buff]carga máxima[/buff] en [buff](A) kg[/buff].",
-            "ZH-CN": "使你的[buff]最大负重量[/buff]提高[buff](A)公斤[/buff]。"
-          },
-          "buff": [
-            {
-              "type": "maxload",
-              "value": 1
-            }
-          ],
-          "reflectDamage": null
-        }
-      ]
-    },
+    "passiveSlots": {},
     "localizedNames": {
       "IT-IT": "Borsa dell'apprendista",
       "RU-RU": "Сумка (странник)",
@@ -694,7 +534,7 @@
     "enchantmentLevel": 0,
     "categoryId": "bag",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -780,65 +620,12 @@
       ]
     },
     "activeSlots": {},
-    "passiveSlots": {
-      "1": [
-        {
-          "spellType": "passive",
-          "uniqueName": "PASSIVE_MAXLOAD",
-          "uiAtlas": null,
-          "uiSprite": null,
-          "revision": 278881,
-          "nameLocaTag": null,
-          "descriptionLocaTag": "@SPELLS_PASSIVE_MAXLOAD_SHOES_DESC",
-          "localizedNames": {
-            "IT-IT": "Affanno",
-            "RU-RU": "Выносливость",
-            "PL-PL": "Taszczenie",
-            "TR-TR": "Ağır Adımlar",
-            "ID-ID": "Lesu",
-            "FR-FR": "Marche pénible",
-            "JA-JP": "重い足取り",
-            "EN-US": "Trudge",
-            "DE-DE": "Stapfen",
-            "AR-SA": "خطوات ثقيلة",
-            "KO-KR": "장거리 여행",
-            "PT-BR": "Estirão",
-            "ZH-TW": "跋涉",
-            "ES-ES": "Viajero",
-            "ZH-CN": "跋涉"
-          },
-          "localizedDescriptions": {
-            "IT-IT": "Aumenta la tua [buff]capacità di carico massima[/buff] di [buff](A) kg[/buff].",
-            "RU-RU": "Увеличивает ваш [buff]максимальный переносимый вес[/buff] на [buff](A) кг[/buff].",
-            "PL-PL": "Zwiększa twój [buff]Maksymalny udźwig[/buff] o [buff](A) kg[/buff].",
-            "TR-TR": "[buff]Azami yükünü[/buff] [buff](A) kg[/buff] artırır.",
-            "ID-ID": "Menambah [buff]Muatan Maks[/buff] hingga [buff](A) kg[/buff].",
-            "FR-FR": "Augmente votre [buff]charge maximale[/buff] de [buff](A) kg[/buff].",
-            "JA-JP": "[buff]最大重量[/buff]が[buff](A)kg[/buff]増えます。",
-            "EN-US": "Increases your [buff]Max Load[/buff] by [buff](A) kg[/buff].",
-            "DE-DE": "Steigert dein [buff]max. Gewicht[/buff] um [buff](A) kg[/buff].",
-            "AR-SA": "تقلل من [buff]الحمولة القصوى[/buff] لديك بمقدار [buff](A) كغم[/buff].",
-            "KO-KR": "[buff]최대 적재량[/buff]이 [buff](A) kg[/buff]만큼 증가합니다.",
-            "PT-BR": "Aumenta sua [buff]Carga Máxima[/buff] em [buff](A) kgs[/buff].",
-            "ZH-TW": "使自身[buff]負重上限[/buff]增加[buff](A)公斤[/buff]。",
-            "ES-ES": "Incrementa tu [buff]carga máxima[/buff] en [buff](A) kg[/buff].",
-            "ZH-CN": "使你的[buff]最大负重量[/buff]提高[buff](A)公斤[/buff]。"
-          },
-          "buff": [
-            {
-              "type": "maxload",
-              "value": 1
-            }
-          ],
-          "reflectDamage": null
-        }
-      ]
-    },
+    "passiveSlots": {},
     "localizedNames": {
       "IT-IT": "Borsa del gran maestro",
       "RU-RU": "Сумка (магистр)",
       "PL-PL": "Sakwa Wszechmistrza",
-      "TR-TR": "Büyük Usta Çantası",
+      "TR-TR": "Büy��k Usta Çantası",
       "ID-ID": "Tas Grandmaster",
       "FR-FR": "Sac du grand maître",
       "JA-JP": "袋（グランドマスター）",
@@ -910,7 +697,7 @@
     "enchantmentLevel": 0,
     "categoryId": "bag",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -1012,114 +799,7 @@
       ]
     },
     "activeSlots": {},
-    "passiveSlots": {
-      "1": [
-        {
-          "spellType": "passive",
-          "uniqueName": "PASSIVE_MAXLOAD_SILVERTOPVEFAME_ON",
-          "uiAtlas": null,
-          "uiSprite": "PASSIVE_DAZE",
-          "revision": 278881,
-          "nameLocaTag": null,
-          "descriptionLocaTag": null,
-          "localizedNames": {
-            "IT-IT": "Studio del combattimento attivo",
-            "RU-RU": "Активация бонуса к боевой славе",
-            "PL-PL": "Nauka bojowa aktywna",
-            "TR-TR": "Savaş Analizi Etkin",
-            "ID-ID": "Studi Tempur Aktif",
-            "FR-FR": "Étude du combat active",
-            "JA-JP": "戦闘研究：アクティブ",
-            "EN-US": "Combat Study Active",
-            "DE-DE": "Kampfstudium aktiv",
-            "AR-SA": "تعلم القتال نشط",
-            "KO-KR": "전투 연구 활성화",
-            "PT-BR": "Estudo de Combate ativo",
-            "ZH-TW": "已啟用戰鬥研究",
-            "ES-ES": "Estudio de combate activo",
-            "ZH-CN": "燃起斗志"
-          },
-          "localizedDescriptions": {
-            "IT-IT": "Aumenta la quantità di [buff]fama di combattimento[/buff] che ottieni del [buff](A)[/buff].\n\nOgni punto di fama aggiuntivo che guadagni consuma [other](B) pezzi d'argento[/other].\n\nAumenta la tua [buff]capacità di carico massima[/buff] di [buff](C) kg[/buff].",
-            "RU-RU": "Увеличивает получаемую вами [buff]боевую славу[/buff] на [buff](A)[/buff].\n\nКаждое получаемое вами дополнительное очко славы расходует [other](B) серебра[/other].\n\nУвеличивает вашу [buff]максимальную грузоподъемность[/buff] на [buff](C) кг[/buff].",
-            "PL-PL": "Zwiększa twoją zyskaną [buff]Sławę Bojową[/buff] o [buff](A)[/buff].\n\nKażdy dodatkowy punkt Sławy zużywa [other](B) Srebra[/other].\n\nZwiększa twój [buff]Maks. Udźwig[/buff] o [buff](C) kg[/buff].",
-            "TR-TR": "[buff](A)[/buff] ile kazanılan [buff]Savaş Namı'nı[/buff] artırır.\n\nKazandığın her ekstra Nam puanı [other](B) Gümüş[/other] harcar.\n\n[buff]Azami yükünü[/buff] [buff](C) kg[/buff] artırır.",
-            "ID-ID": "Meningkatkan [buff]Ketenaran Pertempuran[/buff] yang diraih sebesar [buff](A)[/buff].\n\nSetiap poin tambahan Ketenaran yang kamu peroleh akan menghabiskan [other](B) Perak[/other].\n\nMenambah [buff]Muatan Maks[/buff] hingga [buff](C) kg[/buff].",
-            "FR-FR": "Augmente votre [buff]Renommée de combat[/buff] obtenue de [buff](A)[/buff].\n\nChaque point de Renommée supplémentaire que vous obtenez consume [other](B) Argent[/other].\n\nAugmente votre [buff]Charge maximale[/buff] de [buff](C) Kg[/buff].",
-            "JA-JP": "獲得する[buff]戦闘名声[/buff]が[buff](A)[/buff]増加します。\n\n追加で獲得する名声はそれぞれ、[other]シルバーを(B)[/other]消費します。\n\n[buff]最大重量[/buff]が[buff](C)kg[/buff]増えます。",
-            "EN-US": "Increases your [buff]Combat Fame[/buff] gained by [buff](A)[/buff].\n\nEach extra point of Fame you gain consumes [other](B) Silver[/other].\n\nIncreases your [buff]Max Load[/buff] by [buff](C) kg[/buff].",
-            "DE-DE": "Steigert deinen erhaltenen [buff]Kampfesruhm[/buff] um [buff](A)[/buff].\n\nJeder erhaltene Extrapunkt Ruhm verbraucht [other](B) Silber[/other].\n\nSteigert deine [buff]max. Tragkraft[/buff] um [buff](C) kg[/buff].",
-            "AR-SA": "تزيد من [buff]نقاط خبرة القتال[/buff] المكتسبة بمقدار [buff](A)[/buff].\n\nتستهلك كل نقطة خبرة إضافية يتم اكتسابها [other](B) من الفضة [/other].\n\nتقلل من [buff]الحمولة القصوى[/buff] لديك بمقدار [buff](C) كغم[/buff].",
-            "KO-KR": "얻는 [buff]전투 명성[/buff]을 [buff](A)[/buff] 만큼 증가시킵니다.\n \n추가로 얻는 각 명성 포인트당 [other](B)의 실버[/other]를 소모합니다.\n \n[buff]최대 적재량[/buff]을 [buff](C) kg[/buff] 만큼 증가시킵니다.",
-            "PT-BR": "Aumenta a sua [buff]Fama de Combate[/buff] recebida em [buff](A)[/buff].\n\nCada ponto extra de Fama que você ganha consome [other](B) de Prata[/other].\n\nAumenta sua [buff]Carga Máxima[/buff] em [buff](C) kg[/buff].",
-            "ZH-TW": "使自身獲得的[buff]戰鬥聲望[/buff]增加[buff](A)[/buff]。\n\n每額外獲得一點聲望時，消耗[other](B)枚銀幣[/other]。\n\n使自身[buff]負重上限[/buff]增加[buff](C)公斤[/buff]。",
-            "ES-ES": "Incrementa la [buff]fama de combate[/buff] que ganes en [buff](A)[/buff].\n\nCada punto extra de fama que ganes consume [other](B) de plata[/other].\n\nIncrementa tu capacidad de [buff]carga máxima[/buff] en [buff](C) kg[/buff].",
-            "ZH-CN": "你获得的[buff]战斗声望[/buff]提高[buff](A)[/buff]。\n\n每额外获得一点声望，消耗[other](B)银币[/other]。\n\n你的[buff]最大负重量[/buff]提高[buff](C)公斤[/buff]。"
-          },
-          "buff": [
-            {
-              "type": "maxload",
-              "value": 0.9
-            },
-            {
-              "type": "silvertobonuspvefame",
-              "value": 1
-            }
-          ],
-          "reflectDamage": null
-        },
-        {
-          "spellType": "passive",
-          "uniqueName": "PASSIVE_MAXLOAD_SILVERTOPVEFAME_OFF",
-          "uiAtlas": null,
-          "uiSprite": "PASSIVE_NOATTACK",
-          "revision": 278881,
-          "nameLocaTag": null,
-          "descriptionLocaTag": null,
-          "localizedNames": {
-            "IT-IT": "Studio del combattimento inattivo",
-            "RU-RU": "Деактивация бонуса к боевой славе",
-            "PL-PL": "Nauka bojowa nieaktywna",
-            "TR-TR": "Savaş Analizi Etkin Değil",
-            "ID-ID": "Studi Tempur Tidak Aktif",
-            "FR-FR": "Étude du combat inactive",
-            "JA-JP": "戦闘研究：非アクティブ",
-            "EN-US": "Combat Study Inactive",
-            "DE-DE": "Kampfstudium inaktiv",
-            "AR-SA": "تعلم القتال غير نشط",
-            "KO-KR": "전투 연구 비활성화",
-            "PT-BR": "Estudo de Combate inativo",
-            "ZH-TW": "未啟用戰鬥研究",
-            "ES-ES": "Estudio de combate Inactivo",
-            "ZH-CN": "静心修炼"
-          },
-          "localizedDescriptions": {
-            "IT-IT": "Non guadagnerai fama di combattimento bonus e di conseguenza non consumerai argento.\n\nAumenta la tua [buff]capacità di carico massima[/buff] di [buff](A) kg[/buff].",
-            "RU-RU": "Вы не будете получать дополнительную боевую славу и, следовательно, не потратите серебро.\n\nУвеличивает вашу [buff]максимальную грузоподъемность[/buff] на [buff](A) кг[/buff].",
-            "PL-PL": "Nie otrzymasz dodatkowej Sławy bojowej i tym samym nie będziesz tracił Srebra.\n\nZwiększa twój [buff]Maks. Udźwig[/buff] o [buff](A) kg[/buff].",
-            "TR-TR": "Bonus Savaş Namı almayacaksın ve bu nedenle Gümüş tüketimin olmayacak.\n\n[buff]Azami yükünü[/buff] [buff](A) kg[/buff] artırır.",
-            "ID-ID": "Kamu tidak akan mendapatkan bonus Ketenaran Pertempuran dan akibatnya tidak memiliki konsumsi Perak.\n\nMenambah [buff]Muatan Maks[/buff] hingga [buff](A) kg[/buff].",
-            "FR-FR": "Vous ne gagnerez aucun bonus supplémentaire de Renommée de combat et vous ne dépenserez pas d'argent.\n\nAugmente votre [buff]Charge maximale[/buff] de [buff](A) kg[/buff].",
-            "JA-JP": "ボーナス戦闘名声が得られず、結果的にシルバーの消費がありません。\n\n[buff]最大重量[/buff]が[buff](A)kg[/buff]増えます。",
-            "EN-US": "You will not gain bonus Combat Fame and consequently have no Silver consumption.\n\nIncreases your [buff]Max Load[/buff] by [buff](A) kg[/buff].",
-            "DE-DE": "Du erhältst keinen zusätzlichen Kampfesruhm und hast dementsprechend auch keinen erhöhten Silberverbrauch.\n\nSteigert deine [buff]max. Tragkraft[/buff] um [buff](A) kg[/buff].",
-            "AR-SA": "لا يمكنك الحصول على مكافأة نقاط خبرة القتال وبالتالي لن تُستهلك الفضة.\n\nتقلل من [buff]الحمولة القصوى[/buff] لديك بمقدار [buff](A) كغم[/buff].",
-            "KO-KR": "추가 전투 명성을 얻지 않으며 이로인한 실버 소모도 없습니다.\n \n[buff]최대 적재량[/buff]을 [buff](A) kg[/buff] 만큼 증가시킵니다.",
-            "PT-BR": "Você não receberá Fama de Combate bônus e consequentemente não haverá consumo de Prata.\n\nAumenta sua [buff]Carga Máxima[/buff] em [buff](A) kg[/buff].",
-            "ZH-TW": "您不會獲得額外的戰鬥聲望，因此不會消耗銀幣。\n\n使自身[buff]負重上限[/buff]增加[buff](A)公斤[/buff]。",
-            "ES-ES": "No ganarás fama de combate adicional y por lo tanto, tu plata no se consumirá.\n\nIncrementa tu capacidad de [buff]carga máxima[/buff] en [buff](A) kg[/buff].",
-            "ZH-CN": "你不会获得额外战斗声望，因此不会消耗银币。\n\n你的[buff]最大负重量[/buff]提高[buff](A)公斤[/buff]。"
-          },
-          "buff": [
-            {
-              "type": "maxload",
-              "value": 0.9
-            }
-          ],
-          "reflectDamage": null
-        }
-      ]
-    },
+    "passiveSlots": {},
     "localizedNames": {
       "IT-IT": "Sacca della conoscenza dell'esperto",
       "RU-RU": "Кошель интуиции (эксперт)",
@@ -1184,7 +864,7 @@
     "enchantmentLevel": 0,
     "categoryId": "bag",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": null,
     "activeSlots": {},
     "passiveSlots": {
@@ -1194,7 +874,7 @@
           "uniqueName": "PASSIVE_MAXLOAD",
           "uiAtlas": null,
           "uiSprite": null,
-          "revision": 278881,
+          "revision": 302621,
           "nameLocaTag": null,
           "descriptionLocaTag": "@SPELLS_PASSIVE_MAXLOAD_SHOES_DESC",
           "localizedNames": {
@@ -1317,7 +997,7 @@
     "enchantmentLevel": 0,
     "categoryId": "bag",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -1403,60 +1083,7 @@
       ]
     },
     "activeSlots": {},
-    "passiveSlots": {
-      "1": [
-        {
-          "spellType": "passive",
-          "uniqueName": "PASSIVE_MAXLOAD",
-          "uiAtlas": null,
-          "uiSprite": null,
-          "revision": 278881,
-          "nameLocaTag": null,
-          "descriptionLocaTag": "@SPELLS_PASSIVE_MAXLOAD_SHOES_DESC",
-          "localizedNames": {
-            "IT-IT": "Affanno",
-            "RU-RU": "Выносливость",
-            "PL-PL": "Taszczenie",
-            "TR-TR": "Ağır Adımlar",
-            "ID-ID": "Lesu",
-            "FR-FR": "Marche pénible",
-            "JA-JP": "重い足取り",
-            "EN-US": "Trudge",
-            "DE-DE": "Stapfen",
-            "AR-SA": "خطوات ثقيلة",
-            "KO-KR": "장거리 여행",
-            "PT-BR": "Estirão",
-            "ZH-TW": "跋涉",
-            "ES-ES": "Viajero",
-            "ZH-CN": "跋涉"
-          },
-          "localizedDescriptions": {
-            "IT-IT": "Aumenta la tua [buff]capacità di carico massima[/buff] di [buff](A) kg[/buff].",
-            "RU-RU": "Увеличивает ваш [buff]максимальный переносимый вес[/buff] на [buff](A) кг[/buff].",
-            "PL-PL": "Zwiększa twój [buff]Maksymalny udźwig[/buff] o [buff](A) kg[/buff].",
-            "TR-TR": "[buff]Azami yükünü[/buff] [buff](A) kg[/buff] artırır.",
-            "ID-ID": "Menambah [buff]Muatan Maks[/buff] hingga [buff](A) kg[/buff].",
-            "FR-FR": "Augmente votre [buff]charge maximale[/buff] de [buff](A) kg[/buff].",
-            "JA-JP": "[buff]最大重量[/buff]が[buff](A)kg[/buff]増えます。",
-            "EN-US": "Increases your [buff]Max Load[/buff] by [buff](A) kg[/buff].",
-            "DE-DE": "Steigert dein [buff]max. Gewicht[/buff] um [buff](A) kg[/buff].",
-            "AR-SA": "تقلل من [buff]الحمولة القصوى[/buff] لديك بمقدار [buff](A) كغم[/buff].",
-            "KO-KR": "[buff]최대 적재량[/buff]이 [buff](A) kg[/buff]만큼 증가합니다.",
-            "PT-BR": "Aumenta sua [buff]Carga Máxima[/buff] em [buff](A) kgs[/buff].",
-            "ZH-TW": "使自身[buff]負重上限[/buff]增加[buff](A)公斤[/buff]。",
-            "ES-ES": "Incrementa tu [buff]carga máxima[/buff] en [buff](A) kg[/buff].",
-            "ZH-CN": "使你的[buff]最大负重量[/buff]提高[buff](A)公斤[/buff]。"
-          },
-          "buff": [
-            {
-              "type": "maxload",
-              "value": 1
-            }
-          ],
-          "reflectDamage": null
-        }
-      ]
-    },
+    "passiveSlots": {},
     "localizedNames": {
       "IT-IT": "Borsa del maestro",
       "RU-RU": "Сумка (мастер)",
@@ -1533,7 +1160,7 @@
     "enchantmentLevel": 0,
     "categoryId": "bag",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -1635,114 +1262,7 @@
       ]
     },
     "activeSlots": {},
-    "passiveSlots": {
-      "1": [
-        {
-          "spellType": "passive",
-          "uniqueName": "PASSIVE_MAXLOAD_SILVERTOPVEFAME_ON",
-          "uiAtlas": null,
-          "uiSprite": "PASSIVE_DAZE",
-          "revision": 278881,
-          "nameLocaTag": null,
-          "descriptionLocaTag": null,
-          "localizedNames": {
-            "IT-IT": "Studio del combattimento attivo",
-            "RU-RU": "Активация бонуса к боевой славе",
-            "PL-PL": "Nauka bojowa aktywna",
-            "TR-TR": "Savaş Analizi Etkin",
-            "ID-ID": "Studi Tempur Aktif",
-            "FR-FR": "Étude du combat active",
-            "JA-JP": "戦闘研究：アクティブ",
-            "EN-US": "Combat Study Active",
-            "DE-DE": "Kampfstudium aktiv",
-            "AR-SA": "تعلم القتال نشط",
-            "KO-KR": "전투 연구 활성화",
-            "PT-BR": "Estudo de Combate ativo",
-            "ZH-TW": "已啟用戰鬥研究",
-            "ES-ES": "Estudio de combate activo",
-            "ZH-CN": "燃起斗志"
-          },
-          "localizedDescriptions": {
-            "IT-IT": "Aumenta la quantità di [buff]fama di combattimento[/buff] che ottieni del [buff](A)[/buff].\n\nOgni punto di fama aggiuntivo che guadagni consuma [other](B) pezzi d'argento[/other].\n\nAumenta la tua [buff]capacità di carico massima[/buff] di [buff](C) kg[/buff].",
-            "RU-RU": "Увеличивает получаемую вами [buff]боевую славу[/buff] на [buff](A)[/buff].\n\nКаждое получаемое вами дополнительное очко славы расходует [other](B) серебра[/other].\n\nУвеличивает вашу [buff]максимальную грузоподъемность[/buff] на [buff](C) кг[/buff].",
-            "PL-PL": "Zwiększa twoją zyskaną [buff]Sławę Bojową[/buff] o [buff](A)[/buff].\n\nKażdy dodatkowy punkt Sławy zużywa [other](B) Srebra[/other].\n\nZwiększa twój [buff]Maks. Udźwig[/buff] o [buff](C) kg[/buff].",
-            "TR-TR": "[buff](A)[/buff] ile kazanılan [buff]Savaş Namı'nı[/buff] artırır.\n\nKazandığın her ekstra Nam puanı [other](B) Gümüş[/other] harcar.\n\n[buff]Azami yükünü[/buff] [buff](C) kg[/buff] artırır.",
-            "ID-ID": "Meningkatkan [buff]Ketenaran Pertempuran[/buff] yang diraih sebesar [buff](A)[/buff].\n\nSetiap poin tambahan Ketenaran yang kamu peroleh akan menghabiskan [other](B) Perak[/other].\n\nMenambah [buff]Muatan Maks[/buff] hingga [buff](C) kg[/buff].",
-            "FR-FR": "Augmente votre [buff]Renommée de combat[/buff] obtenue de [buff](A)[/buff].\n\nChaque point de Renommée supplémentaire que vous obtenez consume [other](B) Argent[/other].\n\nAugmente votre [buff]Charge maximale[/buff] de [buff](C) Kg[/buff].",
-            "JA-JP": "獲得する[buff]戦闘名声[/buff]が[buff](A)[/buff]増加します。\n\n追加で獲得する名声はそれぞれ、[other]シルバーを(B)[/other]消費します。\n\n[buff]最大重量[/buff]が[buff](C)kg[/buff]増えます。",
-            "EN-US": "Increases your [buff]Combat Fame[/buff] gained by [buff](A)[/buff].\n\nEach extra point of Fame you gain consumes [other](B) Silver[/other].\n\nIncreases your [buff]Max Load[/buff] by [buff](C) kg[/buff].",
-            "DE-DE": "Steigert deinen erhaltenen [buff]Kampfesruhm[/buff] um [buff](A)[/buff].\n\nJeder erhaltene Extrapunkt Ruhm verbraucht [other](B) Silber[/other].\n\nSteigert deine [buff]max. Tragkraft[/buff] um [buff](C) kg[/buff].",
-            "AR-SA": "تزيد من [buff]نقاط خبرة القتال[/buff] المكتسبة بمقدار [buff](A)[/buff].\n\nتستهلك كل نقطة خبرة إضافية يتم اكتسابها [other](B) من الفضة [/other].\n\nتقلل من [buff]الحمولة القصوى[/buff] لديك بمقدار [buff](C) كغم[/buff].",
-            "KO-KR": "얻는 [buff]전투 명성[/buff]을 [buff](A)[/buff] 만큼 증가시킵니다.\n \n추가로 얻는 각 명성 포인트당 [other](B)의 실버[/other]를 소모합니다.\n \n[buff]최대 적재량[/buff]을 [buff](C) kg[/buff] 만큼 증가시킵니다.",
-            "PT-BR": "Aumenta a sua [buff]Fama de Combate[/buff] recebida em [buff](A)[/buff].\n\nCada ponto extra de Fama que você ganha consome [other](B) de Prata[/other].\n\nAumenta sua [buff]Carga Máxima[/buff] em [buff](C) kg[/buff].",
-            "ZH-TW": "使自身獲得的[buff]戰鬥聲望[/buff]增加[buff](A)[/buff]。\n\n每額外獲得一點聲望時，消耗[other](B)枚銀幣[/other]。\n\n使自身[buff]負重上限[/buff]增加[buff](C)公斤[/buff]。",
-            "ES-ES": "Incrementa la [buff]fama de combate[/buff] que ganes en [buff](A)[/buff].\n\nCada punto extra de fama que ganes consume [other](B) de plata[/other].\n\nIncrementa tu capacidad de [buff]carga máxima[/buff] en [buff](C) kg[/buff].",
-            "ZH-CN": "你获得的[buff]战斗声望[/buff]提高[buff](A)[/buff]。\n\n每额外获得一点声望，消耗[other](B)银币[/other]。\n\n你的[buff]最大负重量[/buff]提高[buff](C)公斤[/buff]。"
-          },
-          "buff": [
-            {
-              "type": "maxload",
-              "value": 0.9
-            },
-            {
-              "type": "silvertobonuspvefame",
-              "value": 1
-            }
-          ],
-          "reflectDamage": null
-        },
-        {
-          "spellType": "passive",
-          "uniqueName": "PASSIVE_MAXLOAD_SILVERTOPVEFAME_OFF",
-          "uiAtlas": null,
-          "uiSprite": "PASSIVE_NOATTACK",
-          "revision": 278881,
-          "nameLocaTag": null,
-          "descriptionLocaTag": null,
-          "localizedNames": {
-            "IT-IT": "Studio del combattimento inattivo",
-            "RU-RU": "Деактивация бонуса к боевой славе",
-            "PL-PL": "Nauka bojowa nieaktywna",
-            "TR-TR": "Savaş Analizi Etkin Değil",
-            "ID-ID": "Studi Tempur Tidak Aktif",
-            "FR-FR": "Étude du combat inactive",
-            "JA-JP": "戦闘研究：非アクティブ",
-            "EN-US": "Combat Study Inactive",
-            "DE-DE": "Kampfstudium inaktiv",
-            "AR-SA": "تعلم القتال غير نشط",
-            "KO-KR": "전투 연구 비활성화",
-            "PT-BR": "Estudo de Combate inativo",
-            "ZH-TW": "未啟用戰鬥研究",
-            "ES-ES": "Estudio de combate Inactivo",
-            "ZH-CN": "静心修炼"
-          },
-          "localizedDescriptions": {
-            "IT-IT": "Non guadagnerai fama di combattimento bonus e di conseguenza non consumerai argento.\n\nAumenta la tua [buff]capacità di carico massima[/buff] di [buff](A) kg[/buff].",
-            "RU-RU": "Вы не будете получать дополнительную боевую славу и, следовательно, не потратите серебро.\n\nУвеличивает вашу [buff]максимальную грузоподъемность[/buff] на [buff](A) кг[/buff].",
-            "PL-PL": "Nie otrzymasz dodatkowej Sławy bojowej i tym samym nie będziesz tracił Srebra.\n\nZwiększa twój [buff]Maks. Udźwig[/buff] o [buff](A) kg[/buff].",
-            "TR-TR": "Bonus Savaş Namı almayacaksın ve bu nedenle Gümüş tüketimin olmayacak.\n\n[buff]Azami yükünü[/buff] [buff](A) kg[/buff] artırır.",
-            "ID-ID": "Kamu tidak akan mendapatkan bonus Ketenaran Pertempuran dan akibatnya tidak memiliki konsumsi Perak.\n\nMenambah [buff]Muatan Maks[/buff] hingga [buff](A) kg[/buff].",
-            "FR-FR": "Vous ne gagnerez aucun bonus supplémentaire de Renommée de combat et vous ne dépenserez pas d'argent.\n\nAugmente votre [buff]Charge maximale[/buff] de [buff](A) kg[/buff].",
-            "JA-JP": "ボーナス戦闘名声が得られず、結果的にシルバーの消費がありません。\n\n[buff]最大重量[/buff]が[buff](A)kg[/buff]増えます。",
-            "EN-US": "You will not gain bonus Combat Fame and consequently have no Silver consumption.\n\nIncreases your [buff]Max Load[/buff] by [buff](A) kg[/buff].",
-            "DE-DE": "Du erhältst keinen zusätzlichen Kampfesruhm und hast dementsprechend auch keinen erhöhten Silberverbrauch.\n\nSteigert deine [buff]max. Tragkraft[/buff] um [buff](A) kg[/buff].",
-            "AR-SA": "لا يمكنك الحصول على مكافأة نقاط خبرة القتال وبالتالي لن تُستهلك الفضة.\n\nتقلل من [buff]الحمولة القصوى[/buff] لديك بمقدار [buff](A) كغم[/buff].",
-            "KO-KR": "추가 전투 명성을 얻지 않으며 이로인한 실버 소모도 없습니다.\n \n[buff]최대 적재량[/buff]을 [buff](A) kg[/buff] 만큼 증가시킵니다.",
-            "PT-BR": "Você não receberá Fama de Combate bônus e consequentemente não haverá consumo de Prata.\n\nAumenta sua [buff]Carga Máxima[/buff] em [buff](A) kg[/buff].",
-            "ZH-TW": "您不會獲得額外的戰鬥聲望，因此不會消耗銀幣。\n\n使自身[buff]負重上限[/buff]增加[buff](A)公斤[/buff]。",
-            "ES-ES": "No ganarás fama de combate adicional y por lo tanto, tu plata no se consumirá.\n\nIncrementa tu capacidad de [buff]carga máxima[/buff] en [buff](A) kg[/buff].",
-            "ZH-CN": "你不会获得额外战斗声望，因此不会消耗银币。\n\n你的[buff]最大负重量[/buff]提高[buff](A)公斤[/buff]。"
-          },
-          "buff": [
-            {
-              "type": "maxload",
-              "value": 0.9
-            }
-          ],
-          "reflectDamage": null
-        }
-      ]
-    },
+    "passiveSlots": {},
     "localizedNames": {
       "IT-IT": "Sacca della conoscenza del maestro",
       "RU-RU": "Кошель интуиции (мастер)",
@@ -1807,7 +1327,7 @@
     "enchantmentLevel": 0,
     "categoryId": "bag",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -1893,60 +1413,7 @@
       ]
     },
     "activeSlots": {},
-    "passiveSlots": {
-      "1": [
-        {
-          "spellType": "passive",
-          "uniqueName": "PASSIVE_MAXLOAD",
-          "uiAtlas": null,
-          "uiSprite": null,
-          "revision": 278881,
-          "nameLocaTag": null,
-          "descriptionLocaTag": "@SPELLS_PASSIVE_MAXLOAD_SHOES_DESC",
-          "localizedNames": {
-            "IT-IT": "Affanno",
-            "RU-RU": "Выносливость",
-            "PL-PL": "Taszczenie",
-            "TR-TR": "Ağır Adımlar",
-            "ID-ID": "Lesu",
-            "FR-FR": "Marche pénible",
-            "JA-JP": "重い足取り",
-            "EN-US": "Trudge",
-            "DE-DE": "Stapfen",
-            "AR-SA": "خطوات ثقيلة",
-            "KO-KR": "장거리 여행",
-            "PT-BR": "Estirão",
-            "ZH-TW": "跋涉",
-            "ES-ES": "Viajero",
-            "ZH-CN": "跋涉"
-          },
-          "localizedDescriptions": {
-            "IT-IT": "Aumenta la tua [buff]capacità di carico massima[/buff] di [buff](A) kg[/buff].",
-            "RU-RU": "Увеличивает ваш [buff]максимальный переносимый вес[/buff] на [buff](A) кг[/buff].",
-            "PL-PL": "Zwiększa twój [buff]Maksymalny udźwig[/buff] o [buff](A) kg[/buff].",
-            "TR-TR": "[buff]Azami yükünü[/buff] [buff](A) kg[/buff] artırır.",
-            "ID-ID": "Menambah [buff]Muatan Maks[/buff] hingga [buff](A) kg[/buff].",
-            "FR-FR": "Augmente votre [buff]charge maximale[/buff] de [buff](A) kg[/buff].",
-            "JA-JP": "[buff]最大重量[/buff]が[buff](A)kg[/buff]増えます。",
-            "EN-US": "Increases your [buff]Max Load[/buff] by [buff](A) kg[/buff].",
-            "DE-DE": "Steigert dein [buff]max. Gewicht[/buff] um [buff](A) kg[/buff].",
-            "AR-SA": "تقلل من [buff]الحمولة القصوى[/buff] لديك بمقدار [buff](A) كغم[/buff].",
-            "KO-KR": "[buff]최대 적재량[/buff]이 [buff](A) kg[/buff]만큼 증가합니다.",
-            "PT-BR": "Aumenta sua [buff]Carga Máxima[/buff] em [buff](A) kgs[/buff].",
-            "ZH-TW": "使自身[buff]負重上限[/buff]增加[buff](A)公斤[/buff]。",
-            "ES-ES": "Incrementa tu [buff]carga máxima[/buff] en [buff](A) kg[/buff].",
-            "ZH-CN": "使你的[buff]最大负重量[/buff]提高[buff](A)公斤[/buff]。"
-          },
-          "buff": [
-            {
-              "type": "maxload",
-              "value": 1
-            }
-          ],
-          "reflectDamage": null
-        }
-      ]
-    },
+    "passiveSlots": {},
     "localizedNames": {
       "IT-IT": "Borsa dell'esperto",
       "RU-RU": "Сумка (эксперт)",
@@ -2023,7 +1490,7 @@
     "enchantmentLevel": 0,
     "categoryId": "bag",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -2109,60 +1576,7 @@
       ]
     },
     "activeSlots": {},
-    "passiveSlots": {
-      "1": [
-        {
-          "spellType": "passive",
-          "uniqueName": "PASSIVE_MAXLOAD",
-          "uiAtlas": null,
-          "uiSprite": null,
-          "revision": 278881,
-          "nameLocaTag": null,
-          "descriptionLocaTag": "@SPELLS_PASSIVE_MAXLOAD_SHOES_DESC",
-          "localizedNames": {
-            "IT-IT": "Affanno",
-            "RU-RU": "Выносливость",
-            "PL-PL": "Taszczenie",
-            "TR-TR": "Ağır Adımlar",
-            "ID-ID": "Lesu",
-            "FR-FR": "Marche pénible",
-            "JA-JP": "重い足取り",
-            "EN-US": "Trudge",
-            "DE-DE": "Stapfen",
-            "AR-SA": "خطوات ثقيلة",
-            "KO-KR": "장거리 여행",
-            "PT-BR": "Estirão",
-            "ZH-TW": "跋涉",
-            "ES-ES": "Viajero",
-            "ZH-CN": "跋涉"
-          },
-          "localizedDescriptions": {
-            "IT-IT": "Aumenta la tua [buff]capacità di carico massima[/buff] di [buff](A) kg[/buff].",
-            "RU-RU": "Увеличивает ваш [buff]максимальный переносимый вес[/buff] на [buff](A) кг[/buff].",
-            "PL-PL": "Zwiększa twój [buff]Maksymalny udźwig[/buff] o [buff](A) kg[/buff].",
-            "TR-TR": "[buff]Azami yükünü[/buff] [buff](A) kg[/buff] artırır.",
-            "ID-ID": "Menambah [buff]Muatan Maks[/buff] hingga [buff](A) kg[/buff].",
-            "FR-FR": "Augmente votre [buff]charge maximale[/buff] de [buff](A) kg[/buff].",
-            "JA-JP": "[buff]最大重量[/buff]が[buff](A)kg[/buff]増えます。",
-            "EN-US": "Increases your [buff]Max Load[/buff] by [buff](A) kg[/buff].",
-            "DE-DE": "Steigert dein [buff]max. Gewicht[/buff] um [buff](A) kg[/buff].",
-            "AR-SA": "تقلل من [buff]الحمولة القصوى[/buff] لديك بمقدار [buff](A) كغم[/buff].",
-            "KO-KR": "[buff]최대 적재량[/buff]이 [buff](A) kg[/buff]만큼 증가합니다.",
-            "PT-BR": "Aumenta sua [buff]Carga Máxima[/buff] em [buff](A) kgs[/buff].",
-            "ZH-TW": "使自身[buff]負重上限[/buff]增加[buff](A)公斤[/buff]。",
-            "ES-ES": "Incrementa tu [buff]carga máxima[/buff] en [buff](A) kg[/buff].",
-            "ZH-CN": "使你的[buff]最大负重量[/buff]提高[buff](A)公斤[/buff]。"
-          },
-          "buff": [
-            {
-              "type": "maxload",
-              "value": 1
-            }
-          ],
-          "reflectDamage": null
-        }
-      ]
-    },
+    "passiveSlots": {},
     "localizedNames": {
       "IT-IT": "Borsa dell'anziano",
       "RU-RU": "Сумка (старейшина)",
@@ -2239,7 +1653,7 @@
     "enchantmentLevel": 0,
     "categoryId": "bag",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -2341,114 +1755,7 @@
       ]
     },
     "activeSlots": {},
-    "passiveSlots": {
-      "1": [
-        {
-          "spellType": "passive",
-          "uniqueName": "PASSIVE_MAXLOAD_SILVERTOPVEFAME_ON",
-          "uiAtlas": null,
-          "uiSprite": "PASSIVE_DAZE",
-          "revision": 278881,
-          "nameLocaTag": null,
-          "descriptionLocaTag": null,
-          "localizedNames": {
-            "IT-IT": "Studio del combattimento attivo",
-            "RU-RU": "Активация бонуса к боевой славе",
-            "PL-PL": "Nauka bojowa aktywna",
-            "TR-TR": "Savaş Analizi Etkin",
-            "ID-ID": "Studi Tempur Aktif",
-            "FR-FR": "Étude du combat active",
-            "JA-JP": "戦闘研究：アクティブ",
-            "EN-US": "Combat Study Active",
-            "DE-DE": "Kampfstudium aktiv",
-            "AR-SA": "تعلم القتال نشط",
-            "KO-KR": "전투 연구 활성화",
-            "PT-BR": "Estudo de Combate ativo",
-            "ZH-TW": "已啟用戰鬥研究",
-            "ES-ES": "Estudio de combate activo",
-            "ZH-CN": "燃起斗志"
-          },
-          "localizedDescriptions": {
-            "IT-IT": "Aumenta la quantità di [buff]fama di combattimento[/buff] che ottieni del [buff](A)[/buff].\n\nOgni punto di fama aggiuntivo che guadagni consuma [other](B) pezzi d'argento[/other].\n\nAumenta la tua [buff]capacità di carico massima[/buff] di [buff](C) kg[/buff].",
-            "RU-RU": "Увеличивает получаемую вами [buff]боевую славу[/buff] на [buff](A)[/buff].\n\nКаждое получаемое вами дополнительное очко славы расходует [other](B) серебра[/other].\n\nУвеличивает вашу [buff]максимальную грузоподъемность[/buff] на [buff](C) кг[/buff].",
-            "PL-PL": "Zwiększa twoją zyskaną [buff]Sławę Bojową[/buff] o [buff](A)[/buff].\n\nKażdy dodatkowy punkt Sławy zużywa [other](B) Srebra[/other].\n\nZwiększa twój [buff]Maks. Udźwig[/buff] o [buff](C) kg[/buff].",
-            "TR-TR": "[buff](A)[/buff] ile kazanılan [buff]Savaş Namı'nı[/buff] artırır.\n\nKazandığın her ekstra Nam puanı [other](B) Gümüş[/other] harcar.\n\n[buff]Azami yükünü[/buff] [buff](C) kg[/buff] artırır.",
-            "ID-ID": "Meningkatkan [buff]Ketenaran Pertempuran[/buff] yang diraih sebesar [buff](A)[/buff].\n\nSetiap poin tambahan Ketenaran yang kamu peroleh akan menghabiskan [other](B) Perak[/other].\n\nMenambah [buff]Muatan Maks[/buff] hingga [buff](C) kg[/buff].",
-            "FR-FR": "Augmente votre [buff]Renommée de combat[/buff] obtenue de [buff](A)[/buff].\n\nChaque point de Renommée supplémentaire que vous obtenez consume [other](B) Argent[/other].\n\nAugmente votre [buff]Charge maximale[/buff] de [buff](C) Kg[/buff].",
-            "JA-JP": "獲得する[buff]戦闘名声[/buff]が[buff](A)[/buff]増加します。\n\n追加で獲得する名声はそれぞれ、[other]シルバーを(B)[/other]消費します。\n\n[buff]最大重量[/buff]が[buff](C)kg[/buff]増えます。",
-            "EN-US": "Increases your [buff]Combat Fame[/buff] gained by [buff](A)[/buff].\n\nEach extra point of Fame you gain consumes [other](B) Silver[/other].\n\nIncreases your [buff]Max Load[/buff] by [buff](C) kg[/buff].",
-            "DE-DE": "Steigert deinen erhaltenen [buff]Kampfesruhm[/buff] um [buff](A)[/buff].\n\nJeder erhaltene Extrapunkt Ruhm verbraucht [other](B) Silber[/other].\n\nSteigert deine [buff]max. Tragkraft[/buff] um [buff](C) kg[/buff].",
-            "AR-SA": "تزيد من [buff]نقاط خبرة القتال[/buff] المكتسبة بمقدار [buff](A)[/buff].\n\nتستهلك كل نقطة خبرة إضافية يتم اكتسابها [other](B) من الفضة [/other].\n\nتقلل من [buff]الحمولة القصوى[/buff] لديك بمقدار [buff](C) كغم[/buff].",
-            "KO-KR": "얻는 [buff]전투 명성[/buff]을 [buff](A)[/buff] 만큼 증가시킵니다.\n \n추가로 얻는 각 명성 포인트당 [other](B)의 실버[/other]를 소모합니다.\n \n[buff]최대 적재량[/buff]을 [buff](C) kg[/buff] 만큼 증가시킵니다.",
-            "PT-BR": "Aumenta a sua [buff]Fama de Combate[/buff] recebida em [buff](A)[/buff].\n\nCada ponto extra de Fama que você ganha consome [other](B) de Prata[/other].\n\nAumenta sua [buff]Carga Máxima[/buff] em [buff](C) kg[/buff].",
-            "ZH-TW": "使自身獲得的[buff]戰鬥聲望[/buff]增加[buff](A)[/buff]。\n\n每額外獲得一點聲望時，消耗[other](B)枚銀幣[/other]。\n\n使自身[buff]負重上限[/buff]增加[buff](C)公斤[/buff]。",
-            "ES-ES": "Incrementa la [buff]fama de combate[/buff] que ganes en [buff](A)[/buff].\n\nCada punto extra de fama que ganes consume [other](B) de plata[/other].\n\nIncrementa tu capacidad de [buff]carga máxima[/buff] en [buff](C) kg[/buff].",
-            "ZH-CN": "你获得的[buff]战斗声望[/buff]提高[buff](A)[/buff]。\n\n每额外获得一点声望，消耗[other](B)银币[/other]。\n\n你的[buff]最大负重量[/buff]提高[buff](C)公斤[/buff]。"
-          },
-          "buff": [
-            {
-              "type": "maxload",
-              "value": 0.9
-            },
-            {
-              "type": "silvertobonuspvefame",
-              "value": 1
-            }
-          ],
-          "reflectDamage": null
-        },
-        {
-          "spellType": "passive",
-          "uniqueName": "PASSIVE_MAXLOAD_SILVERTOPVEFAME_OFF",
-          "uiAtlas": null,
-          "uiSprite": "PASSIVE_NOATTACK",
-          "revision": 278881,
-          "nameLocaTag": null,
-          "descriptionLocaTag": null,
-          "localizedNames": {
-            "IT-IT": "Studio del combattimento inattivo",
-            "RU-RU": "Деактивация бонуса к боевой славе",
-            "PL-PL": "Nauka bojowa nieaktywna",
-            "TR-TR": "Savaş Analizi Etkin Değil",
-            "ID-ID": "Studi Tempur Tidak Aktif",
-            "FR-FR": "Étude du combat inactive",
-            "JA-JP": "戦闘研究：非アクティブ",
-            "EN-US": "Combat Study Inactive",
-            "DE-DE": "Kampfstudium inaktiv",
-            "AR-SA": "تعلم القتال غير نشط",
-            "KO-KR": "전투 연구 비활성화",
-            "PT-BR": "Estudo de Combate inativo",
-            "ZH-TW": "未啟用戰鬥研究",
-            "ES-ES": "Estudio de combate Inactivo",
-            "ZH-CN": "静心修炼"
-          },
-          "localizedDescriptions": {
-            "IT-IT": "Non guadagnerai fama di combattimento bonus e di conseguenza non consumerai argento.\n\nAumenta la tua [buff]capacità di carico massima[/buff] di [buff](A) kg[/buff].",
-            "RU-RU": "Вы не будете получать дополнительную боевую славу и, следовательно, не потратите серебро.\n\nУвеличивает вашу [buff]максимальную грузоподъемность[/buff] на [buff](A) кг[/buff].",
-            "PL-PL": "Nie otrzymasz dodatkowej Sławy bojowej i tym samym nie będziesz tracił Srebra.\n\nZwiększa twój [buff]Maks. Udźwig[/buff] o [buff](A) kg[/buff].",
-            "TR-TR": "Bonus Savaş Namı almayacaksın ve bu nedenle Gümüş tüketimin olmayacak.\n\n[buff]Azami yükünü[/buff] [buff](A) kg[/buff] artırır.",
-            "ID-ID": "Kamu tidak akan mendapatkan bonus Ketenaran Pertempuran dan akibatnya tidak memiliki konsumsi Perak.\n\nMenambah [buff]Muatan Maks[/buff] hingga [buff](A) kg[/buff].",
-            "FR-FR": "Vous ne gagnerez aucun bonus supplémentaire de Renommée de combat et vous ne dépenserez pas d'argent.\n\nAugmente votre [buff]Charge maximale[/buff] de [buff](A) kg[/buff].",
-            "JA-JP": "ボーナス戦闘名声が得られず、結果的にシルバーの消費がありません。\n\n[buff]最大重量[/buff]が[buff](A)kg[/buff]増えます。",
-            "EN-US": "You will not gain bonus Combat Fame and consequently have no Silver consumption.\n\nIncreases your [buff]Max Load[/buff] by [buff](A) kg[/buff].",
-            "DE-DE": "Du erhältst keinen zusätzlichen Kampfesruhm und hast dementsprechend auch keinen erhöhten Silberverbrauch.\n\nSteigert deine [buff]max. Tragkraft[/buff] um [buff](A) kg[/buff].",
-            "AR-SA": "لا يمكنك الحصول على مكافأة نقاط خبرة القتال وبالتالي لن تُستهلك الفضة.\n\nتقلل من [buff]الحمولة القصوى[/buff] لديك بمقدار [buff](A) كغم[/buff].",
-            "KO-KR": "추가 전투 명성을 얻지 않으며 이로인한 실버 소모도 없습니다.\n \n[buff]최대 적재량[/buff]을 [buff](A) kg[/buff] 만큼 증가시킵니다.",
-            "PT-BR": "Você não receberá Fama de Combate bônus e consequentemente não haverá consumo de Prata.\n\nAumenta sua [buff]Carga Máxima[/buff] em [buff](A) kg[/buff].",
-            "ZH-TW": "您不會獲得額外的戰鬥聲望，因此不會消耗銀幣。\n\n使自身[buff]負重上限[/buff]增加[buff](A)公斤[/buff]。",
-            "ES-ES": "No ganarás fama de combate adicional y por lo tanto, tu plata no se consumirá.\n\nIncrementa tu capacidad de [buff]carga máxima[/buff] en [buff](A) kg[/buff].",
-            "ZH-CN": "你不会获得额外战斗声望，因此不会消耗银币。\n\n你的[buff]最大负重量[/buff]提高[buff](A)公斤[/buff]。"
-          },
-          "buff": [
-            {
-              "type": "maxload",
-              "value": 0.9
-            }
-          ],
-          "reflectDamage": null
-        }
-      ]
-    },
+    "passiveSlots": {},
     "localizedNames": {
       "IT-IT": "Sacca della conoscenza del gran maestro",
       "RU-RU": "Кошель интуиции (магистр)",
@@ -2513,7 +1820,7 @@
     "enchantmentLevel": 0,
     "categoryId": "bag",
     "categoryName": "",
-    "revision": 280399,
+    "revision": 303673,
     "enchantments": {
       "enchantments": [
         {
@@ -2599,60 +1906,7 @@
       ]
     },
     "activeSlots": {},
-    "passiveSlots": {
-      "1": [
-        {
-          "spellType": "passive",
-          "uniqueName": "PASSIVE_MAXLOAD",
-          "uiAtlas": null,
-          "uiSprite": null,
-          "revision": 278881,
-          "nameLocaTag": null,
-          "descriptionLocaTag": "@SPELLS_PASSIVE_MAXLOAD_SHOES_DESC",
-          "localizedNames": {
-            "IT-IT": "Affanno",
-            "RU-RU": "Выносливость",
-            "PL-PL": "Taszczenie",
-            "TR-TR": "Ağır Adımlar",
-            "ID-ID": "Lesu",
-            "FR-FR": "Marche pénible",
-            "JA-JP": "重い足取り",
-            "EN-US": "Trudge",
-            "DE-DE": "Stapfen",
-            "AR-SA": "خطوات ثقيلة",
-            "KO-KR": "장거리 여행",
-            "PT-BR": "Estirão",
-            "ZH-TW": "跋涉",
-            "ES-ES": "Viajero",
-            "ZH-CN": "跋涉"
-          },
-          "localizedDescriptions": {
-            "IT-IT": "Aumenta la tua [buff]capacità di carico massima[/buff] di [buff](A) kg[/buff].",
-            "RU-RU": "Увеличивает ваш [buff]максимальный переносимый вес[/buff] на [buff](A) кг[/buff].",
-            "PL-PL": "Zwiększa twój [buff]Maksymalny udźwig[/buff] o [buff](A) kg[/buff].",
-            "TR-TR": "[buff]Azami yükünü[/buff] [buff](A) kg[/buff] artırır.",
-            "ID-ID": "Menambah [buff]Muatan Maks[/buff] hingga [buff](A) kg[/buff].",
-            "FR-FR": "Augmente votre [buff]charge maximale[/buff] de [buff](A) kg[/buff].",
-            "JA-JP": "[buff]最大重量[/buff]が[buff](A)kg[/buff]増えます。",
-            "EN-US": "Increases your [buff]Max Load[/buff] by [buff](A) kg[/buff].",
-            "DE-DE": "Steigert dein [buff]max. Gewicht[/buff] um [buff](A) kg[/buff].",
-            "AR-SA": "تقلل من [buff]الحمولة القصوى[/buff] لديك بمقدار [buff](A) كغم[/buff].",
-            "KO-KR": "[buff]최대 적재량[/buff]이 [buff](A) kg[/buff]만큼 증가합니다.",
-            "PT-BR": "Aumenta sua [buff]Carga Máxima[/buff] em [buff](A) kgs[/buff].",
-            "ZH-TW": "使自身[buff]負重上限[/buff]增加[buff](A)公斤[/buff]。",
-            "ES-ES": "Incrementa tu [buff]carga máxima[/buff] en [buff](A) kg[/buff].",
-            "ZH-CN": "使你的[buff]最大负重量[/buff]提高[buff](A)公斤[/buff]。"
-          },
-          "buff": [
-            {
-              "type": "maxload",
-              "value": 1
-            }
-          ],
-          "reflectDamage": null
-        }
-      ]
-    },
+    "passiveSlots": {},
     "localizedNames": {
       "IT-IT": "Borsa del sapiente",
       "RU-RU": "Сумка (знаток)",
